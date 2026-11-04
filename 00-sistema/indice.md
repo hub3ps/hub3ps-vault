@@ -8,7 +8,7 @@ Primeira nota que o agente lê numa consulta. Uma linha por área, com o que tem
 dentro. Atualize sempre que criar, mover ou apagar nota.
 
 - [[INICIO]]: painel com clientes ativos e pendências
-- **00-sistema**: [[regras]], [[licoes]], [[log-operacoes]], este índice
+- **00-sistema**: [[regras]], [[licoes]], [[log-operacoes]], [[contexto-reestruturacao]] (histórico do projeto de reestruturação), este índice
 - **01-agencia**: [[jornada]], [[catalogo]], [[motor]], [[suporte]], [[stack]]
 - **02-playbooks**: [[trafego-pago]], [[lp-e-site]], [[criativos-e-audiovisual]], [[tracking]], [[email-marketing]], [[social]], [[agentes-de-ia]], [[busca-organica]]
 - **03-processos**: runbooks (migração do repo pendente) e [[convencoes]]
