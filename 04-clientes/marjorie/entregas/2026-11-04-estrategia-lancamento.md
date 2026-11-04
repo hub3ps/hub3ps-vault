@@ -18,7 +18,7 @@ Vale só para novembro, o mês do lançamento. Desenho do Guilherme (04/11/2026)
 
 | Fase | Datas | Campanha | Público | Destino |
 |---|---|---|---|---|
-| 1. Aquecimento | 05 a 24/11 | Captação de seguidores | Frio, dentistas e técnicos nos países-alvo | Perfil do Instagram |
+| 1. Aquecimento | 05 a 24/11 | Captação de seguidores | Frio, dentistas e técnicos nos EUA | Perfil do Instagram |
 | 1. Aquecimento | 05 a 24/11 | Distribuição do vídeo do curso | Seguidores e quem engajou com o perfil em 365 dias | O próprio vídeo (visualização) |
 | 2. Lembrete | 25 e 26/11 | Lembrete do lançamento | Base aquecida | Lista de espera |
 | 3. Carrinho | 27 a 30/11 | Venda no preço de lançamento | Base aquecida e compradores do curso antigo | LP |
