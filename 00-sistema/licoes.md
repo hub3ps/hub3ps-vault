@@ -13,6 +13,9 @@ Formato: `- AAAA-MM-DD · <escopo: geral, cliente ou serviço> · <a regra>. Mot
 - 2026-11-03 · geral · Respostas curtas, diretas e objetivas, sem rodeio. Motivo: preferência do Guilherme.
 - 2026-11-03 · geral · Antes de construir, validar a estrutura com o Guilherme. Motivo: ele revisa com calma antes de qualquer execução.
 
+- 2026-11-04 · geral · Áudio de cliente se transcreve localmente, nunca em serviço externo. Motivo: é a voz e a conversa do cliente.
+- 2026-11-04 · geral · O onboarding se adapta ao cliente: particularidade nova vira tag em `entrada` e linha na tabela do runbook, e não exceção solta. Motivo: decisão do Guilherme, para o processo aceitar todos os cenários.
+
 ## Por cliente
 - 2026-11-04 · juria e mobiletec · JurIA e Mobiletec são dois clientes, com uma pasta cada, mesmo sendo a mesma empresa. O cliente da marca se chama só "Mobiletec". Motivo: o slug `juria` já está no repo, nas campanhas e nas UTMs, e a regra é o slug igual em todo lugar.
 

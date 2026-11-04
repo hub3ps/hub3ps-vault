@@ -5,11 +5,12 @@ nome:
 empresa:
 status: proposta | implantacao | ativo | pausado | encerrado
 servicos: []
+entrada: []      # particularidades de entrada, tabela em 03-processos/novo-cliente
 inicio:
 contrato:        # link do PDF no Drive
 vigencia:        # AAAA-MM-DD a AAAA-MM-DD
 valor-mensal:    # em R$, só o número
-meta:            # obrigatória para sair do Fechamento: número e prazo
+meta:            # obrigatória para sair do Fechamento: número e prazo, ou marco com data enquanto não houver número
 contatos:
 drive:
 painel:

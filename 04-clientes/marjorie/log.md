@@ -1,0 +1,24 @@
+---
+tipo: log
+autor: claude
+---
+# Log
+
+A entrada mais recente fica no topo, uma por sessão de trabalho.
+
+### 2026-11-04 · Entrada da Marjorie no vault
+- **O que fiz:** criei a nota do cliente, o briefing, o kanban e este log. As fontes foram o export do WhatsApp com a Julia, os 19 áudios (transcritos localmente com o Whisper) e o PDF da LP. Na conta de anúncios, pela API, li só a lista de campanhas.
+- **Resultado em:** `04-clientes/marjorie/`
+- **O que achei:** o acordo mudou no caminho. Em 19 e 20/10 era fazer a LP e o site pelo valor do fee, e a Julia fez os dois sozinha. Fechou em 02/11 como tráfego, a R$ 1.500, com o valor em dólar ainda a definir. A estratégia que o Guilherme propôs leva tráfego à LP só em dezembro, e o preço de lançamento acaba em 30/11.
+- **Decisões:** slug `marjorie`. Escopo: tráfego pago, tracking, revisão de LP e site, e criativos. Sem contrato, e a meta será o marco de datas do lançamento.
+- **Próximo passo:** mandar a estratégia e a verba para a Julia e subir os primeiros anúncios.
+
+## Histórico anterior ao vault
+- **19/10/2026:** a Julia propõe pagar o fee de ads para o Guilherme fazer a LP do curso e refazer o site da Marjorie, migrando do Wix para a Hostinger.
+- **20/10/2026:** o Guilherme aceita. No mesmo dia, a Julia avisa que vai fazer o site com um amigo, usando o Claude.
+- **25/10/2026:** a Julia mostra o site novo, feito com um design system no Claude.
+- **26/10/2026:** o Guilherme promete um checklist de publicação de site.
+- **01/11/2026:** site e LP prontos. A Julia pede tráfego para o perfil do Instagram e o valor mensal.
+- **02/11/2026:** fechado a R$ 1.500, a pagar em dólar. A Julia manda os preços e o PDF da LP.
+- **03/11/2026:** BM liberada para o Guilherme. Ele remove um parceiro desconhecido e cria a conta de anúncios em USD, e a Julia adiciona o cartão.
+- **04/11/2026:** chega a lista de compradores. Postado o vídeo de trajetória, e criado o grupo com a Marjorie.

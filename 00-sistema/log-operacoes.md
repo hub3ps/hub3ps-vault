@@ -7,6 +7,8 @@ Uma linha por sessão de trabalho, a mais recente no topo.
 
 Formato: `- AAAA-MM-DD · <slug ou agencia> · <tarefa> · <onde está o resultado>`
 
+- 2026-11-04 · marjorie · Entrada da Marjorie: nota, briefing assíncrono, kanban, log e fontes (conversa com áudios transcritos e LP) · `04-clientes/marjorie/`
+- 2026-11-04 · agencia · Runbook de entrada ganha desvios por particularidade (campo `entrada`), meta por marco, transcrição local de áudio e auditoria da BM · `03-processos/novo-cliente.md`
 - 2026-11-04 · agencia · Processo de entrada de cliente: runbook em 5 fases, modelo de briefing, campos comerciais no modelo de cliente e painéis no INICIO · `03-processos/novo-cliente.md`
 - 2026-11-04 · apex · Migração do Apex para o vault, a partir do repo `whatsapp-langchain` · `04-clientes/apex/`
 - 2026-11-04 · dsmuaythai · Migração do DS Muay Thai para o vault: nota, kanban, log e duas campanhas conferidas na API · `04-clientes/dsmuaythai/`

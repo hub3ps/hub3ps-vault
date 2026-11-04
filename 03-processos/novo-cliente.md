@@ -15,8 +15,22 @@ Decisões que valem aqui (Guilherme, 04/11/2026):
 
 ---
 
+## Particularidades de entrada
+Nem todo cliente entra pela porta da frente. O onboarding é um tronco comum, que são as cinco fases, mais desvios por particularidade. Antes da fase 1, marque no campo `entrada` do `cliente.md` as tags que valem para o cliente. Cada tag muda um passo, e a tabela diz qual. **Um cliente com uma situação nova ganha uma linha aqui, no mesmo commit em que entra no vault.**
+
+| Tag | Quando | O que muda | Primeiro caso |
+|---|---|---|---|
+| `sem-proposta` | Fechou direto, por conversa ou indicação | Pula a fase 1. O que foi acordado (escopo, valor e data) fica na conversa exportada, em `fontes/` | marjorie |
+| `sem-contrato` | Não vai ter contrato | Em `contrato`, aponte a fonte do acordo e use `vigencia: sem prazo`. A fase 2 sai com o acordo registrado em fonte | marjorie |
+| `briefing-assincrono` | Não há kickoff, e tudo corre por mensagem | A fase 3 roda sobre o export da conversa: texto, áudios transcritos e anexos, como em "Transcrever áudio" abaixo. As lacunas viram perguntas mandadas de uma vez | marjorie |
+| `intermediario` | Quem conversa não é quem decide ou paga | O campo `contatos` diz quem conversa, quem decide e quem paga | marjorie |
+| `exterior` | Cliente ou público fora do Brasil | Conta de anúncios na moeda do cliente, e o fee pode ser em moeda estrangeira (registre a regra de cotação). A copy é aprovada em português e traduzida | dsmuaythai, marjorie |
+| `entrega-do-cliente` | O cliente já fez a peça do serviço, como site ou LP | O serviço entra como revisão: o checklist do playbook passa sobre o que existe, e a implantação do zero fica de fora | marjorie |
+
+---
+
 ## 1. Proposta
-**Gatilho:** primeiro contato de um cliente em potencial.
+**Gatilho:** primeiro contato de um cliente em potencial. Com `sem-proposta`, pule para a fase 2.
 
 1. Crie a proposta em `05-comercial/propostas/<slug>-AAAA-MM.md`, a partir de [[_modelos/proposta]], com `etapa: diagnostico`
 2. Registre o diagnóstico: dor, objetivo e contexto
@@ -41,7 +55,7 @@ Decisões que valem aqui (Guilherme, 04/11/2026):
 5. Seção "Escopo" preenchida com os playbooks dos serviços contratados
 6. Cliente registrado no [[00-sistema/indice]] e no [[log-operacoes]]
 
-**Para sair:** contrato assinado e **`meta` preenchida com número e prazo**, como "75 a 90 trials por trimestre" ou "CAC até R$ 500". Sem meta, o cliente não vai para o kickoff.
+**Para sair:** contrato assinado (ou, com `sem-contrato`, o acordo registrado em `fontes/`) e **`meta` preenchida com número e prazo**, como "75 a 90 trials por trimestre" ou "CAC até R$ 500". Enquanto não houver número, vale um marco com data, como "lançamento no ar até 30/11", revisto na primeira reunião mensal. Sem meta, o cliente não vai para o kickoff.
 
 ## 3. Kickoff e briefing
 **Gatilho:** o contrato foi assinado.
@@ -51,7 +65,9 @@ Decisões que valem aqui (Guilherme, 04/11/2026):
 2. Mantenha os blocos comuns e **só os blocos dos serviços do escopo**. Esse arquivo vira o roteiro da reunião
 3. Marque o que já se sabe pela proposta e pelo contrato, para não perguntar de novo
 
-**Na reunião (Guilherme):** conduza pelo roteiro, grave e transcreva.
+**Na reunião (Guilherme):** conduza pelo roteiro, grave e transcreva. Com `briefing-assincrono`, não há reunião: exporte a conversa do WhatsApp com a mídia e entregue o zip e os áudios.
+
+**Transcrever áudio (Claude):** sempre local, porque a voz do cliente não vai para serviço externo. Use o Whisper `medium` pelo `faster-whisper`, num venv no scratchpad (`pip install faster-whisper`). Ele lê o `.ogg` do WhatsApp sem ffmpeg. Cada transcrição entra na conversa no lugar do `<mensagem de voz omitida>` correspondente, casando pelo horário do nome do arquivo (`WhatsApp Ptt AAAA-MM-DD at HH.MM.SS.ogg`), e vira uma fonte só em `fontes/`. O Whisper erra nomes próprios: liste as correções no topo da fonte, sem mexer no texto.
 
 **Depois da reunião (Claude):**
 1. Salve a transcrição em `04-clientes/<slug>/fontes/AAAA-MM-DD-kickoff.md`. É fonte e nunca se edita
@@ -72,6 +88,7 @@ Decisões que valem aqui (Guilherme, 04/11/2026):
 3. **Painel.** Só se `trafego-pago` estiver no escopo: crie o hub do cliente. TODO: falta o runbook de criação. Hoje a referência são os hubs do JurIA e do DS Muay Thai no `agencia_marketing`
 4. **Exceções.** Todo ponto em que o cliente foge do playbook vai para a tabela "Exceções ao padrão", com motivo e data. O playbook nunca se edita para um cliente
 5. **Acessos.** Registre onde está cada acesso na seção "Acessos", sem senha. Token e chave ficam fora do vault
+6. **Auditoria da BM.** Com tráfego pago no escopo, revise pessoas e parceiros da BM antes de qualquer campanha. Parceiro que o cliente não reconhece sai na hora, porque é o padrão usado para roubar conta de anúncios (caso marjorie, 03/11/2026)
 
 **Para sair:** todos os pré-requisitos estão feitos, todas as tarefas de implantação estão em "Feito", e os entregáveis da implantação de cada playbook estão no ar.
 
