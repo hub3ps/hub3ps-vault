@@ -7,6 +7,7 @@ kanban-plugin: board
 - [ ] Revisar a estratégia em `entregas/2026-11-04-estrategia-lancamento.md` e mandar para a Julia. Prometido para 04/11 #trafego-pago
 - [ ] Criar os públicos: engajamento com o perfil em 365 dias, quem viu 50% do vídeo do curso e a lista de compradores #trafego-pago
 - [ ] Montar a fase 1: captação de seguidores para o perfil e distribuição do vídeo do curso para a base #trafego-pago
+- [ ] Rodízio dos criativos de seguidores a cada 3 dias: o pior sai e entra um conteúdo novo #trafego-pago
 - [ ] Montar o lembrete para a lista de espera (25 e 26/11) e o carrinho na LP (27 a 30/11) #trafego-pago
 - [ ] Subir os primeiros anúncios #trafego-pago
 - [ ] Criar o público semelhante a partir da lista de compradores #trafego-pago

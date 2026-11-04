@@ -28,7 +28,9 @@ Vale só para novembro, o mês do lançamento. Desenho do Guilherme (04/11/2026)
 **`marjorie-seguidores-frio-0511`**
 - Objetivo de engajamento, com destino no perfil do Instagram, otimizando para visitas ao perfil
 - Público: interesses em exocad, CAD/CAM, prótese dentária, laboratório dental e odontologia digital, nos países-alvo
-- Criativos são os posts de conteúdo técnico, que atraem quem trabalha com exocad e não curioso:
+- **Rodízio de criativos a cada 3 dias** (decisão do Guilherme, 04/11/2026): o melhor fica, o pior sai e entra um conteúdo novo do perfil. O critério é o custo por visita ao perfil, conferido com os seguidores novos no Instagram
+- Com US$ 10 por dia, 3 dias dão uns US$ 30 por rodada. Por isso a rodada começa com 3 criativos, e não mais. Quando a diferença entre eles for pequena, o pior não sai, e a comparação segue por mais uma rodada
+- Criativos são os posts de conteúdo técnico, que atraem quem trabalha com exocad e não curioso. A rodada 1 usa os três primeiros, e o resto vira fila:
 
 | Post | Por quê |
 |---|---|
@@ -75,7 +77,7 @@ Decisão do Guilherme em 04/11/2026: US$ 15 por dia é o mínimo para testar. Co
 | Distribuição do vídeo do curso | US$ 5 |
 | **Total** | **US$ 15** |
 
-Se ficar em US$ 15 até 24/11, a fase 1 gasta cerca de US$ 300. A verba do lembrete (25 e 26/11) e a do carrinho (27 a 30/11) se definem com o resultado da fase 1. Uma assinatura trimestral no preço de lançamento custa US$ 750.
+Se ficar em US$ 15 até 24/11, a fase 1 gasta cerca de US$ 300. A verba do lembrete (25 e 26/11) e a do carrinho (27 a 30/11) se definem com o resultado da fase 1.
 
 ## Como medir
 - **Fase 1:** custo por visita ao perfil, seguidores novos por semana e o país de quem segue (pelo Instagram), e o ThruPlay do vídeo
