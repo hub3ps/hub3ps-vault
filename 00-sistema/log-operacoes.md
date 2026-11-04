@@ -7,6 +7,7 @@ Uma linha por sessão de trabalho, a mais recente no topo.
 
 Formato: `- AAAA-MM-DD · <slug ou agencia> · <tarefa> · <onde está o resultado>`
 
+- 2026-11-04 · agencia · Processo de entrada de cliente: runbook em 5 fases, modelo de briefing, campos comerciais no modelo de cliente e painéis no INICIO · `03-processos/novo-cliente.md`
 - 2026-11-04 · apex · Migração do Apex para o vault, a partir do repo `whatsapp-langchain` · `04-clientes/apex/`
 - 2026-11-04 · dsmuaythai · Migração do DS Muay Thai para o vault: nota, kanban, log e duas campanhas conferidas na API · `04-clientes/dsmuaythai/`
 - 2026-11-04 · mobiletec · Migração da Mobiletec para o vault: nota, kanban e log, a partir da branch `claude/loving-archimedes-rp33cv` · `04-clientes/mobiletec/`

@@ -6,6 +6,10 @@ empresa: Mobiletec Sistemas Ltda
 status: ativo
 servicos: [lp-e-site, criativos-e-audiovisual]
 inicio: 2026-10-19
+contrato: TODO
+vigencia: TODO
+valor-mensal: TODO
+meta: TODO
 contatos: Everton (respondeu o briefing do vídeo)
 drive: TODO (Hub3Ps/Clientes/mobiletec/)
 painel:

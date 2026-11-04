@@ -6,6 +6,10 @@ empresa: DS Muay Thai Squad inc
 status: ativo
 servicos: [trafego-pago, tracking, lp-e-site, social]
 inicio: 2025-08-26
+contrato: TODO
+vigencia: TODO
+valor-mensal: TODO
+meta: TODO
 contatos: David Silva (head coach), designer do site WordPress (DNS), TODO nome do designer
 drive: TODO (Hub3Ps/Clientes/dsmuaythai/)
 painel: https://dsmuaythai.hub3ps.com

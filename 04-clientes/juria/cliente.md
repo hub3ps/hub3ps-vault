@@ -6,6 +6,10 @@ empresa: Mobiletec Sistemas Ltda
 status: ativo
 servicos: [trafego-pago, tracking, lp-e-site, criativos-e-audiovisual, social, email-marketing]
 inicio: 2026-04-22
+contrato: TODO
+vigencia: TODO (avaliação de 2026-04-22 a 2026-07-22, sem registro de renovação)
+valor-mensal: TODO
+meta: "CAC até R$ 500 no plano de entrada e 75 a 90 trials por trimestre (briefing, 11/05/2026)"
 contatos: Saulo (time técnico da Mobiletec), Isadora (comercial e revisão de conteúdo, TODO confirmar papel)
 drive: TODO (Hub3Ps/Clientes/juria/)
 painel: https://juria.hub3ps.com

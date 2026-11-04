@@ -1,6 +1,6 @@
 ---
 tipo: agencia
-atualizado: 2026-11-03
+atualizado: 2026-11-04
 ---
 # Estrutura de suporte
 
@@ -14,10 +14,12 @@ Do primeiro contato ao contrato assinado.
 4. Contrato e cláusulas
 5. O escopo fechado vira a nota do cliente e entra no [[motor]]
 
+O passo a passo, da proposta à gestão contínua: [[03-processos/novo-cliente]].
+
 Pipeline: [[05-comercial/pipeline]].
 
 ## Painel do cliente
-Um hub por cliente, no mesmo formato para todos.
+Um hub por cliente com tráfego pago no escopo, no mesmo formato para todos. Projetos sem tráfego, como agente ou site, usam o kanban e o relatório (Guilherme, 04/11/2026).
 - Páginas: Performance, Plano, Anúncios, Funil. Ativadas conforme o escopo
 - Números: atualização diária, automática
 - Leitura do gestor: quinzenal e mensal

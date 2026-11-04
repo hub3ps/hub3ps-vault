@@ -6,6 +6,10 @@ empresa: Apex Wellness Club
 status: implantacao
 servicos: [agentes-de-ia]
 inicio: 2026-07-27
+contrato: TODO
+vigencia: TODO
+valor-mensal: TODO
+meta: TODO
 contatos: Matheus Goulart (profissional único), Beatriz (equipe de atendimento)
 drive: TODO (Hub3Ps/Clientes/apex/)
 painel: https://apex.hub3ps.com

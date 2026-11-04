@@ -6,6 +6,10 @@ empresa:
 status: proposta | implantacao | ativo | pausado | encerrado
 servicos: []
 inicio:
+contrato:        # link do PDF no Drive
+vigencia:        # AAAA-MM-DD a AAAA-MM-DD
+valor-mensal:    # em R$, só o número
+meta:            # obrigatória para sair do Fechamento: número e prazo
 contatos:
 drive:
 painel:

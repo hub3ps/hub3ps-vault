@@ -1,12 +1,12 @@
 ---
 tipo: agencia
-atualizado: 2026-11-03
+atualizado: 2026-11-04
 ---
 # Jornada do cliente
 
 Toda conta passa por estas etapas, em ordem.
 
-1. **Comercial**: diagnóstico inicial, proposta, contrato. Ver [[suporte#Playbook comercial]]
+1. **Comercial**: diagnóstico inicial, proposta, contrato. Ver [[suporte#Playbook comercial]]. Passo a passo das etapas 1 e 2: [[03-processos/novo-cliente]]
 2. **Onboarding**: briefing, acessos (BM, GA4, domínio), escopo de entregáveis, identidade visual, base de dados. O checklist sai do [[motor]]
 3. **Estratégia**: pesquisa de mercado, persona, oferta, funil de vendas, plano de mídia
 4. **Produção**: copy, design, LP e site, criativos, setup de tracking
