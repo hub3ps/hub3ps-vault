@@ -16,7 +16,6 @@ kanban-plugin: board
 - [ ] E-mail de suporte no domínio: migrar o Google Workspace do Wix ou usar o e-mail da Hostinger #lp-e-site
 - [ ] Pixel e eventos na LP e no checkout da Circle, e verificação de domínio na BM #tracking
 - [ ] Definir o valor do fee em dólar (Guilherme) #comercial
-- [ ] Conferir as datas do lançamento e registrar a meta (Guilherme) #comercial
 - [ ] Migração: levar o PDF da LP e o export do WhatsApp do Downloads para o Drive #migracao
 
 

@@ -55,7 +55,7 @@ Por enquanto, nas palavras da LP e não do aluno:
 ### 8. Meta e verba ⬜
 - Fee: R$ 1.500 por mês, a ser fechado em dólar (02/11, WhatsApp)
 - Verba de mídia: a Julia pediu sugestão em 03/11. Ela quer saber quanto a Marjorie deixa sempre na conta
-- Meta: o Guilherme confere as datas do lançamento, e esse marco será a meta por ora (04/11)
+- Meta: o marco do lançamento. LP no ar até 20/11, carrinho em 27/11 e preço especial até 30/11 (04/11)
 
 ### 9. Identidade e tom 🟡
 - A Julia montou um design system da marca no Claude, e todo material visual segue esse arquivo (03/11)

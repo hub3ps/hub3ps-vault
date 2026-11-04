@@ -10,7 +10,7 @@ inicio: 2026-11-02
 contrato: sem contrato. Acordo pelo WhatsApp em 02/11/2026, em fontes/2026-11-04-whatsapp-julia.md
 vigencia: sem prazo
 valor-mensal: 1500
-meta: TODO (o Guilherme confere as datas do lançamento, e a meta por ora é esse marco)
+meta: marco do lançamento. LP no ar até 20/11, carrinho aberto em 27/11 e preço especial até 30/11 (Guilherme, 04/11/2026)
 contatos: Julia Peixoto (ponte, fez o site e a LP), Marjorie Andrade (expert, dona do cartão). Grupo do WhatsApp com os três desde 04/11
 drive: TODO (Hub3Ps/Clientes/marjorie/)
 painel:
