@@ -4,7 +4,7 @@ kanban-plugin: board
 
 ## A fazer
 
-- [ ] Decidir: o 1º conjunto de vídeos (música) está pausado e só a locução roda. Reativar para o teste valer ou encerrar o teste #trafego-pago @{2026-11-04}
+- [ ] Guilherme decide no Ads Manager: o 1º conjunto de vídeos (música) está pausado e só a locução roda. Reativar para o teste valer ou encerrar o teste. Combinado em 04/11 que o Claude não mexe na campanha #trafego-pago @{2026-11-04}
 - [ ] Decidir o evento da campanha de vídeos: manter `COMPLETE_REGISTRATION` (5 por semana na conta) ou trocar para `LEAD` #trafego-pago
 - [ ] Decidir o posicionamento da campanha de vídeos: manter automático ou voltar ao manual (Facebook e Instagram, só celular) #trafego-pago
 - [ ] Renomear o 2º conjunto de vídeos, que termina em "— Cópia" #trafego-pago

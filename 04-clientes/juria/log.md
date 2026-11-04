@@ -10,7 +10,7 @@ A entrada mais recente fica no topo, uma por sessão de trabalho.
 - **O que fiz:** criei a nota do cliente, o kanban, este log, as fichas das duas campanhas no ar e a reunião de 17/09. As fontes foram a `origin/main` e as branches do `agencia_marketing`, o `juria-lps`, a nota de contexto da reestruturação e a API da Meta. O `agencia_marketing` ficou intocado.
 - **Resultado em:** `04-clientes/juria/`
 - **O que achei:** na API (04/11), o conjunto de vídeos com música está pausado e só o da locução roda. A verba da campanha Lead está a R$ 42/dia. A `main` local do `agencia_marketing` está 127 commits atrás da `origin/main`.
-- **Decisões:** JurIA e Mobiletec institucional viram dois clientes, com uma pasta cada (Guilherme). O conhecimento fica no repo por enquanto, e a nota aponta onde está cada coisa.
+- **Decisões:** JurIA e Mobiletec institucional viram dois clientes, com uma pasta cada (Guilherme). A campanha de vídeos fica como está, e o Guilherme decide o teste e o evento direto no Ads Manager (Guilherme). O conhecimento fica no repo por enquanto, e a nota aponta onde está cada coisa.
 - **Próximo passo:** o Guilherme revisa a estrutura e decide o teste de vídeos.
 
 ## Histórico anterior ao vault

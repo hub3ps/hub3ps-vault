@@ -41,4 +41,5 @@ UTMs: `utm_campaign=juria-leads-9estados-2810`, `utm_content=inst_video_categori
 ## Histórico de otimizações
 - 2026-10-28 · publicada pelo Guilherme · teste de música contra locução, com a mesma imagem e a mesma copy
 - TODO · conjunto da música pausado. Registrar quando e por quê
+- 2026-11-04 · trava encontrada na API e registrada sem mexer na campanha · o Guilherme decide o teste, o evento e o posicionamento no Ads Manager
 - 2026-11-25 · avaliar, conforme o registro do hub
