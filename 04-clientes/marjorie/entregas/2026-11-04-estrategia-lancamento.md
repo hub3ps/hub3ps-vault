@@ -66,18 +66,16 @@ Eles se enchem durante a fase 1 e são o que as fases 2 e 3 usam.
 ## Países
 Primeiro os EUA. Depois os mercados de língua inglesa (Canadá, Reino Unido, Irlanda, Austrália e Nova Zelândia) e a Europa em inglês. TODO: o Guilherme confirma se o Brasil sai também da distribuição para a base. A recomendação é tirar, porque o produto é em inglês e em dólar.
 
-## Verba de novembro: US$ 600 (enxuta)
-Decisão do Guilherme em 04/11/2026. Não temos histórico nesta conta, então a divisão se corrige na primeira semana.
+## Verba de novembro: começa em US$ 15 por dia
+Decisão do Guilherme em 04/11/2026: US$ 15 por dia é o mínimo para testar. Com resultado bom, escala ou mantém. A primeira leitura é depois de 7 dias.
 
-| Fase | Dias | Por dia | Total |
-|---|---|---|---|
-| 1. Seguidores | 20 | US$ 13 | US$ 260 |
-| 1. Distribuição do vídeo | 20 | US$ 7 | US$ 140 |
-| 2. Lembrete | 2 | US$ 20 | US$ 40 |
-| 3. Carrinho | 4 | US$ 40 | US$ 160 |
-| **Total** | | | **US$ 600** |
+| Campanha | Por dia no início |
+|---|---|
+| Captação de seguidores | US$ 10 |
+| Distribuição do vídeo do curso | US$ 5 |
+| **Total** | **US$ 15** |
 
-Uma assinatura trimestral no preço de lançamento (US$ 750) paga o mês inteiro. Com o cartão cadastrado, a Meta cobra sozinha a cada limite de gasto, e a Marjorie não precisa carregar saldo.
+Se ficar em US$ 15 até 24/11, a fase 1 gasta cerca de US$ 300. A verba do lembrete (25 e 26/11) e a do carrinho (27 a 30/11) se definem com o resultado da fase 1. Uma assinatura trimestral no preço de lançamento custa US$ 750.
 
 ## Como medir
 - **Fase 1:** custo por visita ao perfil, seguidores novos por semana e o país de quem segue (pelo Instagram), e o ThruPlay do vídeo
@@ -88,7 +86,7 @@ Uma assinatura trimestral no preço de lançamento (US$ 750) paga o mês inteiro
 
 | Item | Até | Quem |
 |---|---|---|
-| Aprovar a verba | 05/11 | Julia e Marjorie |
+| Aprovar a verba inicial de US$ 15 por dia | 05/11 | Julia e Marjorie |
 | Acesso ao Instagram, ou a Página vinculada à conta de anúncios | 05/11 | Julia |
 | Subir a lista de compradores como público personalizado | 06/11 | Guilherme |
 | Confirmar o início do preço especial: 27/11 ou uns dias antes | 10/11 | Julia |

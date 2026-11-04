@@ -10,7 +10,7 @@ A entrada mais recente fica no topo, uma por sessão de trabalho.
 - **O que fiz:** li os 25 posts mais recentes do @marjoriedentalcad pela API e montei a estratégia de novembro em 4 fases, com 3 opções de verba.
 - **Resultado em:** `entregas/2026-11-04-estrategia-lancamento.md`
 - **O que achei:** o lançamento já tem data (27/11) e lista de espera. Isso muda o alvo da captação: de seguidor para lista de espera. Parte da base é brasileira, então a distribuição também filtra por país.
-- **Decisões:** verba enxuta, US$ 600 em novembro (Guilherme). O Guilherme refez o desenho: público frio vai para o perfil, e não para a lista de espera. O vídeo do curso vai para a base, a lista de espera só entra no lembrete de 25 e 26/11, e a LP só no carrinho de 27 a 30/11. A estratégia cobre só novembro.
+- **Decisões:** verba enxuta, US$ 600 em novembro (Guilherme). O Guilherme refez o desenho: público frio vai para o perfil, e não para a lista de espera. O vídeo do curso vai para a base, a lista de espera só entra no lembrete de 25 e 26/11, e a LP só no carrinho de 27 a 30/11. A estratégia cobre só novembro. A verba começa em US$ 15 por dia, o mínimo para testar, e escala ou se mantém pelo resultado. Quando a Julia falou em "deixar dinheiro", era saldo no cartão, não na conta de anúncios.
 - **Próximo passo:** o Guilherme manda a estratégia para a Julia. Depois disso, subir as duas campanhas da fase 1.
 
 ### 2026-11-04 · Entrada da Marjorie no vault
