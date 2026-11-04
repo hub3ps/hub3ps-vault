@@ -59,7 +59,7 @@ O que travou o site e o vídeo, conforme o brief e o vídeo na branch (19 a 27/1
 - [ ] WhatsApp comercial
 - [ ] Fotos reais do time ou do escritório, se quiserem usar
 - [ ] Páginas além da home: Sobre, Soluções, Carreiras e Contato
-- [ ] Ano de fundação: o vídeo diz 1999 e o site diz 2000. Confirmar e alinhar
+- [x] Ano de fundação: 1999 (Guilherme, 04/11/2026). Falta trocar no site, que ainda diz 2000
 - [ ] Aprovação da sexta versão do vídeo (TODO: conferir se já veio)
 
 ## Acessos

@@ -6,8 +6,8 @@ kanban-plugin: board
 
 - [ ] Mandar à Mobiletec o doc "Site Mobiletec - Informações para finalizar" (Drive, pasta 9. Mobiletec) #lp-e-site
 - [ ] Tirar a fundação repetida da home: deixar só na abertura, como pediu o Fábio em 30/10 #lp-e-site
-- [ ] Trocar a Vibra Energia pela Vibra Foods no site, como no vídeo #lp-e-site
-- [ ] Alinhar o ano de fundação entre o vídeo (1999) e o site (2000), depois da confirmação da Mobiletec #lp-e-site
+- [ ] Trocar a Vibra Energia pela Vibra Foods no site, como no vídeo. O Guilherme manda o logo #lp-e-site
+- [ ] Trocar o ano de fundação do site para 1999, confirmado pelo Guilherme em 04/11 (`site.ts` e textos com "Desde 2000") #lp-e-site
 - [ ] Trazer a branch `claude/loving-archimedes-rp33cv` para a main (36 commits fora). Antes, trocar a branch de produção do projeto `site-mobiletec` na Vercel #lp-e-site
 - [ ] Definir o domínio e a data de lançamento do site, e então tirar o `noindex` #lp-e-site
 - [ ] Menu no celular, quando houver mais de uma página #lp-e-site
@@ -26,13 +26,11 @@ kanban-plugin: board
 - [ ] Domínio definitivo do site
 - [ ] Cases: quais empresas, e o conteúdo de cada página (doc de 04/11)
 - [ ] Produtos próprios no site (Flowee, Hub de Certificação, VendeAI, RoterizAI) e se o JurIA continua
-- [ ] Logo da Vibra Foods
 - [ ] Números de operação
 - [ ] Órgãos públicos citáveis, com logo
 - [ ] WhatsApp comercial
 - [ ] Fotos do time ou do escritório
 - [ ] Páginas além da home
-- [ ] Confirmar o ano de fundação
 
 
 ## Feito
