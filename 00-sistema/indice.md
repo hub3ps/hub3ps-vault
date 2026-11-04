@@ -16,4 +16,4 @@ dentro. Atualize sempre que criar, mover ou apagar nota.
 - **05-comercial**: [[pipeline]] e `propostas/`
 - **06-produto**: Hub3Ps SaaS
 - **07-referencias**: biblioteca de templates de criativo
-- **_modelos**: cliente, briefing, kanban, log, reunião, playbook, campanha, proposta
+- **_modelos**: cliente, briefing, kanban, log, reunião, playbook, campanha, proposta e `proposta-pdf/` (padrão da proposta em PDF)

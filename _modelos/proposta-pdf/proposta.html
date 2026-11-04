@@ -1,0 +1,247 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="UTF-8">
+<title>Proposta Comercial · {{CLIENTE}} · Hub3Ps</title>
+<style>
+  @font-face { font-family: "Inter Tight"; font-style: normal; font-weight: 300 800; src: url("../../_modelos/proposta-pdf/assets/inter-tight-latin.woff2") format("woff2"); }
+  @page { size: A4; margin: 18mm 17mm; }
+  :root { --fg: #171717; --fg2: #404040; --muted: #8a8a8a; --line: #e6e6e6; --card: #f7f7f7; --black: #111111; }
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+  html { -webkit-print-color-adjust: exact; print-color-adjust: exact; }
+  body { font-family: "Inter Tight", -apple-system, Arial, sans-serif; color: var(--fg2); font-size: 10.2pt; line-height: 1.6; background: #fff; }
+  strong { color: var(--fg); font-weight: 600; }
+  p { margin-bottom: 10px; }
+
+  /* Cover */
+  .cover { height: 261mm; display: flex; flex-direction: column; page-break-after: always; }
+  .brand { display: flex; align-items: center; gap: 10px; }
+  .brand img { width: 26px; height: 26px; }
+  .brand span { font-weight: 700; font-size: 13pt; color: var(--fg); letter-spacing: -0.01em; }
+  .cover .kicker { margin-top: 70mm; font-size: 8pt; letter-spacing: 0.22em; text-transform: uppercase; color: var(--muted); font-weight: 600; }
+  .cover h1 { font-size: 40pt; line-height: 1.04; letter-spacing: -0.035em; color: var(--black); font-weight: 700; margin: 14px 0 18px; }
+  .cover h1 .light { font-weight: 300; color: var(--fg2); }
+  .cover .sub { font-size: 12.5pt; color: var(--fg2); max-width: 125mm; line-height: 1.5; }
+  .cover .spacer { flex: 1; }
+  .meta { display: grid; grid-template-columns: repeat(4, 1fr); border-top: 1px solid var(--fg); padding-top: 12px; gap: 10px; }
+  .meta .l { font-size: 7pt; letter-spacing: 0.18em; text-transform: uppercase; color: var(--muted); font-weight: 600; margin-bottom: 3px; }
+  .meta .v { font-size: 9.6pt; color: var(--fg); line-height: 1.4; }
+
+  /* Sections */
+  section { margin-bottom: 30px; }
+  .sec-head { display: grid; grid-template-columns: 22mm 1fr; align-items: baseline; border-top: 1px solid var(--fg); padding-top: 10px; margin-bottom: 16px; }
+  .sec-num { font-size: 9pt; font-weight: 600; color: var(--muted); letter-spacing: 0.06em; }
+  .sec-title { font-size: 19pt; font-weight: 700; color: var(--black); letter-spacing: -0.025em; line-height: 1.15; }
+  .body { margin-left: 22mm; }
+  .lead { font-size: 11pt; color: var(--fg); line-height: 1.55; margin-bottom: 14px; }
+
+  .rows { border-top: 1px solid var(--line); }
+  .row { display: grid; grid-template-columns: 52mm 1fr; gap: 14px; padding: 10px 0; border-bottom: 1px solid var(--line); page-break-inside: avoid; }
+  .row .k { font-weight: 600; color: var(--fg); font-size: 10pt; }
+  .row .d { font-size: 9.8pt; color: var(--fg2); }
+  .row .n { color: var(--muted); font-weight: 500; margin-right: 8px; font-variant-numeric: tabular-nums; }
+
+  .two { display: grid; grid-template-columns: 1fr 1fr; gap: 12px; margin-top: 14px; }
+  .panel { background: var(--card); border-radius: 10px; padding: 14px 16px; page-break-inside: avoid; }
+  .panel .t { font-size: 7.5pt; letter-spacing: 0.18em; text-transform: uppercase; color: var(--muted); font-weight: 600; margin-bottom: 4px; }
+  .panel .h { font-weight: 700; color: var(--fg); font-size: 11pt; margin-bottom: 4px; }
+  .panel .d { font-size: 9.6pt; }
+
+  .note { border-left: 2px solid var(--fg); padding: 2px 0 2px 14px; margin-top: 14px; font-size: 10pt; color: var(--fg); }
+
+  /* Timeline */
+  .tl .row { grid-template-columns: 42mm 1fr; }
+  .tl .k { font-size: 9.6pt; }
+
+  /* Investment */
+  .invest { display: grid; grid-template-columns: 1fr 1fr 1fr; border: 1px solid var(--fg); border-radius: 12px; overflow: hidden; page-break-inside: avoid; }
+  .inv { padding: 18px 18px 20px; border-right: 1px solid var(--line); }
+  .inv:last-child { border-right: none; }
+  .inv.dark { background: var(--black); color: #d6d6d6; }
+  .inv.dark strong, .inv.dark .price { color: #fff; }
+  .inv .t { font-size: 7.5pt; letter-spacing: 0.18em; text-transform: uppercase; color: var(--muted); font-weight: 600; }
+  .inv.dark .t { color: #9a9a9a; }
+  .inv .price { font-size: 28pt; font-weight: 700; letter-spacing: -0.03em; color: var(--black); margin-top: 6px; line-height: 1.05; }
+  .inv .per { font-size: 9pt; color: var(--muted); margin-bottom: 12px; }
+  .inv.dark .per { color: #9a9a9a; }
+  .inv ul { list-style: none; border-top: 1px solid var(--line); padding-top: 10px; }
+  .inv.dark ul { border-top-color: #2e2e2e; }
+  .inv li { font-size: 9.2pt; line-height: 1.45; padding: 3px 0 3px 14px; position: relative; }
+  .inv li::before { content: ""; position: absolute; left: 0; top: 10px; width: 6px; height: 1px; background: currentColor; opacity: 0.7; }
+  .conds { margin-top: 14px; }
+  .conds .row { grid-template-columns: 38mm 1fr; }
+
+  .small { font-size: 9.4pt; color: var(--fg2); }
+  ul.plain { list-style: none; }
+  ul.plain li { padding: 7px 0; border-bottom: 1px solid var(--line); font-size: 9.8pt; }
+  ul.plain li:first-child { border-top: 1px solid var(--line); }
+
+  /* About */
+  .about { display: grid; grid-template-columns: 30mm 1fr; gap: 18px; align-items: start; }
+  .about img { width: 30mm; height: 30mm; border-radius: 8px; object-fit: cover; filter: grayscale(100%); }
+  .stats { display: grid; grid-template-columns: repeat(3, 1fr); gap: 10px; margin: 6px 0 12px; }
+  .stat { border-top: 1px solid var(--fg); padding-top: 8px; }
+  .stat .v { font-size: 17pt; font-weight: 700; color: var(--black); letter-spacing: -0.02em; line-height: 1.1; }
+  .stat .l { font-size: 8.4pt; color: var(--muted); line-height: 1.35; margin-top: 3px; }
+
+  .footer { margin-top: 26px; padding-top: 10px; border-top: 1px solid var(--line); display: flex; justify-content: space-between; font-size: 8pt; color: var(--muted); letter-spacing: 0.04em; }
+  .break { page-break-before: always; }
+  .avoid { page-break-inside: avoid; }
+</style>
+</head>
+<body>
+<!--
+  MODELO DE PROPOSTA DA HUB3PS · leia _modelos/proposta-pdf/README.md antes de preencher.
+  Troque cada {{...}}. Apague as linhas de exemplo que não servirem e repita as que precisar.
+  A ordem das seções é fixa. A seção 07 (Quem sou) só muda se o Guilherme pedir.
+-->
+
+<!-- CAPA -->
+<div class="cover">
+  <div class="brand"><img src="../../_modelos/proposta-pdf/assets/logo-preto.png" alt=""><span>Hub3Ps</span></div>
+  <div class="kicker">Proposta comercial</div>
+  <h1>{{NOME DO CONTATO}}<br><span class="light">{{EMPRESA}}</span></h1>
+  <div class="sub">{{Uma frase com o que a proposta entrega e o resultado que o cliente quer.}}</div>
+  <div class="spacer"></div>
+  <div class="meta">
+    <div><div class="l">Para</div><div class="v">{{Nome completo}}<br>{{Empresa}}</div></div>
+    <div><div class="l">Por</div><div class="v">Guilherme Miguel<br>Hub3Ps</div></div>
+    <div><div class="l">Data</div><div class="v">{{dia de mês}}<br>de {{ano}}</div></div>
+    <div><div class="l">Validade</div><div class="v">30 dias</div></div>
+  </div>
+</div>
+
+<!-- 01 CENÁRIO: o que o cliente contou na reunião, nas palavras dele. Sem diagnóstico de graça. -->
+<section>
+  <div class="sec-head"><div class="sec-num">01</div><div class="sec-title">Onde o projeto está hoje</div></div>
+  <div class="body">
+    <p class="lead">{{Dois ou três períodos: quem é o cliente, o que já tem e o que falta. Termine com a frase que resume a oportunidade.}}</p>
+    <div class="rows">
+      <div class="row"><div class="k">{{Fato curto}}</div><div class="d">{{Explicação em uma ou duas linhas.}}</div></div>
+      <div class="row"><div class="k">{{Fato curto}}</div><div class="d">{{Explicação em uma ou duas linhas.}}</div></div>
+      <div class="row"><div class="k">{{Fato curto}}</div><div class="d">{{Explicação em uma ou duas linhas.}}</div></div>
+    </div>
+  </div>
+</section>
+
+<!-- 02 ESTRATÉGIA: o caminho, em passos numerados. Os painéis são opcionais (frentes, funis, canais). -->
+<section>
+  <div class="sec-head"><div class="sec-num">02</div><div class="sec-title">A estratégia</div></div>
+  <div class="body">
+    <p class="lead">{{A estratégia em uma frase: o que vem primeiro e o que vem depois.}}</p>
+    <div class="rows">
+      <div class="row"><div class="k"><span class="n">01</span>{{Passo}}</div><div class="d">{{O que acontece neste passo.}}</div></div>
+      <div class="row"><div class="k"><span class="n">02</span>{{Passo}}</div><div class="d">{{O que acontece neste passo.}}</div></div>
+      <div class="row"><div class="k"><span class="n">03</span>{{Passo}}</div><div class="d">{{O que acontece neste passo.}}</div></div>
+    </div>
+    <div class="two">
+      <div class="panel"><div class="t">{{Rótulo}}</div><div class="h">{{Frente 1}}</div><div class="d">{{Descrição curta.}}</div></div>
+      <div class="panel"><div class="t">{{Rótulo}}</div><div class="h">{{Frente 2}}</div><div class="d">{{Descrição curta.}}</div></div>
+    </div>
+  </div>
+</section>
+
+<!-- 03 CRONOGRAMA -->
+<section class="avoid">
+  <div class="sec-head"><div class="sec-num">03</div><div class="sec-title">Cronograma</div></div>
+  <div class="body tl">
+    <div class="rows">
+      <div class="row"><div class="k">{{Quando}}</div><div class="d">{{O que acontece.}}</div></div>
+      <div class="row"><div class="k">{{Quando}}</div><div class="d">{{O que acontece.}}</div></div>
+      <div class="row"><div class="k">{{Quando}}</div><div class="d">{{O que acontece.}}</div></div>
+    </div>
+  </div>
+</section>
+
+<!-- 04 O QUE VOCÊ RECEBE: cada entrega explicada. É aqui que o valor aparece. -->
+<section class="break">
+  <div class="sec-head"><div class="sec-num">04</div><div class="sec-title">O que você recebe</div></div>
+  <div class="body">
+    <p class="small" style="margin-bottom:8px;"><strong>Estruturação</strong> · feita uma vez, nas primeiras semanas</p>
+    <div class="rows">
+      <div class="row"><div class="k">{{Entrega}}</div><div class="d">{{O que é e para que serve.}}</div></div>
+      <div class="row"><div class="k">{{Entrega}}</div><div class="d">{{O que é e para que serve.}}</div></div>
+      <div class="row"><div class="k">{{Entrega}}</div><div class="d">{{O que é e para que serve.}}</div></div>
+    </div>
+    <p class="small" style="margin:22px 0 8px;"><strong>Operação</strong> · todo mês</p>
+    <div class="rows">
+      <div class="row"><div class="k">{{Entrega}}</div><div class="d">{{O que é e para que serve.}}</div></div>
+      <div class="row"><div class="k">{{Entrega}}</div><div class="d">{{O que é e para que serve.}}</div></div>
+      <div class="row"><div class="k">Suporte</div><div class="d">Canal direto comigo pelo WhatsApp.</div></div>
+    </div>
+  </div>
+</section>
+
+<!-- 05 INVESTIMENTO: até três colunas. A coluna principal leva a classe "dark". Moeda do cliente. -->
+<section class="break">
+  <div class="sec-head"><div class="sec-num">05</div><div class="sec-title">Investimento</div></div>
+  <div class="body">
+    <div class="invest">
+      <div class="inv">
+        <div class="t">Estruturação</div>
+        <div class="price">{{valor}}</div>
+        <div class="per">investimento único</div>
+        <ul>
+          <li>{{Item}}</li>
+          <li>{{Item}}</li>
+        </ul>
+      </div>
+      <div class="inv dark">
+        <div class="t">Operação</div>
+        <div class="price">{{valor}}</div>
+        <div class="per">por mês</div>
+        <ul>
+          <li>{{Item}}</li>
+          <li>{{Item}}</li>
+        </ul>
+      </div>
+      <div class="inv">
+        <div class="t">{{Variável ou outra opção}}</div>
+        <div class="price">{{valor}}</div>
+        <div class="per">{{base}}</div>
+        <ul>
+          <li>{{Item}}</li>
+        </ul>
+      </div>
+    </div>
+    <div class="rows conds">
+      <div class="row"><div class="k">Pagamento</div><div class="d">{{Ex.: estruturação 50% no aceite e 50% na entrega; mensalidade todo mês.}}</div></div>
+      <div class="row"><div class="k">Verba de anúncios</div><div class="d">{{Se houver tráfego: paga direto à plataforma, no cartão do cliente, e não inclusa nos valores.}}</div></div>
+      <div class="row"><div class="k">Não incluso</div><div class="d">{{Só o que não é óbvio.}}</div></div>
+    </div>
+  </div>
+</section>
+
+<!-- 06 PARA ONDE PODE CRESCER: opcional. Próximos serviços, sem preço ou "orçado à parte". -->
+<section class="avoid">
+  <div class="sec-head"><div class="sec-num">06</div><div class="sec-title">Para onde o projeto pode crescer</div></div>
+  <div class="body">
+    <div class="two" style="margin-top:0;">
+      <div class="panel"><div class="h">{{Próximo serviço}}</div><div class="d">{{Descrição curta.}}</div></div>
+      <div class="panel"><div class="h">{{Próximo serviço}}</div><div class="d">{{Descrição curta. Orçado à parte.}}</div></div>
+    </div>
+  </div>
+</section>
+
+<!-- 07 QUEM SOU: fixo. -->
+<section class="avoid">
+  <div class="sec-head"><div class="sec-num">07</div><div class="sec-title">Quem sou</div></div>
+  <div class="body">
+    <div class="about">
+      <img src="../../_modelos/proposta-pdf/assets/guilherme.jpg" alt="Guilherme Miguel">
+      <div>
+        <p style="font-size:11pt;color:var(--fg);margin-bottom:6px;"><strong>Guilherme Miguel</strong></p>
+        <div class="stats">
+          <div class="stat"><div class="v">8 anos</div><div class="l">transformando mídia em faturamento</div></div>
+          <div class="stat"><div class="v">+R$ 15 mi</div><div class="l">administrados em Meta Ads e Google Ads</div></div>
+          <div class="stat"><div class="v">7 dígitos</div><div class="l">faturados com clientes de infoprodutos</div></div>
+        </div>
+        <p>Trabalho com tráfego, estratégia de lançamento e funil contínuo, em contas do Brasil e de fora, e uso inteligência artificial e automações para atender e vender melhor. O atendimento é direto comigo, sem intermediários, e com um número limitado de clientes por vez.</p>
+      </div>
+    </div>
+    <div class="footer"><span>Guilherme Miguel · Hub3Ps</span><span>Proposta comercial · {{Mês ano}}</span></div>
+  </div>
+</section>
+
+</body>
+</html>

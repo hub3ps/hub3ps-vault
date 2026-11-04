@@ -21,6 +21,7 @@ Serviços do [[catalogo]] e o que fica fora.
 Piso para negociar: 
 
 ## Arquivos
+Fonte: `05-comercial/propostas/<slug>-AAAA-MM.html`, feita a partir de [[_modelos/proposta-pdf/README|modelo de proposta em PDF]].
 PDF enviado: (link do Drive)
 
 ## Histórico

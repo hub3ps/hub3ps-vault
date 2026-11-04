@@ -37,7 +37,8 @@ Nem todo cliente entra pela porta da frente. O onboarding é um tronco comum, qu
 2. Registre o diagnóstico: dor, objetivo e contexto
 3. Monte o escopo com os serviços do [[catalogo]] e diga o que fica fora
 4. Monte as opções de valor, com setup, mensal e prazo mínimo, e registre o piso
-5. Envie o PDF, guarde o link do Drive, mude para `etapa: proposta-enviada` e preencha `enviada-em`
+5. Monte o PDF a partir do [[_modelos/proposta-pdf/README|modelo de proposta em PDF]], que é o padrão visual e de conteúdo desde 04/11/2026
+6. Envie o PDF, guarde o link do Drive, mude para `etapa: proposta-enviada` e preencha `enviada-em`
 
 **Para sair:** a proposta é aceita (`etapa: fechada`) ou perdida (`etapa: perdida`, com o motivo no histórico).
 
