@@ -29,7 +29,7 @@ autor: claude
 - **Público:** clientes americanos, que querem confiança, transparência e ver a família por trás da empresa (17/07, áudio).
 - **Região:** Massachusetts, pelo DDD do número. TODO: confirmar cidade e regiões atendidas no doc.
 - **Idioma:** site em inglês. A conversa e a aprovação são em português.
-- **Origem:** indicação do David (14/07). TODO: confirmar se é o David do [[04-clientes/dsmuaythai/cliente|DS Muay Thai]].
+- **Origem:** indicação do David Silva, do [[04-clientes/dsmuaythai/cliente|DS Muay Thai]] (14/07, confirmado pelo Guilherme em 04/11).
 
 ## Escopo
 Fechado em 02/11/2026 (WhatsApp).
