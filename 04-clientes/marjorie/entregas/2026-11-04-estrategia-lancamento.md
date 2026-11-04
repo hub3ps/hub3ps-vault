@@ -1,7 +1,7 @@
 ---
 tipo: entrega
 cliente: marjorie
-status: rascunho, aguardando o Guilherme
+status: aprovada pelo Guilherme (verba enxuta), aguardando a Julia
 atualizado: 2026-11-04
 autor: claude
 ---
@@ -50,13 +50,15 @@ Não temos histórico nesta conta e neste nicho, então os números são estimat
 
 | Opção | Fase 1 (16 dias) | Fase 2 (6 dias) | Fase 3 (4 dias) | Total |
 |---|---|---|---|---|
-| Enxuta | US$ 20 por dia | US$ 20 por dia | US$ 40 por dia | ≈ US$ 600 |
-| **Recomendada** | US$ 30 por dia | US$ 30 por dia | US$ 60 por dia | **≈ US$ 900** |
+| **Enxuta (escolhida)** | US$ 20 por dia | US$ 20 por dia | US$ 40 por dia | **≈ US$ 600** |
+| Recomendada | US$ 30 por dia | US$ 30 por dia | US$ 60 por dia | ≈ US$ 900 |
 | Agressiva | US$ 50 por dia | US$ 50 por dia | US$ 100 por dia | ≈ US$ 1.500 |
 
-Na fase 1, a divisão é de um terço para a distribuição quente e dois terços para a captação fria.
+**Decisão (Guilherme, 04/11/2026): verba enxuta, US$ 600 em novembro.** Se o custo por lead da primeira semana vier bom, a verba sobe para a recomendada.
 
-**Para a Julia entender a conta:** uma assinatura trimestral no preço de lançamento custa US$ 750, então duas vendas pagam a opção recomendada inteira.
+Na fase 1, a divisão é de um terço para a distribuição quente e dois terços para a captação fria: cerca de US$ 7 e US$ 13 por dia.
+
+**Para a Julia entender a conta:** uma assinatura trimestral no preço de lançamento custa US$ 750, então uma venda paga a verba enxuta inteira.
 
 **Sobre "deixar dinheiro na conta":** com cartão cadastrado, a Meta cobra sozinha a cada limite de gasto. A Marjorie não precisa carregar saldo, só manter o cartão com limite.
 

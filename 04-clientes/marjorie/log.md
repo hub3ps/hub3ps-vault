@@ -10,7 +10,8 @@ A entrada mais recente fica no topo, uma por sessão de trabalho.
 - **O que fiz:** li os 25 posts mais recentes do @marjoriedentalcad pela API e montei a estratégia de novembro em 4 fases, com 3 opções de verba.
 - **Resultado em:** `entregas/2026-11-04-estrategia-lancamento.md`
 - **O que achei:** o lançamento já tem data (27/11) e lista de espera. Isso muda o alvo da captação: de seguidor para lista de espera. Parte da base é brasileira, então a distribuição também filtra por país.
-- **Próximo passo:** o Guilherme revisa e manda para a Julia. Depois disso, subir as duas campanhas da fase 1.
+- **Decisões:** verba enxuta, US$ 600 em novembro (Guilherme).
+- **Próximo passo:** o Guilherme manda a estratégia para a Julia. Depois disso, subir as duas campanhas da fase 1.
 
 ### 2026-11-04 · Entrada da Marjorie no vault
 - **O que fiz:** criei a nota do cliente, o briefing, o kanban e este log. As fontes foram o export do WhatsApp com a Julia, os 19 áudios (transcritos localmente com o Whisper) e o PDF da LP. Na conta de anúncios, pela API, li só a lista de campanhas.
