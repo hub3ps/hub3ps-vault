@@ -25,7 +25,7 @@ autor: claude
 É a mesma empresa do [[04-clientes/juria/cliente|JurIA]], mas aqui o assunto é a marca Mobiletec, não o produto. A divisão em dois clientes foi decisão do Guilherme em 04/11/2026.
 
 ## Quem é
-- **Negócio:** software house de Itajaí/SC que desenvolve aplicações móveis, web e desktop e mantém sistemas em produção. Tem produtos próprios: Flowee, Hub de Certificação, VendeAI, RoterizAI e JurIA.
+- **Negócio:** software house de Itajaí/SC que desenvolve aplicações móveis, web e desktop e mantém sistemas em produção. Tem o JurIA como produto próprio. Flowee, Hub de Certificação, VendeAI e RoterizAI parecem produtos da casa, mas ninguém da Mobiletec confirmou: a pergunta está no doc do site de 04/11. Só a Bello foi chamada de projeto de cliente (Everton, 22/10).
 - **Público:** quem contrata software para operação crítica, como empresas de grande porte (com foco na indústria de alimentos) e órgãos públicos.
 - **Região:** Itajaí/SC, com clientes pelo Brasil.
 - **Idioma:** português do Brasil.
