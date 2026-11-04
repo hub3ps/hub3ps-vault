@@ -26,7 +26,7 @@ Status por bloco: ✅ fechado · 🟡 parcial · ⬜ vazio.
 - "exocad: Zero to Hero Circle", treinamento mais comunidade privada na Circle (02/11, WhatsApp)
 - Trimestral a US$ 900 (US$ 300 por mês) e anual a US$ 2.700 (US$ 225 por mês)
 - Preço de lançamento, de uns 2 dias antes da Black Friday até 30/11: trimestral a US$ 750 e anual a US$ 2.400
-- Lançamento em 27/11, com lista de espera no link da bio (Reels de 01/11 e 04/11). TODO: conferir com o "2 dias antes da Black Friday" da Julia
+- Lançamento em 27/11, com lista de espera no link da bio (Reels de 01/11 e 04/11). O preço especial vale de 27 a 30/11 (Guilherme, 04/11)
 - Inclui o curso (mais de 20 horas, em 3 níveis: Foundations, Awakening e Mastery), live semanal de dúvidas e revisão de casos, comunidade privada, biblioteca de STL, biblioteca de dentes e coaching 1:1 a US$ 150 por hora, em vez de US$ 250 (LP)
 - Cancela quando quiser, antes da renovação (LP)
 - ⬜ Reembolso e garantia
@@ -99,6 +99,6 @@ Por enquanto, nas palavras da LP e não do aluno:
 ## Pendências
 - [ ] Razão social
 - [ ] Reembolso e garantia
-- [ ] Datas do lançamento, do evento no RJ e da viagem
+- [ ] Datas do evento no RJ e da viagem
 - [ ] Arquivo do design system
-- [ ] Onde a LP vai ser publicada
+- [ ] Onde a LP vai ser publicada (a Julia sobe até 20/11)

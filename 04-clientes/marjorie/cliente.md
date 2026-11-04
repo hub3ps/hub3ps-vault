@@ -52,9 +52,9 @@ Fechado em 02/11/2026. Antes, em 19 e 20/10, o acordo era fazer a LP e refazer o
 ## Depende do cliente
 - [ ] Acesso ao Instagram. O convite deu erro em 03/11, e por enquanto o acesso é pela Página
 - [ ] Aprovar a verba de mídia, depois da nossa sugestão
-- [ ] Publicar a LP e informar o domínio
+- [ ] Publicar a LP e informar o domínio (combinado até 20/11)
 - [ ] Mandar o design system da marca, o arquivo que a Julia montou no Claude
-- [ ] Datas: início do preço de lançamento antes da Black Friday, evento no RJ e viagem da Marjorie à Alemanha (por volta de 17/11)
+- [ ] Datas: evento no RJ e viagem da Marjorie à Alemanha (por volta de 17/11)
 - [ ] Política de reembolso da assinatura
 
 ## Acessos

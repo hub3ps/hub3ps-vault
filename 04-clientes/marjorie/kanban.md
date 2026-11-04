@@ -28,10 +28,9 @@ kanban-plugin: board
 
 - [ ] Acesso ao Instagram (o convite deu erro em 03/11)
 - [ ] Aprovar a verba inicial de US$ 15 por dia
-- [ ] Confirmar a data de início do preço especial (27/11 ou antes)
 - [ ] Publicar a LP e informar o domínio (até 20/11, para o Pixel)
 - [ ] Arquivo do design system
-- [ ] Datas: lançamento, evento no RJ e viagem à Alemanha
+- [ ] Datas: evento no RJ e viagem à Alemanha
 - [ ] Política de reembolso
 - [ ] Razão social
 - [ ] Link da lista de espera (até 20/11)
@@ -46,6 +45,7 @@ kanban-plugin: board
 - [x] Conversa, áudios e LP registrados no vault (04/11)
 - [x] Conteúdos do Instagram levantados para os anúncios (04/11)
 - [x] Estratégia de novembro enviada à Julia (04/11)
+- [x] Preço especial confirmado de 27 a 30/11, e LP no ar até 20/11 (04/11)
 
 
 

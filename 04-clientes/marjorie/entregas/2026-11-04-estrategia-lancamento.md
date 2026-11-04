@@ -10,7 +10,7 @@ autor: claude
 Vale só para novembro, o mês do lançamento. Desenho do Guilherme (04/11/2026), com os ajustes do Claude. Base: a conversa de 19/10 a 04/11, a LP e os 25 posts mais recentes do @marjoriedentalcad, lidos pela API em 04/11.
 
 ## Contexto
-- **Lançamento em 27/11, com preço especial até 30/11.** O Reels de 04/11 diz "November 27, waitlist in my bio". A lista de espera já está no link da bio
+- **Lançamento em 27/11, com preço especial de 27 a 30/11** (confirmado pelo Guilherme em 04/11). O Reels de 04/11 diz "November 27, waitlist in my bio". A lista de espera já está no link da bio
 - **Público frio não vai para a lista de espera.** Quem não conhece a Marjorie primeiro vai para o perfil, e só a base aquecida recebe o convite da lista e da LP (decisão do Guilherme)
 - **Boa parte da base fala português.** As legendas são bilíngues. Mesmo assim, a base recebe os anúncios sem filtro de país, e só o público frio fica nos EUA
 
@@ -93,10 +93,9 @@ Se ficar em US$ 15 até 24/11, a fase 1 gasta cerca de US$ 300. A verba do lembr
 | Aprovar a verba inicial de US$ 15 por dia | 05/11 | Julia e Marjorie |
 | Acesso ao Instagram, ou a Página vinculada à conta de anúncios | 05/11 | Julia |
 | Subir a lista de compradores como público personalizado | 06/11 | Guilherme |
-| Confirmar o início do preço especial: 27/11 ou uns dias antes | 10/11 | Julia |
 | Gravar o conteúdo de lembrete e o de carrinho, antes da viagem | 16/11 | Julia e Marjorie |
 | Link da lista de espera | 20/11 | Julia |
-| LP publicada no domínio, com Pixel | 20/11 | Julia, com o Guilherme no Pixel |
+| LP publicada no domínio, com Pixel | 20/11 (combinado com a Julia) | Julia, com o Guilherme no Pixel |
 
 ## Riscos
 - **Seguidor não é venda.** A fase 1 pode trazer seguidor barato e fora do perfil. Por isso os criativos são técnicos e o país é filtrado. Na primeira semana, conferir no Instagram se quem segue é dos EUA e da área
@@ -117,4 +116,4 @@ Se ficar em US$ 15 até 24/11, a fase 1 gasta cerca de US$ 300. A verba do lembr
 >
 > Pra adiantar, depois vamos precisar gravar um vídeo de lembrete e um de abertura do carrinho.
 
-Ficaram fora da mensagem e seguem no kanban: a data de início do preço especial e a LP no ar com Pixel até 20/11.
+Depois da mensagem, o Guilherme confirmou: o preço especial começa em 27/11, e a Julia sobe a LP até 20/11.
