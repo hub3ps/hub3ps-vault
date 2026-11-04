@@ -4,12 +4,11 @@ kanban-plugin: board
 
 ## A fazer
 
-- [ ] Mandar para a Julia a estratégia de lançamento e a sugestão de verba. Prometido para 04/11 #trafego-pago
-- [ ] Levantar o conteúdo do Instagram que serve para distribuição e para captação #criativos-e-audiovisual
-- [ ] Montar as campanhas de distribuição para seguidores e de captação de seguidores (EUA e Europa) #trafego-pago
+- [ ] Revisar a estratégia em `entregas/2026-11-04-estrategia-lancamento.md` e mandar para a Julia. Prometido para 04/11 #trafego-pago
+- [ ] Montar as campanhas da fase 1: distribuição para quem já segue (filtrada por país) e captação para a lista de espera #trafego-pago
 - [ ] Subir os primeiros anúncios #trafego-pago
 - [ ] Criar o público semelhante a partir da lista de compradores #trafego-pago
-- [ ] Decidir se o tráfego para a LP começa antes de 30/11, para aproveitar o preço de lançamento #trafego-pago
+- [ ] Pixel na lista de espera e na LP até 20/11, para o carrinho de 27 a 30/11 #tracking
 - [ ] Mandar para a Julia o checklist de publicação de site. Prometido em 26/10 #lp-e-site
 - [ ] Revisar o site e a LP com o checklist do playbook #lp-e-site
 - [ ] E-mail de suporte no domínio: migrar o Google Workspace do Wix ou usar o e-mail da Hostinger #lp-e-site
@@ -31,7 +30,8 @@ kanban-plugin: board
 - [ ] Arquivo do design system
 - [ ] Datas: lançamento, evento no RJ e viagem à Alemanha
 - [ ] Política de reembolso
-- [ ] Razão social e @ do Instagram
+- [ ] Razão social
+- [ ] Link e ferramenta da lista de espera, e se aceita Pixel
 
 
 ## Feito
@@ -40,6 +40,7 @@ kanban-plugin: board
 - [x] Parceiro desconhecido removido da BM (03/11)
 - [x] Lista de compradores do curso antigo recebida (04/11)
 - [x] Conversa, áudios e LP registrados no vault (04/11)
+- [x] Conteúdos do Instagram levantados para os anúncios (04/11)
 
 
 

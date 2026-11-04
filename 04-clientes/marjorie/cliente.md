@@ -21,7 +21,7 @@ autor: claude
 ---
 # Marjorie Andrade
 
-> **Estado atual:** fechado em 02/11 por WhatsApp, sem proposta nem contrato. A conta de anúncios em USD está pronta, com cartão, e ainda não tem campanha. Estratégia, verba e primeiros anúncios foram prometidos à Julia para 04/11. A LP do lançamento existe, mas não está publicada.
+> **Estado atual:** fechado em 02/11 por WhatsApp, sem proposta nem contrato. O lançamento é em 27/11, com lista de espera no ar e preço especial até 30/11. A conta de anúncios em USD está pronta e sem campanha. A estratégia e a verba estão em rascunho em `entregas/`, esperando o Guilherme.
 
 ## Quem é
 - **Negócio:** Marjorie é designer de CAD odontológico, técnica, educadora e KOL do exocad. Desenha em tempo integral desde 2020. O primeiro curso, "Mastering exocad" (2023), teve alunos em mais de 65 países.
@@ -61,7 +61,7 @@ Fechado em 02/11/2026. Antes, em 19 e 20/10, o acordo era fazer a LP e refazer o
 Nunca guarde senha aqui.
 
 - **Meta:** BM `767068190599024` ("Prisma ▵ Dental CAD Studio") e conta de anúncios `2540479789760330` ("ACCOUNT 01"), em USD, com cartão e liberada no MCP. Nenhuma campanha em 04/11. Convite da BM para `guilherme@hub3ps.com`
-- **Instagram:** TODO o @. Acesso pela Página vinculada
+- **Instagram:** @marjoriedentalcad (`17841401629187998`), Página `313272035194741`. Aparece nas contas de IG da conta de anúncios, mas a Página não aparece vinculada a ela (API, 04/11)
 - **Domínio:** na Hostinger. O site antigo está no Wix, com o Google Workspace comprado pelo Wix
 - **Site e LP novos:** feitos pela Julia e publicados por ela na Vercel. TODO: confirmar onde e com que conta
 - **Comunidade:** Circle
@@ -72,5 +72,6 @@ Nunca guarde senha aqui.
 - Log: [[04-clientes/marjorie/log|log]]
 - Briefing: [[04-clientes/marjorie/briefing|briefing]]
 - Fontes: [[2026-11-04-whatsapp-julia]] e [[2026-11-02-lp-zero-to-hero]]
+- Estratégia: [[2026-11-04-estrategia-lancamento]]
 - Campanhas: `campanhas/`
 - Drive: TODO

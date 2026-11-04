@@ -19,12 +19,14 @@ Status por bloco: ✅ fechado · 🟡 parcial · ⬜ vazio.
 - Julia Peixoto é a ponte: conversa com a gente e fez o site e a LP. A Marjorie põe o cartão (03/11, WhatsApp)
 - Grupo do WhatsApp com Guilherme, Julia e Marjorie desde 04/11
 - Empresa nos EUA, com cartão americano (03/11). A BM se chama "Prisma ▵ Dental CAD Studio"
-- ⬜ Razão social, quem aprova o quê, site atual e @ do Instagram
+- Instagram: @marjoriedentalcad, com legendas em inglês e português
+- ⬜ Razão social, quem aprova o quê e site atual
 
 ### 2. Oferta e preços 🟡
 - "exocad: Zero to Hero Circle", treinamento mais comunidade privada na Circle (02/11, WhatsApp)
 - Trimestral a US$ 900 (US$ 300 por mês) e anual a US$ 2.700 (US$ 225 por mês)
 - Preço de lançamento, de uns 2 dias antes da Black Friday até 30/11: trimestral a US$ 750 e anual a US$ 2.400
+- Lançamento em 27/11, com lista de espera no link da bio (Reels de 01/11 e 04/11). TODO: conferir com o "2 dias antes da Black Friday" da Julia
 - Inclui o curso (mais de 20 horas, em 3 níveis: Foundations, Awakening e Mastery), live semanal de dúvidas e revisão de casos, comunidade privada, biblioteca de STL, biblioteca de dentes e coaching 1:1 a US$ 150 por hora, em vez de US$ 250 (LP)
 - Cancela quando quiser, antes da renovação (LP)
 - ⬜ Reembolso e garantia
@@ -95,7 +97,7 @@ Por enquanto, nas palavras da LP e não do aluno:
 ---
 
 ## Pendências
-- [ ] Razão social e @ do Instagram
+- [ ] Razão social
 - [ ] Reembolso e garantia
 - [ ] Datas do lançamento, do evento no RJ e da viagem
 - [ ] Arquivo do design system
