@@ -5,10 +5,12 @@ kanban-plugin: board
 ## A fazer
 
 - [ ] Revisar a estratégia em `entregas/2026-11-04-estrategia-lancamento.md` e mandar para a Julia. Prometido para 04/11 #trafego-pago
-- [ ] Montar as campanhas da fase 1: distribuição para quem já segue (filtrada por país) e captação para a lista de espera #trafego-pago
+- [ ] Criar os públicos: engajamento com o perfil em 365 dias, quem viu 50% do vídeo do curso e a lista de compradores #trafego-pago
+- [ ] Montar a fase 1: captação de seguidores para o perfil e distribuição do vídeo do curso para a base #trafego-pago
+- [ ] Montar o lembrete para a lista de espera (25 e 26/11) e o carrinho na LP (27 a 30/11) #trafego-pago
 - [ ] Subir os primeiros anúncios #trafego-pago
 - [ ] Criar o público semelhante a partir da lista de compradores #trafego-pago
-- [ ] Pixel na lista de espera e na LP até 20/11, para o carrinho de 27 a 30/11 #tracking
+- [ ] Pixel na LP até 20/11, para o carrinho de 27 a 30/11 #tracking
 - [ ] Mandar para a Julia o checklist de publicação de site. Prometido em 26/10 #lp-e-site
 - [ ] Revisar o site e a LP com o checklist do playbook #lp-e-site
 - [ ] E-mail de suporte no domínio: migrar o Google Workspace do Wix ou usar o e-mail da Hostinger #lp-e-site
@@ -31,7 +33,8 @@ kanban-plugin: board
 - [ ] Datas: lançamento, evento no RJ e viagem à Alemanha
 - [ ] Política de reembolso
 - [ ] Razão social
-- [ ] Link e ferramenta da lista de espera, e se aceita Pixel
+- [ ] Link da lista de espera (até 20/11)
+- [ ] Conteúdo de lembrete e de carrinho gravado antes da viagem (até 16/11)
 
 
 ## Feito
