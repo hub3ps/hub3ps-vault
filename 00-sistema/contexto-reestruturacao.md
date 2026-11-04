@@ -111,7 +111,7 @@ recente de 5 delas.
 | Cliente | O que existe | Onde está hoje |
 |---|---|---|
 | Mobiletec · JurIA | Tráfego Meta (conta `1465935581974017`), LPs (repo `juria-lps`), site novo em Astro (branch `feat/site-astro`, 60 commits fora da main), criativos estáticos e vídeo (Remotion), Instagram orgânico, influencer virtual Helena, tracking (GTM, GA4, consentimento), e-mail do trial, hub `juria.hub3ps.com`, painel de funil, impressos (flyer OAB, banner) | `clients/juria/` |
-| Mobiletec · institucional | Vídeo de abertura para evento (sexta versão) | Branch `claude/loving-archimedes-rp33cv` (36 commits fora da main) |
+| Mobiletec | Site institucional em Astro e vídeo institucional para evento (sexta versão) | Branch `claude/loving-archimedes-rp33cv` (36 commits fora da main) |
 | DS Muay Thai Squad | Tráfego Meta (conta `800990442489726`, USD), LP de trial e página da bio no ar, hub `dsmuaythai.hub3ps.com`, reposicionamento e simulador do Instagram | `clients/dsmuaythai/` |
 | Apex | Agente de IA "Laura" no WhatsApp; checkout de pagamento exige conta PJ | `clients/apex/` |
 | Liliane Fontenele (vereadora, Itajaí) | Proposta de automação do gabinete enviada em 21/10 (contato: Diego). A Meta proíbe políticos de usar a API do WhatsApp Business | Branch `claude/admiring-allen-xbjdup`, fora da main |
@@ -133,7 +133,7 @@ CompleteRegistration, e posicionamento), Hub JurIA, site pessoal, rotinas
 (QR da Evolution), estratégia de e-mail do JurIA.
 
 **Desatualizado no repo antigo:** `CLAUDE.md` e `clients/README.md` não citam
-Liliane nem Mobiletec institucional.
+Liliane nem a Mobiletec.
 
 ## 6. Próximos passos
 1. **Migrar cliente por cliente**, começando pela Mobiletec (JurIA e

@@ -18,7 +18,7 @@ autor: claude
 
 > **Estado atual:** duas campanhas Meta no ar (API, 04/11/2026): a de Lead, a R$ 42/dia, avaliada em 13/11, e a de vídeos, em que só o conjunto da locução roda porque o da música está pausado. O gargalo é a ativação: só 19% dos escritórios importam processos e não houve nenhuma assinatura até 29/10. O site novo em Astro foi revisado pela Mobiletec em 23/10 e continua fora da main, sem data de troca.
 
-Mesma empresa do cliente [[04-clientes/mobiletec/cliente|Mobiletec institucional]], que tem pasta própria. Decisão do Guilherme em 04/11/2026.
+Mesma empresa do cliente [[04-clientes/mobiletec/cliente|Mobiletec]], que tem pasta própria. Decisão do Guilherme em 04/11/2026.
 
 ## Quem é
 - **Negócio:** a Mobiletec é uma software house de Itajaí/SC fundada em 1999. O JurIA é um produto dela: uma plataforma jurídica com IA (gestão de processos, prazos, financeiro, NFS-e, jurimetria) e com a Jú, uma secretária no WhatsApp.

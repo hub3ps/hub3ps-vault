@@ -14,6 +14,6 @@ Formato: `- AAAA-MM-DD · <escopo: geral, cliente ou serviço> · <a regra>. Mot
 - 2026-11-03 · geral · Antes de construir, validar a estrutura com o Guilherme. Motivo: ele revisa com calma antes de qualquer execução.
 
 ## Por cliente
-- 2026-11-04 · juria e mobiletec · JurIA e Mobiletec institucional são dois clientes, com uma pasta cada, mesmo sendo a mesma empresa. Motivo: o slug `juria` já está no repo, nas campanhas e nas UTMs, e a regra é o slug igual em todo lugar.
+- 2026-11-04 · juria e mobiletec · JurIA e Mobiletec são dois clientes, com uma pasta cada, mesmo sendo a mesma empresa. O cliente da marca se chama só "Mobiletec". Motivo: o slug `juria` já está no repo, nas campanhas e nas UTMs, e a regra é o slug igual em todo lugar.
 
 ## Por serviço

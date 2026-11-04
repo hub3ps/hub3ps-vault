@@ -13,8 +13,8 @@ Uma pasta por cliente, com o slug igual ao do Drive e do repositório:
 └── entregas/       ← briefs, estratégias, copies, documentos de entrega
 ```
 
-JurIA e Mobiletec institucional são dois clientes, com uma pasta cada: `juria`
+JurIA e Mobiletec são dois clientes, com uma pasta cada: `juria`
 e `mobiletec` (decisão do Guilherme, 04/11/2026).
 
-Migração do repo `agencia_marketing`: juria feito em 04/11/2026. Pendentes:
-mobiletec, dsmuaythai, apex, liliane, usivic e hub3ps (cliente 0).
+Migração do repo `agencia_marketing`: juria e mobiletec feitos em 04/11/2026.
+Pendentes: dsmuaythai, apex, liliane, usivic e hub3ps (cliente 0).

@@ -1,5 +1,7 @@
 ---
+
 kanban-plugin: board
+
 ---
 
 ## A fazer
@@ -49,8 +51,10 @@ kanban-plugin: board
 - [x] Sequência de e-mails do trial avaliada: inconclusiva
 
 
+
+
 %% kanban:settings
 ```
-{"kanban-plugin":"board"}
+{"kanban-plugin":"board","list-collapse":[null,false]}
 ```
 %%
