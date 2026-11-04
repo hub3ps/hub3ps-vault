@@ -27,6 +27,7 @@ Decidido pelo Guilherme em 04/11/2026: [[trafego-pago]], [[criativos-e-audiovisu
 - **Mensal:** estratégia, tráfego na Meta, roteiros e edição de vídeos, relatório quinzenal e suporte.
 - **Cronograma:** aquecimento da base até 26/11, oferta de Black Friday de 27 a 30/11, funil contínuo a partir de dezembro e captação para o workshop em janeiro.
 - **Fora do escopo:** Google Ads, a loja e o catering.
+- **Visual:** preto e branco, na linha do guimiguel.site, sem ícones nem laranja (pedido do Guilherme em 04/11).
 - **Depois:** comunidade por assinatura e agente de IA.
 
 ## Opções e valores
@@ -37,10 +38,11 @@ Decidido pelo Guilherme em 04/11/2026: [[trafego-pago]], [[criativos-e-audiovisu
 A verba de mídia é paga direto à Meta pelo cliente. Piso para negociar: TODO.
 
 ## Arquivos
-- Fonte HTML: [[churrascodaelite-2026-11.html]]
+- Fonte HTML: [[churrascodaelite-2026-11.html]]. Usa a logo preta, a foto e a fonte Inter Tight do site do Guilherme (`~/Desktop/site-guimiguelmkt/assets/`). Para gerar o PDF, copie esses três arquivos para a mesma pasta do HTML
 - PDF: TODO, subir no Drive
 
 ## Histórico
 - 2026-11-03 · Call de diagnóstico. O Lucas ficou de mandar o link da página de vendas e os criativos que já venderam
 - 2026-11-04 · Proposta montada em PDF, no visual da proposta da Usivic
 - 2026-11-04 · Revisão do Guilherme: o setup caiu para 500 €. Saíram a gravação e o workshop do "não incluso", por serem óbvios. O "Quem somos" virou "Quem sou", sobre o Guilherme (8 anos, mais de R$ 15 milhões administrados e mais de 7 dígitos com infoprodutos, segundo guimiguel.site e o Guilherme). Entrou um quadro com as melhorias da página do curso (churracodaelitept.com): provas sem nome, garantia sem prazo, "qualquer país" contra mentoria só em Portugal, falta de urgência e o título "Churraso".
+- 2026-11-04 · Segunda revisão: a capa diz "Lucas / Churrasco da Elite". Saiu o quadro de melhorias da página, porque a proposta não entrega diagnóstico de graça. Visual refeito, limpo, em preto e branco, com a logo preta da Hub3Ps, a fonte do site e a foto do Guilherme
