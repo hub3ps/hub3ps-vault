@@ -15,6 +15,7 @@ atualizado: 2026-11-03
 | Google Drive | Arquivos pesados: fotos, vídeos e PDFs, em `Hub3Ps/Clientes/<slug>/` |
 | Miro | Só para desenhar estrutura |
 | Supabase | Só dentro dos agentes de IA de clientes |
+| Composio | Publica no Instagram (feed, carrossel, Reels e Stories) por conta conectada. Em 04/11/2026 só a @guimiguelmkt está conectada; cada cliente precisa conectar a própria conta, que deve ser profissional. Toda publicação passa pelo ok do Guilherme |
 
 ## Onde os arquivos vivem
 - No Mac: cópia de trabalho do vault
