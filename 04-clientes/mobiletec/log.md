@@ -6,6 +6,11 @@ autor: claude
 
 A entrada mais recente fica no topo, uma por sessão de trabalho.
 
+### 2026-11-04 · Doc de coleta para finalizar o site
+- **O que fiz:** levantei o que falta no site a partir da branch `claude/loving-archimedes-rp33cv` (brief, `ESTADO-site-astro.md`, `site.ts`, `home.ts`, `projetos.ts`) e das respostas da Mobiletec ao briefing do vídeo. Criei o Google Doc "Site Mobiletec - Informações para finalizar", na pasta 9. Mobiletec do Drive, no formato do doc do vídeo: ajustes que vamos fazer, o que já está no site para confirmar, 13 perguntas, uma ficha por case (4) e materiais. Link: https://docs.google.com/document/d/1FITwo6paVcO1B-wufKoII8v3ize7ewiOah5GV3jwNIA/edit
+- **O que achei:** o pedido do Fábio (30/10, "3 referências seguidas sobre fundação") é a home repetir a fundação em três blocos seguidos: abertura ("há mais de 25 anos" e "Desde 2000"), números ("ano de fundação") e linha do tempo ("Desde 2000"). O site ainda mostra a Vibra Energia, e o vídeo já usa a Vibra Foods. O ano 1999 do vídeo veio do nosso doc, e a Mobiletec não corrigiu, então segue sem confirmação.
+- **Próximo passo:** o Guilherme compartilha o doc com a Mobiletec. O ajuste da fundação e a troca da Vibra no site ficam no kanban.
+
 ### 2026-11-04 · Migração da Mobiletec para o vault
 - **O que fiz:** criei a nota do cliente, o kanban e este log, a partir da branch `claude/loving-archimedes-rp33cv` do `agencia_marketing`. Conferi que o site está no ar e com `noindex`. O repo ficou intocado.
 - **Resultado em:** `04-clientes/mobiletec/`

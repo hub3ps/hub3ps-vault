@@ -4,6 +4,9 @@ kanban-plugin: board
 
 ## A fazer
 
+- [ ] Mandar à Mobiletec o doc "Site Mobiletec - Informações para finalizar" (Drive, pasta 9. Mobiletec) #lp-e-site
+- [ ] Tirar a fundação repetida da home: deixar só na abertura, como pediu o Fábio em 30/10 #lp-e-site
+- [ ] Trocar a Vibra Energia pela Vibra Foods no site, como no vídeo #lp-e-site
 - [ ] Alinhar o ano de fundação entre o vídeo (1999) e o site (2000), depois da confirmação da Mobiletec #lp-e-site
 - [ ] Trazer a branch `claude/loving-archimedes-rp33cv` para a main (36 commits fora). Antes, trocar a branch de produção do projeto `site-mobiletec` na Vercel #lp-e-site
 - [ ] Definir o domínio e a data de lançamento do site, e então tirar o `noindex` #lp-e-site
@@ -21,7 +24,9 @@ kanban-plugin: board
 - [ ] Aprovação da sexta versão do vídeo, entregue em 27/10
 - [ ] Logo em SVG, nas versões clara e escura, e as cores oficiais
 - [ ] Domínio definitivo do site
-- [ ] Conteúdo das 4 páginas de projeto (JBS, Copacol, Grupo Pluma e Minerva Foods)
+- [ ] Cases: quais empresas, e o conteúdo de cada página (doc de 04/11)
+- [ ] Produtos próprios no site (Flowee, Hub de Certificação, VendeAI, RoterizAI) e se o JurIA continua
+- [ ] Logo da Vibra Foods
 - [ ] Números de operação
 - [ ] Órgãos públicos citáveis, com logo
 - [ ] WhatsApp comercial
