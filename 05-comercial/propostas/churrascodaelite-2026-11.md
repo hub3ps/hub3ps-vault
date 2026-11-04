@@ -2,7 +2,7 @@
 tipo: proposta
 cliente: churrascodaelite
 etapa: proposta-enviada
-valor: setup 800 €, 500 € por mês e 10% das vendas líquidas
+valor: setup 500 €, 500 € por mês e 10% das vendas líquidas
 enviada-em: TODO (apresentar na próxima reunião)
 proximo-passo: apresentar na reunião de quarta ou quinta (05 ou 06/11)
 atualizado: 2026-11-04
@@ -11,7 +11,7 @@ autor: claude
 # Proposta Churrasco da Elite
 
 ## Diagnóstico
-Call de 03/11/2026 com o Lucas, dono do Churrasco da Elite (GRUPO CHURRASCODAELITE LDA). A transcrição do Gemini está no Drive do Guilherme: "Reunião iniciada às 2026/11/03 15:36". Ele foi indicado pelo Jimmy, da Usivic.
+Call de 03/11/2026 com o Lucas Oliveira, dono do Churrasco da Elite (GRUPO CHURRASCODAELITE LDA). A transcrição do Gemini está no Drive do Guilherme: "Reunião iniciada às 2026/11/03 15:36". Ele foi indicado pelo Jimmy, da Usivic.
 
 - **Negócio:** eventos e catering de churrasco brasileiro em Portugal (Lisboa, Porto e Algarve), com loja em churrascodaelite.pt. Está em Portugal há 10 anos e se diz pioneiro. Tem também uma empresa de obras com o irmão.
 - **Produto:** o workshop presencial gravado virou o curso "Faturando com Churrasco", na Hotmart, a 97 €. Teve uma venda, de um comprador do Brasil, e o link fica só na bio, sem divulgação.
@@ -26,13 +26,13 @@ Decidido pelo Guilherme em 04/11/2026: [[trafego-pago]], [[criativos-e-audiovisu
 - **Setup:** diagnóstico da base, revisão da página de Portugal e página do Brasil, tracking com Pixel e Hotmart, estrutura de dois funis (Portugal e Brasil), calendário de roteiros e primeiros criativos.
 - **Mensal:** estratégia, tráfego na Meta, roteiros e edição de vídeos, relatório quinzenal e suporte.
 - **Cronograma:** aquecimento da base até 26/11, oferta de Black Friday de 27 a 30/11, funil contínuo a partir de dezembro e captação para o workshop em janeiro.
-- **Fora do escopo:** gravação, operação do workshop, Google Ads, a loja e o catering.
+- **Fora do escopo:** Google Ads, a loja e o catering.
 - **Depois:** comunidade por assinatura e agente de IA.
 
 ## Opções e valores
 | Opção | Setup | Mensal | Variável | Prazo mínimo |
 |---|---|---|---|---|
-| Única | 800 € (50% no aceite e 50% na entrega) | 500 € | 10% do faturamento líquido do curso e da mentoria | TODO |
+| Única | 500 € (50% no aceite e 50% na entrega) | 500 € | 10% do faturamento líquido do curso e da mentoria | TODO |
 
 A verba de mídia é paga direto à Meta pelo cliente. Piso para negociar: TODO.
 
@@ -43,3 +43,4 @@ A verba de mídia é paga direto à Meta pelo cliente. Piso para negociar: TODO.
 ## Histórico
 - 2026-11-03 · Call de diagnóstico. O Lucas ficou de mandar o link da página de vendas e os criativos que já venderam
 - 2026-11-04 · Proposta montada em PDF, no visual da proposta da Usivic
+- 2026-11-04 · Revisão do Guilherme: o setup caiu para 500 €. Saíram a gravação e o workshop do "não incluso", por serem óbvios. O "Quem somos" virou "Quem sou", sobre o Guilherme (8 anos, mais de R$ 15 milhões administrados e mais de 7 dígitos com infoprodutos, segundo guimiguel.site e o Guilherme). Entrou um quadro com as melhorias da página do curso (churracodaelitept.com): provas sem nome, garantia sem prazo, "qualquer país" contra mentoria só em Portugal, falta de urgência e o título "Churraso".
