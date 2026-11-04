@@ -1,0 +1,416 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="UTF-8">
+<title>Proposta Comercial · Churrasco da Elite · Hub3Ps</title>
+<style>
+  @page { size: A4; margin: 16mm 15mm; }
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+  html { -webkit-print-color-adjust: exact; print-color-adjust: exact; }
+  body {
+    font-family: -apple-system, "Helvetica Neue", Arial, sans-serif;
+    color: #3a3a38;
+    font-size: 10.5pt;
+    line-height: 1.62;
+    background: #ffffff;
+  }
+  h1, h2, h3, .serif { font-family: Georgia, "Times New Roman", serif; }
+
+  /* ---- section scaffolding ---- */
+  .eyebrow {
+    display: inline-block;
+    font-size: 8pt;
+    letter-spacing: 0.2em;
+    text-transform: uppercase;
+    color: #C2700A;
+    font-weight: 700;
+    margin-bottom: 8px;
+  }
+  h2.section-title {
+    font-size: 20pt;
+    color: #1d1d1b;
+    font-weight: 700;
+    line-height: 1.18;
+    margin-bottom: 4px;
+  }
+  .title-rule {
+    width: 42px; height: 3px; border-radius: 3px;
+    background: linear-gradient(90deg, #C2700A, #e3a64e);
+    margin: 10px 0 16px;
+  }
+  section { margin-bottom: 34px; }
+  p { margin-bottom: 10px; }
+  strong { color: #1d1d1b; }
+  .lead { color: #55554f; }
+
+  /* ---- Cover ---- */
+  .cover {
+    page-break-after: always;
+    position: relative;
+    overflow: hidden;
+    min-height: 256mm;
+    display: flex;
+    flex-direction: column;
+    background:
+      radial-gradient(130% 90% at 100% 0%, #fff7e9 0%, rgba(255,255,255,0) 55%),
+      radial-gradient(120% 80% at 0% 100%, #fdf4ea 0%, rgba(255,255,255,0) 50%),
+      #ffffff;
+    border: 1px solid #efe9db;
+    border-radius: 16px;
+    padding: 46px 44px 40px;
+  }
+  .cover::before {
+    content: "";
+    position: absolute; top: 0; left: 0; right: 0; height: 6px;
+    background: linear-gradient(90deg, #C2700A 0%, #e3a64e 55%, #f0c98a 100%);
+  }
+  .cover::after {
+    content: "";
+    position: absolute; right: -120px; bottom: -120px;
+    width: 360px; height: 360px; border-radius: 50%;
+    background: radial-gradient(circle, rgba(194,112,10,0.06) 0%, rgba(194,112,10,0) 70%);
+  }
+  .brandmark {
+    font-family: Georgia, serif; font-weight: 700; font-size: 13pt;
+    color: #1d1d1b; letter-spacing: 0.02em; margin-bottom: 40px;
+  }
+  .brandmark span { color: #C2700A; }
+  .cover .eyebrow { font-size: 9pt; background: #fbf1e1; padding: 5px 11px; border-radius: 20px; }
+  .cover h1 {
+    font-size: 40pt;
+    color: #19170f;
+    line-height: 1.1;
+    margin: 14px 0 18px;
+    letter-spacing: -0.01em;
+  }
+  .cover .sub { font-size: 13pt; color: #6b6b63; max-width: 80%; line-height: 1.5; }
+  .cover .spacer { flex: 1; }
+  .cover .divider { border: none; border-top: 1px solid #ece5d6; margin-bottom: 24px; }
+  .meta-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 22px 28px; }
+  .meta-grid .label {
+    font-size: 7.5pt; letter-spacing: 0.16em; text-transform: uppercase;
+    color: #b1aa97; font-weight: 700; margin-bottom: 4px;
+  }
+  .meta-grid .val { font-size: 11.5pt; color: #2a2a27; }
+  .meta-grid .val small { font-size: 9.5pt; color: #837e72; }
+
+  /* ---- bullet lists ---- */
+  ul.clean { list-style: none; }
+  ul.clean li { position: relative; padding-left: 20px; margin-bottom: 9px; }
+  ul.clean li::before {
+    content: ""; position: absolute; left: 0; top: 7px;
+    width: 7px; height: 7px; border-radius: 50%;
+    background: #e3a64e; box-shadow: 0 0 0 3px rgba(227,166,78,0.16);
+  }
+
+  /* ---- numbered flow (Como funciona) ---- */
+  .flow { display: flex; flex-direction: column; gap: 10px; }
+  .flow .step { display: flex; gap: 14px; align-items: flex-start; }
+  .flow .sn {
+    flex: 0 0 26px; width: 26px; height: 26px; border-radius: 50%;
+    background: #C2700A; color: #fff; font-weight: 700; font-size: 9.5pt;
+    display: flex; align-items: center; justify-content: center;
+  }
+  .flow .st { padding-top: 2px; }
+
+  /* ---- icon cards ---- */
+  .cards { display: flex; flex-direction: column; gap: 11px; }
+  .card {
+    display: flex; gap: 14px; align-items: flex-start;
+    border: 1px solid #ecebe3; border-radius: 12px;
+    padding: 14px 16px; background: #fffefb;
+    page-break-inside: avoid;
+    box-shadow: 0 1px 2px rgba(40,38,30,0.03);
+  }
+  .ic {
+    flex: 0 0 40px; width: 40px; height: 40px; border-radius: 11px;
+    display: flex; align-items: center; justify-content: center;
+    font-size: 16pt; line-height: 1;
+  }
+  .ic.blue   { background: #eef4fb; color: #3b7bc4; }
+  .ic.green  { background: #edf7f0; color: #2f8f5b; }
+  .ic.amber  { background: #fbf2e3; color: #C2700A; }
+  .ic.purple { background: #f1eefb; color: #6d5bd0; }
+  .card .ct { font-weight: 700; color: #1d1d1b; font-size: 10.6pt; margin-bottom: 2px; }
+  .card .cd { color: #565650; font-size: 9.8pt; line-height: 1.5; }
+  .card .ct .tagb { color: #C2700A; font-weight: 600; font-size: 9pt; }
+
+  /* ---- callout ---- */
+  .callout {
+    background: linear-gradient(90deg, #fbf6ec, #fdfbf6);
+    border-left: 3px solid #C2700A; border-radius: 8px;
+    padding: 13px 16px; color: #5c544a; font-size: 10pt; margin-top: 6px;
+  }
+  .callout em { color: #8a6b3a; font-style: italic; }
+
+  /* ---- generic boxes ---- */
+  .box { border: 1px solid #ecebe3; border-radius: 12px; padding: 18px 20px; background: #fffefb; box-shadow: 0 1px 2px rgba(40,38,30,0.03); }
+  .box.tint { background: linear-gradient(180deg, #fffaf1, #fffefb); border-color: #f0e4cf; }
+  .box.excl { background: #fdf6f5; border-color: #f3dedd; }
+  .box.excl ul.clean li { padding-left: 22px; }
+  .box.excl ul.clean li::before {
+    content: "✕"; background: none; box-shadow: none;
+    width: auto; height: auto; border-radius: 0;
+    top: 1px; left: 0; color: #c0564f; font-size: 9pt; font-weight: 700;
+  }
+
+  /* ---- timeline ---- */
+  .timeline { position: relative; }
+  .tl-item { display: flex; gap: 18px; padding-bottom: 20px; position: relative; }
+  .tl-item:last-child { padding-bottom: 0; }
+  .tl-item::before {
+    content: ""; position: absolute; left: 17px; top: 36px; bottom: 0;
+    width: 2px; background: #f0e7d6;
+  }
+  .tl-item:last-child::before { display: none; }
+  .tl-num {
+    flex: 0 0 36px; width: 36px; height: 36px; border-radius: 50%;
+    background: #fbf1e1; color: #C2700A; border: 2px solid #f3ddb8;
+    font-weight: 700; font-size: 10pt;
+    display: flex; align-items: center; justify-content: center; z-index: 1;
+  }
+  .tl-body { padding-top: 3px; }
+  .tl-wk { font-weight: 700; color: #C2700A; font-size: 9.5pt; letter-spacing: 0.04em; margin-bottom: 1px; text-transform: uppercase; }
+  .tl-desc { color: #4a4a46; font-size: 10pt; }
+
+  /* ---- pricing ---- */
+  .prices { display: grid; grid-template-columns: 1fr 1fr; gap: 16px; align-items: start; }
+  .plan {
+    border: 1px solid #e7e5db; border-radius: 14px; padding: 22px 20px 24px;
+    background: #fffefb; page-break-inside: avoid; box-shadow: 0 2px 6px rgba(40,38,30,0.04);
+  }
+  .plan.reco {
+    border: 2px solid #C2700A; position: relative;
+    background: linear-gradient(180deg, #fffdf6, #fffefb);
+    box-shadow: 0 4px 14px rgba(194,112,10,0.10);
+  }
+  .plan .tag {
+    position: absolute; top: -11px; right: 18px;
+    background: linear-gradient(90deg,#C2700A,#d98a2b); color: #fff;
+    font-size: 7pt; letter-spacing: 0.14em; font-weight: 700;
+    text-transform: uppercase; padding: 5px 11px; border-radius: 20px;
+    box-shadow: 0 2px 6px rgba(194,112,10,0.25);
+  }
+  .plan .pname { font-size: 8.5pt; letter-spacing: 0.12em; text-transform: uppercase; color: #b1aa97; font-weight: 700; margin-bottom: 10px; }
+  .plan .price { font-family: Georgia, serif; font-size: 23pt; color: #19170f; line-height: 1.1; }
+  .plan .price small { font-size: 10.5pt; color: #837e72; font-family: -apple-system, sans-serif; }
+  .plan .price2 { font-size: 11pt; color: #555; margin-bottom: 15px; padding-bottom: 14px; border-bottom: 1px solid #efe9da; }
+  .plan ul { list-style: none; }
+  .plan ul li { position: relative; padding-left: 22px; margin-bottom: 9px; font-size: 9.7pt; line-height: 1.45; }
+  .plan ul li.y::before { content: "✓"; position: absolute; left: 0; top: 0; color: #2f8f5b; font-weight: 700; }
+  .plan ul li.n::before { content: "✕"; position: absolute; left: 0; top: 0; color: #c0564f; font-weight: 700; }
+  .plan ul li.n { color: #7a746c; }
+
+  /* ---- accent condition callouts ---- */
+  .cond { display: flex; flex-direction: column; gap: 10px; margin-top: 16px; }
+  .cond-item { border-radius: 10px; padding: 13px 16px; font-size: 9.8pt; line-height: 1.5; }
+  .cond-item .ch { display: block; font-weight: 700; color: #1d1d1b; margin-bottom: 2px; font-size: 9.5pt; }
+  .cond-amber { background: #fcf7ee; border-left: 3px solid #C2700A; }
+  .cond-blue  { background: #eff5fb; border-left: 3px solid #3b7bc4; }
+
+  /* ---- footer ---- */
+  .footer {
+    margin-top: 30px; padding-top: 16px; border-top: 1px solid #ece5d6;
+    text-align: center; color: #aaa493; font-size: 8.5pt; letter-spacing: 0.06em;
+  }
+  .avoid { page-break-inside: avoid; }
+  .break { page-break-before: always; }
+  .prices3 { display: grid; grid-template-columns: 1fr 1fr 1fr; gap: 14px; align-items: stretch; }
+  .prices3 .plan { padding: 18px 16px 18px; }
+  .prices3 .plan .price { font-size: 21pt; }
+  .prices3 .plan .price2 { font-size: 9.6pt; color: #6b6b63; margin-bottom: 12px; padding-bottom: 12px; }
+</style>
+</head>
+<body>
+
+<!-- ===================== COVER ===================== -->
+<div class="cover">
+  <div class="brandmark">Hub<span>3</span>Ps</div>
+  <div class="eyebrow">Proposta Comercial</div>
+  <h1>Lançamento e funil<br>do Faturando com Churrasco</h1>
+  <div class="sub">Estratégia, tráfego, criativos e página para vender o curso em Portugal e no Brasil, e encher o workshop presencial de fevereiro</div>
+  <div class="spacer"></div>
+  <hr class="divider">
+  <div class="meta-grid">
+    <div>
+      <div class="label">Preparado para</div>
+      <div class="val">Churrasco da Elite<br><small>a/c Lucas</small></div>
+    </div>
+    <div>
+      <div class="label">Preparado por</div>
+      <div class="val">Guilherme Miguel<br><small>Hub3Ps</small></div>
+    </div>
+    <div>
+      <div class="label">Data</div>
+      <div class="val">4 de novembro de 2026</div>
+    </div>
+    <div>
+      <div class="label">Validade</div>
+      <div class="val">30 dias</div>
+    </div>
+  </div>
+</div>
+
+<!-- ===================== CONTEXTO ===================== -->
+<section>
+  <span class="eyebrow">01 · Contexto</span>
+  <h2 class="section-title">Entendimento do cenário</h2>
+  <div class="title-rule"></div>
+  <p class="lead">O Churrasco da Elite foi pioneiro em eventos de churrasco brasileiro em Portugal, com quase 10 anos de estrada. O workshop presencial, gravado com a sala cheia, virou o curso <strong>Faturando com Churrasco</strong>, na Hotmart, a 97 €. O produto existe, o público existe, mas a venda ainda não começou:</p>
+  <ul class="clean">
+    <li><strong>O curso só está no link da bio.</strong> Não houve divulgação, e saiu uma venda, de um comprador do Brasil.</li>
+    <li><strong>A base é real e responde.</strong> Os seguidores são orgânicos, puxados por um vídeo que passou de 15 milhões de visualizações, e os stories chegam a 800 a 1.500 visualizações.</li>
+    <li><strong>A procura vem de vários países.</strong> Chegam mensagens de Portugal, Brasil, Itália, Irlanda e Espanha.</li>
+    <li><strong>O conteúdo depende só do Lucas.</strong> Os vídeos são bons e gravados no celular, mas não há calendário de roteiros nem teste do que vende mais.</li>
+    <li><strong>A concorrência começou a aparecer.</strong> É a hora de ocupar o espaço de quem chegou primeiro.</li>
+  </ul>
+  <p style="margin-top:12px;">O objetivo desta proposta é <strong>colocar o curso para vender</strong>: primeiro para a base que já existe, na Black Friday, e depois num funil contínuo que capta seguidores novos, aquece com conteúdo e converte. Os alunos do curso alimentam o workshop presencial de fevereiro e, a partir dele, a mentoria.</p>
+</section>
+
+<!-- ===================== ESTRATÉGIA ===================== -->
+<section class="avoid break">
+  <span class="eyebrow">02 · Estratégia</span>
+  <h2 class="section-title">Da base atual ao funil contínuo</h2>
+  <div class="title-rule"></div>
+  <p class="lead">Público frio que nunca viu o Lucas raramente compra direto na página de vendas. Por isso o funil começa no conteúdo:</p>
+  <div class="flow">
+    <div class="step"><div class="sn">1</div><div class="st"><strong>Conteúdo:</strong> os vídeos do Lucas, falados e de eventos, alternando ensino e autoridade.</div></div>
+    <div class="step"><div class="sn">2</div><div class="st"><strong>Distribuição:</strong> anúncios em cima dos melhores conteúdos, para trazer seguidores novos e qualificados.</div></div>
+    <div class="step"><div class="sn">3</div><div class="st"><strong>Nutrição:</strong> quem chegou consome o conteúdo, conhece a didática e confia no Lucas.</div></div>
+    <div class="step"><div class="sn">4</div><div class="st"><strong>Remarketing:</strong> anúncios do curso para quem já engajou, levando à página de vendas.</div></div>
+    <div class="step"><div class="sn">5</div><div class="st"><strong>Próximo passo:</strong> quem comprou o curso é convidado para o workshop presencial e, depois, para a mentoria.</div></div>
+  </div>
+  <div class="cards" style="margin-top:18px;">
+    <div class="card"><div class="ic amber" style="font-size:10pt;font-weight:700;">PT</div><div><div class="ct">Funil Portugal</div><div class="cd">Foco regional (Lisboa, Porto e Algarve): curso online agora e captação para o workshop presencial de fevereiro.</div></div></div>
+    <div class="card"><div class="ic green" style="font-size:10pt;font-weight:700;">BR</div><div><div class="ct">Funil Brasil</div><div class="cd">Página e campanhas separadas, só para o curso online, sem misturar o público com o do workshop presencial.</div></div></div>
+  </div>
+  <div class="callout"><em>Antes de escalar, testamos: os conteúdos que já existem vão para os anúncios, e os números mostram o que traz público bom e o que vende.</em></div>
+</section>
+
+<!-- ===================== SETUP ===================== -->
+<section class="avoid break">
+  <span class="eyebrow">03 · Setup · Investimento único</span>
+  <h2 class="section-title">Estruturação</h2>
+  <div class="title-rule"></div>
+  <div class="cards">
+    <div class="card"><div class="ic blue">◎</div><div><div class="ct">Diagnóstico da base e do Instagram</div><div class="cd">Quem são os seguidores, de onde vêm, quais conteúdos performam e o que dá para vender para essa base já.</div></div></div>
+    <div class="card"><div class="ic amber">▣</div><div><div class="ct">Página de vendas</div><div class="cd">Revisão da página de Portugal (promessa, provas, oferta e chamada) e uma versão separada para o Brasil.</div></div></div>
+    <div class="card"><div class="ic purple">⚙</div><div><div class="ct">Tracking</div><div class="cd">Pixel da Meta, eventos de compra da Hotmart e UTMs, para saber qual anúncio e qual conteúdo vendeu.</div></div></div>
+    <div class="card"><div class="ic green">▦</div><div><div class="ct">Estrutura de campanhas</div><div class="cd">Contas, públicos e campanhas dos dois funis, com remarketing de quem engajou e de quem visitou a página.</div></div></div>
+    <div class="card"><div class="ic blue">✎</div><div><div class="ct">Calendário de roteiros e primeiros criativos</div><div class="cd">Plano de gravação com temas e formatos, e o primeiro lote de anúncios feito com os vídeos que já existem.</div></div></div>
+  </div>
+</section>
+
+<!-- ===================== MENSAL ===================== -->
+<section class="avoid break">
+  <span class="eyebrow">04 · Mensal</span>
+  <h2 class="section-title">Operação contínua</h2>
+  <div class="title-rule"></div>
+  <div class="cards">
+    <div class="card"><div class="ic amber">◎</div><div><div class="ct">Estratégia</div><div class="cd">Plano do mês, ofertas e datas (Black Friday, abertura do workshop, mentoria), sempre alinhados com o Lucas.</div></div></div>
+    <div class="card"><div class="ic blue">⚙</div><div><div class="ct">Gestão de tráfego</div><div class="cd">Criação, testes e otimização das campanhas de Portugal e do Brasil na Meta (Instagram e Facebook).</div></div></div>
+    <div class="card"><div class="ic purple">✎</div><div><div class="ct">Roteiros e edição de criativos</div><div class="cd">Roteiros do mês e edição dos vídeos que o Lucas grava, prontos para anúncio.</div></div></div>
+    <div class="card"><div class="ic green">▦</div><div><div class="ct">Relatórios</div><div class="cd">Relatório quinzenal com investimento, seguidores novos, visitas à página, vendas e próximos passos.</div></div></div>
+    <div class="card"><div class="ic blue">✆</div><div><div class="ct">Suporte</div><div class="cd">Canal direto pelo WhatsApp.</div></div></div>
+  </div>
+</section>
+
+<!-- ===================== CRONOGRAMA ===================== -->
+<section class="avoid break">
+  <span class="eyebrow">05 · Cronograma</span>
+  <h2 class="section-title">Linha do tempo</h2>
+  <div class="title-rule"></div>
+  <div class="timeline">
+    <div class="tl-item"><div class="tl-num">1</div><div class="tl-body"><div class="tl-wk">Primeira semana</div><div class="tl-desc">Diagnóstico, tracking, ajustes da página e primeiros criativos com os vídeos que já existem.</div></div></div>
+    <div class="tl-item"><div class="tl-num">2</div><div class="tl-body"><div class="tl-wk">Até 26 de novembro</div><div class="tl-desc">Aquecimento da base: conteúdo e anúncios de distribuição para seguidores e para quem engajou com o perfil.</div></div></div>
+    <div class="tl-item"><div class="tl-num">3</div><div class="tl-body"><div class="tl-wk">27 a 30 de novembro · Black Friday</div><div class="tl-desc">Primeira oferta do curso para a base, com remarketing. A condição da oferta é definida juntos.</div></div></div>
+    <div class="tl-item"><div class="tl-num">4</div><div class="tl-body"><div class="tl-wk">Dezembro em diante</div><div class="tl-desc">Funil contínuo em Portugal e no Brasil: captação de seguidores, nutrição e venda do curso. Página do Brasil no ar.</div></div></div>
+    <div class="tl-item"><div class="tl-num">5</div><div class="tl-body"><div class="tl-wk">Janeiro</div><div class="tl-desc">Captação para o workshop presencial de fevereiro, com foco em Portugal e nos alunos do curso.</div></div></div>
+  </div>
+</section>
+
+<!-- ===================== INVESTIMENTO ===================== -->
+<section class="avoid break">
+  <span class="eyebrow">06 · Investimento</span>
+  <h2 class="section-title">Valores e condições</h2>
+  <div class="title-rule"></div>
+  <div class="prices3">
+    <div class="plan">
+      <div class="pname">Setup</div>
+      <div class="price">800 €</div>
+      <div class="price2">investimento único</div>
+      <ul>
+        <li class="y">Diagnóstico da base</li>
+        <li class="y">Página de Portugal revisada e página do Brasil</li>
+        <li class="y">Tracking com Pixel e Hotmart</li>
+        <li class="y">Estrutura dos dois funis</li>
+        <li class="y">Calendário de roteiros e primeiros criativos</li>
+      </ul>
+    </div>
+    <div class="plan reco">
+      <div class="tag">Mensal</div>
+      <div class="pname">Operação</div>
+      <div class="price">500 €</div>
+      <div class="price2">por mês</div>
+      <ul>
+        <li class="y">Estratégia e plano do mês</li>
+        <li class="y">Gestão de tráfego em Portugal e no Brasil</li>
+        <li class="y">Roteiros e edição de criativos</li>
+        <li class="y">Relatório quinzenal</li>
+        <li class="y">Suporte pelo WhatsApp</li>
+      </ul>
+    </div>
+    <div class="plan">
+      <div class="pname">Variável</div>
+      <div class="price">10%</div>
+      <div class="price2">das vendas</div>
+      <ul>
+        <li class="y">Sobre o faturamento líquido do curso e da mentoria</li>
+        <li class="y">Líquido: depois das taxas da Hotmart e dos reembolsos</li>
+        <li class="y">Apurado todo mês pelo relatório da Hotmart</li>
+      </ul>
+    </div>
+  </div>
+  <div class="cond">
+    <div class="cond-item cond-amber"><span class="ch">Pagamento</span>Setup: 50% no aceite e 50% na entrega da estruturação. Mensalidade e variável: todo mês, com a primeira mensalidade no início da operação.</div>
+    <div class="cond-item cond-blue"><span class="ch">Verba de anúncios</span>Paga direto à Meta, no cartão do Churrasco da Elite, e definida junto com o Lucas. Não está inclusa nos valores acima.</div>
+  </div>
+</section>
+
+<!-- ===================== NÃO INCLUSO ===================== -->
+<section class="avoid">
+  <span class="eyebrow">Limites do escopo</span>
+  <h2 class="section-title">O que não está incluso</h2>
+  <div class="title-rule"></div>
+  <div class="box excl">
+    <ul class="clean" style="margin:0;">
+      <li>Gravação dos vídeos e filmagem de eventos: o Lucas grava, com o roteiro e a orientação da Hub3Ps.</li>
+      <li>Produção e operação do workshop presencial: local, estrutura e atendimento no dia.</li>
+      <li>Google Ads e outros canais além da Meta (orçados à parte).</li>
+      <li>A loja e o catering do Churrasco da Elite.</li>
+    </ul>
+  </div>
+</section>
+
+<!-- ===================== PRÓXIMOS PASSOS ===================== -->
+<section class="avoid">
+  <span class="eyebrow">Depois da validação</span>
+  <h2 class="section-title">Para onde o projeto pode crescer</h2>
+  <div class="title-rule"></div>
+  <div class="cards">
+    <div class="card"><div class="ic purple">◈</div><div><div class="ct">Comunidade</div><div class="cd">Assinatura mensal ou trimestral, vendida em vários países, com o curso, os workshops gravados e lives dentro. Engaja a base e alimenta o presencial.</div></div></div>
+    <div class="card"><div class="ic green">✆</div><div><div class="ct">Agente de IA</div><div class="cd">Atendimento e suporte com inteligência artificial no WhatsApp e no Instagram, para responder dúvidas e encaminhar interessados. Orçado à parte.</div></div></div>
+  </div>
+</section>
+
+<!-- ===================== QUEM SOMOS ===================== -->
+<section class="avoid">
+  <span class="eyebrow">Quem somos</span>
+  <h2 class="section-title">Hub3Ps</h2>
+  <div class="title-rule"></div>
+  <p>A Hub3Ps atua há 8 anos em marketing digital, com lançamentos e funis de venda de cursos, marketing para empresas e automação com inteligência artificial. Trabalhamos com conteúdo, tráfego e dados: cada anúncio é medido, e o que vende ganha escala.</p>
+  <div class="footer">Hub3Ps · Proposta Comercial · Novembro 2026</div>
+</section>
+
+</body>
+</html>

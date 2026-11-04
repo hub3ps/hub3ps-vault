@@ -1,0 +1,45 @@
+---
+tipo: proposta
+cliente: churrascodaelite
+etapa: proposta-enviada
+valor: setup 800 €, 500 € por mês e 10% das vendas líquidas
+enviada-em: TODO (apresentar na próxima reunião)
+proximo-passo: apresentar na reunião de quarta ou quinta (05 ou 06/11)
+atualizado: 2026-11-04
+autor: claude
+---
+# Proposta Churrasco da Elite
+
+## Diagnóstico
+Call de 03/11/2026 com o Lucas, dono do Churrasco da Elite (GRUPO CHURRASCODAELITE LDA). A transcrição do Gemini está no Drive do Guilherme: "Reunião iniciada às 2026/11/03 15:36". Ele foi indicado pelo Jimmy, da Usivic.
+
+- **Negócio:** eventos e catering de churrasco brasileiro em Portugal (Lisboa, Porto e Algarve), com loja em churrascodaelite.pt. Está em Portugal há 10 anos e se diz pioneiro. Tem também uma empresa de obras com o irmão.
+- **Produto:** o workshop presencial gravado virou o curso "Faturando com Churrasco", na Hotmart, a 97 €. Teve uma venda, de um comprador do Brasil, e o link fica só na bio, sem divulgação.
+- **Plano dele:** vender o curso, fazer o workshop presencial em fevereiro (a capa diz 08/02), minerar alunos para a mentoria e, deles, sócios para expandir pela Espanha.
+- **Base:** cerca de 10 mil seguidores orgânicos, vindos de um react que passou de 15 milhões de visualizações. Os stories têm de 800 a 1.500 visualizações. Ele recebe mensagens da Itália, da Irlanda e da Espanha.
+- **Conteúdo:** ele grava sozinho no celular, sem calendário de roteiros, e às vezes chama um filmmaker para os eventos.
+- **Dor:** "projeto parado há muito tempo", e concorrentes começando a aparecer.
+
+## Escopo proposto
+Decidido pelo Guilherme em 04/11/2026: [[trafego-pago]], [[criativos-e-audiovisual]], [[lp-e-site]] e [[tracking]]. O agente de IA ([[agentes-de-ia]]) é só citado, sem valor.
+
+- **Setup:** diagnóstico da base, revisão da página de Portugal e página do Brasil, tracking com Pixel e Hotmart, estrutura de dois funis (Portugal e Brasil), calendário de roteiros e primeiros criativos.
+- **Mensal:** estratégia, tráfego na Meta, roteiros e edição de vídeos, relatório quinzenal e suporte.
+- **Cronograma:** aquecimento da base até 26/11, oferta de Black Friday de 27 a 30/11, funil contínuo a partir de dezembro e captação para o workshop em janeiro.
+- **Fora do escopo:** gravação, operação do workshop, Google Ads, a loja e o catering.
+- **Depois:** comunidade por assinatura e agente de IA.
+
+## Opções e valores
+| Opção | Setup | Mensal | Variável | Prazo mínimo |
+|---|---|---|---|---|
+| Única | 800 € (50% no aceite e 50% na entrega) | 500 € | 10% do faturamento líquido do curso e da mentoria | TODO |
+
+A verba de mídia é paga direto à Meta pelo cliente. Piso para negociar: TODO.
+
+## Arquivos
+- Fonte HTML: [[churrascodaelite-2026-11.html]]
+- PDF: TODO, subir no Drive
+
+## Histórico
+- 2026-11-03 · Call de diagnóstico. O Lucas ficou de mandar o link da página de vendas e os criativos que já venderam
+- 2026-11-04 · Proposta montada em PDF, no visual da proposta da Usivic

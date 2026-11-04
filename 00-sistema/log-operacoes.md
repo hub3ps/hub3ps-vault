@@ -7,6 +7,7 @@ Uma linha por sessão de trabalho, a mais recente no topo.
 
 Formato: `- AAAA-MM-DD · <slug ou agencia> · <tarefa> · <onde está o resultado>`
 
+- 2026-11-04 · churrascodaelite · Proposta comercial do curso Faturando com Churrasco: setup, mensal e 10% das vendas, em PDF · `05-comercial/propostas/churrascodaelite-2026-11.md`
 - 2026-11-04 · dariele · Entrada da Dariele: conversa com 15 áudios transcritos, doc de informações no Drive, nota, kanban e log · `04-clientes/dariele/`
 - 2026-11-04 · agencia · Runbook de entrada ganha a tag `projeto-pontual` e o campo `valor-projeto` · `03-processos/novo-cliente.md`
 - 2026-11-04 · mobiletec · Doc de coleta para finalizar o site (cases, produtos, fundação e contato), no Drive · `04-clientes/mobiletec/log.md`
