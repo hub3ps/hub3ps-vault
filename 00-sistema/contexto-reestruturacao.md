@@ -146,3 +146,33 @@ Liliane nem Mobiletec institucional.
 4. Validar com o Guilherme os playbooks de cada serviço, coluna por coluna
 5. Definir o destino do repo `agencia_marketing`: virar repositório só de código
    (hubs, LPs, vídeos) depois da migração
+
+## 7. Inventário fora da main (04/11/2026)
+Levantado na sessão local que migrou o JurIA. As branches foram comparadas com a
+`origin/main` do `agencia_marketing`, e não com a `main` local, que está 127
+commits atrás.
+
+**Branches com trabalho fora da `origin/main`:**
+| Branch | Commits fora | Cliente | Destino na migração |
+|---|---|---|---|
+| `feat/site-astro` | 113 (último em 30/10) | juria | Site novo. A local está 50 commits atrás da remota |
+| `claude/loving-archimedes-rp33cv` | 36 (último em 27/10) | mobiletec | Site institucional e vídeo, sexta versão |
+| `claude/admiring-allen-xbjdup` | 3 (21/10) | liliane | Proposta de automação do gabinete |
+| `claude/focused-brahmagupta-fhfuqd` | 3 (13/10) | agencia | Runbook das rotinas agendadas, que vai para `03-processos/` |
+
+**Já contidas na `origin/main`, sem nada a migrar:** `clever-wozniak`,
+`trusting-bell`, `zealous-newton`, `intelligent-shannon`, `gallant-mayer`,
+`zen-planck`, `beautiful-cerf`, `docs/juria-comercial-campanhas` e `dc8968a`.
+
+**`juria-lps`:** nada fora da `main`. A local está 1 commit atrás.
+
+**Sessões do Claude:** no app local só existem 2 sessões, nenhuma do JurIA. As
+da nuvem não são legíveis daqui, e o trabalho delas está nas branches acima.
+
+**Arquivos soltos que vão para o Drive** (`~/Downloads`): pasta `JurIA/`
+(proposta, planos de mídia do mês 1, minibrandbook, LPs antigas, posts),
+`CRIATIVOS/criativos juria`, `JurIA_Funcionalidades.pdf`,
+`Revisao_Site_JurIA_Isadora.pdf`, `avatar_juria.png`, pasta `clientes mobiletec`,
+`Design Kits - Mobiletec.zip`, `mobiletec-institucional-locucao.mp4`,
+`NF_Mobiletec_Outubro.pdf` e o contrato Hub3Ps e Mobiletec (Clicksign). Na
+Área de Trabalho: `JurIA - Apresentacao Institucional.pdf`.
