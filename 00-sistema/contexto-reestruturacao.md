@@ -166,6 +166,8 @@ commits atrás.
 
 **`juria-lps`:** nada fora da `main`. A local está 1 commit atrás.
 
+**`guimiguell/whatsapp-langchain`** (o agente do Apex): nada fora da `main`, e a árvore de trabalho está limpa. É ali que vive o estado real do Apex, e o `clients/apex/` do `agencia_marketing` parou em 28/07. No Downloads está o `menu apex servicos.pdf`, desatualizado.
+
 **Sessões do Claude:** no app local só existem 2 sessões, nenhuma do JurIA. As
 da nuvem não são legíveis daqui, e o trabalho delas está nas branches acima.
 

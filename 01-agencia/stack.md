@@ -31,3 +31,4 @@ atualizado: 2026-11-03
 |---|---|
 | `hub3ps/agencia_marketing` | Hubs internos dos clientes (a reorganizar como repositório só de código) |
 | `hub3ps/juria-lps` | LPs públicas do JurIA |
+| `guimiguell/whatsapp-langchain` | Agente de WhatsApp e painel do Apex, em `apex.hub3ps.com`. Fica numa conta pessoal, fora da organização hub3ps |
