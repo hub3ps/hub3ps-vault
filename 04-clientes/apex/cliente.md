@@ -60,7 +60,7 @@ Nunca guarde senha aqui. As variáveis ficam no EasyPanel.
 - **Infra:** VPS com EasyPanel, com os serviços `db`, `api`, `worker`, `evolution`, `evolution-db` e `frontend`
 - **WhatsApp:** número de teste no Evolution. O número da clínica é (47) 99609-4508
 - **Google Calendar:** service account configurada. Hoje aponta para a agenda de teste, de propósito
-- **InfinitePay:** testado com a conta de teste do Guilherme. Faltam a API Key e a InfiniteTag da conta da Apex
+- **InfinitePay:** testado com a conta de teste do Guilherme. Faltam a API Key e a InfiniteTag da conta da Apex. A nota de contexto da reestruturação diz que o checkout exige conta PJ. TODO: conferir
 - **Modelo:** `anthropic/claude-sonnet-5.5`, desde 13/10
 
 ## Onde está cada coisa (repo `whatsapp-langchain`, clone em `~/Desktop/whatsapp-langchain`)
