@@ -1,7 +1,7 @@
 ---
 tipo: entrega
 cliente: marjorie
-status: aprovada pelo Guilherme, aguardando a Julia
+status: aprovada pelo Guilherme, enviada à Julia em 04/11
 atualizado: 2026-11-04
 autor: claude
 ---
@@ -12,7 +12,7 @@ Vale só para novembro, o mês do lançamento. Desenho do Guilherme (04/11/2026)
 ## Contexto
 - **Lançamento em 27/11, com preço especial até 30/11.** O Reels de 04/11 diz "November 27, waitlist in my bio". A lista de espera já está no link da bio
 - **Público frio não vai para a lista de espera.** Quem não conhece a Marjorie primeiro vai para o perfil, e só a base aquecida recebe o convite da lista e da LP (decisão do Guilherme)
-- **Boa parte da base fala português.** As legendas são bilíngues. O produto é em inglês e em dólar, então tudo filtra por país
+- **Boa parte da base fala português.** As legendas são bilíngues. Mesmo assim, a base recebe os anúncios sem filtro de país, e só o público frio fica nos EUA
 
 ## Fases
 
@@ -27,7 +27,7 @@ Vale só para novembro, o mês do lançamento. Desenho do Guilherme (04/11/2026)
 
 **`marjorie-seguidores-frio-0511`**
 - Objetivo de engajamento, com destino no perfil do Instagram, otimizando para visitas ao perfil
-- Público: interesses em exocad, CAD/CAM, prótese dentária, laboratório dental e odontologia digital, nos países-alvo
+- Público: interesses em exocad, CAD/CAM, prótese dentária, laboratório dental e odontologia digital, só nos EUA
 - **Rodízio de criativos a cada 3 dias** (decisão do Guilherme, 04/11/2026): o melhor fica, o pior sai e entra um conteúdo novo do perfil. O critério é o custo por visita ao perfil, conferido com os seguidores novos no Instagram
 - Com US$ 10 por dia, 3 dias dão uns US$ 30 por rodada. Por isso a rodada começa com 3 criativos, e não mais. Quando a diferença entre eles for pequena, o pior não sai, e a comparação segue por mais uma rodada
 - Criativos são os posts de conteúdo técnico, que atraem quem trabalha com exocad e não curioso. A rodada 1 usa os três primeiros, e o resto vira fila:
@@ -41,7 +41,7 @@ Vale só para novembro, o mês do lançamento. Desenho do Guilherme (04/11/2026)
 
 **`marjorie-distribuicao-quente-0511`**
 - Objetivo de engajamento, otimizando para ThruPlay
-- Público: seguidores e quem engajou com o perfil em 365 dias, nos países-alvo
+- Público: seguidores e quem engajou com o perfil em 365 dias, sem filtro de país
 - Criativo: o vídeo do curso de 04/11, que conta a trajetória da Marjorie e por que ela criou o produto. Se a primeira semana mostrar fadiga, entram o "Don't buy yet" (01/11) e os conteúdos novos sobre a comunidade
 
 ### Fase 2: lembrete (25 e 26/11)
@@ -66,7 +66,9 @@ Eles se enchem durante a fase 1 e são o que as fases 2 e 3 usam.
 - Lista de compradores do curso antigo (público personalizado), carregada pelo Guilherme no Gerenciador
 
 ## Países
-Primeiro os EUA. Depois os mercados de língua inglesa (Canadá, Reino Unido, Irlanda, Austrália e Nova Zelândia) e a Europa em inglês. TODO: o Guilherme confirma se o Brasil sai também da distribuição para a base. A recomendação é tirar, porque o produto é em inglês e em dólar.
+Decisão do Guilherme em 04/11/2026:
+- **Captação de seguidores (frio):** só EUA
+- **Distribuição do vídeo, lembrete e carrinho (base):** sem filtro de país, então o Brasil fica
 
 ## Verba de novembro: começa em US$ 15 por dia
 Decisão do Guilherme em 04/11/2026: US$ 15 por dia é o mínimo para testar. Com resultado bom, escala ou mantém. A primeira leitura é depois de 7 dias.
@@ -97,6 +99,22 @@ Se ficar em US$ 15 até 24/11, a fase 1 gasta cerca de US$ 300. A verba do lembr
 | LP publicada no domínio, com Pixel | 20/11 | Julia, com o Guilherme no Pixel |
 
 ## Riscos
-- **Seguidor não é venda.** A fase 1 pode trazer seguidor barato e fora do perfil. Por isso os criativos são técnicos e o país é filtrado. Na primeira semana, conferir no Instagram de onde vem quem segue
+- **Seguidor não é venda.** A fase 1 pode trazer seguidor barato e fora do perfil. Por isso os criativos são técnicos e o país é filtrado. Na primeira semana, conferir no Instagram se quem segue é dos EUA e da área
 - **A base aquecida pode ser pequena para o carrinho.** Se o público de engajamento ficar pequeno até 27/11, o carrinho abre também para o semelhante e para os interesses da fase 1
 - **A Marjorie viaja por volta de 17/11.** Os conteúdos do lembrete e do carrinho precisam ser gravados antes
+
+## Mensagem enviada à Julia (texto do Guilherme, 04/11/2026)
+
+> Organizei a estratégia dos anúncios pro lançamento 🙌
+>
+> Até 24/11: dois anúncios.
+> O primeiro leva dentistas e técnicos novos (EUA) pro perfil da Marj, pra conhecerem ela e seguirem. Vou testando os conteúdos dela: a cada 3 dias fica o que tá trazendo mais resultado, e o pior sai pra entrar um conteúdo novo.
+> O segundo roda o vídeo novo em que ela fala do curso, pra quem já segue e pra quem interagiu com o perfil no último ano.
+> 25 e 26/11: lembrete do lançamento, chamando essa galera aquecida pra lista de espera.
+> 27 a 30/11: anúncio direto pra LP, com o preço de lançamento.
+>
+> Verba: pra começar, sugiro uns US$ 15 por dia, que é o mínimo pra gente testar. Com os primeiros resultados, a gente decide se escala ou mantém.
+>
+> Pra adiantar, depois vamos precisar gravar um vídeo de lembrete e um de abertura do carrinho.
+
+Ficaram fora da mensagem e seguem no kanban: a data de início do preço especial e a LP no ar com Pixel até 20/11.

@@ -21,7 +21,7 @@ autor: claude
 ---
 # Marjorie Andrade
 
-> **Estado atual:** fechado em 02/11 por WhatsApp, sem proposta nem contrato. O lançamento é em 27/11, com lista de espera no ar e preço especial até 30/11. A conta de anúncios em USD está pronta e sem campanha. A estratégia e a verba estão em rascunho em `entregas/`, esperando o Guilherme.
+> **Estado atual:** fechado em 02/11 por WhatsApp, sem proposta nem contrato. O lançamento é em 27/11, com lista de espera no ar e preço especial até 30/11. A conta de anúncios em USD está pronta e sem campanha. A estratégia foi enviada à Julia em 04/11, com verba inicial de US$ 15 por dia, e espera o ok dela.
 
 ## Quem é
 - **Negócio:** Marjorie é designer de CAD odontológico, técnica, educadora e KOL do exocad. Desenha em tempo integral desde 2020. O primeiro curso, "Mastering exocad" (2023), teve alunos em mais de 65 países.

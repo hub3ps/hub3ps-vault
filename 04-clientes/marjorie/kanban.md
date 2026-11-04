@@ -4,7 +4,6 @@ kanban-plugin: board
 
 ## A fazer
 
-- [ ] Revisar a estratégia em `entregas/2026-11-04-estrategia-lancamento.md` e mandar para a Julia. Prometido para 04/11 #trafego-pago
 - [ ] Criar os públicos: engajamento com o perfil em 365 dias, quem viu 50% do vídeo do curso e a lista de compradores #trafego-pago
 - [ ] Montar a fase 1: captação de seguidores para o perfil e distribuição do vídeo do curso para a base #trafego-pago
 - [ ] Rodízio dos criativos de seguidores a cada 3 dias: o pior sai e entra um conteúdo novo #trafego-pago
@@ -28,8 +27,9 @@ kanban-plugin: board
 ## Aguardando cliente
 
 - [ ] Acesso ao Instagram (o convite deu erro em 03/11)
-- [ ] Aprovar a verba de mídia
-- [ ] Publicar a LP e informar o domínio
+- [ ] Aprovar a verba inicial de US$ 15 por dia
+- [ ] Confirmar a data de início do preço especial (27/11 ou antes)
+- [ ] Publicar a LP e informar o domínio (até 20/11, para o Pixel)
 - [ ] Arquivo do design system
 - [ ] Datas: lançamento, evento no RJ e viagem à Alemanha
 - [ ] Política de reembolso
@@ -45,6 +45,7 @@ kanban-plugin: board
 - [x] Lista de compradores do curso antigo recebida (04/11)
 - [x] Conversa, áudios e LP registrados no vault (04/11)
 - [x] Conteúdos do Instagram levantados para os anúncios (04/11)
+- [x] Estratégia de novembro enviada à Julia (04/11)
 
 
 
