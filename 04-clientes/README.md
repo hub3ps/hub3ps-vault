@@ -19,4 +19,4 @@ e `mobiletec` (decisão do Guilherme, 04/11/2026).
 Migração do repo `agencia_marketing`: juria, mobiletec, dsmuaythai e apex feitos em
 04/11/2026. Pendentes: liliane, usivic e hub3ps (cliente 0).
 
-Primeiro cliente que entrou já pelo vault: `marjorie` (04/11/2026).
+Entraram já pelo vault: `marjorie` e `dariele` (04/11/2026).

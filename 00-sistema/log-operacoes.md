@@ -7,6 +7,8 @@ Uma linha por sessão de trabalho, a mais recente no topo.
 
 Formato: `- AAAA-MM-DD · <slug ou agencia> · <tarefa> · <onde está o resultado>`
 
+- 2026-11-04 · dariele · Entrada da Dariele: conversa com 15 áudios transcritos, doc de informações no Drive, nota, kanban e log · `04-clientes/dariele/`
+- 2026-11-04 · agencia · Runbook de entrada ganha a tag `projeto-pontual` e o campo `valor-projeto` · `03-processos/novo-cliente.md`
 - 2026-11-04 · mobiletec · Doc de coleta para finalizar o site (cases, produtos, fundação e contato), no Drive · `04-clientes/mobiletec/log.md`
 - 2026-11-04 · marjorie · Estratégia de lançamento de novembro em 4 fases e 3 opções de verba · `04-clientes/marjorie/entregas/`
 - 2026-11-04 · marjorie · Entrada da Marjorie: nota, briefing assíncrono, kanban, log e fontes (conversa com áudios transcritos e LP) · `04-clientes/marjorie/`

@@ -24,8 +24,9 @@ Nem todo cliente entra pela porta da frente. O onboarding é um tronco comum, qu
 | `sem-contrato` | Não vai ter contrato | Em `contrato`, aponte a fonte do acordo e use `vigencia: sem prazo`. A fase 2 sai com o acordo registrado em fonte | marjorie |
 | `briefing-assincrono` | Não há kickoff, e tudo corre por mensagem | A fase 3 roda sobre o export da conversa: texto, áudios transcritos e anexos, como em "Transcrever áudio" abaixo. As lacunas viram perguntas mandadas de uma vez | marjorie |
 | `intermediario` | Quem conversa não é quem decide ou paga | O campo `contatos` diz quem conversa, quem decide e quem paga | marjorie |
-| `exterior` | Cliente ou público fora do Brasil | Conta de anúncios na moeda do cliente, e o fee pode ser em moeda estrangeira (registre a regra de cotação). A copy é aprovada em português e traduzida | dsmuaythai, marjorie |
+| `exterior` | Cliente ou público fora do Brasil | Conta de anúncios na moeda do cliente, e o fee pode ser em moeda estrangeira (registre a regra de cotação). O pagamento vem por Wise ou transferência. A copy é aprovada em português e traduzida | dsmuaythai, marjorie, dariele |
 | `entrega-do-cliente` | O cliente já fez a peça do serviço, como site ou LP | O serviço entra como revisão: o checklist do playbook passa sobre o que existe, e a implantação do zero fica de fora | marjorie |
+| `projeto-pontual` | Entrega única com valor fechado, como um site, e não mensalidade | O valor vai em `valor-projeto`, e `valor-mensal` fica só com o recorrente (hospedagem, por exemplo). Em `vigencia` vai o prazo de entrega, e a meta é o marco da entrega. O 50% de entrada abre a implantação, e o 50% final sai na entrega | dariele |
 
 ---
 

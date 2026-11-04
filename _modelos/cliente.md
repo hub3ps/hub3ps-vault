@@ -9,7 +9,8 @@ entrada: []      # particularidades de entrada, tabela em 03-processos/novo-clie
 inicio:
 contrato:        # link do PDF no Drive
 vigencia:        # AAAA-MM-DD a AAAA-MM-DD
-valor-mensal:    # em R$, só o número
+valor-projeto:   # em R$, só o número, para entrega única (tag projeto-pontual)
+valor-mensal:    # em R$, só o número, só o recorrente
 meta:            # obrigatória para sair do Fechamento: número e prazo, ou marco com data enquanto não houver número
 contatos:
 drive:
