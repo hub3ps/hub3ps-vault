@@ -25,33 +25,31 @@ Fonte: os 150 posts do @marjoriedentalcad em 05/11/2026. 110 vieram da API da Me
 | 9 | 22/04/2024 | Reel | Escaneamento, face scan, tomografia e movimento da mandíbula juntos no exocad (trocar a música no anúncio) | n/d | [abrir](https://www.instagram.com/reel/C6FEbOth04F/) |
 | 10 | 03/09/2024 | Reel | Como é trabalhar num laboratório (humor) | 287 | [abrir](https://www.instagram.com/reel/C_eGYE8hvP5/) |
 | 11 | 25/09/2024 | Reel | SpaceMouse Wireless contra Enterprise | 1.422 | [abrir](https://www.instagram.com/reel/DAWybufM-7V/) |
-| 12 | 30/09/2024 | Reel | Mais um dia no laboratório (fresadora e zircônia) (trocar a música no anúncio) | n/d | [abrir](https://www.instagram.com/reel/DAjrZ9vM7lT/) |
-| 13 | 17/11/2024 | Reel | Trabalhando num dia bonito (trocar a música no anúncio) | n/d | [abrir](https://www.instagram.com/reel/DCfQ18hsQ4N/) |
-| 14 | 03/12/2024 | Reel | Coroa parafusada e cimentada (trocar a música no anúncio) | n/d | [abrir](https://www.instagram.com/reel/DDIjUwqTMBy/) |
-| 15 | 09/02/2025 | Reel | Ponte Maryland | 110 | [abrir](https://www.instagram.com/reel/DF3papZz9nC/) |
-| 16 | 16/02/2025 | Reel | Peça o escaneamento do mockup ajustado | 230 | [abrir](https://www.instagram.com/reel/DGJi4jhzQS2/) |
-| 17 | 17/03/2025 | Reel | A vida precisava de um Ctrl+Z (a broca escapou na zircônia) (trocar a música no anúncio) | n/d | [abrir](https://www.instagram.com/reel/DHUJ6cOynlR/) |
-| 18 | 30/03/2025 | Reel | O setup novo em casa | 442 | [abrir](https://www.instagram.com/reel/DH1sAqTTxyY/) |
-| 19 | 06/07/2025 | Reel | Pilares de titânio fresados sob medida (trocar a música no anúncio) | n/d | [abrir](https://www.instagram.com/reel/DLyQPGOTZiJ/) |
-| 20 | 09/09/2025 | Reel | Um dia na rotina de cadista na Nova Zelândia | 146 | [abrir](https://www.instagram.com/reel/DOZdFT6khhS/) |
-| 21 | 28/11/2025 | Reel | Sair do modo sobrevivência (história pessoal) | 383 | [abrir](https://www.instagram.com/reel/DRnTUjXk0MW/) |
-| 22 | 17/03/2026 | Reel | Se você é novo aqui, comece por aqui (trocar a música no anúncio) | n/d | [abrir](https://www.instagram.com/reel/DV_OXgIDbVg/) |
-| 23 | 06/04/2026 | Post em vídeo | Teclado e mouse ou touchscreen e caneta? (versão 2026, trocar a música no anúncio) | 1.300 | [abrir](https://www.instagram.com/p/DWy_NIqDQIC/) |
-| 24 | 22/06/2026 | Reel | Calculadora gratuita de proporção dos dentes | 371 (625 comentários) | [abrir](https://www.instagram.com/reel/DZ5ClM2uOvu/) |
-| 25 | 03/07/2026 | Reel | Do arquivo ao real | 94 | [abrir](https://www.instagram.com/reel/DaVh9sRs9JF/) |
-| 26 | 23/07/2026 | Carrossel | Guias cirúrgicos, do design à impressão | 65 | [abrir](https://www.instagram.com/p/DbIy-gujhci/) |
-| 27 | 27/07/2026 | Reel | Tutorial do Candy Coating | 1.968 | [abrir](https://www.instagram.com/reel/DbTiRHGsOb4/) |
-| 28 | 03/08/2026 | Carrossel | Modelos impressos em cores da Stratasys | 147 | [abrir](https://www.instagram.com/p/DblNmP3Dh79/) |
-| 29 | 10/08/2026 | Reel | A calculadora funcionando | 178 (224 comentários) | [abrir](https://www.instagram.com/reel/Db3JnViukF0/) |
+| 12 | 17/11/2024 | Reel | Trabalhando num dia bonito (trocar a música no anúncio) | n/d | [abrir](https://www.instagram.com/reel/DCfQ18hsQ4N/) |
+| 13 | 03/12/2024 | Reel | Coroa parafusada e cimentada (trocar a música no anúncio) | n/d | [abrir](https://www.instagram.com/reel/DDIjUwqTMBy/) |
+| 14 | 09/02/2025 | Reel | Ponte Maryland | 110 | [abrir](https://www.instagram.com/reel/DF3papZz9nC/) |
+| 15 | 16/02/2025 | Reel | Peça o escaneamento do mockup ajustado | 230 | [abrir](https://www.instagram.com/reel/DGJi4jhzQS2/) |
+| 16 | 30/03/2025 | Reel | O setup novo em casa | 442 | [abrir](https://www.instagram.com/reel/DH1sAqTTxyY/) |
+| 17 | 09/09/2025 | Reel | Um dia na rotina de cadista na Nova Zelândia | 146 | [abrir](https://www.instagram.com/reel/DOZdFT6khhS/) |
+| 18 | 28/11/2025 | Reel | Sair do modo sobrevivência (história pessoal) | 383 | [abrir](https://www.instagram.com/reel/DRnTUjXk0MW/) |
+| 19 | 17/03/2026 | Reel | Se você é novo aqui, comece por aqui (trocar a música no anúncio) | n/d | [abrir](https://www.instagram.com/reel/DV_OXgIDbVg/) |
+| 20 | 06/04/2026 | Post em vídeo | Teclado e mouse ou touchscreen e caneta? (versão 2026, trocar a música no anúncio) | 1.300 | [abrir](https://www.instagram.com/p/DWy_NIqDQIC/) |
+| 21 | 22/06/2026 | Reel | Calculadora gratuita de proporção dos dentes | 371 (625 comentários) | [abrir](https://www.instagram.com/reel/DZ5ClM2uOvu/) |
+| 22 | 03/07/2026 | Reel | Do arquivo ao real | 94 | [abrir](https://www.instagram.com/reel/DaVh9sRs9JF/) |
+| 23 | 23/07/2026 | Carrossel | Guias cirúrgicos, do design à impressão | 65 | [abrir](https://www.instagram.com/p/DbIy-gujhci/) |
+| 24 | 27/07/2026 | Reel | Tutorial do Candy Coating | 1.968 | [abrir](https://www.instagram.com/reel/DbTiRHGsOb4/) |
+| 25 | 03/08/2026 | Carrossel | Modelos impressos em cores da Stratasys | 147 | [abrir](https://www.instagram.com/p/DblNmP3Dh79/) |
+| 26 | 10/08/2026 | Reel | A calculadora funcionando | 178 (224 comentários) | [abrir](https://www.instagram.com/reel/Db3JnViukF0/) |
 
 ## Pontos para elas confirmarem
 
 - **Idioma do áudio:** o público é dos EUA, então o vídeo precisa falar ou mostrar texto em inglês. No #11 a legenda começa em português.
-- **#24 e #29 (calculadora):** pedem para comentar "Calculator". No anúncio, a resposta automática também precisa funcionar nos comentários do anúncio.
+- **#21 e #26 (calculadora):** pedem para comentar "Calculator". No anúncio, a resposta automática também precisa funcionar nos comentários do anúncio.
 
 ## O que ficou de fora, e por quê
 
 - **Lista de dúvidas (05/11):** 23 vídeos e carrosséis, entre eventos, posts só em português, pessoais e possíveis colabs. O Guilherme revisou e nenhum entra.
+- **Revisão final do Guilherme (05/11):** saíram DAjrZ9vM7lT, DHUJ6cOynlR e DLyQPGOTZiJ, e os três que estavam em dúvida (CzDzCxgR_ru, Co1tBqFg2zx e C8kr0GnyWLw). A lista fecha em 26.
 - **Música:** não é mais motivo para tirar. No anúncio dá para trocar a música sem mexer no post publicado (Guilherme, 05/11).
 - **Revisão do Guilherme (05/11):** saíram 23 da primeira lista de 37, quase todas as imagens únicas e os posts em colab, que não dá para impulsionar.
 - **Só em português:** quase tudo de 2021 e 2022, a série do Senna, a notícia das licenças no Brasil e os posts do CIOSP.
