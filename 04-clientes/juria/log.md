@@ -6,6 +6,11 @@ autor: claude
 
 A entrada mais recente fica no topo, uma por sessão de trabalho.
 
+### 2026-11-05 · Folder institucional, 1ª versão
+- **O que fiz:** primeira versão do folder pedido pela Ana, para aprovação. Tríptico de 2 dobras, 10x21 cm fechado e 30x21 cm aberto. A copy é toda do site novo. Seis painéis: capa, antes e depois, Mobiletec com logos e QR, inteligência, Jú no WhatsApp, e mapa do sistema com planos.
+- **Resultado em:** `agencia_marketing/clients/juria/creatives/folder-institucional/` (ainda sem commit)
+- **O que achei:** não havia registro do pedido nem do prazo de 15/11. O flyer da OAB promete "todos os módulos em todos os planos", o que deixou de ser verdade em 29/09. O folder não repete isso e marca "Do Plus em diante" onde o site marca.
+
 ### 2026-11-05 · Rótulo do evento Lead corrigido
 - **O que fiz:** o hub, os geradores, as fichas e o `CLAUDE.md` chamavam o `Lead` de "cadastro concluído". Troquei para "conta criada" em tudo. "Cadastro concluído" ficou só para o último passo do funil (ligar as intimações).
 - **Resultado em:** `juria.hub3ps.com` e `agencia_marketing`
