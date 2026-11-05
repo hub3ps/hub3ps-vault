@@ -6,6 +6,10 @@ autor: claude
 
 A entrada mais recente fica no topo, uma por sessão de trabalho.
 
+### 2026-11-05 · Folder institucional, v2
+- **O que fiz:** refiz o folder em linha editorial depois que o Guilherme achou a v1 poluída e com cara de IA. Tem mais branco, tipografia grande, uma faixa navy cruzando os painéis e as fotos da advogada e da Jú. A IA caiu de 7 pontos para 4.
+- **Resultado em:** `clients/juria/creatives/folder-institucional/` (a v1 está em `_v1/`, ainda sem commit)
+
 ### 2026-11-05 · Folder institucional, 1ª versão
 - **O que fiz:** primeira versão do folder pedido pela Ana, para aprovação. Tríptico de 2 dobras, 10x21 cm fechado e 30x21 cm aberto. A copy é toda do site novo. Seis painéis: capa, antes e depois, Mobiletec com logos e QR, inteligência, Jú no WhatsApp, e mapa do sistema com planos.
 - **Resultado em:** `agencia_marketing/clients/juria/creatives/folder-institucional/` (ainda sem commit)
