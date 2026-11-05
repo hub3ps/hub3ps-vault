@@ -6,6 +6,11 @@ autor: claude
 
 A entrada mais recente fica no topo, uma por sessão de trabalho.
 
+### 2026-11-05 · Rótulo do evento Lead corrigido
+- **O que fiz:** o hub, os geradores, as fichas e o `CLAUDE.md` chamavam o `Lead` de "cadastro concluído". Troquei para "conta criada" em tudo. "Cadastro concluído" ficou só para o último passo do funil (ligar as intimações).
+- **Resultado em:** `juria.hub3ps.com` e `agencia_marketing`
+- **O que achei:** o `Lead` dispara no `form_submit_trial`, quando a conta é criada, antes do onboarding. A `9estados-2810` otimiza pelo `CompleteRegistration`, que é o fim do onboarding. Correção apontada pelo Guilherme.
+
 ### 2026-11-05 · Hub e funil com as exportações de 04/11
 - **O que fiz:** atualizei os números da Meta e do painel da Mobiletec até 04/11 no `gerar-funil.py`, reescrevi as conclusões e os resultados dos testes m12, m13 e m14 no `hub/mudancas.json`, e incluí o período dos e-mails pessoais da Isadora (desde 28/10). Publicado no commit `f7cbb69` do `agencia_marketing`.
 - **Resultado em:** `juria.hub3ps.com` (conferido no ar em 05/11)

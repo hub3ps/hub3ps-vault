@@ -25,7 +25,7 @@ kanban-plugin: board
 
 ## Fazendo
 
-- [ ] Teste: campanha otimizando pelo cadastro concluído (`LEAD`). Avaliar em @{2026-11-13} #trafego-pago
+- [ ] Teste: campanha otimizando pela conta criada (`LEAD`). Avaliar em @{2026-11-13} #trafego-pago
 - [ ] Teste: e-mails pessoais da Isadora para quem não importou processos. Avaliar em @{2026-11-11} #email-marketing
 - [ ] Teste: vídeos institucionais com música contra locução. Avaliar em @{2026-11-25}, mas o teste está travado (ver A fazer) #trafego-pago
 

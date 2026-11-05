@@ -19,7 +19,7 @@ Nome no Meta: **JurIA - Leads - 9 Estados - Institucional - Lead**. A ficha comp
 ## Configuração
 Conferida na API em 04/11/2026.
 
-- **Objetivo:** Leads, otimizando conversão no site com o evento `LEAD` (cadastro concluído) do Pixel `1009120801605718`
+- **Objetivo:** Leads, otimizando conversão no site com o evento `LEAD` (conta criada, `form_submit_trial`, antes do onboarding) do Pixel `1009120801605718`
 - **Conjunto:** `120249475110560208`, Ad Set-INST - Aberto - 9 Estados - 28-60 - Estáticos - Lead, ativo, R$ 42/dia (ABO)
 - **Público:** de 28 a 60 anos, aberto, sem Advantage+ Audience, em BA, DF, GO, MG, PR, RJ, RS, SC e SP
 - **Posicionamento:** manual, só Facebook e Instagram, só no celular
