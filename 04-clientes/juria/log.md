@@ -6,9 +6,14 @@ autor: claude
 
 A entrada mais recente fica no topo, uma por sessão de trabalho.
 
+### 2026-11-05 · Folder institucional, opção B
+- **O que fiz:** a v2 foi commitada como opção A, editorial. Montei uma opção B, audaciosa, para a Ana escolher: dobra em sanfona, um lado inteiro em ciano com "Tudo num só sistema." em letras gigantes, uma palavra por painel. O outro lado é branco, com uma faixa ciano onde a Jú vira um "Jú" gigante.
+- **Resultado em:** `clients/juria/creatives/folder-institucional/folder-b.html` (a opção A no commit 92a39e4, a B ainda sem commit)
+- **O que achei:** a B pede sanfona, com 3 painéis de 100 mm, e não carteira. Precisa confirmar com a gráfica. A logo foi num selo branco, porque o "IA" dela é ciano e sumiria no fundo.
+
 ### 2026-11-05 · Folder institucional, v2
 - **O que fiz:** refiz o folder em linha editorial depois que o Guilherme achou a v1 poluída e com cara de IA. Tem mais branco, tipografia grande e uma faixa navy cruzando os painéis. A IA caiu de 7 pontos para 4. Na 2ª rodada, a capa ficou só tipográfica, sem foto, e a Jú virou citação com avatar pequeno.
-- **Resultado em:** `clients/juria/creatives/folder-institucional/` (a v1 está em `_v1/`, ainda sem commit)
+- **Resultado em:** `clients/juria/creatives/folder-institucional/` (a v1 está em `_v1/`)
 
 ### 2026-11-05 · Folder institucional, 1ª versão
 - **O que fiz:** primeira versão do folder pedido pela Ana, para aprovação. Tríptico de 2 dobras, 10x21 cm fechado e 30x21 cm aberto. A copy é toda do site novo. Seis painéis: capa, antes e depois, Mobiletec com logos e QR, inteligência, Jú no WhatsApp, e mapa do sistema com planos.
