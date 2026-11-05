@@ -23,3 +23,4 @@ Formato: `- AAAA-MM-DD · <escopo: geral, cliente ou serviço> · <a regra>. Mot
 - 2026-11-04 · juria e mobiletec · JurIA e Mobiletec são dois clientes, com uma pasta cada, mesmo sendo a mesma empresa. O cliente da marca se chama só "Mobiletec". Motivo: o slug `juria` já está no repo, nas campanhas e nas UTMs, e a regra é o slug igual em todo lugar.
 
 ## Por serviço
+- 2026-11-05 · trafego-pago · Ao escolher posts do perfil para impulsionar, deixar de fora os posts em colab (não dá para impulsionar) e, em geral, as imagens únicas. Preferir reel e carrossel. Motivo: revisão do Guilherme na lista da Marjorie, que tirou 23 de 37 por esses dois critérios.
