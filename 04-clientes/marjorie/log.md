@@ -6,6 +6,13 @@ autor: claude
 
 A entrada mais recente fica no topo, uma por sessão de trabalho.
 
+### 2026-11-05 · Posts do perfil para a captação de seguidores
+- **O que fiz:** li os 110 posts do @marjoriedentalcad pela API, do mais antigo ao mais recente, e separei 37 que servem para captar seguidor no público frio dos EUA.
+- **Resultado em:** `entregas/2026-11-05-posts-para-captacao.md`
+- **O que achei:** ficaram de fora os posts só em português, os datados (eventos, venda de curso antigo), os pessoais e os do lançamento atual. Quatro posts não tiveram o arquivo devolvido pela API, o que costuma ser música com direito autoral. Li só as legendas: o idioma do áudio dos vídeos precisa ser confirmado.
+- **Decisões:** o rodízio de seguidores roda com 2 posts por vez, a cada 3 dias, começando pelos mais antigos (Guilherme). A estratégia de 04/11 previa 3. O vídeo novo do curso vai para a base.
+- **Próximo passo:** o Guilherme manda a lista para a Marjorie e a Julia. Com a resposta, subir as duas campanhas.
+
 ### 2026-11-04 · Estratégia de lançamento e verba
 - **O que fiz:** li os 25 posts mais recentes do @marjoriedentalcad pela API e montei a estratégia de novembro em 4 fases, com 3 opções de verba.
 - **Resultado em:** `entregas/2026-11-04-estrategia-lancamento.md`
