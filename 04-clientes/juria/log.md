@@ -6,6 +6,10 @@ autor: claude
 
 A entrada mais recente fica no topo, uma por sessão de trabalho.
 
+### 2026-11-05 · Folder institucional, copy só do site novo
+- **O que fiz:** troquei todo texto das duas opções pelo do site novo, `site.juria.hub3ps.com`, palavra por palavra, e criei `ferramentas/conferir-copy.py`, que aponta trecho fora do site. Corrigi o ano da Mobiletec para 1999 e o logo da Vibra para o da Vibra Foods. Refiz os mockups.
+- **O que achei:** a cópia local da branch `feat/site-astro` estava 50 commits atrás, e era dela que vinham o "2000" e a frase do STF. Os dois anúncios no ar da `juria-leads-9estados-1310` dizem "Mobiletec, desde 2000" na descrição, e a arte do INST-B-02 diz "software house desde 2000". Não mexi: depende do OK do Guilherme.
+
 ### 2026-11-05 · Folder institucional, sem preço e com mockups
 - **O que fiz:** tirei os planos e valores das duas opções, a pedido do Guilherme: o folder informa e leva ao QR, e o preço fica no site. Na A entrou "Já vem com o JurIA" no lugar dos planos. Na B, a resposta da Jú desceu e o verso da capa ganhou QR. Gerei um mockup de cada opção para mandar à Ana.
 - **Resultado em:** `clients/juria/creatives/folder-institucional/mockup-opcao-a.jpg` e `mockup-opcao-b.jpg`
