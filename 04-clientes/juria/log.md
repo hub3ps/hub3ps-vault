@@ -6,6 +6,11 @@ autor: claude
 
 A entrada mais recente fica no topo, uma por sessão de trabalho.
 
+### 2026-11-05 · Hub e funil com as exportações de 04/11
+- **O que fiz:** atualizei os números da Meta e do painel da Mobiletec até 04/11 no `gerar-funil.py`, reescrevi as conclusões e os resultados dos testes m12, m13 e m14 no `hub/mudancas.json`, e incluí o período dos e-mails pessoais da Isadora (desde 28/10). Publicado no commit `f7cbb69` do `agencia_marketing`.
+- **Resultado em:** `juria.hub3ps.com` (conferido no ar em 05/11)
+- **O que achei:** de 14/08 a 04/11, R$ 5.111 investidos, 104 escritórios criados e 20 importaram (19%), a R$ 365 por escritório que importou. Uso baixo depois do cadastro: 254 publicações lidas de 22.814. Os dois escritórios no plano `pro` não têm origem comprovada em campanha. Os erros do cadastro e as intimações revisadas seguem com o retrato de 20/10, porque a exportação nova não traz esses dados. As exportações ficaram em `~/Documents/juria-exportacoes/2026-11-04/`, fora do git.
+
 ### 2026-11-04 · Migração do JurIA para o vault
 - **O que fiz:** criei a nota do cliente, o kanban, este log, as fichas das duas campanhas no ar e a reunião de 17/09. As fontes foram a `origin/main` e as branches do `agencia_marketing`, o `juria-lps`, a nota de contexto da reestruturação e a API da Meta. O `agencia_marketing` ficou intocado.
 - **Resultado em:** `04-clientes/juria/`
@@ -17,6 +22,7 @@ A entrada mais recente fica no topo, uma por sessão de trabalho.
 Resumo tirado dos commits, das fichas e do registro do hub no `agencia_marketing`. Os detalhes estão lá.
 
 - **30/10/2026:** hub novo no ar na raiz de `juria.hub3ps.com`, com Planejamento, Funil, Otimizações e Materiais.
+- **05/11/2026:** hub atualizado com as exportações de 04/11: 104 escritórios criados, 20 importaram (19%), nenhuma assinatura confirmada.
 - **29/10/2026:** leitura do funil de 14/08 a 29/10. Dos 93 escritórios criados, 18 importaram processos (19%), e não houve nenhuma assinatura. Entraram 10 propostas no registro.
 - **28/10/2026:** campanha de vídeos publicada (`juria-leads-9estados-2810`): INST-VID-02 com música e INST-VID-03 com locução, um em cada conjunto.
 - **26/10/2026:** revisão da Isadora aplicada nos posts do Instagram, no IG-VID-01 v7 e no INST-B-01.

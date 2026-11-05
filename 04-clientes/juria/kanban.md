@@ -32,6 +32,7 @@ kanban-plugin: board
 
 ## Aguardando cliente
 
+- [ ] Confirmar na reunião de sexta @{2026-11-06} se os dois escritórios no plano `pro` pagam e de onde vieram
 - [ ] Exportação de OAB por cadastro, para validar o cadastro só com OAB encontrada (29/10)
 - [ ] Motivos do erro na tela de dados do escritório (29/10)
 - [ ] Endereço que abre a importação pela OAB e envio pelas réguas (29/10)
@@ -42,6 +43,7 @@ kanban-plugin: board
 
 ## Feito
 
+- [x] Hub e funil com as exportações de 04/11 (05/11)
 - [x] Hub novo no ar na raiz de `juria.hub3ps.com` (30/10)
 - [x] Painel do funil com as exportações de 29/10 (29/10)
 - [x] Campanha de vídeos INST-VID-02 e 03 publicada (28/10)

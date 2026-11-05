@@ -7,6 +7,7 @@ Uma linha por sessão de trabalho, a mais recente no topo.
 
 Formato: `- AAAA-MM-DD · <slug ou agencia> · <tarefa> · <onde está o resultado>`
 
+- 2026-11-05 · juria · Hub e funil atualizados com a Meta e as exportações da Mobiletec de 04/11, publicados em juria.hub3ps.com · `04-clientes/juria/log.md`
 - 2026-11-04 · agencia · Novo padrão de proposta em PDF (preto e branco, quem sou, sem diagnóstico de graça), modelo com placeholders e assets · `_modelos/proposta-pdf/`
 - 2026-11-04 · churrascodaelite · Proposta comercial do curso Faturando com Churrasco: setup, mensal e 10% das vendas, em PDF · `05-comercial/propostas/churrascodaelite-2026-11.md`
 - 2026-11-04 · dariele · Entrada da Dariele: conversa com 15 áudios transcritos, doc de informações no Drive, nota, kanban e log · `04-clientes/dariele/`
