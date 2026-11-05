@@ -32,7 +32,7 @@ kanban-plugin: board
 
 ## Aguardando cliente
 
-- [ ] Ana aprovar o folder institucional (1ª versão em 05/11). Entrega até @{2026-11-15} #criativo
+- [ ] Ana escolher entre as opções A (editorial) e B (sanfona, audaciosa) do folder institucional, prontas em 05/11. Entrega até @{2026-11-15} #criativo
 - [ ] Confirmar na reunião de sexta @{2026-11-06} se os dois escritórios no plano `pro` pagam e de onde vieram
 - [ ] Exportação de OAB por cadastro, para validar o cadastro só com OAB encontrada (29/10)
 - [ ] Motivos do erro na tela de dados do escritório (29/10)

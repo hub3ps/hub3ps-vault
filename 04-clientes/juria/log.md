@@ -7,9 +7,9 @@ autor: claude
 A entrada mais recente fica no topo, uma por sessão de trabalho.
 
 ### 2026-11-05 · Folder institucional, opção B
-- **O que fiz:** a v2 foi commitada como opção A, editorial. Montei uma opção B, audaciosa, para a Ana escolher: dobra em sanfona, um lado inteiro em ciano com "Tudo num só sistema." em letras gigantes, uma palavra por painel. O outro lado é branco, com uma faixa ciano onde a Jú vira um "Jú" gigante.
-- **Resultado em:** `clients/juria/creatives/folder-institucional/folder-b.html` (a opção A no commit 92a39e4, a B ainda sem commit)
-- **O que achei:** a B pede sanfona, com 3 painéis de 100 mm, e não carteira. Precisa confirmar com a gráfica. A logo foi num selo branco, porque o "IA" dela é ciano e sumiria no fundo.
+- **O que fiz:** a v2 foi commitada como opção A, editorial. Montei uma opção B, audaciosa, para a Ana escolher: dobra em sanfona, um lado inteiro em ciano com "Tudo num só sistema." em letras gigantes, uma palavra por painel. Na 2ª rodada, depois das recusas do Guilherme (selo branco da logo, lado B parecido com a A, "Jú" gigante), o lado A virou navy com a frase em ciano e a logo branca sem selo, e o lado B virou três blocos de cor: branco com o ano 2000, ciano com as perguntas à Jú, navy com a IA e o trial.
+- **Resultado em:** `clients/juria/creatives/folder-institucional/folder-b.html` (opção A no commit 92a39e4, opção B no 3754f9e)
+- **O que achei:** a B pede sanfona, com 3 painéis de 100 mm, e não carteira. Precisa confirmar com a gráfica. O lado A não pode ser ciano: o "IA" da logo é ciano e sumiria no fundo, e logo não se recolore.
 
 ### 2026-11-05 · Folder institucional, v2
 - **O que fiz:** refiz o folder em linha editorial depois que o Guilherme achou a v1 poluída e com cara de IA. Tem mais branco, tipografia grande e uma faixa navy cruzando os painéis. A IA caiu de 7 pontos para 4. Na 2ª rodada, a capa ficou só tipográfica, sem foto, e a Jú virou citação com avatar pequeno.
