@@ -65,7 +65,7 @@ Nomes no padrão de `docs/convencoes.md` do `agencia_marketing` (05/11/2026):
 
 - `cp_ig-engajou_365d`: engajamento com o perfil do Instagram em 365 dias
 - `cp_ig-visitou-perfil_90d`: quem visitou o perfil em 90 dias
-- `cp_video-curso-50_365d`: quem viu 50% ou mais do vídeo do curso
+- `cp_video-curso-engajou_365d`: quem viu uma parte significativa do vídeo do curso (a Meta não oferece mais a opção de 50%)
 - `cp_compradores-curso-antigo_lista`: lista de compradores do curso antigo, carregada pelo Guilherme no Gerenciador
 - `int_cad-dental_us`: público salvo da captação fria, só EUA, excluindo o `cp_ig-engajou_365d`
 
