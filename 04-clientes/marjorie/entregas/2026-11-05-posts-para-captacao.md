@@ -37,38 +37,9 @@ Fonte: os 110 posts do @marjoriedentalcad, lidos pela API da Meta em 05/11/2026.
 - **Idioma do áudio:** o público é dos EUA, então o vídeo precisa falar ou mostrar texto em inglês. No #5 a legenda começa em português.
 - **#12 e #17 (calculadora):** pedem para comentar "Calculator". No anúncio, a resposta automática também precisa funcionar nos comentários do anúncio.
 
-## Em dúvida, para o Guilherme revisar
-
-Vídeos e carrosséis que deixei de fora e que podem entrar. Do mais antigo para o mais recente.
-
-| # | Data | Formato | Conteúdo | Por que ficou em dúvida | Link |
-|---|---|---|---|---|---|
-| D1 | 08/07/2021 | Vídeo | Timelapse de enceramento | Legenda só em português, o vídeo deve ser sem fala | [abrir](https://www.instagram.com/p/CREXy--jmLQ/) |
-| D2 | 13/08/2021 | Reel | Guia periodontal, 3D contra real | Legenda só em português, o vídeo deve ser sem fala | [abrir](https://www.instagram.com/reel/CShJU78glE1/) |
-| D3 | 12/04/2022 | Reel | Timelapse de 6 facetas | A legenda pede DM para a tabela de preço de freelance | [abrir](https://www.instagram.com/reel/CcQVqqLALcg/) |
-| D4 | 17/03/2023 | Reel | Review do computador (435 curtidas) | Legenda só em português | [abrir](https://www.instagram.com/reel/Cp4tkWggvmZ/) |
-| D5 | 24/10/2023 | Reel | Vídeo dos 30 anos | Pessoal, legenda começa em português | [abrir](https://www.instagram.com/reel/CyzK30gBvgu/) |
-| D6 | 06/12/2023 | Reel | Review do SpaceMouse (404 curtidas) | Legenda começa em português | [abrir](https://www.instagram.com/reel/C0hnOD8BLzS/) |
-| D7 | 16/07/2024 | Carrossel | Entrevista no exoblog (fixado no perfil) | História pessoal, cita o curso antigo | [abrir](https://www.instagram.com/p/C9gGgfFJIZ1/) |
-| D8 | 08/12/2024 | Reel | A série do Senna | Legenda começa em português, tema brasileiro | [abrir](https://www.instagram.com/reel/DDVLt94T6sU/) |
-| D9 | 09/04/2025 | Reel | Amigos chineses (piada) | O tom da piada pode não cair bem no anúncio | [abrir](https://www.instagram.com/reel/DIPlSwXzrTZ/) |
-| D10 | 30/06/2025 | Reel | A caixa misteriosa da exocad (422 curtidas) | Pode ser colab com a exocad | [abrir](https://www.instagram.com/reel/DLhOcJMRL8m/) |
-| D11 | 21/09/2025 | Reel | "Big changes" (429 curtidas, 110 comentários) | Teaser de 2025, já passou | [abrir](https://www.instagram.com/reel/DO4TKXxEjjm/) |
-| D12 | 22/01/2026 | Reel | 3 atualizações do DentalCAD 3.3 (430 curtidas) | A legenda abre com o convite do CIOSP | [abrir](https://www.instagram.com/reel/DT0U-l_DTD_/) |
-| D13 | 31/01/2026 | Reel | Demonstração ao vivo no CIOSP | Evento, legenda começa em português | [abrir](https://www.instagram.com/reel/DULdtbWja2_/) |
-| D14 | 02/02/2026 | Reel | O que chamou atenção no CIOSP | Evento no Brasil | [abrir](https://www.instagram.com/reel/DUQQhIRDaSI/) |
-| D15 | 03/02/2026 | Reel | exoQuiz no CIOSP (320 curtidas) | Evento no Brasil, o áudio deve ser em português | [abrir](https://www.instagram.com/reel/DUT2XOckv5s/) |
-| D16 | 24/02/2026 | Reel | Por que fez o curso de estratificação de cerâmica | Agradece parceiros do curso | [abrir](https://www.instagram.com/reel/DVKEn2njVkr/) |
-| D17 | 17/04/2026 | Reel | Not all heroes wear capes (1.200 curtidas) | Convite para o exocad Insights, já passou | [abrir](https://www.instagram.com/reel/DXO6LTJjfak/) |
-| D18 | 30/04/2026 | Carrossel | Primeiro dia do exocad Insights (440 curtidas) | Resumo de evento | [abrir](https://www.instagram.com/p/DXw7OTrjT5q/) |
-| D19 | 01/05/2026 | Reel | Almoço Women in Dentistry | Evento, marca outras pessoas | [abrir](https://www.instagram.com/reel/DXzXo5-Nf9u/) |
-| D20 | 08/05/2026 | Reel | Resumo do exocad Insights | Resumo de evento | [abrir](https://www.instagram.com/reel/DYFLqn3N5pK/) |
-| D21 | 15/05/2026 | Reel | Bastidores da tradução simultânea | Evento | [abrir](https://www.instagram.com/reel/DYXBv9utwhp/) |
-| D22 | 03/06/2026 | Reel | exoQuiz no exocad Insights | Evento, pode ser colab | [abrir](https://www.instagram.com/reel/DZICVpFOvRV/) |
-| D23 | 06/07/2026 | Reel | Quiz do DentalDB | Evento de outra marca | [abrir](https://www.instagram.com/reel/DadJ8z_OEBw/) |
-
 ## O que ficou de fora, e por quê
 
+- **Lista de dúvidas (05/11):** 23 vídeos e carrosséis, entre eventos, posts só em português, pessoais e possíveis colabs. O Guilherme revisou e nenhum entra.
 - **Música:** não é mais motivo para tirar. No anúncio dá para trocar a música sem mexer no post publicado (Guilherme, 05/11).
 - **Revisão do Guilherme (05/11):** saíram 23 da primeira lista de 37, quase todas as imagens únicas e os posts em colab, que não dá para impulsionar.
 - **Só em português:** quase tudo de 2021 e 2022, a série do Senna, a notícia das licenças no Brasil e os posts do CIOSP.
