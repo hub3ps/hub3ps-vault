@@ -6,6 +6,13 @@ autor: claude
 
 A entrada mais recente fica no topo, uma por sessão de trabalho.
 
+### 2026-11-05 · Públicos e nomes
+- **O que fiz:** defini os públicos da campanha com o padrão novo de nomes do `docs/convencoes.md`. Pesquisei na base da Meta os interesses que existem para o público frio e comparei interesses com semelhante dos compradores.
+- **Resultado em:** `entregas/2026-11-05-publico-interesses.md` e a seção de públicos da estratégia
+- **O que achei:** a Meta não tem interesse de exocad nem de marcas do setor. O que segmenta de verdade são os cargos e os campos de estudo. O curso antigo era vendido pela iDD, então a lista de compradores talvez não seja da Marjorie. A Meta trocou a porcentagem de vídeo assistido por três níveis.
+- **Decisões:** começar com interesses, num conjunto só, de 22 a 55 anos. O semelhante fica para quando houver lista com o tamanho mínimo. O Guilherme criou os públicos personalizados e pediu às clientes os 10 melhores vídeos, em ordem de preferência, e a revisão dos interesses.
+- **Próximo passo:** com a resposta das clientes, criar o `int_cad-dental_us` e subir as campanhas de seguidores e do vídeo do curso.
+
 ### 2026-11-05 · Posts do perfil para a captação de seguidores
 - **O que fiz:** li os 110 posts do @marjoriedentalcad pela API, do mais antigo ao mais recente, e separei 37 que servem para captar seguidor no público frio dos EUA. Na revisão, o Guilherme tirou 23: as imagens únicas e os posts em colab, que não dá para impulsionar. Ficaram 14. Depois entraram mais 3 vídeos, o DWy_NIqDQIC (a música se troca no anúncio), o CqJK4R2BIqp e o CzmSyFXhm5x, e 23 foram para uma lista de dúvidas do Guilherme. A API não devolve colabs nem alguns posts com música, então o Guilherme fez login no navegador do app e conferi os 150 posts do perfil. Entraram mais 12 vídeos com música licenciada (a música se troca no anúncio), e a lista principal fechou em 29. Na revisão final, o Guilherme tirou mais 3 e os 3 em dúvida: ficaram 26, enviados ao grupo do projeto. Os 23 da lista de dúvidas foram recusados pelo Guilherme.
 - **Resultado em:** `entregas/2026-11-05-posts-para-captacao.md`
