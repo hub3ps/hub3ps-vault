@@ -6,6 +6,10 @@ autor: claude
 
 A entrada mais recente fica no topo, uma por sessão de trabalho.
 
+### 2026-11-05 · Folder institucional, sem preço e com mockups
+- **O que fiz:** tirei os planos e valores das duas opções, a pedido do Guilherme: o folder informa e leva ao QR, e o preço fica no site. Na A entrou "Já vem com o JurIA" no lugar dos planos. Na B, a resposta da Jú desceu e o verso da capa ganhou QR. Gerei um mockup de cada opção para mandar à Ana.
+- **Resultado em:** `clients/juria/creatives/folder-institucional/mockup-opcao-a.jpg` e `mockup-opcao-b.jpg`
+
 ### 2026-11-05 · Folder institucional, opção B
 - **O que fiz:** a v2 foi commitada como opção A, editorial. Montei uma opção B, audaciosa, para a Ana escolher: dobra em sanfona, um lado inteiro em ciano com "Tudo num só sistema." em letras gigantes, uma palavra por painel. Na 2ª rodada, depois das recusas do Guilherme (selo branco da logo, lado B parecido com a A, "Jú" gigante), o lado A virou navy com a frase em ciano e a logo branca sem selo, e o lado B virou três blocos de cor: branco com o ano 2000, ciano com as perguntas à Jú, navy com a IA e o trial.
 - **Resultado em:** `clients/juria/creatives/folder-institucional/folder-b.html` (opção A no commit 92a39e4, opção B no 3754f9e)
