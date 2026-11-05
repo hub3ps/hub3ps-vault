@@ -39,7 +39,7 @@ kanban-plugin: board
 
 ## Feito
 
-- [x] Públicos personalizados criados pelo Guilherme: cp_ig-engajou_365d, cp_ig-visitou-perfil_90d, cp_video-curso-engajou_365d e cp_compradores-curso-antigo_lista (05/11)
+- [x] Públicos personalizados criados pelo Guilherme (05/11). No print aparecem o cp_compradores-curso-antigo_lista e um de 365 dias. Confirmar o cp_ig-visitou-perfil_90d e se a lista de compradores tem dados
 - [x] Lista de 26 posts para a captação, revisada pelo Guilherme e enviada às clientes (05/11)
 - [x] Conta de anúncios em USD criada e cartão adicionado (03/11)
 - [x] Parceiro desconhecido removido da BM (03/11)
