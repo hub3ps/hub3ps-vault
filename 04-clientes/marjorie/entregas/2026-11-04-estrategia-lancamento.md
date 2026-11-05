@@ -61,9 +61,13 @@ Vale só para novembro, o mês do lançamento. Desenho do Guilherme (04/11/2026)
 ### Públicos para criar já (05/11)
 Eles se enchem durante a fase 1 e são o que as fases 2 e 3 usam.
 
-- Engajamento com o perfil do Instagram em 365 dias
-- Quem viu 50% ou mais do vídeo do curso
-- Lista de compradores do curso antigo (público personalizado), carregada pelo Guilherme no Gerenciador
+Nomes no padrão de `docs/convencoes.md` do `agencia_marketing` (05/11/2026):
+
+- `cp_ig-engajou_365d`: engajamento com o perfil do Instagram em 365 dias
+- `cp_ig-visitou-perfil_90d`: quem visitou o perfil em 90 dias
+- `cp_video-curso-50_365d`: quem viu 50% ou mais do vídeo do curso
+- `cp_compradores-curso-antigo_lista`: lista de compradores do curso antigo, carregada pelo Guilherme no Gerenciador
+- `int_cad-dental_us`: público salvo da captação fria, só EUA, excluindo o `cp_ig-engajou_365d`
 
 ## Países
 Decisão do Guilherme em 04/11/2026:
