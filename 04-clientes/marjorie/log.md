@@ -6,6 +6,13 @@ autor: claude
 
 A entrada mais recente fica no topo, uma por sessão de trabalho.
 
+### 2026-11-06 · Revisão das clientes: posts e interesses
+- **O que fiz:** registrei a conversa do grupo de 05/11 e transcrevi os 5 áudios localmente. Atualizei a lista de posts e a de interesses. Conferi pela API que os 6 posts sugeridos pela Julia podem virar anúncio, então nenhum é colab.
+- **Resultado em:** `fontes/2026-11-05-whatsapp-grupo.md`, `entregas/2026-11-05-posts-para-captacao.md` e `entregas/2026-11-05-publico-interesses.md`
+- **O que achei:** um dos 6 é o vídeo do curso, que fala da lista de espera e já é o criativo da campanha da base. Outro é uma imagem única, formato que o Guilherme tinha tirado da lista em 05/11. A Julia não mandou os 10 preferidos em ordem: mandou o que tirar e o que pôr.
+- **Decisões:** saem 5 posts em português ou da rotina na Nova Zelândia, e um deles fica de reserva. Entram 6 que trouxeram seguidores, e a lista fecha em 27. Colabs ficam para um segundo nível de teste, depois do lançamento. O público frio é só em inglês. Depois do lançamento, a Julia vai refazer em inglês alguns vídeos em português e repostar.
+- **Próximo passo:** conferir MOD Institute, SHINING 3D e DentalCAD na base da Meta, montar o `int_cad-dental_us` e subir as duas campanhas da fase 1.
+
 ### 2026-11-05 · Públicos e nomes
 - **O que fiz:** defini os públicos da campanha com o padrão novo de nomes do `docs/convencoes.md`. Pesquisei na base da Meta os interesses que existem para o público frio e comparei interesses com semelhante dos compradores.
 - **Resultado em:** `entregas/2026-11-05-publico-interesses.md` e a seção de públicos da estratégia

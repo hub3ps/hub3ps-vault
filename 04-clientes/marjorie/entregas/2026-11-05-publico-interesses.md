@@ -6,7 +6,7 @@ autor: claude
 ---
 # Público de interesses da captação fria
 
-O nome é `int_cad-dental_us`. Ele foi montado a partir da base de segmentação da Meta, pesquisada pela Marketing API em 05/11/2026 com mais de 100 termos. Está na lista só o que existe de fato. Foi enviado às clientes para revisão.
+O nome é `int_cad-dental_us`. Ele foi montado a partir da base de segmentação da Meta, pesquisada pela Marketing API em 05/11/2026 com mais de 100 termos. Está na lista só o que existe de fato. As clientes revisaram em 05/11, à tarde ([[2026-11-05-whatsapp-grupo]]).
 
 - **Local:** EUA, sem filtro de idioma
 - **Idade:** 22 a 55
@@ -41,6 +41,13 @@ O nome é `int_cad-dental_us`. Ele foi montado a partir da base de segmentação
 - **Interesses:** exocad, 3Shape, Ivoclar, Dentsply Sirona, Glidewell, Straumann, Zirkonzahn, Amann Girrbach, SprintRay, Asiga, Medit, iTero, CEREC, Invisalign, Digital Smile Design, Dentaltown, Dental Tribune, laboratório dental, prótese, ortodontia e odontologia digital
 - **Empregadores:** nenhuma marca do setor, nem a iDD
 - **Cargos:** ceramista, protético, dono de laboratório e técnico em ortodontia
+
+## Revisão das clientes (05/11)
+- **Tudo em inglês.** A Julia perguntou e o Guilherme confirmou. A lista acima já está toda em inglês, e nenhuma palavra-chave em português entra
+- **"Dentista" nos cargos:** já está, como Dentist
+- **Spear Education:** confirmado que é o público com interesse na plataforma. Fica
+- **Institute of Digital Dentistry (iDD):** não existe na base da Meta (Guilherme)
+- **A conferir na base da Meta, pedido da Julia:** MOD Institute, SHINING 3D, DentalCAD e Dental CAD (o nome oficial do produto da exocad). O Guilherme ficou de ver e avisar. Se existirem, entram como interesse
 
 ## Semelhante dos compradores
 Fica para depois. Antes, é preciso confirmar se a lista de compradores do curso antigo é da Marjorie ou da iDD, e quantos compradores são dos EUA.
