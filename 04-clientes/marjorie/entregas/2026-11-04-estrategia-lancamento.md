@@ -41,7 +41,7 @@ Vale só para novembro, o mês do lançamento. Desenho do Guilherme (04/11/2026)
 | "Not all heroes wear capes" (17/04, 1.200 curtidas) | Usa o tema "hero" do produto |
 
 **`marjorie-distribuicao-quente-0611`** (criada em 06/11)
-- Objetivo de engajamento, otimizando para ThruPlay
+- Objetivo de engajamento, com o local de conversão "No seu anúncio", otimizando para ThruPlay. Não é visita ao perfil: a base já segue, e o que importa é ela assistir ao vídeo
 - Público: seguidores e quem engajou com o perfil em 365 dias, sem filtro de país
 - Criativo: o vídeo do curso de 04/11, que conta a trajetória da Marjorie e por que ela criou o produto. Se a primeira semana mostrar fadiga, entram o "Don't buy yet" (01/11) e os conteúdos novos sobre a comunidade
 
@@ -65,6 +65,7 @@ Eles se enchem durante a fase 1 e são o que as fases 2 e 3 usam.
 Nomes no padrão de `docs/convencoes.md` do `agencia_marketing` (05/11/2026):
 
 - `cp_ig-engajou_365d`: engajamento com o perfil do Instagram em 365 dias
+- `cp_ig-seguiu_365d`: quem começou a seguir o perfil em 365 dias. Entra junto do `cp_ig-engajou_365d` na campanha da base (06/11). Quem segue há mais de um ano e não engajou não tem como ser alcançado: a Meta não oferece público de todos os seguidores
 - `cp_ig-visitou-perfil_90d`: quem visitou o perfil em 90 dias
 - `cp_video-curso-engajou_365d`: quem viu uma parte significativa do vídeo do curso (a Meta não oferece mais a opção de 50%)
 - `cp_compradores-curso-antigo_lista`: lista de compradores do curso antigo, carregada pelo Guilherme no Gerenciador
