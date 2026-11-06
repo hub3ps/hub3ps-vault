@@ -56,7 +56,9 @@ Montado à mão pelo Guilherme, porque o MCP da Meta não busca interesse.
 - **Campos de estudo:** só CAD/CAM e Dental Technology. Dental technician e Dental Laboratory Technician não aparecem como campo de estudo no Gerenciador
 - **Interesses:** "Faculdade de odontologia (ensino superior)", que é o Dental school com o nome em português na interface. Spear Education não aparece
 - **Não existem:** MOD Institute, SHINING 3D, DentalCAD e Dental CAD
-- **Primeira estimativa:** 6,5 a 7,7 milhões de pessoas, grande demais para técnico e designer de CAD nos EUA. A suspeita é o interesse em faculdade de odontologia
+- **Primeira estimativa:** 6,5 a 7,7 milhões de pessoas, grande demais para técnico e designer de CAD nos EUA. A causa era o interesse em faculdade de odontologia, que saiu
+- **Sem esse interesse:** 3,7 mil a 4,3 mil, pequeno demais para US$ 10 por dia. Cargo depende de a pessoa preencher a profissão no Facebook
+- **Testes de ampliação:** Dentistry, como campo de estudo, dá cerca de 15 mil, e Dentist cerca de 210 mil (Guilherme). Recomendação: entrar com os dois
 
 ## Semelhante dos compradores
 Fica para depois. Antes, é preciso confirmar se a lista de compradores do curso antigo é da Marjorie ou da iDD, e quantos compradores são dos EUA.
