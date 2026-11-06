@@ -33,12 +33,12 @@ kanban-plugin: board
 - [ ] Datas: evento no RJ e viagem à Alemanha
 - [ ] Política de reembolso
 - [ ] Razão social
-- [ ] Link da lista de espera (até 20/11)
 - [ ] Conteúdo de lembrete e de carrinho gravado antes da viagem (até 16/11)
 
 
 ## Feito
 
+- [x] Link da lista de espera achado na bio (06/11): www.marjoriedentalcad.com/zero-to-hero, com utm_source=ig, utm_medium=social e utm_content=link_in_bio
 - [x] Clientes revisaram posts e interesses (05/11): saíram 5 posts, entraram 6, a lista fechou em 27. Interesses só em inglês
 - [x] Públicos personalizados criados pelo Guilherme (05/11). No print aparecem o cp_compradores-curso-antigo_lista e um de 365 dias. Confirmar o cp_ig-visitou-perfil_90d e se a lista de compradores tem dados
 - [x] Lista de 26 posts para a captação, revisada pelo Guilherme e enviada às clientes (05/11)

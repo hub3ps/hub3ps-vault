@@ -64,6 +64,7 @@ Nunca guarde senha aqui.
 - **Instagram:** @marjoriedentalcad (`17841401629187998`), Página `313272035194741`. Aparece nas contas de IG da conta de anúncios, mas a Página não aparece vinculada a ela (API, 04/11)
 - **Domínio:** na Hostinger. O site antigo está no Wix, com o Google Workspace comprado pelo Wix
 - **Site e LP novos:** feitos pela Julia e publicados por ela na Vercel. TODO: confirmar onde e com que conta
+- **Lista de espera:** `www.marjoriedentalcad.com/zero-to-hero`, no ar em 06/11, com formulário de e-mail, nome e país. O link da bio usa `utm_source=ig&utm_medium=social&utm_content=link_in_bio`, sem `utm_campaign`
 - **Comunidade:** Circle
 - **Lista de compradores do curso antigo:** planilha no Google Sheets, com o link em [[2026-11-04-whatsapp-julia]] (04/11). Dados pessoais: o conteúdo nunca entra no vault
 
