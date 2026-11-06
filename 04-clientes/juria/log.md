@@ -10,6 +10,7 @@ A entrada mais recente fica no topo, uma por sessão de trabalho.
 - **O que fiz:** conferi os números e as propostas do hub com as exportações de 04/11 e publiquei duas correções: a conversa com quem importou fala em 20 escritórios, e não 18, e a importação automática depende das propostas 1 e 3. Consolidei os marcos do projeto no `cliente.md`.
 - **Resultado em:** `juria.hub3ps.com` (commit 93ebe35) e a seção "Marcos do projeto" do [[04-clientes/juria/cliente|cliente]]
 - **O que achei:** os números do topo e das campanhas batem. "Metade desiste na tela do escritório" usa o registro desde 06/10, e o funil do hub soma desde 14/08, por isso as perdas diferem; a explicação está na proposta. As 254 publicações lidas não estão em nenhuma exportação que temos. Envio do briefing, kickoff e renovação do contrato não estão registrados.
+- **Proposta nova (06/11):** "Vincular a Jú no cadastro", prioridade 2. A Jú, vinculada na tela dos prazos, manda prazos, intimações e o resumo do dia durante o teste, e o WhatsApp fica com a equipe comercial. Antes, conferi o cadastro ao vivo: segue igual ao mapeado, com 7 passos e o telefone só como opcional na tela da OAB. Publicado no commit 6695a8e.
 - **Próximo passo:** reunião com a Mobiletec às 15h. Preencher os marcos que faltam.
 
 ### 2026-11-05 · Folder institucional, copy só do site novo
