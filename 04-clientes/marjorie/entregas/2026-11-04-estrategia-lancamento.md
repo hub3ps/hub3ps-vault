@@ -25,7 +25,8 @@ Vale só para novembro, o mês do lançamento. Desenho do Guilherme (04/11/2026)
 
 ### Fase 1: aquecimento (05 a 24/11)
 
-**`marjorie-seguidores-frio-0511`**
+**`marjorie-seguidores-frio-0611`** (o nome previa 0511; a campanha foi criada em 06/11)
+- **Um conjunto por post, com 1 anúncio cada e US$ 5 por dia** (decisão do Guilherme, 06/11/2026), para garantir a entrega e o teste de cada post. O rodízio troca o conjunto inteiro
 - Objetivo de engajamento, com destino no perfil do Instagram, otimizando para visitas ao perfil
 - Público: interesses em exocad, CAD/CAM, prótese dentária, laboratório dental e odontologia digital, só nos EUA
 - **Rodízio de criativos a cada 3 dias** (decisão do Guilherme, 04/11/2026): o melhor fica, o pior sai e entra um conteúdo novo do perfil. O critério é o custo por visita ao perfil, conferido com os seguidores novos no Instagram
@@ -39,7 +40,7 @@ Vale só para novembro, o mês do lançamento. Desenho do Guilherme (04/11/2026)
 | Calculadora de proporção dentária (22/06, 625 comentários) | Já provou que puxa conversa |
 | "Not all heroes wear capes" (17/04, 1.200 curtidas) | Usa o tema "hero" do produto |
 
-**`marjorie-distribuicao-quente-0511`**
+**`marjorie-distribuicao-quente-0611`** (criada em 06/11)
 - Objetivo de engajamento, otimizando para ThruPlay
 - Público: seguidores e quem engajou com o perfil em 365 dias, sem filtro de país
 - Criativo: o vídeo do curso de 04/11, que conta a trajetória da Marjorie e por que ela criou o produto. Se a primeira semana mostrar fadiga, entram o "Don't buy yet" (01/11) e os conteúdos novos sobre a comunidade
@@ -79,7 +80,7 @@ Decisão do Guilherme em 04/11/2026: US$ 15 por dia é o mínimo para testar. Co
 
 | Campanha | Por dia no início |
 |---|---|
-| Captação de seguidores | US$ 10 |
+| Captação de seguidores | US$ 10, em dois conjuntos de US$ 5, um por post (decisão do Guilherme, 06/11) |
 | Distribuição do vídeo do curso | US$ 5 |
 | **Total** | **US$ 15** |
 

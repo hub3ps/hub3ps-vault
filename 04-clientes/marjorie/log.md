@@ -12,7 +12,8 @@ A entrada mais recente fica no topo, uma por sessão de trabalho.
 - **O que achei:** um dos 6 é o vídeo do curso, que fala da lista de espera e já é o criativo da campanha da base. Outro é uma imagem única, formato que o Guilherme tinha tirado da lista em 05/11. A Julia não mandou os 10 preferidos em ordem: mandou o que tirar e o que pôr.
 - **Decisões:** saem 5 posts em português ou da rotina na Nova Zelândia, e um deles fica de reserva. Entram 6 que trouxeram seguidores, e a lista fecha em 27. Colabs ficam para um segundo nível de teste, depois do lançamento. O público frio é só em inglês. Depois do lançamento, a Julia vai refazer em inglês alguns vídeos em português e repostar.
 - **Correção (06/11):** a "lista pra postar inicial" da Julia, com os 10 primeiros, não estava no primeiro envio da conversa. Montei uma ordem de prioridade sem ela, e o Guilherme percebeu. Registrei a mensagem e troquei a ordem pela da Julia.
-- **Próximo passo:** o Guilherme monta o público e sobe as duas campanhas da fase 1 à mão.
+- **Estrutura final (06/11):** o Guilherme sobe as campanhas à mão. Na de seguidores, Engajamento com destino no perfil, são dois conjuntos de US$ 5 por dia com 1 post cada, para garantir a entrega de cada um. A da base roda só o vídeo de trajetória, a US$ 5 por dia. Total de US$ 15 por dia. Nomes em `docs/convencoes.md`, com o ID `IG-NN` e o ID do criativo no fim do nome do conjunto.
+- **Próximo passo:** com as campanhas no ar, primeira leitura de custo por seguidor e frequência em 3 dias, para o rodízio.
 
 ### 2026-11-05 · Públicos e nomes
 - **O que fiz:** defini os públicos da campanha com o padrão novo de nomes do `docs/convencoes.md`. Pesquisei na base da Meta os interesses que existem para o público frio e comparei interesses com semelhante dos compradores.
