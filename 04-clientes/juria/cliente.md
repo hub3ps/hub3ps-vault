@@ -58,6 +58,50 @@ Contrato assinado em 22/04/2026, com período de avaliação até 22/07/2026 (br
 | tracking | O `ClickTrial` saiu, e a intenção é medida pelo `ViewRegister` | O redirecionamento cortava o evento antes de chegar à Meta | 23/09/2026 |
 | tracking | O Consent Mode vai no `<head>`, antes do GTM | Na ordem invertida, as tags disparavam para quem recusou | 08/2026 |
 
+## Marcos do projeto
+Consolidado em 06/11/2026 a partir do log, do `brief.md`, das fichas de campanha, dos commits do `agencia_marketing` e das memórias. TODO é o que não está registrado em lugar nenhum.
+
+| Data | Marco | Fonte |
+|---|---|---|
+| TODO | Envio do briefing à Mobiletec | não registrado |
+| TODO | Kickoff ou primeira reunião com a Mobiletec | não registrado |
+| 22/04/2026 | Contrato assinado, com período de avaliação até 22/07/2026 | `brief.md` |
+| 11/05/2026 | Mobiletec devolve o briefing preenchido (v6) | `brief.md` |
+| 15/05/2026 | Briefing consolidado pela Hub3Ps | `brief.md` |
+| 24/05/2026 | Início do repositório do projeto | commits |
+| 27/05/2026 | Primeiras LPs para aprovação | commits |
+| 02/06/2026 | GTM instalado nas LPs | commits |
+| 24/06/2026 | Verificação do tracking | commits |
+| 26/06/2026 | Data no nome da primeira campanha (`sul-2606`). TODO: por que ela só foi ao ar em 14/08 | ficha da campanha |
+| 09/07/2026 | Payload da CAPI entregue ao desenvolvedor | commits |
+| 14/07/2026 | Botões das LPs apontando para o portal | commits |
+| 20/07/2026 | Apresentação institucional para a OAB Itajaí | commits |
+| 22/07/2026 | Fim do período de avaliação. TODO: renovação e vigência atual | `brief.md` |
+| 28 e 29/07/2026 | Caminho da venda validado no Pixel | painel do funil |
+| 12/08/2026 | LP e flyer da oferta da OAB Brusque | log |
+| 14/08/2026 | Primeiras campanhas no ar: nicho no Sul, trabalhista e previdenciário | log |
+| 16/08/2026 | Espelho automático de CAPI ligado pela Meta (não era a CAPI real) | memória |
+| 31/08/2026 | Campanha institucional Brasil, com o primeiro vídeo da conta | log |
+| 14/09/2026 | Campanha institucional em 9 estados | log |
+| 17/09/2026 | Reunião com a Mobiletec sobre o ciclo de 27/08 a 15/09 | [[2026-09-17-mobiletec]] |
+| 18/09/2026 | CAPI real no ar | memória |
+| 22/09/2026 | Espelho de CAPI desligado | memória |
+| 29/09/2026 | Planos novos, teste de 7 dias e início do site em Astro | log |
+| 30/09/2026 | Campanhas antigas desligadas | log |
+| 01/10/2026 | Campanha de chegada no cadastro no ar | log |
+| 06/10/2026 | Começa o registro de cada pessoa no funil de cadastro | painel do funil |
+| 13/10/2026 | Campanha da conta criada no ar | log |
+| 14/10/2026 | Site novo publicado em `site.juria.hub3ps.com`, com `noindex` | log |
+| 19/10/2026 | Campanha de chegada no cadastro encerrada | registro do hub |
+| 22 e 23/10/2026 | Mobiletec revisa o site novo | log |
+| 26/10/2026 | Revisão da Isadora nos posts e criativos | log |
+| 28/10/2026 | Campanha de vídeos no ar | log |
+| 29/10/2026 | Leitura do funil e propostas no hub | log |
+| 30/10/2026 | Hub novo no ar | log |
+| 02/11/2026 | Conjunto do vídeo com música pausado | `CLAUDE.md` |
+| 05/11/2026 | Hub atualizado com as exportações de 04/11 | log |
+| 06/11/2026 | Hub revisado para a reunião com a Mobiletec | log |
+
 ## Depende do cliente
 Pedidos abertos com a Mobiletec, conforme o registro do hub (`clients/juria/hub/mudancas.json`, de 29 e 30/10/2026):
 
@@ -66,6 +110,7 @@ Pedidos abertos com a Mobiletec, conforme o registro do hub (`clients/juria/hub/
 - [ ] Informar se existe um endereço que abre direto a importação pela OAB e se esse e-mail pode sair pelo mesmo envio das réguas
 - [ ] Informar o que acontece quando a importação passa de 50 processos no teste
 - [ ] Implementar o `trial_to_paid` no servidor (README do cliente, sem data)
+- [ ] Datas do envio do briefing e do kickoff, e a vigência do contrato depois de 22/07 (para os marcos do projeto)
 - [ ] Responder Q8, Q9, Q27 e Q28 do briefing: beta testers, lista de espera, quem ativa os trials e o destino final do lead (abertas desde 15/05/2026)
 
 ## Acessos
