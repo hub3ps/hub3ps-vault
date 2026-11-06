@@ -59,6 +59,24 @@ Vou ajeitar tudo aqui então 👊🏼
 [16:20] Guilherme Miguel: Fechou
 ```
 
+## Mensagem que faltou no primeiro envio
+Reenviada pelo Guilherme em 06/11. É da Julia, no grupo, em 05/11, com a numeração da lista de 26.
+
+```
+*LISTA PRA POSTAR INICIAL*
+
+4
+8
+9
+16
+18
+19
+20
+21
+24
+https://www.instagram.com/reel/DfUu0YJBAsu/ - trajetória (esse aqui acabou ficando de fora da lista e acho forte)
+```
+
 ## Áudios
 
 - **16:04:53, 10 s (provavelmente Julia):** 🎙️ "E eu acho que nem vale a pena a gente... a gente pode falar, né, (trecho incerto: "como é que sou card") só que daí eu tenho medo de, tipo, pô, ficar gastando dinheiro e ficar mandando gente pro perfil deles, que não tem necessidade, né."

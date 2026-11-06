@@ -44,6 +44,26 @@ Revisada com as clientes em 05/11, à tarde: saíram 5 e entraram 6, e a lista f
 | 26 | 10/08/2026 | Reel | A calculadora funcionando | 178 (224 comentários) | [abrir](https://www.instagram.com/reel/Db3JnViukF0/) | lista de 05/11 |
 | 27 | 04/11/2026 | Reel | Trajetória da Marjorie e anúncio do Zero to Hero (é o vídeo do curso, com "waitlist in my bio") | 229 | [abrir](https://www.instagram.com/reel/DfUu0YJBAsu/) | sugerido pela Julia |
 
+## Lista inicial das clientes: os 10 para postar primeiro
+A Julia mandou no grupo em 05/11 a "lista pra postar inicial", com a numeração da lista de 26 que o Guilherme enviou. A mensagem só chegou ao vault em 06/11, reenviada pelo Guilherme. Uma lista de prioridade montada antes, sem ela, foi descartada.
+
+| Ordem | Nº na lista de 26 | Nº nesta lista | Conteúdo | Link |
+|---|---|---|---|---|
+| 1 | 4 | #3 | Os dois lados da odontologia digital (música) | [abrir](https://www.instagram.com/reel/CwV-1M8Bcx1/) |
+| 2 | 8 | #6 | Teclado e mouse ou touchscreen e caneta? | [abrir](https://www.instagram.com/reel/C5wiLu_BbEd/) |
+| 3 | 9 | #7 | Escaneamento, face scan, tomografia e movimento da mandíbula no exocad (música) | [abrir](https://www.instagram.com/reel/C6FEbOth04F/) |
+| 4 | 16 | #12 | O setup novo em casa | [abrir](https://www.instagram.com/reel/DH1sAqTTxyY/) |
+| 5 | 18 | #14 | Sair do modo sobrevivência | [abrir](https://www.instagram.com/reel/DRnTUjXk0MW/) |
+| 6 | 19 | #18 | Se você é novo aqui, comece por aqui (música) | [abrir](https://www.instagram.com/reel/DV_OXgIDbVg/) |
+| 7 | 20 | #19 | Teclado e mouse ou touchscreen e caneta? Versão 2026 (música) | [abrir](https://www.instagram.com/p/DWy_NIqDQIC/) |
+| 8 | 21 | #20 | Calculadora de proporção dos dentes | [abrir](https://www.instagram.com/reel/DZ5ClM2uOvu/) |
+| 9 | 24 | #24 | Tutorial do Candy Coating | [abrir](https://www.instagram.com/reel/DbTiRHGsOb4/) |
+| 10 | fora da lista | #27 | Trajetória e vídeo do curso. A Julia achou forte | [abrir](https://www.instagram.com/reel/DfUu0YJBAsu/) |
+
+**Atenção:** 4 dos 10 têm música licenciada e a API não devolve como anunciáveis: os números 4, 9, 19 e 20 da lista de 26. Se o Gerenciador não deixar escolher algum deles, o próximo da fila entra no lugar.
+
+**Depois dos 10**, vêm os outros posts que a Julia indicou como os que trouxeram seguidores: #17 Ferramentas escondidas do DentalCAD 3.3, #16 Estratificação de cerâmica, #15 3 novidades do DentalCAD 3.3, #23 Candy Coating em placas e #13 Dica de enceramento. O resto da lista vem por último.
+
 ## Pontos em aberto
 
 - **Idioma do áudio:** o público é dos EUA, então o vídeo precisa falar ou mostrar texto em inglês. Li só as legendas. No #15 a legenda começa em português, com o convite do CIOSP.
