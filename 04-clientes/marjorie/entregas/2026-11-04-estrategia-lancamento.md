@@ -65,7 +65,7 @@ Eles se enchem durante a fase 1 e são o que as fases 2 e 3 usam.
 Nomes no padrão de `docs/convencoes.md` do `agencia_marketing` (05/11/2026):
 
 - `cp_ig-engajou_365d`: engajamento com o perfil do Instagram em 365 dias
-- `cp_ig-seguiu_365d`: quem começou a seguir o perfil em 365 dias. Entra junto do `cp_ig-engajou_365d` na campanha da base (06/11). Quem segue há mais de um ano e não engajou não tem como ser alcançado: a Meta não oferece público de todos os seguidores
+- `cp_ig-seguidores_todos`: todos os seguidores atuais do perfil, sem janela (o Gerenciador não pede período, Guilherme, 06/11). Entra junto do `cp_ig-engajou_365d` na campanha da base, no conjunto `cp_ig-base_auto_thruplay`
 - `cp_ig-visitou-perfil_90d`: quem visitou o perfil em 90 dias
 - `cp_video-curso-engajou_365d`: quem viu uma parte significativa do vídeo do curso (a Meta não oferece mais a opção de 50%)
 - `cp_compradores-curso-antigo_lista`: lista de compradores do curso antigo, carregada pelo Guilherme no Gerenciador
