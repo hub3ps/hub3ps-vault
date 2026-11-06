@@ -49,5 +49,14 @@ O nome é `int_cad-dental_us`. Ele foi montado a partir da base de segmentação
 - **Institute of Digital Dentistry (iDD):** não existe na base da Meta (Guilherme)
 - **A conferir na base da Meta, pedido da Julia:** MOD Institute, SHINING 3D, DentalCAD e Dental CAD (o nome oficial do produto da exocad). O Guilherme ficou de ver e avisar. Se existirem, entram como interesse
 
+## Como ficou no Gerenciador (Guilherme, 06/11)
+Montado à mão pelo Guilherme, porque o MCP da Meta não busca interesse.
+
+- **Cargos:** os 7 da lista, todos existem
+- **Campos de estudo:** só CAD/CAM e Dental Technology. Dental technician e Dental Laboratory Technician não aparecem como campo de estudo no Gerenciador
+- **Interesses:** "Faculdade de odontologia (ensino superior)", que é o Dental school com o nome em português na interface. Spear Education não aparece
+- **Não existem:** MOD Institute, SHINING 3D, DentalCAD e Dental CAD
+- **Primeira estimativa:** 6,5 a 7,7 milhões de pessoas, grande demais para técnico e designer de CAD nos EUA. A suspeita é o interesse em faculdade de odontologia
+
 ## Semelhante dos compradores
 Fica para depois. Antes, é preciso confirmar se a lista de compradores do curso antigo é da Marjorie ou da iDD, e quantos compradores são dos EUA.

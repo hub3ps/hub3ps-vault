@@ -8,7 +8,7 @@ kanban-plugin: board
 - [ ] Rodízio dos criativos de seguidores a cada 3 dias, com 2 por vez, a partir dos 10 escolhidos pelas clientes #trafego-pago
 - [ ] Montar o lembrete para a lista de espera (25 e 26/11) e o carrinho na LP (27 a 30/11) #trafego-pago
 - [ ] Subir os primeiros anúncios #trafego-pago
-- [ ] Conferir na base da Meta MOD Institute, SHINING 3D, DentalCAD e Dental CAD, e avisar a Julia #trafego-pago
+- [ ] Avisar a Julia: MOD Institute, SHINING 3D, DentalCAD, Dental CAD e Spear Education não existem no Gerenciador (06/11) #trafego-pago
 - [ ] Colabs: segundo nível de teste, depois do lançamento. Precisa da aprovação da outra conta #trafego-pago
 - [ ] Criar o semelhante dos compradores, depois de confirmar se a lista é da Marjorie ou da iDD e quantos compradores são dos EUA #trafego-pago
 - [ ] Pixel na LP até 20/11, para o carrinho de 27 a 30/11 #tracking
