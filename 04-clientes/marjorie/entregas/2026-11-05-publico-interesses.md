@@ -59,6 +59,14 @@ Montado à mão pelo Guilherme, porque o MCP da Meta não busca interesse.
 - **Primeira estimativa:** 6,5 a 7,7 milhões de pessoas, grande demais para técnico e designer de CAD nos EUA. A causa era o interesse em faculdade de odontologia, que saiu
 - **Sem esse interesse:** 3,7 mil a 4,3 mil, pequeno demais para US$ 10 por dia. Cargo depende de a pessoa preencher a profissão no Facebook
 - **Testes de ampliação:** Dentistry, como campo de estudo, dá cerca de 15 mil, e Dentist cerca de 210 mil (Guilherme). Recomendação: entrar com os dois
+- **Versão final do Guilherme (06/11):** 23,7 mil a 27,9 mil pessoas, com estes itens, todos em "inclui":
+  - Campos de estudo: CAD/CAM, Dental technician, Dental Technology, Dentist, Dentistry
+  - Instituições de ensino: Dental technician, Dentistry
+  - Cargos: CAD Designer, CAD Designer (Computer Aided Design Designer), CAD Draftsman (Computer-Aided Design Draftsman), Dental Lab Technician, Dental technician, dentist, Dentist, Dentist/Orthodontist, Dentistry, Dental Laboratory Technician, Dental Technologist
+  - Empregadores: Dental technician, Dentist, Dentistry
+  - O "Dentist" de 210 mil do teste anterior não se repetiu na soma
+- **Salvo no Gerenciador (06/11, 10:07):** 22,8 mil a 26,8 mil pessoas. Saíram CAD Draftsman e também CAD Designer (Computer Aided Design Designer). Advantage+ desligado
+- **Recomendação do Claude:** tirar CAD Draftsman, que é desenhista de CAD de engenharia e arquitetura, fora do nicho. Manter o resto e o Advantage+ desligado
 
 ## Semelhante dos compradores
 Fica para depois. Antes, é preciso confirmar se a lista de compradores do curso antigo é da Marjorie ou da iDD, e quantos compradores são dos EUA.
