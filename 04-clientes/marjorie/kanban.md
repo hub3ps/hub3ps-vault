@@ -7,7 +7,6 @@ kanban-plugin: board
 - [ ] Montar a fase 1: captação de seguidores para o perfil e distribuição do vídeo do curso para a base #trafego-pago
 - [ ] Rodízio dos criativos de seguidores a cada 3 dias, com 2 por vez, a partir dos 10 escolhidos pelas clientes #trafego-pago
 - [ ] Montar o lembrete para a lista de espera (25 e 26/11) e o carrinho na LP (27 a 30/11) #trafego-pago
-- [ ] Subir os primeiros anúncios #trafego-pago
 - [ ] Avisar a Julia: MOD Institute, SHINING 3D, DentalCAD, Dental CAD e Spear Education não existem no Gerenciador (06/11) #trafego-pago
 - [ ] Colabs: segundo nível de teste, depois do lançamento. Precisa da aprovação da outra conta #trafego-pago
 - [ ] Criar o semelhante dos compradores, depois de confirmar se a lista é da Marjorie ou da iDD e quantos compradores são dos EUA #trafego-pago
@@ -22,6 +21,7 @@ kanban-plugin: board
 
 ## Fazendo
 
+- [ ] Campanha 2 (`marjorie-distribuicao-quente-0611`) em espera: depende da Julia confirmar se dá para pôr o Pixel na página da lista de espera #trafego-pago
 
 
 ## Aguardando cliente
@@ -38,6 +38,7 @@ kanban-plugin: board
 
 ## Feito
 
+- [x] Campanha 1 de seguidores no ar, subida pelo Guilherme (06/11)
 - [x] Link da lista de espera achado na bio (06/11): www.marjoriedentalcad.com/zero-to-hero, com utm_source=ig, utm_medium=social e utm_content=link_in_bio
 - [x] Clientes revisaram posts e interesses (05/11): saíram 5 posts, entraram 6, a lista fechou em 27. Interesses só em inglês
 - [x] Públicos personalizados criados pelo Guilherme (05/11). No print aparecem o cp_compradores-curso-antigo_lista e um de 365 dias. Confirmar o cp_ig-visitou-perfil_90d e se a lista de compradores tem dados
