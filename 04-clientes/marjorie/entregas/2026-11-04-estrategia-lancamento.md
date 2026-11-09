@@ -29,7 +29,7 @@ Vale só para novembro, o mês do lançamento. Desenho do Guilherme (04/11/2026)
 - **Um conjunto por post, com 1 anúncio cada e US$ 5 por dia** (decisão do Guilherme, 06/11/2026), para garantir a entrega e o teste de cada post. O rodízio troca o conjunto inteiro
 - Objetivo de engajamento, com destino no perfil do Instagram, otimizando para visitas ao perfil
 - Público: interesses em exocad, CAD/CAM, prótese dentária, laboratório dental e odontologia digital, só nos EUA
-- **Rodízio de criativos a cada 3 dias** (decisão do Guilherme, 04/11/2026): o melhor fica, o pior sai e entra um conteúdo novo do perfil. O critério é o custo por visita ao perfil, conferido com os seguidores novos no Instagram
+- **Rodízio de criativos a cada 3 dias** (decisão do Guilherme, 04/11/2026): o melhor fica, o pior sai e entra um conteúdo novo do perfil. O critério é o custo por visita ao perfil, conferido com os seguidores novos no Instagram. **Trocado em 09/11 pelo custo por seguidor** (Guilherme): na rodada 1, a visita mais barata foi a que menos virou seguidor
 - Com US$ 10 por dia, 3 dias dão uns US$ 30 por rodada. Por isso a rodada começa com 3 criativos, e não mais. Quando a diferença entre eles for pequena, o pior não sai, e a comparação segue por mais uma rodada
 - Criativos são os posts de conteúdo técnico, que atraem quem trabalha com exocad e não curioso. A rodada 1 usa os três primeiros, e o resto vira fila:
 

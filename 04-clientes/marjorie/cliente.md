@@ -11,7 +11,7 @@ contrato: sem contrato. Acordo pelo WhatsApp em 02/11/2026, em fontes/2026-11-04
 vigencia: sem prazo
 valor-mensal: 1500
 meta: marco do lançamento. LP no ar até 20/11, carrinho aberto em 27/11 e preço especial até 30/11 (Guilherme, 04/11/2026)
-contatos: Julia Peixoto (ponte, fez o site e a LP), Marjorie Andrade (expert, dona do cartão). Grupo do WhatsApp com os três desde 04/11
+contatos: Julia Peixoto (ponte, fez o site e a LP), Marjorie Andrade (expert, dona do cartão). Grupo do WhatsApp com os três desde 04/11, "CURSO EXOCAD 🚀🇧🇷" (`120363265429433143@g.us`), onde o número da agência no whatsapp-mcp também está (09/11)
 drive: TODO (Hub3Ps/Clientes/marjorie/)
 painel:
 repositorios: []
@@ -21,7 +21,7 @@ autor: claude
 ---
 # Marjorie Andrade
 
-> **Estado atual:** fechado em 02/11 por WhatsApp, sem proposta nem contrato. O lançamento é em 27/11, com lista de espera no ar e preço especial até 30/11. A conta de anúncios em USD está pronta e sem campanha. A estratégia foi enviada à Julia em 04/11, com verba inicial de US$ 15 por dia, e espera o ok dela.
+> **Estado atual:** fechado em 02/11 por WhatsApp, sem proposta nem contrato. O lançamento é em 27/11, com lista de espera no ar e preço especial até 30/11. Duas campanhas Meta no ar: [[marjorie-seguidores-frio-0611]] (seguidores, público frio dos EUA, desde 06/11) e [[marjorie-distribuicao-quente-0611]] (vídeo do curso para a base, criada em 09/11). Na rodada 1 de seguidores, o IG-06 ficou e o IG-03 saiu (09/11). O perfil foi de 14.035 seguidores em 02/11 para 15.764 em 09/11 (Julia, no grupo).
 
 ## Quem é
 - **Negócio:** Marjorie é designer de CAD odontológico, técnica, educadora e KOL do exocad. Desenha em tempo integral desde 2020. O primeiro curso, "Mastering exocad" (2023), teve alunos em mais de 65 países.
@@ -65,6 +65,7 @@ Nunca guarde senha aqui.
 - **Domínio:** na Hostinger. O site antigo está no Wix, com o Google Workspace comprado pelo Wix
 - **Site e LP novos:** feitos pela Julia e publicados por ela na Vercel. TODO: confirmar onde e com que conta
 - **Lista de espera:** `www.marjoriedentalcad.com/zero-to-hero`, no ar em 06/11, com formulário de e-mail, nome e país. O link da bio usa `utm_source=ig&utm_medium=social&utm_content=link_in_bio`, sem `utm_campaign`
+- **Pixel:** `1775314010396135`, no site desde 09/11 (Julia), com PageView em toda troca de página. O site é Next.js. O formulário da lista de espera envia para `/api/zth-waitlist`, guarda as UTMs da entrada e mostra o sucesso na mesma página, sem página de obrigado. **Lead desde 09/11:** regra de clique criada no Pixel pelo MCP (`4511374259101290`, ativa), `Lead` no clique do botão "Join the list" do último passo, com `content_name: zth_waitlist`. Conta tentativa de envio, não inscrição confirmada. Quando a Julia puser o Lead no sucesso do envio, essa regra se desativa para não contar em dobro
 - **Comunidade:** Circle
 - **Lista de compradores do curso antigo:** planilha no Google Sheets, com o link em [[2026-11-04-whatsapp-julia]] (04/11). Dados pessoais: o conteúdo nunca entra no vault
 

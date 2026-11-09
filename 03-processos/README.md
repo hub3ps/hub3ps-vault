@@ -7,6 +7,7 @@ agendadas que está fora da main (`claude/focused-brahmagupta-fhfuqd`).
 | Rotina | Quando | Runbook |
 |---|---|---|
 | Entrada de cliente novo | Primeiro contato até a gestão contínua | [[novo-cliente]] |
+| WhatsApp diário | Dias úteis às 8h, agendado | [[whatsapp-diario]] |
 
 O `novo-cliente.md` do repo antigo foi substituído por este e não será migrado:
 ele criava a pasta do cliente no `agencia_marketing`, modelo que o vault aposentou.

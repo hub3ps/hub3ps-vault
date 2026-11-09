@@ -6,6 +6,35 @@ autor: claude
 
 A entrada mais recente fica no topo, uma por sessão de trabalho.
 
+### 2026-11-09 · Grupo de 06 a 09/11, primeira leitura pela rotina
+- **O que fiz:** primeira leitura do grupo pela rotina WhatsApp diário. Registrei as 64 mensagens de 06 a 09/11.
+- **Resultado em:** `fontes/2026-11-09-whatsapp-grupo.md`
+- **O que achei:** em 06/11, a Marjorie passou o código para verificar o WhatsApp na conta de anúncios e disse que vai trocar o número dela no grupo. Ficou combinado o Pixel direto no site, sem GTM por ora, com o Lead da lista de espera como prioridade. Em 08/11, a Julia mandou um vídeo novo de dica de exocad (DffdDhwhldx), que entrou como #28 na lista de posts. Em 09/11: 14.035 seguidores em 02/11 e 15.764 em 09/11, com uns 900 de 08 para 09/11 vindos desse vídeo, no orgânico.
+- **Decisões:** o #28 não entra no tráfego agora, para não matar a entrega orgânica. Entra quando o orgânico esgotar, e a Julia avisa (Guilherme, 09/11).
+- **Próximo passo:** acompanhar o aviso da Julia sobre o #28.
+
+### 2026-11-09 · Resumo da rodada 1 enviado ao grupo
+- **O que fiz:** com o ok do Guilherme, enviei no grupo "CURSO EXOCAD 🚀🇧🇷" o resumo da rodada 1 de seguidores, pelo número da agência no whatsapp-mcp: resultado do IG-06 e do IG-03, com links, e o IG-07 já no ar para teste.
+- **Próximo passo:** leitura da rodada 2 em 3 dias.
+
+### 2026-11-09 · Rodada 1 de seguidores e fichas das campanhas
+- **O que fiz:** abri as fichas das duas campanhas em `campanhas/`, no modelo do vault, com os IDs da Meta conferidos na API. Registrei a rodada 1 da campanha de seguidores.
+- **Resultado em:** `campanhas/marjorie-seguidores-frio-0611.md` e `campanhas/marjorie-distribuicao-quente-0611.md`
+- **O que achei:** de 06 a 09/11, o IG-03 gastou US$ 16,07 e trouxe 11 seguidores (US$ 1,46 cada). O IG-06 gastou US$ 16,54 e trouxe 30 (US$ 0,55). O IG-03 teve a visita ao perfil mais barata, US$ 0,08 contra US$ 0,23, mas só 5% das visitas viraram seguidor, contra 42%. A campanha da base foi criada em 09/11 e está em análise.
+- **Decisões:** o Guilherme pausou o IG-03 e manteve o IG-06. O critério do rodízio passa a ser o custo por seguidor, e não o custo por visita. O próximo da fila da Julia é o IG-07.
+- **Próximo passo:** subir o IG-07 num conjunto novo e ler a rodada 2 em 3 dias.
+
+### 2026-11-09 · Lead pelo clique no botão
+- **O que fiz:** conferi que o site não tem página de obrigado (10 endereços comuns dão 404, e o sitemap não tem nenhuma). Com o ok do Guilherme, criei e ativei pelo MCP uma regra de clique no Pixel `1775314010396135`: `Lead` no botão "Join the list", com `content_name: zth_waitlist`. ID da regra: `4511374259101290`. A regra já aparece na config pública do Pixel.
+- **Decisões:** ficam de fora o "Join the waiting list" do topo, que só leva ao formulário, e o "ME AVISE" de `/pt/course`, que é a lista do curso em português. O evento conta tentativa de envio: o botão só libera depois do aceite dos termos, mas um erro no envio ainda conta.
+- **Próximo passo:** testar com uma inscrição real no "Testar eventos". Quando a Julia puser o Lead no código, desativar esta regra.
+
+### 2026-11-09 · Evento de Lead da lista de espera
+- **O que fiz:** li o código do site para ver como disparar o Lead da lista de espera, sem enviar o formulário.
+- **O que achei:** o Pixel `1775314010396135` está no site e só manda PageView. O formulário envia para `/api/zth-waitlist` e mostra o sucesso na mesma página, sem trocar de endereço. Por isso não dá para medir por página de obrigado nem por conversão personalizada de URL: o Lead precisa entrar no código, no retorno de sucesso do envio. O site também tem formulários da calculadora e de contato, então o evento leva `content_name: zth_waitlist` para separar.
+- **Decisões:** evento padrão `Lead`, como manda o `docs/convencoes.md`. A CAPI pelo `/api/zth-waitlist`, com o mesmo `event_id`, fica como segundo passo.
+- **Próximo passo:** a Julia aplica o código. Com o Lead chegando, a campanha 2 pode otimizar para ele ou seguir no ThruPlay.
+
 ### 2026-11-06 · Revisão das clientes: posts e interesses
 - **O que fiz:** registrei a conversa do grupo de 05/11 e transcrevi os 5 áudios localmente. Atualizei a lista de posts e a de interesses. Conferi pela API que os 6 posts sugeridos pela Julia podem virar anúncio, então nenhum é colab.
 - **Resultado em:** `fontes/2026-11-05-whatsapp-grupo.md`, `entregas/2026-11-05-posts-para-captacao.md` e `entregas/2026-11-05-publico-interesses.md`

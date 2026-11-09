@@ -1,6 +1,6 @@
 ---
 tipo: agencia
-atualizado: 2026-11-03
+atualizado: 2026-11-09
 ---
 # Stack
 
@@ -15,6 +15,7 @@ atualizado: 2026-11-03
 | Google Drive | Arquivos pesados: fotos, vídeos e PDFs, em `Hub3Ps/Clientes/<slug>/` |
 | Miro | Só para desenhar estrutura |
 | Supabase | Só dentro dos agentes de IA de clientes |
+| whatsapp-mcp | Claude lê e envia mensagens no WhatsApp por um número só da agência, conectado como aparelho (não oficial, risco de bloqueio do número). Instalado em 09/11/2026 em `~/ferramentas/whatsapp-mcp`: a ponte em Go roda como serviço do macOS (`com.hub3ps.whatsapp-bridge`), que liga com o Mac e se reinicia se cair. A rotina diária está em [[03-processos/whatsapp-diario]], e o QR se refaz a cada 20 dias, mais ou menos. A API local da ponte só aceita o próprio Mac. Toda mensagem enviada passa pelo ok do Guilherme |
 | Composio | Publica no Instagram (feed, carrossel, Reels e Stories) por conta conectada. Em 04/11/2026 só a @guimiguelmkt está conectada; cada cliente precisa conectar a própria conta, que deve ser profissional. Toda publicação passa pelo ok do Guilherme |
 
 ## Onde os arquivos vivem

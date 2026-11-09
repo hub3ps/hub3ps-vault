@@ -39,10 +39,11 @@ A verba de mídia é paga direto à Meta pelo cliente. Piso para negociar: TODO.
 
 ## Arquivos
 - Fonte HTML: [[churrascodaelite-2026-11.html]]. Usa a logo preta, a foto e a fonte Inter Tight do site do Guilherme (`~/Desktop/site-guimiguelmkt/assets/`). Para gerar o PDF, copie esses três arquivos para a mesma pasta do HTML
-- PDF: TODO, subir no Drive
+- PDF: [[Proposta-Churrasco-da-Elite-Hub3Ps.pdf]], gerado em 08/11 a partir do HTML. TODO: subir no Drive
 
 ## Histórico
 - 2026-11-03 · Call de diagnóstico. O Lucas ficou de mandar o link da página de vendas e os criativos que já venderam
 - 2026-11-04 · Proposta montada em PDF, no visual da proposta da Usivic
 - 2026-11-04 · Revisão do Guilherme: o setup caiu para 500 €. Saíram a gravação e o workshop do "não incluso", por serem óbvios. O "Quem somos" virou "Quem sou", sobre o Guilherme (8 anos, mais de R$ 15 milhões administrados e mais de 7 dígitos com infoprodutos, segundo guimiguel.site e o Guilherme). Entrou um quadro com as melhorias da página do curso (churracodaelitept.com): provas sem nome, garantia sem prazo, "qualquer país" contra mentoria só em Portugal, falta de urgência e o título "Churraso".
 - 2026-11-04 · Segunda revisão: a capa diz "Lucas / Churrasco da Elite". Saiu o quadro de melhorias da página, porque a proposta não entrega diagnóstico de graça. Visual refeito, limpo, em preto e branco, com a logo preta da Hub3Ps, a fonte do site e a foto do Guilherme
+- 2026-11-08 · PDF gerado para o Guilherme enviar ao Lucas pelo WhatsApp

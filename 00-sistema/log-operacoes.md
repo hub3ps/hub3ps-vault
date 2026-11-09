@@ -7,6 +7,10 @@ Uma linha por sessão de trabalho, a mais recente no topo.
 
 Formato: `- AAAA-MM-DD · <slug ou agencia> · <tarefa> · <onde está o resultado>`
 
+- 2026-11-09 · agencia · Rotina WhatsApp diário: ponte como serviço, grupos por cliente, coleta com transcrição e resumo ao Guilherme às 8h · `03-processos/whatsapp-diario.md`
+- 2026-11-09 · marjorie · Primeira leitura do grupo pela rotina: 64 mensagens de 06 a 09/11, vídeo #28 em espera · `04-clientes/marjorie/log.md`
+- 2026-11-09 · agencia · Conector whatsapp-mcp instalado com número próprio da agência: código lido, API restrita ao Mac, whatsmeow atualizado · `01-agencia/stack.md`
+- 2026-11-09 · marjorie · Fichas das duas campanhas e rodada 1 de seguidores (IG-06 fica, IG-03 sai) · `04-clientes/marjorie/campanhas/`
 - 2026-11-05 · marjorie · 37 posts do perfil para a captação de seguidores, para as clientes avaliarem · `04-clientes/marjorie/entregas/2026-11-05-posts-para-captacao.md`
 - 2026-11-05 · juria · Hub e funil atualizados com a Meta e as exportações da Mobiletec de 04/11, publicados em juria.hub3ps.com · `04-clientes/juria/log.md`
 - 2026-11-04 · agencia · Novo padrão de proposta em PDF (preto e branco, quem sou, sem diagnóstico de graça), modelo com placeholders e assets · `_modelos/proposta-pdf/`

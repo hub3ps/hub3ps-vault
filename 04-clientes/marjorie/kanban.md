@@ -4,7 +4,6 @@ kanban-plugin: board
 
 ## A fazer
 
-- [ ] Montar a fase 1: captação de seguidores para o perfil e distribuição do vídeo do curso para a base #trafego-pago
 - [ ] Rodízio dos criativos de seguidores a cada 3 dias, com 2 por vez, a partir dos 10 escolhidos pelas clientes #trafego-pago
 - [ ] Montar o lembrete para a lista de espera (25 e 26/11) e o carrinho na LP (27 a 30/11) #trafego-pago
 - [ ] Avisar a Julia: MOD Institute, SHINING 3D, DentalCAD, Dental CAD e Spear Education não existem no Gerenciador (06/11) #trafego-pago
@@ -21,11 +20,15 @@ kanban-plugin: board
 
 ## Fazendo
 
-- [ ] Campanha 2 (`marjorie-distribuicao-quente-0611`) em espera: depende da Julia confirmar se dá para pôr o Pixel na página da lista de espera #trafego-pago
+- [ ] IG-28 (DffdDhwhldx) em espera: subir quando o orgânico esgotar. A Julia monitora e avisa (09/11) #trafego-pago
+- [ ] Rodada 2 de seguidores: IG-06 contra IG-07. Ler o custo por seguidor em 3 dias #trafego-pago
+- [ ] Campanha 2 (`marjorie-distribuicao-quente-0611`) em análise da Meta desde 09/11: conferir a aprovação e a primeira leitura de ThruPlay #trafego-pago
 
 
 ## Aguardando cliente
 
+- [ ] Testar o Lead do clique em "Join the list" com uma inscrição real no "Testar eventos" (regra ativa desde 09/11)
+- [ ] Julia pôr o Lead no sucesso do formulário da lista de espera, e então desativar a regra de clique `4511374259101290`
 - [ ] Acesso ao Instagram (o convite deu erro em 03/11)
 - [ ] Aprovar a verba inicial de US$ 15 por dia
 - [ ] Publicar a LP e informar o domínio (até 20/11, para o Pixel)
@@ -38,6 +41,10 @@ kanban-plugin: board
 
 ## Feito
 
+- [x] IG-07 no ar para a rodada 2 e resumo da rodada 1 enviado ao grupo (09/11)
+- [x] Rodada 1 de seguidores fechada (09/11): IG-06 fica (US$ 0,55 por seguidor), IG-03 pausado (US$ 1,46)
+- [x] Campanha 2, da base, criada pelo Guilherme com o IG-27 (09/11)
+- [x] Fase 1 montada: campanha de seguidores (06/11) e da base (09/11)
 - [x] Campanha 1 de seguidores no ar, subida pelo Guilherme (06/11)
 - [x] Link da lista de espera achado na bio (06/11): www.marjoriedentalcad.com/zero-to-hero, com utm_source=ig, utm_medium=social e utm_content=link_in_bio
 - [x] Clientes revisaram posts e interesses (05/11): saíram 5 posts, entraram 6, a lista fechou em 27. Interesses só em inglês
