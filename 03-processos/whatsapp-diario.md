@@ -9,6 +9,7 @@ Todo dia útil às 8h, o Claude lê os grupos dos clientes, registra no vault o 
 
 ## Peças
 - **Ponte:** `~/ferramentas/whatsapp-mcp`, ligada como serviço do macOS (`com.hub3ps.whatsapp-bridge`). Liga com o Mac e se reinicia se cair. Log em `logs/ponte.log`. Detalhes em [[01-agencia/stack|stack]]
+- **Mac acordado:** o `pmset` acorda o Mac às 7h50 dos dias úteis (comando com senha, rodado pelo Guilherme), e o serviço `com.hub3ps.acordado-rotina` segura o Mac acordado até 8h50. O app do Claude abre junto com o sistema. Só funciona com o Mac dormindo e na tomada: desligado, não roda
 - **Grupos lidos:** só os da tabela em [[00-sistema/whatsapp-grupos]]
 - **Coleta:** `rotina/coletar.py`, que junta as mensagens novas e transcreve os áudios localmente, com o Whisper `small`. Ele não envia nada nem mexe no vault
 - **Envio:** `rotina/enviar.py`, que só aceita o número do Guilherme (`guilherme`, em `config.json`) e os grupos da tabela

@@ -7,6 +7,8 @@ Uma linha por sessão de trabalho, a mais recente no topo.
 
 Formato: `- AAAA-MM-DD · <slug ou agencia> · <tarefa> · <onde está o resultado>`
 
+- 2026-11-09 · hub3ps · Banco de conteúdo do Instagram do Guilherme, com a série do WhatsApp na rotina · `04-clientes/hub3ps/conteudo/`
+- 2026-11-09 · agencia · Mac acorda às 7h50 e fica acordado na rotina WhatsApp diário · `03-processos/whatsapp-diario.md`
 - 2026-11-09 · agencia · Rotina WhatsApp diário: ponte como serviço, grupos por cliente, coleta com transcrição e resumo ao Guilherme às 8h · `03-processos/whatsapp-diario.md`
 - 2026-11-09 · marjorie · Primeira leitura do grupo pela rotina: 64 mensagens de 06 a 09/11, vídeo #28 em espera · `04-clientes/marjorie/log.md`
 - 2026-11-09 · agencia · Conector whatsapp-mcp instalado com número próprio da agência: código lido, API restrita ao Mac, whatsmeow atualizado · `01-agencia/stack.md`

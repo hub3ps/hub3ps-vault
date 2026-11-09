@@ -13,3 +13,5 @@ autor: claude
 > **Estado atual:** site pessoal para a bio do Instagram parado, aguardando o link do LinkedIn, a definição entre cidade ou atendimento online, e a planilha de leads (sessão de 29/10/2026).
 
 A agência roda os próprios playbooks. Escopo a confirmar na migração.
+
+**Conteúdo do Instagram do Guilherme:** os bastidores da operação com IA ficam em `conteudo/`, com o índice em [[04-clientes/hub3ps/conteudo/README|banco de conteúdo]] (09/11/2026).
