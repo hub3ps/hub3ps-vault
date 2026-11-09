@@ -102,6 +102,7 @@ Consolidado em 06/11/2026 a partir do log, do `brief.md`, das fichas de campanha
 | 05/11/2026 | Hub atualizado com as exportações de 04/11 | log |
 | 06/11/2026 | Hub revisado para a reunião com a Mobiletec | log |
 | 06/11/2026 | Reunião com a Mobiletec: informativos de segurança no cadastro, site novo em produção e pessoa para gravar conteúdo | [[2026-11-06-mobiletec]] |
+| 09/11/2026 | Informativos de segurança no ar no cadastro, em teste até 23/11 | [[2026-11-09-whatsapp-saulo-seguranca]] |
 
 ## Depende do cliente
 Pedidos abertos com a Mobiletec, conforme o registro do hub (`clients/juria/hub/mudancas.json`, de 29 e 30/10/2026):

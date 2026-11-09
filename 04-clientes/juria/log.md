@@ -6,6 +6,12 @@ autor: claude
 
 A entrada mais recente fica no topo, uma por sessão de trabalho.
 
+### 2026-11-09 · Informativos de segurança no ar no cadastro
+- **O que fiz:** registrei a 1ª frente da reunião de 06/11, publicada hoje pelo Saulo, e conferi no ar a tela de criar conta e a janela "Como cuidamos dos seus dados". Entrou no registro do hub como teste `m15`, na etapa Cadastro, a avaliar em 23/11.
+- **Resultado em:** [[2026-11-09-whatsapp-saulo-seguranca]] (o que mudou, tela por tela, com os prints) e `clients/juria/hub/mudancas.json` no `agencia_marketing`, ainda sem commit
+- **O que achei:** são três pontos: o bloco "Seus dados, protegidos" na criação da conta, três itens na tela da OAB mais a linha "Consulta direta ao CNJ (DataJud)", e uma janela com oito garantias. O Saulo chama de primeira versão, discreta, e aceita opiniões. A tela da OAB vem depois de criar a conta, então ela foi conferida só pelos prints.
+- **Próximo passo:** comparar em 23/11 a importação e a passagem da tela da OAB antes e depois de 09/11. Mandar ao Saulo as nossas opiniões sobre o texto, se houver.
+
 ### 2026-11-09 · Decisões da reunião de 06/11
 - **O que fiz:** registrei a reunião com a Mobiletec e as três frentes combinadas, com o objetivo de aumentar os escritórios que importam processos e a qualidade dos leads.
 - **Resultado em:** [[2026-11-06-mobiletec]]

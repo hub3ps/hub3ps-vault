@@ -7,6 +7,7 @@ Uma linha por sessão de trabalho, a mais recente no topo.
 
 Formato: `- AAAA-MM-DD · <slug ou agencia> · <tarefa> · <onde está o resultado>`
 
+- 2026-11-09 · juria · Informativos de segurança no cadastro conferidos no ar e registrados como teste m15 no hub · `04-clientes/juria/fontes/2026-11-09-whatsapp-saulo-seguranca.md`
 - 2026-11-09 · juria · Decisões da reunião de 06/11: segurança no cadastro, site novo em produção e pessoa para gravar conteúdo · `04-clientes/juria/reunioes/2026-11-06-mobiletec.md`
 - 2026-11-09 · hub3ps · Banco de conteúdo do Instagram do Guilherme, com a série do WhatsApp na rotina · `04-clientes/hub3ps/conteudo/`
 - 2026-11-09 · agencia · Mac acorda às 7h50 e fica acordado na rotina WhatsApp diário · `03-processos/whatsapp-diario.md`

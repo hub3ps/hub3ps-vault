@@ -18,7 +18,7 @@ Aumentar o número de escritórios que importam processos e a qualidade dos lead
 - Encontrar uma pessoa para gravar conteúdo do Instagram e criativos dos anúncios, para humanizar a marca
 
 ## Tarefas
-- [ ] Definir em quais páginas do cadastro entram os informativos de segurança, e o texto de cada um. TODO: quem implementa (Saulo?)
+- [x] Informativos de segurança no cadastro: publicados pelo Saulo em 09/11, na criação da conta, na tela da OAB e numa janela própria ([[2026-11-09-whatsapp-saulo-seguranca]])
 - [ ] Site novo em produção: domínio, data da troca e `feat/site-astro` na main
 - [ ] Pessoa para gravar: perfil, quem procura e prazo
 
