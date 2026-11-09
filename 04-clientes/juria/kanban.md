@@ -17,7 +17,9 @@ kanban-plugin: board
 - [ ] Proposta: medir a importação de processos como evento na Meta e no GA4 #tracking
 - [ ] Proposta: testes de comunicação por nicho, mantendo o sistema geral #trafego-pago
 - [ ] Decidir a estratégia de e-mail do JurIA (sessão parada esperando decisão) #email-marketing
-- [ ] Site Astro: definir domínio e data da troca, e trazer a `feat/site-astro` para a main (113 commits fora) #lp-e-site
+- [ ] Site novo em produção (decidido na reunião de 06/11): definir domínio e data da troca, e trazer a `feat/site-astro` para a main (113 commits fora) #lp-e-site
+- [ ] Informativos de segurança em páginas do onboarding e do cadastro (reunião de 06/11): escolher as páginas, escrever o texto e combinar quem implementa #lp-e-site
+- [ ] Encontrar uma pessoa para gravar conteúdo do Instagram e criativos dos anúncios, para humanizar a marca (reunião de 06/11) #criativo
 - [ ] Conferir se as pendências antigas das LPs continuam abertas: destino da demonstração, links de rodapé de exemplo e WhatsApp falso na institucional #lp-e-site
 - [ ] Migração: levar o conhecimento do repo para o vault (brief, brand, comercial, funil, e-mail, Helena) #migracao
 - [ ] Migração: mover os arquivos do JurIA que estão no Downloads para o Drive #migracao

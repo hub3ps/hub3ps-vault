@@ -15,12 +15,12 @@ drive: TODO (Hub3Ps/Clientes/juria/)
 painel: https://juria.hub3ps.com
 repositorios: [hub3ps/agencia_marketing, hub3ps/juria-lps]
 proxima-reuniao: TODO
-atualizado: 2026-11-04
+atualizado: 2026-11-09
 autor: claude
 ---
 # JurIA
 
-> **Estado atual:** duas campanhas Meta no ar (API, 04/11/2026): a de Lead, a R$ 42/dia, avaliada em 13/11, e a de vídeos, em que só o conjunto da locução roda porque o da música está pausado. O gargalo é a ativação: só 19% dos escritórios importam processos e não houve nenhuma assinatura até 29/10. O site novo em Astro foi revisado pela Mobiletec em 23/10 e continua fora da main, sem data de troca.
+> **Estado atual:** duas campanhas Meta no ar (API, 04/11/2026): a de Lead, a R$ 42/dia, avaliada em 13/11, e a de vídeos, em que só o conjunto da locução roda porque o da música está pausado. O gargalo é a ativação: só 19% dos escritórios importam processos e não houve nenhuma assinatura até 29/10. O site novo em Astro foi revisado pela Mobiletec em 23/10, e a ida para produção foi decidida na reunião de 06/11, ainda sem data de troca. As três frentes combinadas em 06/11 miram mais escritórios importando processos e leads melhores.
 
 Mesma empresa do cliente [[04-clientes/mobiletec/cliente|Mobiletec]], que tem pasta própria. Decisão do Guilherme em 04/11/2026.
 
@@ -101,6 +101,7 @@ Consolidado em 06/11/2026 a partir do log, do `brief.md`, das fichas de campanha
 | 02/11/2026 | Conjunto do vídeo com música pausado | `CLAUDE.md` |
 | 05/11/2026 | Hub atualizado com as exportações de 04/11 | log |
 | 06/11/2026 | Hub revisado para a reunião com a Mobiletec | log |
+| 06/11/2026 | Reunião com a Mobiletec: informativos de segurança no cadastro, site novo em produção e pessoa para gravar conteúdo | [[2026-11-06-mobiletec]] |
 
 ## Depende do cliente
 Pedidos abertos com a Mobiletec, conforme o registro do hub (`clients/juria/hub/mudancas.json`, de 29 e 30/10/2026):

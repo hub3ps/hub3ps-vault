@@ -6,6 +6,12 @@ autor: claude
 
 A entrada mais recente fica no topo, uma por sessão de trabalho.
 
+### 2026-11-09 · Decisões da reunião de 06/11
+- **O que fiz:** registrei a reunião com a Mobiletec e as três frentes combinadas, com o objetivo de aumentar os escritórios que importam processos e a qualidade dos leads.
+- **Resultado em:** [[2026-11-06-mobiletec]]
+- **Decisões (reunião de 06/11, Guilherme e Mobiletec):** mais informativos de segurança em páginas do onboarding e do cadastro; site novo em produção; uma pessoa para gravar conteúdo do Instagram e criativos dos anúncios, para humanizar a marca.
+- **Próximo passo:** definir prazos e responsáveis das três frentes, que não foram registrados.
+
 ### 2026-11-06 · Hub revisado para a reunião e marcos do projeto
 - **O que fiz:** conferi os números e as propostas do hub com as exportações de 04/11 e publiquei duas correções: a conversa com quem importou fala em 20 escritórios, e não 18, e a importação automática depende das propostas 1 e 3. Consolidei os marcos do projeto no `cliente.md`.
 - **Resultado em:** `juria.hub3ps.com` (commit 93ebe35) e a seção "Marcos do projeto" do [[04-clientes/juria/cliente|cliente]]
