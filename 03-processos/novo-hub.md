@@ -10,6 +10,8 @@ Só com tráfego pago no escopo. O hub é o painel que o cliente lê, em
 estático, sem build, com os números gerados por um script local. Faz parte da
 fase 4 da [[novo-cliente|entrada de cliente novo]].
 
+> **Em revisão (10/11):** o hub padrão, com uma base só para todos os clientes, está em protótipo em `hubs/base/` do `agencia_marketing`. Quando ele for aprovado, o passo 1 deixa de ser copiar o hub do DS e passa a ser usar a base.
+
 O código do hub vive no repo `agencia_marketing`. Todos os comandos abaixo rodam
 da raiz dele, `~/Desktop/agencia_marketing`.
 

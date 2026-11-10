@@ -205,3 +205,5 @@ Levantado comparando o vault, o `agencia_marketing`, as rotinas e o organograma 
 - Arquivos soltos do Downloads ainda não foram para o Drive
 
 ~~**Organograma (Miro, versão 3 de 08/10) desatualizado em:** stack sem o whatsapp-mcp; automações com o resumo como parado e o runbook fora da main; painel do cliente com "atualização diária desde 04/11", que não aconteceu; playbook comercial dizendo "propostas do zero", quando já existe modelo desde 04/11; cliente 0 sem o banco de conteúdo do Instagram~~ Atualizado para a versão 4 em 10/11: blocos F e G e o cabeçalho
+
+**Hub padrão (10/11):** decidido ter uma base só para o hub de todos os clientes, no Método 3Ps e na marca da Hub3Ps. Protótipo em `hubs/base/` do `agencia_marketing`, sem commit. Falta decidir a publicação por cliente, o script de dados e a conferência antes do push. O cliente novo entra nele primeiro, depois o DS e, por último, o JurIA.

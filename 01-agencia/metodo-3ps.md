@@ -16,4 +16,4 @@ O que a Performance mostra volta para o Produto e o Posicionamento como teste no
 
 **Por que saiu Personalização (10/11):** ela descrevia como a agência atende, e não uma etapa do trabalho. "Proposta personalizada" todo mundo diz.
 
-**Onde aparece:** no hub padrão dos clientes, cuja estrutura segue os três pilares (em desenho, 10/11). Os 3Ps antigos não estavam escritos no vault, no site pessoal nem no modelo de proposta (conferido em 10/11), então não há texto para trocar.
+**Onde aparece:** no hub padrão dos clientes, cuja estrutura segue os três pilares. Protótipo de 10/11 em `hubs/base/` do `agencia_marketing`, com os dados reais do DS Muay Thai: Início, 01 Produto, 02 Posicionamento, 03 Performance e Testes. Os 3Ps antigos não estavam escritos no vault, no site pessoal nem no modelo de proposta (conferido em 10/11), então não há texto para trocar.

@@ -14,5 +14,6 @@ Bastidores da operação da Hub3Ps com IA, mapeados enquanto acontecem, para vir
 |---|---|---|---|
 | Claude lendo o WhatsApp dos clientes | estrutura no ar, rodando desde 09/11 | posts, Reels e o produto (ebook ou aula com kit de instalação) | [[serie-whatsapp-na-rotina]] |
 | Entrada de cliente novo, do fechamento ao primeiro dia | roteiro pronto em 10/11, gravação com o cliente fechado em 09/11 | Reels | [[serie-entrada-de-cliente]] |
+| Método 3Ps e o hub padrão dos clientes | protótipo em 10/11 | Reels e carrossel | [[serie-metodo-3ps]] |
 | Operação no Obsidian com o Claude | em uso desde 03/11 | posts de bastidor | TODO |
 | Tracking sem programador (evento de Lead criado pelo MCP da Meta) | feito em 09/11 | post curto | [[serie-whatsapp-na-rotina#Ganchos que surgiram no caminho]] |
