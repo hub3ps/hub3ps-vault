@@ -7,6 +7,7 @@ agendadas que está fora da main (`claude/focused-brahmagupta-fhfuqd`).
 | Rotina | Quando | Runbook |
 |---|---|---|
 | Entrada de cliente novo | Primeiro contato até a gestão contínua | [[novo-cliente]] |
+| Criar o hub do cliente | Cliente novo com tráfego pago | [[novo-hub]] |
 | WhatsApp diário | Dias úteis às 8h, agendado | [[whatsapp-diario]] |
 
 O `novo-cliente.md` do repo antigo foi substituído por este e não será migrado:

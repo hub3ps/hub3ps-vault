@@ -183,7 +183,7 @@ da nuvem não são legíveis daqui, e o trabalho delas está nas branches acima.
 Levantado comparando o vault, o `agencia_marketing`, as rotinas e o organograma no Miro.
 
 **Conhecimento que ainda só existe no repo antigo**
-- 13 runbooks em `docs/processos/` (o vault tem 3). O `novo-hub.md`, de 10/11, foi escrito lá por engano e está sem commit
+- 12 runbooks em `docs/processos/` a revisar, um por micro etapa. Triagem de 10/11: 11 vão para o vault, `novo-cliente.md` e o README são descartados. Feito: `novo-hub.md`, movido para `03-processos/` em 10/11 (micro etapa 1)
 - 7 skills em `.claude/skills/` e a biblioteca `references/`
 - JurIA: brief, brand, comercial, funil, e-mail e Helena (cartão no kanban do JurIA)
 - Clientes sem pasta no vault: Liliane (branch `claude/admiring-allen-xbjdup`), Usivic e Churrasco da Elite (só a proposta, mas o número da agência já está no grupo)

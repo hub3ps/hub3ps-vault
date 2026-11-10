@@ -7,6 +7,7 @@ Uma linha por sessão de trabalho, a mais recente no topo.
 
 Formato: `- AAAA-MM-DD · <slug ou agencia> · <tarefa> · <onde está o resultado>`
 
+- 2026-11-10 · agencia · Migração, micro etapa 1: runbook de criação do hub movido do repo antigo para o vault · `03-processos/novo-hub.md`
 - 2026-11-10 · juria · Folder opção B com a revisão da Isadora: textos dela, Mobiletec embaixo e perguntas em balões de WhatsApp · `04-clientes/juria/log.md`
 - 2026-11-10 · agencia · Organograma do Miro na versão 4: comercial, painel, automações, cliente 0 e stack com o whatsapp-mcp · `01-agencia/suporte.md`
 - 2026-11-10 · hub3ps · Roteiro do Reels da entrada de cliente, fase a fase · `04-clientes/hub3ps/conteudo/serie-entrada-de-cliente.md`

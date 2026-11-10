@@ -8,7 +8,7 @@ A entrada mais recente fica no topo, uma por sessão de trabalho.
 
 ### 2026-11-10 · Folder institucional, opção B com a revisão da Isadora
 - **O que fiz:** apliquei na opção B, a escolhida pela Mobiletec, os ajustes da Isadora. No A3, o texto pequeno ao lado de "sistema." virou o dela. No B1, entrou no topo "Menos planilha, mais advocacia." com o texto dela, e a Mobiletec desceu, com o texto novo e o 1999 menor. No B2, o rótulo virou "A Jú, assistente do seu escritório no WhatsApp, sempre disponível", e as duas perguntas viraram balões de mensagem enviada, com o visto duplo. Regerei prévias, PDF de aprovação e mockup.
-- **Resultado em:** `clients/juria/creatives/folder-institucional/folder-juria-b-aprovacao.pdf` do `agencia_marketing` (sem commit). Revisão original em [[2026-11-10-revisao-isadora-folder]]
+- **Resultado em:** `clients/juria/creatives/folder-institucional/folder-juria-b-aprovacao.pdf` do `agencia_marketing` (commit 44353ba). Revisão original em [[2026-11-10-revisao-isadora-folder]]
 - **O que achei:** cinco trechos da Isadora não estão no site novo, entre eles "notas fiscais", "checklists" e "Menos planilha, mais advocacia". Entraram como texto da própria Mobiletec, liberados no conferidor com o motivo. O A3 manteve o título "IA jurídica inclusa em todos os planos."; ela só trocou o texto de baixo. "Use a jurimetria" aparece sem o "A partir do Plus", que segue no B3.
 - **Próximo passo:** mandar o PDF para a aprovação da Mobiletec. Depois, gráfica, CMYK e prova do QR. Entrega até 15/11.
 

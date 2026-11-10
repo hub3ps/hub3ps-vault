@@ -88,7 +88,7 @@ Nem todo cliente entra pela porta da frente. O onboarding é um tronco comum, qu
    - o que depende do cliente (acessos, materiais, aprovações) vai para **Aguardando cliente**
    - o que é nosso vai para **A fazer**, com a tag do serviço
 2. **Tarefas de implantação.** Copie os passos de "Implantação" de cada playbook para **A fazer**, na ordem do [[motor]]: estratégia, tracking, LP e site, criativos, tráfego pago, e-mail e agente. O que não está no escopo fica de fora
-3. **Painel.** Só se `trafego-pago` estiver no escopo: crie o hub do cliente em `<slug>.hub3ps.com`, pelo runbook `docs/processos/novo-hub.md` do `agencia_marketing`. A criação do projeto no Vercel e o CNAME na Cloudflare são do Guilherme
+3. **Painel.** Só se `trafego-pago` estiver no escopo: crie o hub do cliente em `<slug>.hub3ps.com`, pelo runbook [[novo-hub]]. A criação do projeto no Vercel e o CNAME na Cloudflare são do Guilherme
 4. **Exceções.** Todo ponto em que o cliente foge do playbook vai para a tabela "Exceções ao padrão", com motivo e data. O playbook nunca se edita para um cliente
 5. **Acessos.** Registre onde está cada acesso na seção "Acessos", sem senha. Token e chave ficam fora do vault
 6. **Auditoria da BM.** Com tráfego pago no escopo, revise pessoas e parceiros da BM antes de qualquer campanha. Parceiro que o cliente não reconhece sai na hora, porque é o padrão usado para roubar conta de anúncios (caso marjorie, 03/11/2026)
