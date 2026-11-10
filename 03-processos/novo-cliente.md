@@ -1,6 +1,6 @@
 ---
 tipo: processo
-atualizado: 2026-11-04
+atualizado: 2026-11-10
 autor: claude
 ---
 # Entrada de cliente novo
@@ -56,6 +56,7 @@ Nem todo cliente entra pela porta da frente. O onboarding é um tronco comum, qu
 4. Frontmatter do `cliente.md` preenchido: `status: implantacao`, `servicos`, `inicio`, `contrato` (link do PDF), `vigencia`, `valor-mensal`, `meta` e `drive`
 5. Seção "Escopo" preenchida com os playbooks dos serviços contratados
 6. Cliente registrado no [[00-sistema/indice]] e no [[log-operacoes]]
+7. **Grupo do WhatsApp na rotina diária.** O Guilherme põe o número da agência no grupo do cliente. Sem grupo, crie um com o cliente, porque a rotina não lê conversa privada. Depois, uma linha em [[00-sistema/whatsapp-grupos]], com a data do fechamento em `desde`. A partir daí, o [[whatsapp-diario|WhatsApp diário]] registra tudo o que o cliente mandar
 
 **Para sair:** contrato assinado (ou, com `sem-contrato`, o acordo registrado em `fontes/`) e **`meta` preenchida com número e prazo**, como "75 a 90 trials por trimestre" ou "CAC até R$ 500". Enquanto não houver número, vale um marco com data, como "lançamento no ar até 30/11", revisto na primeira reunião mensal. Sem meta, o cliente não vai para o kickoff.
 
@@ -87,7 +88,7 @@ Nem todo cliente entra pela porta da frente. O onboarding é um tronco comum, qu
    - o que depende do cliente (acessos, materiais, aprovações) vai para **Aguardando cliente**
    - o que é nosso vai para **A fazer**, com a tag do serviço
 2. **Tarefas de implantação.** Copie os passos de "Implantação" de cada playbook para **A fazer**, na ordem do [[motor]]: estratégia, tracking, LP e site, criativos, tráfego pago, e-mail e agente. O que não está no escopo fica de fora
-3. **Painel.** Só se `trafego-pago` estiver no escopo: crie o hub do cliente. TODO: falta o runbook de criação. Hoje a referência são os hubs do JurIA e do DS Muay Thai no `agencia_marketing`
+3. **Painel.** Só se `trafego-pago` estiver no escopo: crie o hub do cliente em `<slug>.hub3ps.com`, pelo runbook `docs/processos/novo-hub.md` do `agencia_marketing`. A criação do projeto no Vercel e o CNAME na Cloudflare são do Guilherme
 4. **Exceções.** Todo ponto em que o cliente foge do playbook vai para a tabela "Exceções ao padrão", com motivo e data. O playbook nunca se edita para um cliente
 5. **Acessos.** Registre onde está cada acesso na seção "Acessos", sem senha. Token e chave ficam fora do vault
 6. **Auditoria da BM.** Com tráfego pago no escopo, revise pessoas e parceiros da BM antes de qualquer campanha. Parceiro que o cliente não reconhece sai na hora, porque é o padrão usado para roubar conta de anúncios (caso marjorie, 03/11/2026)
