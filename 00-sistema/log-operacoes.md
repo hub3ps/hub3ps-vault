@@ -7,6 +7,7 @@ Uma linha por sessão de trabalho, a mais recente no topo.
 
 Formato: `- AAAA-MM-DD · <slug ou agencia> · <tarefa> · <onde está o resultado>`
 
+- 2026-11-10 · agencia · Organograma do Miro na versão 4: comercial, painel, automações, cliente 0 e stack com o whatsapp-mcp · `01-agencia/suporte.md`
 - 2026-11-10 · hub3ps · Roteiro do Reels da entrada de cliente, fase a fase · `04-clientes/hub3ps/conteudo/serie-entrada-de-cliente.md`
 - 2026-11-10 · agencia · Entrada de cliente ganha o passo do grupo do WhatsApp e o runbook de criação do hub · `03-processos/novo-cliente.md`
 - 2026-11-09 · juria · Informativos de segurança no cadastro conferidos no ar e registrados como teste m15 no hub · `04-clientes/juria/fontes/2026-11-09-whatsapp-saulo-seguranca.md`

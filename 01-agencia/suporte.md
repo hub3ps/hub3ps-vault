@@ -1,6 +1,6 @@
 ---
 tipo: agencia
-atualizado: 2026-11-04
+atualizado: 2026-11-10
 ---
 # Estrutura de suporte
 
@@ -26,8 +26,9 @@ Um hub por cliente com tráfego pago no escopo, no mesmo formato para todos. Pro
 
 ## Automações internas
 A infraestrutura que roda a operação sozinha.
-- Rotinas do Claude: atualização dos hubs e resumo diário no WhatsApp
-- n8n, Evolution (WhatsApp), Vercel
+- Rotinas do Claude na nuvem: atualização dos hubs e resumo das contas no WhatsApp
+- Rotina do Claude no Mac: leitura dos grupos dos clientes às 8h, dias úteis ([[03-processos/whatsapp-diario]])
+- whatsapp-mcp, n8n, Evolution (WhatsApp), Vercel
 - **Regra:** toda automação tem dono, runbook e alerta de falha
 
 ## Hub3Ps, cliente 0
