@@ -178,3 +178,30 @@ da nuvem não são legíveis daqui, e o trabalho delas está nas branches acima.
 `Design Kits - Mobiletec.zip`, `mobiletec-institucional-locucao.mp4`,
 `NF_Mobiletec_Outubro.pdf` e o contrato Hub3Ps e Mobiletec (Clicksign). Na
 Área de Trabalho: `JurIA - Apresentacao Institucional.pdf`.
+
+## 8. O que falta para fechar a migração (10/11/2026)
+Levantado comparando o vault, o `agencia_marketing`, as rotinas e o organograma no Miro.
+
+**Conhecimento que ainda só existe no repo antigo**
+- 13 runbooks em `docs/processos/` (o vault tem 3). O `novo-hub.md`, de 10/11, foi escrito lá por engano e está sem commit
+- 7 skills em `.claude/skills/` e a biblioteca `references/`
+- JurIA: brief, brand, comercial, funil, e-mail e Helena (cartão no kanban do JurIA)
+- Clientes sem pasta no vault: Liliane (branch `claude/admiring-allen-xbjdup`), Usivic e Churrasco da Elite (só a proposta, mas o número da agência já está no grupo)
+- `03-processos/convencoes.md` ainda aponta para `credenciais.md`, que não existe no vault
+
+**Branches fora da main, iguais a 04/11:** `feat/site-astro` (113), `claude/loving-archimedes-rp33cv` (36), `claude/admiring-allen-xbjdup` (3), `claude/focused-brahmagupta-fhfuqd` (3)
+
+**Rotinas**
+- As duas rotinas na nuvem leem só o `agencia_marketing`, com as contas fixas no texto: JurIA e DS Muay Thai. A Marjorie fica fora do resumo das contas
+- O resumo das contas tem o token do webhook do n8n escrito no texto da rotina. Tem que sair dali
+- A do hub ainda roda a cada 48h; a decisão era diária
+- O organograma diz que o resumo está parado, mas ele rodou em 10/11 com sucesso (a entrega não foi conferida)
+- Dois caminhos de WhatsApp convivendo: n8n e Evolution (resumo das contas) e whatsapp-mcp (grupos dos clientes)
+- 1º teste do Mac acordado (10/11): o Mac acordou às 7h50, mas estava na bateria e voltou a dormir em 44 segundos. A rotina só rodou às 9h24, quando a tampa abriu. Repetir na tomada
+
+**Estrutura**
+- Os 8 playbooks seguem com `status: rascunho`. A validação coluna a coluna (passo 4) não começou
+- O `CLAUDE.md` do `agencia_marketing` ainda o chama de cérebro da agência, e as sessões ainda abrem nele, e não no vault
+- Arquivos soltos do Downloads ainda não foram para o Drive
+
+**Organograma (Miro, versão 3 de 08/10) desatualizado em:** stack sem o whatsapp-mcp; automações com o resumo como parado e o runbook fora da main; painel do cliente com "atualização diária desde 04/11", que não aconteceu; playbook comercial dizendo "propostas do zero", quando já existe modelo desde 04/11; cliente 0 sem o banco de conteúdo do Instagram
