@@ -1,6 +1,6 @@
 ---
 tipo: sistema
-atualizado: 2026-11-03
+atualizado: 2026-11-11
 ---
 # Lições
 
@@ -18,6 +18,8 @@ Formato: `- AAAA-MM-DD · <escopo: geral, cliente ou serviço> · <a regra>. Mot
 
 - 2026-11-04 · comercial · A proposta não entrega diagnóstico nem melhoria de graça. Ela mostra o que o cliente recebe, para o preço parecer pequeno perto do valor. Motivo: correção do Guilherme na proposta do Churrasco da Elite.
 - 2026-11-04 · comercial · Propostas e peças da Hub3Ps em preto e branco, limpas, na linha do guimiguel.site: sem ícones, sem o laranja antigo, com a logo preta. Motivo: o visual antigo ficou infantil para o Guilherme. O padrão está em `_modelos/proposta-pdf/`.
+
+- 2026-11-11 · geral · Documento tem uma fonte só. Migrar para o vault é mover: o arquivo do repo antigo vira um ponteiro para o vault no mesmo passo, e nunca fica como cópia viva. Mudança de regra se escreve só no vault. Motivo: `convencoes.md` foi copiado para o vault em 03/11, as regras de conjunto e público da Marjorie entraram só no repo em 05 e 06/11, e o vault ficou para trás sem ninguém ver. Mesmo erro do `novo-hub.md` em 10/11.
 
 ## Por cliente
 - 2026-11-04 · juria e mobiletec · JurIA e Mobiletec são dois clientes, com uma pasta cada, mesmo sendo a mesma empresa. O cliente da marca se chama só "Mobiletec". Motivo: o slug `juria` já está no repo, nas campanhas e nas UTMs, e a regra é o slug igual em todo lugar.
