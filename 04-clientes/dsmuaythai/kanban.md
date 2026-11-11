@@ -4,7 +4,6 @@ kanban-plugin: board
 
 ## A fazer
 
-- [ ] Público do conjunto ativo do agendamento: a API mostra quem engajou em 365 dias e os seguidores, com local EUA, e o Guilherme diz que é só de seguidores. Resolver e renomear o conjunto #trafego-pago
 - [ ] Hub: corrigir o texto trocado dos dois Reels impulsionados, junto com o hub novo (decisão de 11/11) #trafego-pago
 - [ ] Decidir o que fazer com a campanha de agendamento, pausada pelo Gustavo em 27/10 sem motivo registrado: reativar ou substituir #trafego-pago @{2026-11-04}
 - [ ] Registrar por que a campanha de agendamento foi pausada #trafego-pago

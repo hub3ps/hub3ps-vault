@@ -24,10 +24,10 @@ Conferida na API em 11/11/2026.
 
 | Conjunto | ID | Status | Verba | Público na API |
 |---|---|---|---|---|
-| `IG [Engajamento] [365] / [Seguidores]` (nome antigo, ver abaixo) | `120259487489620386` | ativo | US$ 7/dia | inclui `Engajou IG 365d` e `Seguidores IG`, local EUA, 18 a 65, só celular, sem Advantage+ |
+| `Engajou IG 365d e seguidores \| EUA \| Escolheu o dia` (antes `IG [Engajamento] [365] / [Seguidores]`) | `120259487489620386` | ativo | US$ 7/dia | inclui `Engajou IG 365d` e `Seguidores IG`, local EUA, 18 a 65, só celular, sem Advantage+ |
 | `Aberto 18-50 \| Cidades atendidas \| Escolheu o dia` | `120259488077550386` | pausado desde 02/10 | US$ 13/dia | 27 cidades de MA, 18 a 50, excluindo `Engajou IG 365d` e `Seguidores IG` |
 
-> **Em aberto (11/11):** o Guilherme diz que o público do conjunto ativo é só de seguidores do Instagram. A API mostra os dois públicos incluídos, quem engajou em 365 dias e os seguidores, com local EUA. Esse conjunto ficou sem renomear até isso se resolver.
+> **Público do conjunto ativo (11/11):** o Guilherme achava que era só de seguidores. A API mostra os dois públicos incluídos, com local EUA, e ele decidiu manter a configuração e dar o nome do que está configurado.
 
 ## Públicos usados
 - `Engajou IG 365d` (`120259482616410386`), antes `IG [Engajamento] [365]`
@@ -39,4 +39,4 @@ Conferida na API em 11/11/2026.
 - 2026-10-23 · a página passa a enviar a aula paga ao pixel · a Meta só via as aulas do site antigo
 - 2026-10-27 · campanha pausada pelo Gustavo, às 15h58 · TODO: o motivo
 - 2026-11-05 · religada pelo Gustavo, às 12h17 (log de atividades da conta, em `montar-hub.py`)
-- 2026-11-11 · campanha, conjunto pausado, anúncios e públicos renomeados para o padrão novo · só rótulo, sem efeito na entrega
+- 2026-11-11 · campanha, conjuntos, anúncios e públicos renomeados para o padrão novo · só rótulo, sem efeito na entrega
