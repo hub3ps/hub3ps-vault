@@ -6,7 +6,7 @@ autor: claude
 ---
 # @guimiguelmkt · posicionamento e conteúdo do Guilherme
 
-> **Estado atual:** perfil com 41 seguidores e 5 posts (11/11/2026). Dois roteiros em produção, um para o dono de negócio e um para o gestor de tráfego, adaptados de vídeos de referência que o Guilherme envia.
+> **Estado atual:** perfil com 41 seguidores e 5 posts (11/11/2026). Roteiro 1 (gestor de tráfego) aprovado em 11/11. Roteiro 2 (dono de negócio) aguardando o vídeo de referência.
 
 Pasta do Instagram pessoal do Guilherme. Criada em 11/11/2026, a pedido dele.
 
@@ -22,11 +22,12 @@ Pasta do Instagram pessoal do Guilherme. Criada em 11/11/2026, a pedido dele.
 
 | Data | Vídeo | Público | Estado |
 |---|---|---|---|
-| 11/11 | [[roteiros/2026-11-11-fim-do-gestor-de-trafego\|O fim do gestor de tráfego]] | TODO | referência analisada, aguardando a visão do Guilherme |
-| TODO | roteiro 2 | TODO | aguardando o vídeo de referência |
+| 11/11 | [[roteiros/2026-11-11-fim-do-gestor-de-trafego\|O fim do gestor de tráfego]] | gestor de tráfego | aprovado em 11/11, pronto para gravar |
+| TODO | roteiro 2 | dono de negócio | aguardando o vídeo de referência |
 
 ## Como fazemos roteiro
 - O Guilherme manda um vídeo de referência e o que pensa em falar
 - O roteiro adapta a estrutura da referência à realidade da Hub3Ps e ao jeito dele de falar
 - Sai **em tópicos**, nunca em fala corrida para ler: ele grava falando, olhando os tópicos
 - Número, case ou resultado só entra se for real e com fonte. Dado de cliente só com o ok do cliente
+- Por padrão, sem números e sem exemplos de cliente: fica mais fácil de gravar (decisão de 11/11/2026)

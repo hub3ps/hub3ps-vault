@@ -9,7 +9,9 @@ autor: claude
 Rascunho de 11/11/2026, montado com o que o perfil já publica e com as decisões do Guilherme. O que está como TODO ele ainda decide.
 
 ## Quem fala
-Guilherme Miguel, gestor de tráfego há 8 anos, dono da Hub3Ps. Opera a agência com IA (Claude e Obsidian) e mostra os bastidores.
+Guilherme Miguel, gestor de tráfego há 8 anos. Trabalha sozinho, com IA, sem equipe.
+
+**Hub3Ps é a marca e a metodologia de serviço dele, não uma agência** (decisão de 11/11/2026). O discurso do perfil é que as agências de tráfego, como funcionam hoje, vão acabar. Opera tudo com IA (Claude e Obsidian) e mostra os bastidores.
 
 **Trajetória, como ele mesmo contou** (carrossel de 29/10/2026):
 - Começou aos 16 como jovem aprendiz, com bolsa integral numa das melhores escolas da cidade
