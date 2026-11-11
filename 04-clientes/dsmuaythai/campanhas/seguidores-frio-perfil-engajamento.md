@@ -4,7 +4,7 @@ cliente: dsmuaythai
 nome-campanha: Seguidores | Frio | Perfil | Engajamento
 plataforma: meta
 id-campanha: "120260260783360386"
-status: em montagem
+status: em análise
 inicio:
 verba-diaria: 7
 evento-otimizacao: PROFILE_AND_PAGE_ENGAGEMENT
@@ -34,8 +34,11 @@ Conferida na API em 11/11/2026.
   do Instagram, destino perfil
 - **Conjunto:** `Aberto 18-55 | MA | Engajamento com o perfil`
   (`120260260861270386`), US$ 7/dia, criado pelo Guilherme no Gerenciador.
-  De 18 a 55 anos, Massachusetts, Advantage+ com expansão de local
-- **Anúncio:** TODO, o IG-02 ainda não está no conjunto
+  De 18 a 55 anos fixos, homens e mulheres, Massachusetts, excluindo
+  `Seguidores IG`, **sem Advantage+** (o Tráfego usa Advantage+)
+- **Anúncio:** `IG-02 | Reels | Holding pads` (`120260260861260386`), em
+  análise em 11/11. TODO: na API e na prévia ele ainda não tem o Reels, só o
+  link para o perfil (a prévia pede "uma imagem")
 
 > **A API não cria este formato nesta conta** (11/11). Campanha, conjunto e
 > anúncio com visita ao perfil voltam "Ad account isn't eligible for Profile
@@ -44,4 +47,4 @@ Conferida na API em 11/11/2026.
 > conta do Instagram no objeto promovido.
 
 ## Histórico de otimizações
-- 2026-11-11 · campanha criada pausada pelo MCP; conjunto criado pelo Guilherme no Gerenciador e renomeado pelo MCP
+- 2026-11-11 · campanha criada pausada pelo MCP; conjunto e anúncio criados pelo Guilherme no Gerenciador, renomeados pelo MCP; campanha ativada pelo Guilherme
