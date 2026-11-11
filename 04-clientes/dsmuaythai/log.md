@@ -6,9 +6,14 @@ autor: claude
 
 A entrada mais recente fica no topo, uma por sessão de trabalho.
 
+### 2026-11-11 · Teste de seguidores: Engajamento contra Tráfego
+- **O que fiz:** abri a campanha `Seguidores | Frio | Perfil | Engajamento`, mesma verba (US$ 7/dia) e mesmo público frio de Massachusetts da de Tráfego, para comparar o custo por seguidor. A de Tráfego ganhou o quarto campo `| Tráfego`. Montei a fila de 7 Reels aprovada pelo Guilherme; nenhuma das duas gira criativo por ora. Conjunto e anúncio foram renomeados pelo MCP e conferidos na API.
+- **Resultado em:** [[seguidores-frio-perfil-engajamento]], [[seguidores-frio-perfil-trafego]] e [[2026-11-11-reels-para-seguidores]]
+- **O que achei:** a API não cria visita ao perfil nesta conta ("Ad account isn't eligible for Profile Visit ads"), mas o Gerenciador cria. Errei ao concluir que a conta não podia: o Guilherme montou conjunto e anúncio no Gerenciador, e a API só renomeia e lê. A primeira campanha que criei (`120260260783360386`) ficou arquivada; a que roda é a `120260262685740386`, recriada pelo Guilherme.
+
 ### 2026-11-11 · Campanhas renomeadas para o padrão novo de nomes
 - **O que fiz:** renomeei as duas campanhas atuais no Ads Manager, pelo MCP da Meta, no [[03-processos/convencoes|padrão novo]] decidido pelo Guilherme hoje: `Agendamento | Quente | Aula experimental` e `Seguidores | Frio | Perfil`, com os conjuntos, os anúncios (`VID-01`, `IG-01`, `IG-02`) e os dois públicos do Instagram (`Engajou IG 365d`, `Seguidores IG`). A edição entrou direto, sem rascunho e sem pausar nada. Conferi na API: o IG-01 segue pausado, e o IG-02 e o VID-01 seguem ativos. As fichas ganharam os nomes novos de arquivo e a configuração de hoje.
-- **Resultado em:** [[agendamento-quente-aula-experimental]] e [[seguidores-frio-perfil]]
+- **Resultado em:** [[agendamento-quente-aula-experimental]] e [[seguidores-frio-perfil-trafego]]
 - **O que achei:** o conjunto ativo do agendamento inclui, na API, quem engajou com o perfil em 365 dias e os seguidores, com local EUA. O Guilherme achava que era só de seguidores; ele decidiu manter a configuração e renomear o conjunto pelo que ela é, `Engajou IG 365d e seguidores | EUA | Escolheu o dia`, conferido na API. O hub troca o texto dos dois Reels impulsionados; a correção fica para o hub novo, por decisão do Guilherme. A ficha do agendamento dizia "pausada", mas a campanha voltou em 05/11.
 - **Próximo passo:** corrigir o texto dos Reels no hub novo.
 

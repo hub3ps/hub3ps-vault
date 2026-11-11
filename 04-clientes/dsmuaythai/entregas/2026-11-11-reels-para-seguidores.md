@@ -18,7 +18,7 @@ aqui quando um Reels entrar no ar.
 
 | ID | Reels | Link | No ar |
 |---|---|---|---|
-| IG-02 | Holding pads parte 1 | https://www.instagram.com/reel/DcbbH7FBdmZ/ | Tráfego desde antes de 11/11. Engajamento: ver a ficha |
+| IG-02 | Holding pads parte 1 | https://www.instagram.com/reel/DcbbH7FBdmZ/ | Tráfego desde antes de 11/11. Engajamento desde 11/11 |
 | IG-03 | Holding pads parte 2 | https://www.instagram.com/reel/Dcgku5WBbIj/ | |
 | IG-04 | Holding pads parte 3 | https://www.instagram.com/reel/DdRg8yOBN_B/ | |
 | IG-05 | Middle e low kick | https://www.instagram.com/reel/DfPqPGdukha/ | |

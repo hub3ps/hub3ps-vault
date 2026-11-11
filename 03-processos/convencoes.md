@@ -41,7 +41,11 @@ uma regra só para os três níveis:
   engajou, segue, visitou, é lead ou cliente)
 - **Oferta ou frente:** o que se oferece ou para onde leva: `Aula
   experimental`, `Perfil`, `Lista de espera`, `Teste grátis`
-- Duas campanhas com o mesmo nome: a segunda ganha um quarto campo, `v2`
+- Duas campanhas que só mudam no objetivo da Meta, num teste: as duas ganham
+  o objetivo como quarto campo, `Seguidores | Frio | Perfil | Tráfego` e
+  `Seguidores | Frio | Perfil | Engajamento` (DS Muay Thai, 11/11/2026)
+- Duas campanhas com o mesmo nome por outro motivo: a segunda ganha um quarto
+  campo, `v2`
 
 ### Conjunto
 - **Público:** o nome do público, como na seção abaixo

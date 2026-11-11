@@ -19,7 +19,8 @@ kanban-plugin: board
 
 ## Fazendo
 
-- [ ] Campanha de seguidores em Massachusetts, sem os seguidores atuais, desde 13/10 #trafego-pago
+- [ ] Teste de seguidores, Engajamento contra Tráfego: ler o custo por seguidor das duas em 14/11; o teste vale 14 dias, até 25/11 #trafego-pago @{2026-11-14}
+- [ ] Campanha de seguidores (Tráfego) em Massachusetts, sem os seguidores atuais, desde 13/10 #trafego-pago
 
 
 ## Aguardando cliente

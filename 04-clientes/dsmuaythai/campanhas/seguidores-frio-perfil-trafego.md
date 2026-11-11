@@ -1,7 +1,7 @@
 ---
 tipo: campanha
 cliente: dsmuaythai
-nome-campanha: Seguidores | Frio | Perfil
+nome-campanha: Seguidores | Frio | Perfil | Tráfego
 plataforma: meta
 id-campanha: "120259703778120386"
 status: ativa
@@ -12,9 +12,9 @@ lp: https://instagram.com/ds_muaythai_squad
 atualizado: 2026-11-11
 autor: claude
 ---
-# Seguidores | Frio | Perfil
+# Seguidores | Frio | Perfil | Tráfego
 
-Nome no Meta desde 11/11/2026, no [[03-processos/convencoes|padrão novo]]. Antes: `[HUB] [Tráfego] [Seguidores]`. Valores em USD. Os números ficam no hub, em `dsmuaythai.hub3ps.com`.
+Nome no Meta desde 11/11/2026, no [[03-processos/convencoes|padrão novo]]. Antes: `[HUB] [Tráfego] [Seguidores]`. O quarto campo, `Tráfego`, entrou no mesmo dia, quando abriu o teste com a [[seguidores-frio-perfil-engajamento|campanha de Engajamento]]. Valores em USD. Os números ficam no hub, em `dsmuaythai.hub3ps.com`.
 
 ## Configuração
 Conferida na API em 11/11/2026.
@@ -37,3 +37,4 @@ Os dois são Reels do perfil (conferido no Instagram em 11/11).
 - 2026-10-13 · publicada · a US$ 9/dia, segundo o plano do hub
 - TODO · verba em US$ 7/dia na API (04/11 e 11/11). Conferir se mudou ou se o plano está errado
 - 2026-11-11 · campanha, conjunto e anúncios renomeados para o padrão novo · só rótulo, sem efeito na entrega
+- 2026-11-11 · ganha o quarto campo `Tráfego` e vira a base do teste contra o Engajamento · sem girar criativo enquanto o teste roda
