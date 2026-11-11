@@ -2,7 +2,7 @@
 tipo: roteiro
 cliente: hub3ps
 perfil: guimiguelmkt
-estado: aprovado, pronto para gravar
+estado: gravado, falta editar e postar
 objetivo: seguidores e autoridade
 publico: gestor de tráfego
 atualizado: 2026-11-11
@@ -97,3 +97,40 @@ Todos aconteceram e estão registrados no vault. O que é de cliente só entra s
 - **Sem exemplos:** fica mais fácil de gravar. As provas da tabela acima ficam guardadas para vídeos de bastidor
 - **Hub3Ps é marca e metodologia de serviço, não agência.** Se alguém comentar "mas você tem agência", a resposta é essa
 - Roteiro aprovado em 11/11/2026
+
+## Gravação 1 (11/11/2026)
+Bruta: 4 min 29 s, transcrita em [[fontes/2026-11-11-gravacao-roteiro-1-bruta]]. Avaliação do Claude, para a edição.
+
+**O que ficou bom**
+- Abre com a opinião forte, sem enrolar: "o gestor de tráfego, como a gente conhece hoje, vai deixar de existir"
+- Entrou uma prova melhor que a do roteiro: "não tenho agência e nunca quis ter". Bate com a Hub3Ps como marca e metodologia
+- Fecho completo: pergunta que divide os comentários e motivo para seguir ("vou mostrar tudo que eu faço com IA")
+- Sem números e sem cliente, como decidido. Fala natural, de conversa
+
+**O que corrigir na edição**
+- **Tamanho:** de 4 min 29 s para 60 a 75 s
+- **Repetição:** "vai deixar de existir a partir do ano que vem" aparece 5 vezes até 84 s. Fica só a primeira
+- **Tropeços para cortar:** "vai começar a parar de deixar de existir" (77 a 85 s) e "há um ano atrás, um ano, um ano e meio" (141 a 151 s)
+- **Parece contradição:** diz que o gestor vai deixar de existir e, depois, que a IA não vai substituir o gestor. A primeira frase tem "como a gente conhece hoje": mantenha esse trecho e corte as repetições sem ele, e as duas ideias se encaixam
+- **"Eu te garanto, com muito mais resultado"** (166 a 174 s): promessa sem prova. Fica melhor só "mais qualidade e mais atenção"
+- **"Tá?" 21 vezes:** a maioria cai com os cortes. Nos próximos, vale segurar
+- **Ticket médio e retenção de cliente** (184 a 231 s): bom assunto, mas é outro vídeo. Fica de fora deste e vira pauta
+
+**Corte sugerido (cerca de 70 s)**
+
+| Ordem | Trecho | O que diz |
+|---|---|---|
+| 1 | 1 s da abertura | cena do setup |
+| 2 | 30,1 a 37,5 s | gancho: o gestor como a gente conhece hoje vai deixar de existir |
+| 3 | 55,9 a 67,4 s | 8 anos, sozinho, sem agência e sem intenção de ter |
+| 4 | 84,8 a 95,9 s | mas é a maior oportunidade, para quem trabalha sozinho |
+| 5 | 116 a 131 s | a IA não substitui: ele vira gestor de performance, estrategista |
+| 6 | 134 a 141 s | estuda e aplica IA há mais de um ano e meio |
+| 7 | 158 a 166 s | sozinho, entrega praticamente tudo que uma agência entrega |
+| 8 | 242,5 a 250,5 s | comenta se concorda ou se acha que estou doido |
+| 9 | 254,5 a 263,5 s | segue para ver como eu aplico IA no operacional |
+
+Os tempos são da transcrição e podem variar meio segundo. Confira o início e o fim de cada trecho na edição.
+
+## Pauta que surgiu na gravação
+- **Menos é mais:** em vez de escalar número de cliente, manter quem já tenho, entregar mais serviço e subir o ticket médio. A IA veio para isso (184 a 231 s da gravação bruta)
