@@ -19,4 +19,5 @@ Posicionamento do perfil e roteiros prontos para gravar ficam em [[04-clientes/h
 | Método 3Ps e o hub padrão dos clientes | protótipo em 10/11 | Reels e carrossel | [[serie-metodo-3ps]] |
 | Operação no Obsidian com o Claude | em uso desde 03/11 | posts de bastidor | TODO |
 | Tracking sem programador (evento de Lead criado pelo MCP da Meta) | feito em 09/11 | post curto | [[serie-whatsapp-na-rotina#Ganchos que surgiram no caminho]] |
+| GTA 6 com humor, ligado ao tráfego e à IA (lança em 19/11) | ideia 1 escolhida, roteiro em 11/11 | Reels | [[pauta-gta-6]] |
 | Menos é mais: manter cliente e subir o ticket com IA, em vez de escalar número de cliente | pauta de 11/11, sem roteiro | Reels | [[04-clientes/hub3ps/guimiguelmkt/roteiros/2026-11-11-fim-do-gestor-de-trafego#Pauta que surgiu na gravação\|gravação do roteiro 1]] |
