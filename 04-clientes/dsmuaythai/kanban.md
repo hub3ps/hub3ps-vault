@@ -4,6 +4,8 @@ kanban-plugin: board
 
 ## A fazer
 
+- [ ] Público do conjunto ativo do agendamento: a API mostra quem engajou em 365 dias e os seguidores, com local EUA, e o Guilherme diz que é só de seguidores. Resolver e renomear o conjunto #trafego-pago
+- [ ] Hub: corrigir o texto trocado dos dois Reels impulsionados, junto com o hub novo (decisão de 11/11) #trafego-pago
 - [ ] Decidir o que fazer com a campanha de agendamento, pausada pelo Gustavo em 27/10 sem motivo registrado: reativar ou substituir #trafego-pago @{2026-11-04}
 - [ ] Registrar por que a campanha de agendamento foi pausada #trafego-pago
 - [ ] Conferir a verba da campanha de seguidores: a API mostra US$ 7/dia e o plano do hub diz US$ 9 #trafego-pago
@@ -34,6 +36,7 @@ kanban-plugin: board
 
 ## Feito
 
+- [x] Campanhas, anúncios e públicos renomeados para o padrão novo de nomes (11/11)
 - [x] E-mail da LP de trial trocado para o da recepção (30/10)
 - [x] Bio do Instagram sem o perfil pessoal do David (30/10)
 - [x] A página envia a aula paga ao pixel, e o hub conta pelo Calendly (23/10)

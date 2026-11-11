@@ -6,6 +6,12 @@ autor: claude
 
 A entrada mais recente fica no topo, uma por sessão de trabalho.
 
+### 2026-11-11 · Campanhas renomeadas para o padrão novo de nomes
+- **O que fiz:** renomeei as duas campanhas atuais no Ads Manager, pelo MCP da Meta, no [[03-processos/convencoes|padrão novo]] decidido pelo Guilherme hoje: `Agendamento | Quente | Aula experimental` e `Seguidores | Frio | Perfil`, com os conjuntos, os anúncios (`VID-01`, `IG-01`, `IG-02`) e os dois públicos do Instagram (`Engajou IG 365d`, `Seguidores IG`). A edição entrou direto, sem rascunho e sem pausar nada. Conferi na API: o IG-01 segue pausado, e o IG-02 e o VID-01 seguem ativos. As fichas ganharam os nomes novos de arquivo e a configuração de hoje.
+- **Resultado em:** [[agendamento-quente-aula-experimental]] e [[seguidores-frio-perfil]]
+- **O que achei:** o conjunto ativo do agendamento inclui, na API, quem engajou com o perfil em 365 dias e os seguidores, com local EUA. O Guilherme diz que é só de seguidores, então esse conjunto ficou sem renomear. O hub troca o texto dos dois Reels impulsionados; a correção fica para o hub novo, por decisão do Guilherme. A ficha do agendamento dizia "pausada", mas a campanha voltou em 05/11.
+- **Próximo passo:** resolver o público do conjunto ativo do agendamento e renomeá-lo.
+
 ### 2026-11-04 · Migração do DS Muay Thai para o vault
 - **O que fiz:** criei a nota do cliente, o kanban, este log e as fichas das duas campanhas recentes. As fontes foram a `origin/main` do `agencia_marketing` (nenhuma branch tem trabalho deste cliente fora dela), o plano do hub e a API da Meta. Conferi que as 4 páginas estão no ar. O repo ficou intocado.
 - **Resultado em:** `04-clientes/dsmuaythai/`
