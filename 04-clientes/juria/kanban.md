@@ -6,6 +6,7 @@ kanban-plugin: board
 
 ## A fazer
 
+- [ ] Publicar o IG-CAR-02 (NFS-e) no @juria.app, aprovado em 20/10 #social
 - [ ] Guilherme decide no Ads Manager: o 1º conjunto de vídeos (música) está pausado e só a locução roda. Reativar para o teste valer ou encerrar o teste. Combinado em 04/11 que o Claude não mexe na campanha #trafego-pago @{2026-11-04}
 - [ ] Decidir o evento da campanha de vídeos: manter `COMPLETE_REGISTRATION` (5 por semana na conta) ou trocar para `LEAD` #trafego-pago
 - [ ] Decidir o posicionamento da campanha de vídeos: manter automático ou voltar ao manual (Facebook e Instagram, só celular) #trafego-pago
@@ -46,6 +47,7 @@ kanban-plugin: board
 
 ## Feito
 
+- [x] IG-VID-01 v7, a Jú no WhatsApp, publicado como Reels no @juria.app (11/11)
 - [x] Informativos de segurança publicados no cadastro pelo Saulo, decididos na reunião de 06/11 (09/11)
 - [x] Hub e funil com as exportações de 04/11 (05/11)
 - [x] Hub novo no ar na raiz de `juria.hub3ps.com` (30/10)

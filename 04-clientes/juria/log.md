@@ -6,6 +6,12 @@ autor: claude
 
 A entrada mais recente fica no topo, uma por sessão de trabalho.
 
+### 2026-11-11 · Reels da Jú publicado no Instagram
+- **O que fiz:** conferi o perfil @juria.app, que tinha só o IG-CAR-01 e o IG-IMG-01, e preparei o IG-VID-01 v7 (a Jú no WhatsApp) com a legenda aprovada em 19/10. Antes, conferi no site novo os fatos da legenda: Jú em todos os planos a partir do Solo, 7 dias grátis sem cartão e só o número vinculado com acesso. O Guilherme publicou como Reels.
+- **Resultado em:** https://www.instagram.com/juria.app/reel/DfmvXquJQD6/ (o perfil passou a 3 posts)
+- **O que achei:** o caminho de ativação da legenda, "Configurações > Integrações > Seu WhatsApp com a Jú", só existe dentro do sistema e não foi conferido. Pelo MCP da Meta, a consulta de contas do Instagram ligadas à conta de anúncios voltou vazia: ou o perfil não está ligado a ela, ou falta a permissão de leitura. Por isso a lista de posts foi conferida no perfil público.
+- **Próximo passo:** publicar o IG-CAR-02 (NFS-e), o último aprovado na fila.
+
 ### 2026-11-10 · Folder institucional, opção B com a revisão da Isadora
 - **O que fiz:** apliquei na opção B, a escolhida pela Mobiletec, os ajustes da Isadora. No A3, o texto pequeno ao lado de "sistema." virou o dela. No B1, entrou no topo "Menos planilha, mais advocacia." com o texto dela, e a Mobiletec desceu, com o texto novo e o 1999 menor. No B2, o rótulo virou "A Jú, assistente do seu escritório no WhatsApp, sempre disponível", e as duas perguntas viraram balões de mensagem enviada, com o visto duplo. Regerei prévias, PDF de aprovação e mockup.
 - **Resultado em:** `clients/juria/creatives/folder-institucional/folder-juria-b-aprovacao.pdf` do `agencia_marketing` (commit 44353ba). Revisão original em [[2026-11-10-revisao-isadora-folder]]
