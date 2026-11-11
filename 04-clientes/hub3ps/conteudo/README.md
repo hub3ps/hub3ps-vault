@@ -1,12 +1,14 @@
 ---
 tipo: conteudo
 cliente: hub3ps
-atualizado: 2026-11-10
+atualizado: 2026-11-11
 autor: claude
 ---
 # Banco de conteúdo do Guilherme
 
 Bastidores da operação da Hub3Ps com IA, mapeados enquanto acontecem, para virar post, Reels, carrossel, ebook ou aula no Instagram do Guilherme (@guimiguelmkt). Pedido do Guilherme em 09/11/2026.
+
+Posicionamento do perfil e roteiros prontos para gravar ficam em [[04-clientes/hub3ps/guimiguelmkt/README|guimiguelmkt]]. Aqui nasce a pauta, lá mora o roteiro.
 
 **Regra:** toda estrutura nova que montamos e que outro gestor de tráfego poderia copiar ganha uma nota aqui, no mesmo dia. A nota guarda o que foi feito, os números reais, os erros e as decisões, que é o que dá conteúdo. Nada de cliente sai daqui sem o ok dele: nome, número e print de cliente são trocados ou borrados antes de publicar.
 
