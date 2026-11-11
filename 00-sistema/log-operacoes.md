@@ -7,6 +7,7 @@ Uma linha por sessão de trabalho, a mais recente no topo.
 
 Formato: `- AAAA-MM-DD · <slug ou agencia> · <tarefa> · <onde está o resultado>`
 
+- 2026-11-11 · hub3ps · Pasta do @guimiguelmkt: posicionamento, diagnóstico do perfil e roteiro 1 aprovado (O gestor de tráfego vai acabar) · `04-clientes/hub3ps/guimiguelmkt/`
 - 2026-11-11 · marjorie · Campanhas renomeadas no padrão novo de nomes, e fichas atualizadas · `04-clientes/marjorie/campanhas/`
 - 2026-11-11 · dsmuaythai · Campanhas renomeadas no padrão novo de nomes, e fichas atualizadas · `04-clientes/dsmuaythai/campanhas/`
 - 2026-11-11 · agencia · Padrão novo de nomes no Ads Manager, só no vault; o doc do repo antigo virou ponteiro · `03-processos/convencoes.md`

@@ -6,7 +6,7 @@ autor: claude
 ---
 # @guimiguelmkt · posicionamento e conteúdo do Guilherme
 
-> **Estado atual:** perfil com 41 seguidores e 5 posts (11/11/2026). Roteiro 1 (gestor de tráfego) aprovado em 11/11. Roteiro 2 (dono de negócio) aguardando o vídeo de referência.
+> **Estado atual:** perfil com 41 seguidores e 5 posts (11/11/2026). Roteiro 1 (gestor de tráfego) aprovado em 11/11. Roteiro 2 (dono de negócio, outro assunto) só depois de gravar e publicar o roteiro 1.
 
 Pasta do Instagram pessoal do Guilherme. Criada em 11/11/2026, a pedido dele.
 
@@ -23,7 +23,7 @@ Pasta do Instagram pessoal do Guilherme. Criada em 11/11/2026, a pedido dele.
 | Data | Vídeo | Público | Estado |
 |---|---|---|---|
 | 11/11 | [[roteiros/2026-11-11-fim-do-gestor-de-trafego\|O fim do gestor de tráfego]] | gestor de tráfego | aprovado em 11/11, pronto para gravar |
-| TODO | roteiro 2 | dono de negócio | aguardando o vídeo de referência |
+| TODO | roteiro 2 | dono de negócio | depois de gravar e publicar o roteiro 1 (decisão de 11/11) |
 
 ## Como fazemos roteiro
 - O Guilherme manda um vídeo de referência e o que pensa em falar
