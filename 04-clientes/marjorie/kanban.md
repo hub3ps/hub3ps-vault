@@ -4,6 +4,7 @@ kanban-plugin: board
 
 ## A fazer
 
+- [ ] Renomear no Gerenciador o público salvo `int_cad-dental_us` para `Interesse CAD dental` (o MCP não renomeia público salvo) #trafego-pago
 - [ ] Rodízio dos criativos de seguidores a cada 3 dias, com 2 por vez, a partir dos 10 escolhidos pelas clientes #trafego-pago
 - [ ] Montar o lembrete para a lista de espera (25 e 26/11) e o carrinho na LP (27 a 30/11) #trafego-pago
 - [ ] Avisar a Julia: MOD Institute, SHINING 3D, DentalCAD, Dental CAD e Spear Education não existem no Gerenciador (06/11) #trafego-pago
@@ -41,6 +42,7 @@ kanban-plugin: board
 
 ## Feito
 
+- [x] Campanhas, conjuntos, anúncios e públicos renomeados para o padrão novo de nomes (11/11)
 - [x] IG-07 no ar para a rodada 2 e resumo da rodada 1 enviado ao grupo (09/11)
 - [x] Rodada 1 de seguidores fechada (09/11): IG-06 fica (US$ 0,55 por seguidor), IG-03 pausado (US$ 1,46)
 - [x] Campanha 2, da base, criada pelo Guilherme com o IG-27 (09/11)

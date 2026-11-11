@@ -6,6 +6,11 @@ autor: claude
 
 A entrada mais recente fica no topo, uma por sessão de trabalho.
 
+### 2026-11-11 · Campanhas renomeadas para o padrão novo de nomes
+- **O que fiz:** renomeei pelo MCP da Meta as duas campanhas, os quatro conjuntos, os quatro anúncios e os cinco públicos personalizados para o [[03-processos/convencoes|padrão novo]], pelo que está configurado na conta: [[seguidores-frio-perfil]] e [[distribuicao-quente-zero-to-hero]]. Nesta conta a edição fica em rascunho; publiquei só os 10 renomes, que eram os únicos rascunhos, sem mudar status. Conferi na API: o IG-03 e o conjunto dele seguem pausados, e o resto segue ativo.
+- **O que achei:** os conjuntos de seguidores rodam no Facebook e no Instagram, embora o nome antigo dissesse `ig`. O público salvo `int_cad-dental_us` ficou com o nome antigo, porque o MCP não renomeia público salvo.
+- **Próximo passo:** renomear o público salvo no Gerenciador, quando alguém estiver lá.
+
 ### 2026-11-09 · Grupo de 06 a 09/11, primeira leitura pela rotina
 - **O que fiz:** primeira leitura do grupo pela rotina WhatsApp diário. Registrei as 64 mensagens de 06 a 09/11.
 - **Resultado em:** `fontes/2026-11-09-whatsapp-grupo.md`

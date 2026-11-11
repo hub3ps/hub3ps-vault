@@ -71,6 +71,8 @@ Nomes no padrão de `docs/convencoes.md` do `agencia_marketing` (05/11/2026):
 - `cp_compradores-curso-antigo_lista`: lista de compradores do curso antigo, carregada pelo Guilherme no Gerenciador
 - `int_cad-dental_us`: público salvo da captação fria, só EUA, excluindo o `cp_ig-engajou_365d`
 
+> **Nomes trocados em 11/11/2026** ([[03-processos/convencoes|padrão novo]]): `Engajou IG 365d`, `Seguidores IG`, `Visitou perfil IG 90d`, `Engajou vídeo do curso 365d` e `Compradores curso antigo`, na ordem da lista acima. O público salvo `int_cad-dental_us` ficou com o nome antigo: não há como renomeá-lo pelo MCP.
+
 ## Países
 Decisão do Guilherme em 04/11/2026:
 - **Captação de seguidores (frio):** só EUA
