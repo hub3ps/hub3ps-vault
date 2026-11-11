@@ -22,7 +22,7 @@ Pasta do Instagram pessoal do Guilherme. Criada em 11/11/2026, a pedido dele.
 
 | Data | Vídeo | Público | Estado |
 |---|---|---|---|
-| TODO | roteiro 1 | TODO | aguardando o vídeo de referência |
+| 11/11 | [[roteiros/2026-11-11-fim-do-gestor-de-trafego\|O fim do gestor de tráfego]] | TODO | referência analisada, aguardando a visão do Guilherme |
 | TODO | roteiro 2 | TODO | aguardando o vídeo de referência |
 
 ## Como fazemos roteiro
