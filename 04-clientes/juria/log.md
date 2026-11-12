@@ -6,6 +6,13 @@ autor: claude
 
 A entrada mais recente fica no topo, uma por sessão de trabalho.
 
+### 2026-11-12 · Folder institucional, arquivo da gráfica
+- **O que fiz:** apliquei os dois pedidos da Isadora na opção B. No B2, o primeiro item da lista virou "Envia agenda do dia, prazos e intimações". No B1, o QR saiu e no lugar dele entrou "Conveniado com a" com a logo da CAASC, ao lado do "Comece agora seu teste grátis", que ficou. A logo foi vetorizada da versão de fundo transparente que ela mandou. Gerei o arquivo da gráfica e o Guilherme aprovou.
+- **Resultado em:** `clients/juria/creatives/folder-institucional/folder-juria-b-grafica-PDFX1a.pdf` do `agencia_marketing` (sem commit). PDF/X-1a:2001, CMYK FOGRA39, 600 DPI, 2 páginas de 306x216 mm com sangria e corte de 300x210 mm. Gera de novo com `python3 ferramentas/grafica.py folder-b.html`
+- **O que achei:** o site novo não fala do convênio com a CAASC, então "Conveniado com a" é texto do Guilherme, liberado no conferidor. O QR agora só está no B3, o verso da capa, e foi lido no PDF final. O perfil FOGRA39 saiu do PDF do flyer da OAB, para manter a mesma especificação. Os outros itens da lista da Jú não mudaram: "Alerta de prazos" soa como substantivo ao lado dos verbos, mas a Isadora só pediu o primeiro.
+- **Decisões:** CAASC no lugar do QR do B1, com o texto "Conveniado com a" (Guilherme, 12/11). Folder aprovado para a gráfica (Guilherme, 12/11).
+- **Próximo passo:** mandar à gráfica, confirmar que ela faz sanfona no papel escolhido e testar o QR na prova impressa. Entrega até 15/11.
+
 ### 2026-11-11 · Reels da Jú publicado no Instagram
 - **O que fiz:** conferi o perfil @juria.app, que tinha só o IG-CAR-01 e o IG-IMG-01, e preparei o IG-VID-01 v7 (a Jú no WhatsApp) com a legenda aprovada em 19/10. Antes, conferi no site novo os fatos da legenda: Jú em todos os planos a partir do Solo, 7 dias grátis sem cartão e só o número vinculado com acesso. O Guilherme publicou como Reels.
 - **Resultado em:** https://www.instagram.com/juria.app/reel/DfmvXquJQD6/ (o perfil passou a 3 posts)
