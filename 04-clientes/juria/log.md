@@ -6,6 +6,13 @@ autor: claude
 
 A entrada mais recente fica no topo, uma por sessão de trabalho.
 
+### 2026-11-12 · Site novo: páginas do rodapé no desenho novo
+- **O que fiz:** refiz `/termos`, `/privacidade` e `/cookies` no desenho do site novo: cápsula navy no topo, sumário fixo ao lado e o texto num cartão. Nos termos, corrigi só o que é produto: a seção 3 passou a listar Solo, Plus, Max e Sob consulta, com os preços de hoje e "todas as funcionalidades" só do Plus em diante, e a seção 4 passou a falar em teste de 7 dias.
+- **Resultado em:** `feat/site-astro` do `agencia_marketing`, sem commit. O texto foi comparado palavra por palavra com o que está no ar: privacidade e cookies sem nenhuma mudança, e os termos só nas seções 3 e 4. Conferências e build passando, com capturas de tela conferidas no desktop.
+- **Decisões:** corrigir nas páginas do rodapé só o que é produto, sem mexer em nada jurídico, e deixar o `/oab` para depois (Guilherme, 12/11).
+- **O que achei:** a data e a versão dos termos ("Versão 1.0 · 02 de junho de 2026") não mudaram, porque são da versão jurídica. Atualizar fica com a Mobiletec. A privacidade fala de BYOK e de Google Calendar sem citar plano. É texto de tratamento de dados e ficou como está.
+- **Próximo passo:** commit e push com o OK do Guilherme.
+
 ### 2026-11-12 · Site novo: ajustes técnicos para o domínio principal
 - **O que fiz:** na `feat/site-astro`, copiei `/privacidade`, `/termos`, `/cookies` e `/oab` do `juria-lps`, sem mudar uma letra. O noindex passou a valer em todo endereço que não seja `www.juria.app.br`, e sempre em `/oab`, como hoje. `/institucional`, `/geral`, `/trabalhista` e `/previdenciario` redirecionam para a home. `/v2` redireciona só no `www`. O "Contato" do rodapé leva a `/sobre#contato`. O `/blog`, sem post, ganhou noindex e saiu do sitemap. O sitemap ficou sem a barra no fim.
 - **Resultado em:** commit cc6e64f na `feat/site-astro` do `agencia_marketing`, com push. Conferido na prévia: as quatro páginas respondem 200, tudo sai com noindex, as quatro rotas antigas redirecionam com 308 para a home levando a UTM, o sitemap está sem barra e o "Contato" aponta para `/sobre#contato`. Só dá para conferir o `www` sem noindex e a `/v2` redirecionando depois da troca. A conferência no navegador (Playwright) não rodou.
