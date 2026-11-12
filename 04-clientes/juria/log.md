@@ -6,6 +6,12 @@ autor: claude
 
 A entrada mais recente fica no topo, uma por sessão de trabalho.
 
+### 2026-11-12 · Hub: site novo registrado e leitura conjunta com a segurança
+- **Decisões (Guilherme, 12/11):** os informativos de segurança do cadastro e do onboarding (m15) e o site novo serão analisados juntos na próxima reunião com a Mobiletec. O que se espera é melhorar a qualidade dos leads, com mais cadastros concluídos e mais processos importados.
+- **O que fiz:** no registro do hub, entrou o m16, "Site novo no ar no lugar das páginas antigas", em teste, etapa Página, com hipótese, métrica e a leitura conjunta. O m15 ganhou a nota da leitura conjunta. O m12 e o m13 ganharam o aviso de que a página dos anúncios mudou no meio do teste. Em Materiais, o site no ar entrou no lugar das páginas antigas, que ficaram como histórico, e o link da prévia passou a se chamar "Prévia do site". Publicado no commit 2d7ac72, conferido no ar.
+- **O que achei:** a data da próxima reunião não está registrada, então o m16 diz "na próxima reunião" e não traz data. O m15 segue com 23/11 e o m12 com 13/11. O m14, e-mails da Isadora, venceu em 11/11 e segue sem avaliação. Os números do hub continuam com as exportações de 04/11.
+- **Próximo passo:** marcar a data da reunião. Antes dela, pedir à Mobiletec a exportação nova do funil para comparar antes e depois de 09/11 e de 12/11.
+
 ### 2026-11-12 · Imagem de compartilhamento do site no ar
 - **O que fiz:** criei a `og-image.png` (1200x630), com o título da home, a tela Meu Dia e a linha da Mobiletec, todo texto tirado do site. O Guilherme aprovou, e publiquei: commit acf47c0 na `main` e 78a16c5 no `juria-lps`. O texto alternativo da imagem deixou de dizer "all-in-one" e passou a ser o título da home.
 - **Resultado em:** https://www.juria.app.br/og-image.png, que responde 200, com a metatag apontando para ela em todas as páginas. Antes era 404, e o link compartilhado saía sem imagem.

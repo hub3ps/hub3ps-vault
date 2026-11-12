@@ -22,7 +22,7 @@ kanban-plugin: board
 - [ ] Migração: levar o conhecimento do repo para o vault (brief, brand, comercial, funil, e-mail, Helena) #migracao
 - [ ] Migração: mover os arquivos do JurIA que estão no Downloads para o Drive #migracao
 - [ ] Site novo: ajustar a página `/oab` (oferta OAB30 do flyer de Brusque). Foi copiada como está do `juria-lps` e promete "todos os módulos liberados, em todos os planos", falso desde 29/09. Deixada para depois pelo Guilherme em 12/11 #lp-e-site
-- [ ] Analisar o efeito da troca do site (12/11) nos testes `Lead`, `m15` e vídeos, juntos e já com o site novo (Guilherme, 12/11) #trafego-pago
+- [ ] Próxima reunião com a Mobiletec: analisar juntos os informativos de segurança (m15, 09/11) e o site novo (m16, 12/11). Esperado: leads de mais qualidade, com mais cadastros concluídos e processos importados. Ler também `Lead` (m12) e vídeos (m13), que tiveram a página trocada no meio do teste #trafego-pago
 
 ## Fazendo
 
