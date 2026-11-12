@@ -6,6 +6,12 @@ autor: claude
 
 A entrada mais recente fica no topo, uma por sessão de trabalho.
 
+### 2026-11-12 · Site novo: merge, script de publicação e favicon
+- **Decisões (Guilherme, 12/11):** o favicon "IA" foi recusado de novo, e o novo tem só o J. "Central de ajuda" virou "Perguntas frequentes". O `juria-lps` continua repo separado, para o projeto da Vercel poder ser transferido, e passa a receber o build do site novo. O merge na `main` sai com calma, sem deixar nada para trás.
+- **O que fiz:** fiz três opções de favicon com o J, na Inter 800 da logo, e mandei ao Guilherme. Renomeei o link, commit 5763480 na `feat/site-astro`, sem push. Fiz o merge da branch na `main` numa worktree, `merge/site-astro-na-main`, com commit b6f7306. Dos 12 conflitos, ficou a `main` onde ela era mais nova (revisão da Isadora de 27/10, aviso do ano 1999, CLAUDE.md) e a branch em planos-e-creditos ("Sob consulta", de 22/10) e nos docs do site. Criei `npm run publicar` e o runbook `docs/processos/publicar-site-juria.md`, commit 632d312. O script ensaiado num clone temporário do `juria-lps` saiu limpo.
+- **O que achei:** a `main` local tem 4 commits sem push (folder e editor de vídeo), que sobem junto com o merge. Avançar a `main` da pasta principal não colide com nada sem commit. O site no ar hoje também não tem favicon.
+- **Próximo passo:** com o OK do Guilherme, push da `main` e da `feat/site-astro`, publicar no `juria-lps` e conferir Pixel e GA4 no `www`. O favicon entra quando ele escolher.
+
 ### 2026-11-12 · Site novo: preparação da troca
 - **Decisões (Guilherme, 12/11):** a troca é hoje, e o impacto nos testes em andamento (`Lead`, `m15` e vídeos) será analisado depois, já com o site novo. Os domínios ficam no projeto `juria-lps` da Vercel, que passa a publicar o site novo. A branch vai para a `main`. A Mobiletec não precisa revisar mais nada.
 - **O que fiz:** enviei para aprovação o favicon de 20/10 ("IA" ciano sobre navy). No rodapé, "Recursos", "Inteligência (IA)", "Planos" e "Central de ajuda" eram âncoras que só funcionavam na home. Corrigi para `/#recursos`, `/#inteligencia`, `/precos` e `/#faq` (sem commit). "Central de ajuda" não é uma central: leva ao FAQ da home.
