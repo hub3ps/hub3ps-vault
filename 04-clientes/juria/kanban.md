@@ -18,7 +18,6 @@ kanban-plugin: board
 - [ ] Proposta: medir a importação de processos como evento na Meta e no GA4 #tracking
 - [ ] Proposta: testes de comunicação por nicho, mantendo o sistema geral #trafego-pago
 - [ ] Decidir a estratégia de e-mail do JurIA (sessão parada esperando decisão) #email-marketing
-- [ ] Site novo em produção (decidido na reunião de 06/11): definir domínio e data da troca, e trazer a `feat/site-astro` para a main (113 commits fora) #lp-e-site
 - [ ] Encontrar uma pessoa para gravar conteúdo do Instagram e criativos dos anúncios, para humanizar a marca (reunião de 06/11) #criativo
 - [ ] Conferir se as pendências antigas das LPs continuam abertas: destino da demonstração, links de rodapé de exemplo e WhatsApp falso na institucional #lp-e-site
 - [ ] Migração: levar o conhecimento do repo para o vault (brief, brand, comercial, funil, e-mail, Helena) #migracao
@@ -27,6 +26,7 @@ kanban-plugin: board
 
 ## Fazendo
 
+- [ ] Site novo em produção (reunião de 06/11). Logos dos clientes liberadas pela Mobiletec em 12/11. Falta: ajustes finais da Isadora, favicon, domínio e data da troca, e trazer a `feat/site-astro` para a main (113 commits fora) #lp-e-site
 - [ ] Folder: mandar à gráfica, confirmar sanfona no papel e testar o QR na prova. Entrega até @{2026-11-15} #criativo
 - [ ] Teste: informativos de segurança no cadastro, no ar desde 09/11 (Saulo). Avaliar em @{2026-11-23} a importação e a passagem da tela da OAB #lp-e-site
 - [ ] Teste: campanha otimizando pela conta criada (`LEAD`). Avaliar em @{2026-11-13} #trafego-pago
