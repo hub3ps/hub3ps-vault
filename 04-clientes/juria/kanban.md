@@ -24,6 +24,9 @@ kanban-plugin: board
 - [ ] Migração: mover os arquivos do JurIA que estão no Downloads para o Drive #migracao
 
 
+- [ ] Site novo: ajustar a página `/oab` (oferta OAB30 do flyer de Brusque). Foi copiada como está do `juria-lps` e promete "todos os módulos liberados, em todos os planos", falso desde 29/09. Deixada para depois pelo Guilherme em 12/11 #lp-e-site
+
+
 ## Fazendo
 
 - [ ] Site novo em produção (reunião de 06/11). Logos dos clientes liberadas pela Mobiletec em 12/11. Ajustes finais da Isadora no ar na prévia (12/11). Falta: favicon, domínio e data da troca, e trazer a `feat/site-astro` para a main (113 commits fora) #lp-e-site
