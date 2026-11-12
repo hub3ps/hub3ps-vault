@@ -18,13 +18,9 @@ Público: gestor de tráfego. Gravado sem roteiro prévio.
 A ideia do Guilherme era "Não otimize suas campanhas no Meta Ads com o Claude Code sem fazer isso antes". Troquei "otimize" por "conecte" porque o vídeo abre falando em conectar o MCP e diz que quem otimiza é a pessoa, não o Claude.
 
 ## Legenda do post
-Versão curta e informal, pedida pelo Guilherme em 12/11 (a primeira ficou longa, a segunda travada).
+Versão final de 12/11: uma ou duas frases, com "você", para qualquer pessoa que roda anúncio (gestor, autônomo, dono de negócio), sem falar em cliente.
 ```
-Só conectar o Claude no Meta Ads e mandar ele otimizar não rola 😅
+Conectar o Claude no Meta Ads não é suficiente. O que faz diferença é o contexto que você entrega pra ele 👇
 
-Ele não conhece teu cliente. Quem dá o contexto é tu, e quem decide também.
-
-Me conta aí, como tu tá usando o Claude no dia a dia? 👇
-
-#claudecode #metaads #gestordetrafego
+#claudecode #metaads #trafegopago
 ```
