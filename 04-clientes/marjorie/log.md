@@ -6,8 +6,12 @@ autor: claude
 
 A entrada mais recente fica no topo, uma por sessão de trabalho.
 
+### 2026-11-12 · Resumo da rodada 2 enviado ao grupo
+- **O que fiz:** com o ok do Guilherme, enviei no grupo "CURSO EXOCAD 🚀🇧🇷", pelo número da agência no whatsapp-mcp, o resumo da rodada 2 no mesmo formato do de 09/11: IG-06 continua (US$ 0,69 por seguidor), IG-07 pausado (US$ 1,38), com os links, e o IG-12 já no ar para teste.
+- **Próximo passo:** leitura da rodada 3 em 15/11.
+
 ### 2026-11-12 · Rodada 2 de seguidores e IG-12 no ar
-- **O que fiz:** li na API o custo por seguidor de 09 a 12/11 em [[seguidores-frio-perfil]]. Com o ok do Guilherme, pausei pelo MCP o conjunto do IG-07. O conjunto do IG-12 o Guilherme duplicou do IG-07 à mão, e conferi na API: mesma otimização, público, exclusão, posicionamentos e US$ 5 por dia, com o anúncio apontando para o post DH1sAqTTxyY e em análise da Meta.
+- **O que fiz:** li na API o custo por seguidor de 09 a 12/11 em [[seguidores-frio-perfil]]. Com o ok do Guilherme, pausei pelo MCP o conjunto do IG-07. O conjunto do IG-12 o Guilherme duplicou do IG-07 à mão, e conferi na API: mesma otimização, público, exclusão, posicionamentos e US$ 5 por dia, com o anúncio apontando para o post DH1sAqTTxyY. O anúncio passou pela análise da Meta e já entrega no mesmo dia.
 - **O que achei:** IG-06 com US$ 13,70 e 20 seguidores (US$ 0,69 cada), IG-07 com US$ 11,06 e 8 (US$ 1,38). O IG-07 teve a visita mais barata, US$ 0,10 contra US$ 0,25, e de novo a visita barata não virou seguidor. O MCP recusou criar o conjunto com `PROFILE_AND_PAGE_ENGAGEMENT` nesta conta, e o token da BM Hub3Ps não alcança a conta da Marjorie.
 - **Decisões:** o IG-06 fica, o IG-07 sai e entra o IG-12, o 4º da lista da Julia (Guilherme). A campanha segue a US$ 10 por dia.
 - **Próximo passo:** ler a rodada 3, IG-06 contra IG-12, em 15/11. O próximo da fila é o IG-14.

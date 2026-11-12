@@ -42,7 +42,7 @@ kanban-plugin: board
 
 ## Feito
 
-- [x] Rodada 2 de seguidores fechada (12/11): IG-06 fica (US$ 0,69 por seguidor), IG-07 pausado (US$ 1,38), IG-12 no ar
+- [x] Rodada 2 de seguidores fechada (12/11): IG-06 fica (US$ 0,69 por seguidor), IG-07 pausado (US$ 1,38), IG-12 no ar. Resumo enviado ao grupo
 - [x] Campanhas, conjuntos, anúncios e públicos renomeados para o padrão novo de nomes (11/11)
 - [x] IG-07 no ar para a rodada 2 e resumo da rodada 1 enviado ao grupo (09/11)
 - [x] Rodada 1 de seguidores fechada (09/11): IG-06 fica (US$ 0,55 por seguidor), IG-03 pausado (US$ 1,46)
