@@ -6,6 +6,17 @@ autor: claude
 
 A entrada mais recente fica no topo, uma por sessão de trabalho.
 
+### 2026-11-12 · Site novo: últimos ajustes da Isadora
+- **O que fiz:** apliquei os três pedidos da Isadora na `feat/site-astro`. O título do financeiro na home foi para o plural, "Dos honorários à nota fiscal, tudo no mesmo sistema.". O "Preços" do rodapé virou "Planos", igual ao menu. No FAQ "O que é o DJEN?", da `/gestao-de-processos-e-prazos`, saiu "como intimações e editais".
+- **Resultado em:** branch `feat/site-astro` do `agencia_marketing`, sem commit (feito numa worktree, sem trocar a `main`). Conferências, build e as 22 conferências de página passando.
+- **Próximo passo:** commit e push com o OK do Guilherme, para a prévia `site.juria.hub3ps.com` atualizar.
+
+### 2026-11-12 · Site novo: logos dos clientes liberadas
+- **O que fiz:** registrei a liberação e conferi o estado da `feat/site-astro` para os últimos ajustes antes de publicar.
+- **Decisões:** a Mobiletec aprovou o uso das logos dos clientes no site, o que travava a publicação (Guilherme, 12/11).
+- **O que achei:** a `feat/site-astro` local está igual à `origin` (último commit d4817c1, 30/10) e 113 commits à frente da `main`. As 13 logos já estão no site desde 06/10: na home, em "Empresas que rodam sistemas da Mobiletec", e na `/sobre`. Nada a incluir. A prévia `site.juria.hub3ps.com` sai com `x-robots-tag: noindex` pela Vercel. Ainda pendentes: o favicon (sem arquivo aprovado desde 20/10), o domínio e a data da troca, os 5 itens do checklist que pediam preview (GTM e Pixel carregando, Rich Results e celular de verdade), e trazer a branch para a `main`. Não há runbook de publicação do site novo em `docs/processos/`.
+- **Próximo passo:** aplicar os ajustes da Isadora, que o Guilherme vai mandar.
+
 ### 2026-11-12 · Folder institucional, arquivo da gráfica
 - **O que fiz:** apliquei os dois pedidos da Isadora na opção B. No B2, o primeiro item da lista virou "Envia agenda do dia, prazos e intimações". No B1, o QR saiu e no lugar dele entrou "Conveniado com a" com a logo da CAASC, ao lado do "Comece agora seu teste grátis", que ficou. A logo foi vetorizada da versão de fundo transparente que ela mandou. Gerei o arquivo da gráfica e o Guilherme aprovou.
 - **Resultado em:** `clients/juria/creatives/folder-institucional/folder-juria-b-grafica-PDFX1a.pdf` do `agencia_marketing` (sem commit). PDF/X-1a:2001, CMYK FOGRA39, 600 DPI, 2 páginas de 306x216 mm com sangria e corte de 300x210 mm. Gera de novo com `python3 ferramentas/grafica.py folder-b.html`. A gráfica pediu as marcas de vinco, e elas entraram tracejadas na margem de 10 mm fora da sangria, nas duas dobras (100 e 200 mm do corte), em cima e embaixo.
