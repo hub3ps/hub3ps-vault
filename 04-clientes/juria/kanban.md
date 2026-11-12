@@ -19,17 +19,14 @@ kanban-plugin: board
 - [ ] Proposta: testes de comunicação por nicho, mantendo o sistema geral #trafego-pago
 - [ ] Decidir a estratégia de e-mail do JurIA (sessão parada esperando decisão) #email-marketing
 - [ ] Encontrar uma pessoa para gravar conteúdo do Instagram e criativos dos anúncios, para humanizar a marca (reunião de 06/11) #criativo
-- [ ] Conferir se as pendências antigas das LPs continuam abertas: destino da demonstração, links de rodapé de exemplo e WhatsApp falso na institucional #lp-e-site
 - [ ] Migração: levar o conhecimento do repo para o vault (brief, brand, comercial, funil, e-mail, Helena) #migracao
 - [ ] Migração: mover os arquivos do JurIA que estão no Downloads para o Drive #migracao
-
-
 - [ ] Site novo: ajustar a página `/oab` (oferta OAB30 do flyer de Brusque). Foi copiada como está do `juria-lps` e promete "todos os módulos liberados, em todos os planos", falso desde 29/09. Deixada para depois pelo Guilherme em 12/11 #lp-e-site
-
+- [ ] Analisar o efeito da troca do site (12/11) nos testes `Lead`, `m15` e vídeos, juntos e já com o site novo (Guilherme, 12/11) #trafego-pago
 
 ## Fazendo
 
-- [ ] Site novo em produção (reunião de 06/11). Logos dos clientes liberadas pela Mobiletec em 12/11. Ajustes finais da Isadora no ar na prévia (12/11). Falta: favicon, domínio e data da troca, e trazer a `feat/site-astro` para a main (113 commits fora) #lp-e-site
+- [ ] Site novo: publicar o favicon com J, escolhido entre três opções em 12/11 #lp-e-site
 - [ ] Folder: mandar à gráfica, confirmar sanfona no papel e testar o QR na prova. Entrega até @{2026-11-15} #criativo
 - [ ] Teste: informativos de segurança no cadastro, no ar desde 09/11 (Saulo). Avaliar em @{2026-11-23} a importação e a passagem da tela da OAB #lp-e-site
 - [ ] Teste: campanha otimizando pela conta criada (`LEAD`). Avaliar em @{2026-11-13} #trafego-pago
@@ -50,6 +47,8 @@ kanban-plugin: board
 
 ## Feito
 
+- [x] Site novo no ar em www.juria.app.br, com merge na `main` e publicação no `juria-lps` (12/11)
+- [x] Pendências antigas das LPs (demonstração, rodapé de exemplo, WhatsApp falso) saíram junto com as LPs antigas na troca do site (12/11)
 - [x] IG-VID-01 v7, a Jú no WhatsApp, publicado como Reels no @juria.app (11/11)
 - [x] Informativos de segurança publicados no cadastro pelo Saulo, decididos na reunião de 06/11 (09/11)
 - [x] Hub e funil com as exportações de 04/11 (05/11)

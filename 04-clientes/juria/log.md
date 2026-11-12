@@ -6,6 +6,12 @@ autor: claude
 
 A entrada mais recente fica no topo, uma por sessão de trabalho.
 
+### 2026-11-12 · Site novo no ar em www.juria.app.br
+- **O que fiz:** com o OK do Guilherme, fiz push da `main` com o merge (632d312), igualei a `feat/site-astro` a ela e publiquei o build no `juria-lps` (1f8cc9f), com o README de lá reescrito. Atualizei `CLAUDE.md`, o README do cliente e o ESTADO do site (ca83cb8).
+- **Resultado em:** https://www.juria.app.br. Conferido no ar: as páginas respondem 200 e o `www` está sem noindex. `/oab`, `trabalhista.` e `previdenciario.` saem com noindex. As rotas antigas fazem 308 para a home levando a UTM, o apex faz 308 para o `www` e o canonical está com `www`. Pixel `PageView`, GA4 `page_view` e Google Ads disparam, e o botão de teste leva a UTM ao cadastro.
+- **O que achei:** para conferir o tracking, apaguei neste navegador o cookie `cc_cookie_juria` com a recusa de 06/11. A visita ficou registrada no Pixel e no GA4 com `utm_source=teste-claude`. A `/v2` redireciona com 307 no `www`, e não com 308 (`permanent: false`, de propósito).
+- **Próximo passo:** confirmar qual das três opções de favicon com J o Guilherme aprovou e publicar. Analisar o efeito da troca nos testes `Lead`, `m15` e vídeos, todos juntos e já com o site novo.
+
 ### 2026-11-12 · Site novo: merge, script de publicação e favicon
 - **Decisões (Guilherme, 12/11):** o favicon "IA" foi recusado de novo, e o novo tem só o J. "Central de ajuda" virou "Perguntas frequentes". O `juria-lps` continua repo separado, para o projeto da Vercel poder ser transferido, e passa a receber o build do site novo. O merge na `main` sai com calma, sem deixar nada para trás.
 - **O que fiz:** fiz três opções de favicon com o J, na Inter 800 da logo, e mandei ao Guilherme. Renomeei o link, commit 5763480 na `feat/site-astro`, sem push. Fiz o merge da branch na `main` numa worktree, `merge/site-astro-na-main`, com commit b6f7306. Dos 12 conflitos, ficou a `main` onde ela era mais nova (revisão da Isadora de 27/10, aviso do ano 1999, CLAUDE.md) e a branch em planos-e-creditos ("Sob consulta", de 22/10) e nos docs do site. Criei `npm run publicar` e o runbook `docs/processos/publicar-site-juria.md`, commit 632d312. O script ensaiado num clone temporário do `juria-lps` saiu limpo.
