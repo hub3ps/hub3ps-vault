@@ -1,11 +1,11 @@
 ---
 tipo: proposta
 cliente: churrascodaelite
-etapa: proposta-enviada
-valor: setup 500 €, 500 € por mês e 10% das vendas líquidas
-enviada-em: TODO (apresentar na próxima reunião)
-proximo-passo: apresentar na reunião de quarta ou quinta (05 ou 06/11)
-atualizado: 2026-11-04
+etapa: fechada
+valor: fechado em 350 € por mês, sem setup e sem os 10% nos 3 primeiros meses (proposto: setup 500 €, 500 € por mês e 10% das vendas líquidas)
+enviada-em: 2026-11-08
+proximo-passo: onboarding em 04-clientes/churrascodaelite. Rediscutir setup e 10% em 12/02/2027
+atualizado: 2026-11-12
 autor: claude
 ---
 # Proposta Churrasco da Elite
@@ -47,3 +47,4 @@ A verba de mídia é paga direto à Meta pelo cliente. Piso para negociar: TODO.
 - 2026-11-04 · Revisão do Guilherme: o setup caiu para 500 €. Saíram a gravação e o workshop do "não incluso", por serem óbvios. O "Quem somos" virou "Quem sou", sobre o Guilherme (8 anos, mais de R$ 15 milhões administrados e mais de 7 dígitos com infoprodutos, segundo guimiguel.site e o Guilherme). Entrou um quadro com as melhorias da página do curso (churracodaelitept.com): provas sem nome, garantia sem prazo, "qualquer país" contra mentoria só em Portugal, falta de urgência e o título "Churraso".
 - 2026-11-04 · Segunda revisão: a capa diz "Lucas / Churrasco da Elite". Saiu o quadro de melhorias da página, porque a proposta não entrega diagnóstico de graça. Visual refeito, limpo, em preto e branco, com a logo preta da Hub3Ps, a fonte do site e a foto do Guilherme
 - 2026-11-08 · PDF gerado para o Guilherme enviar ao Lucas pelo WhatsApp
+- 2026-11-12 · Fechada, num escopo menor, para entrar no mercado europeu (Guilherme). Do proposto para o fechado: o escopo ficou em tráfego pago e estratégia como apoio pontual, mais ajustes na LP do curso que já existe, sem implantação do zero. Saíram criativos e audiovisual, tracking completo e a página do Brasil. O valor caiu para 350 € por mês, sem setup e sem os 10% sobre as vendas nos 3 primeiros meses. Ao fim deles (12/02/2027), o Guilherme rediscute com o Lucas o setup e a porcentagem. Cliente em [[04-clientes/churrascodaelite/cliente|churrascodaelite]]
