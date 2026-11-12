@@ -22,7 +22,7 @@ kanban-plugin: board
 ## Fazendo
 
 - [ ] IG-28 (DffdDhwhldx) em espera: subir quando o orgânico esgotar. A Julia monitora e avisa (09/11) #trafego-pago
-- [ ] Rodada 2 de seguidores: IG-06 contra IG-07. Ler o custo por seguidor em 3 dias #trafego-pago
+- [ ] Rodada 3 de seguidores: IG-06 contra IG-12, desde 12/11. Ler o custo por seguidor em 15/11. O próximo da fila é o IG-14 #trafego-pago
 - [ ] Campanha 2 (`marjorie-distribuicao-quente-0611`) em análise da Meta desde 09/11: conferir a aprovação e a primeira leitura de ThruPlay #trafego-pago
 
 
@@ -42,6 +42,7 @@ kanban-plugin: board
 
 ## Feito
 
+- [x] Rodada 2 de seguidores fechada (12/11): IG-06 fica (US$ 0,69 por seguidor), IG-07 pausado (US$ 1,38), IG-12 no ar
 - [x] Campanhas, conjuntos, anúncios e públicos renomeados para o padrão novo de nomes (11/11)
 - [x] IG-07 no ar para a rodada 2 e resumo da rodada 1 enviado ao grupo (09/11)
 - [x] Rodada 1 de seguidores fechada (09/11): IG-06 fica (US$ 0,55 por seguidor), IG-03 pausado (US$ 1,46)

@@ -6,6 +6,12 @@ autor: claude
 
 A entrada mais recente fica no topo, uma por sessão de trabalho.
 
+### 2026-11-12 · Rodada 2 de seguidores e IG-12 no ar
+- **O que fiz:** li na API o custo por seguidor de 09 a 12/11 em [[seguidores-frio-perfil]]. Com o ok do Guilherme, pausei pelo MCP o conjunto do IG-07. O conjunto do IG-12 o Guilherme duplicou do IG-07 à mão, e conferi na API: mesma otimização, público, exclusão, posicionamentos e US$ 5 por dia, com o anúncio apontando para o post DH1sAqTTxyY e em análise da Meta.
+- **O que achei:** IG-06 com US$ 13,70 e 20 seguidores (US$ 0,69 cada), IG-07 com US$ 11,06 e 8 (US$ 1,38). O IG-07 teve a visita mais barata, US$ 0,10 contra US$ 0,25, e de novo a visita barata não virou seguidor. O MCP recusou criar o conjunto com `PROFILE_AND_PAGE_ENGAGEMENT` nesta conta, e o token da BM Hub3Ps não alcança a conta da Marjorie.
+- **Decisões:** o IG-06 fica, o IG-07 sai e entra o IG-12, o 4º da lista da Julia (Guilherme). A campanha segue a US$ 10 por dia.
+- **Próximo passo:** ler a rodada 3, IG-06 contra IG-12, em 15/11. O próximo da fila é o IG-14.
+
 ### 2026-11-11 · Campanhas renomeadas para o padrão novo de nomes
 - **O que fiz:** renomeei pelo MCP da Meta as duas campanhas, os quatro conjuntos, os quatro anúncios e os cinco públicos personalizados para o [[03-processos/convencoes|padrão novo]], pelo que está configurado na conta: [[seguidores-frio-perfil]] e [[distribuicao-quente-zero-to-hero]]. Nesta conta a edição fica em rascunho; publiquei só os 10 renomes, que eram os únicos rascunhos, sem mudar status. Conferi na API: o IG-03 e o conjunto dele seguem pausados, e o resto segue ativo.
 - **O que achei:** os conjuntos de seguidores rodam no Facebook e no Instagram, embora o nome antigo dissesse `ig`. O público salvo `int_cad-dental_us` ficou com o nome antigo, porque o MCP não renomeia público salvo.
