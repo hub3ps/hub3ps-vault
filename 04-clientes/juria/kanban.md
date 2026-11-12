@@ -46,6 +46,7 @@ kanban-plugin: board
 
 ## Feito
 
+- [x] Imagem de compartilhamento do site no ar (12/11)
 - [x] Favicon com o J da logo, branco sobre navy, no ar (12/11)
 - [x] Site novo no ar em www.juria.app.br, com merge na `main` e publicação no `juria-lps` (12/11)
 - [x] Pendências antigas das LPs (demonstração, rodapé de exemplo, WhatsApp falso) saíram junto com as LPs antigas na troca do site (12/11)

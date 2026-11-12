@@ -6,6 +6,11 @@ autor: claude
 
 A entrada mais recente fica no topo, uma por sessão de trabalho.
 
+### 2026-11-12 · Imagem de compartilhamento do site no ar
+- **O que fiz:** criei a `og-image.png` (1200x630), com o título da home, a tela Meu Dia e a linha da Mobiletec, todo texto tirado do site. O Guilherme aprovou, e publiquei: commit acf47c0 na `main` e 78a16c5 no `juria-lps`. O texto alternativo da imagem deixou de dizer "all-in-one" e passou a ser o título da home.
+- **Resultado em:** https://www.juria.app.br/og-image.png, que responde 200, com a metatag apontando para ela em todas as páginas. Antes era 404, e o link compartilhado saía sem imagem.
+- **O que achei:** WhatsApp, LinkedIn e Facebook guardam a prévia antiga de quem já compartilhou o link. Para forçar a nova, use o Sharing Debugger da Meta e o Post Inspector do LinkedIn.
+
 ### 2026-11-12 · Favicon com J no ar
 - **Decisões:** opção 1, J branco sobre navy (Guilherme, 12/11).
 - **O que fiz:** gerei `favicon.svg`, `favicon.ico` (16, 32 e 48 px) e o ícone do iPhone (180 px) do glifo da Inter 800 e liguei no layout (6a30b84). Publiquei no `juria-lps` (371c92c). Na segunda publicação, o `npm run publicar` travou ao ver em `logos/` as imagens que ele mesmo tinha copiado da primeira vez. Corrigi o script: só as seis logos antigas são do `juria-lps`, e o resto é trocado a cada publicação (a667f52).
