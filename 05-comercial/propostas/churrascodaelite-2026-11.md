@@ -3,7 +3,7 @@ tipo: proposta
 cliente: churrascodaelite
 etapa: fechada
 valor: fechado em 350 € por mês, sem setup e sem os 10% nos 3 primeiros meses (proposto: setup 500 €, 500 € por mês e 10% das vendas líquidas)
-enviada-em: 2026-11-08
+enviada-em: TODO (PDF gerado em 08/11, data do envio a confirmar)
 proximo-passo: onboarding em 04-clientes/churrascodaelite. Rediscutir setup e 10% em 12/02/2027
 atualizado: 2026-11-12
 autor: claude

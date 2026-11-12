@@ -7,6 +7,7 @@ Uma linha por sessão de trabalho, a mais recente no topo.
 
 Formato: `- AAAA-MM-DD · <slug ou agencia> · <tarefa> · <onde está o resultado>`
 
+- 2026-11-12 · churrascodaelite · Fechamento: proposta fechada em 350 € por mês, pasta do cliente, grupo na rotina do WhatsApp e lembrete de 12/02/2027 para rediscutir setup e 10% · `04-clientes/churrascodaelite/`
 - 2026-11-12 · juria · Folder opção B aprovado para a gráfica: Jú com "Envia", CAASC no lugar do QR do B1 e PDF/X-1a CMYK com as marcas de vinco · `04-clientes/juria/log.md`
 - 2026-11-12 · marjorie · Rodada 2 de seguidores: IG-07 pausado (US$ 1,38 por seguidor), IG-06 mantido (US$ 0,69), IG-12 no ar · `04-clientes/marjorie/campanhas/seguidores-frio-perfil.md`
 - 2026-11-12 · hub3ps · Editor de vídeo falado: IMG_2087 editado (3 min 09 s para 1 min 42 s, HDR mantido) e runbook v0 · `03-processos/editar-video.md` e `agencia_marketing/ferramentas/editar-video/`
