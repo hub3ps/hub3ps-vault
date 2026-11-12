@@ -31,5 +31,6 @@ Pasta do Instagram pessoal do Guilherme. Criada em 11/11/2026, a pedido dele.
 - O Guilherme manda um vídeo de referência e o que pensa em falar
 - O roteiro adapta a estrutura da referência à realidade da Hub3Ps e ao jeito dele de falar
 - Sai **em tópicos**, nunca em fala corrida para ler: ele grava falando, olhando os tópicos
+- Edição: o Claude edita o bruto pelo runbook [[03-processos/editar-video|editar vídeo]]
 - Número, case ou resultado só entra se for real e com fonte. Dado de cliente só com o ok do cliente
 - Por padrão, sem números e sem exemplos de cliente: fica mais fácil de gravar (decisão de 11/11/2026)

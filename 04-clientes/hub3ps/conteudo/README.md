@@ -20,4 +20,5 @@ Posicionamento do perfil e roteiros prontos para gravar ficam em [[04-clientes/h
 | Operação no Obsidian com o Claude | em uso desde 03/11 | posts de bastidor | TODO |
 | Tracking sem programador (evento de Lead criado pelo MCP da Meta) | feito em 09/11 | post curto | [[serie-whatsapp-na-rotina#Ganchos que surgiram no caminho]] |
 | GTA 6 com humor, ligado ao tráfego e à IA (lança em 19/11) | ideia 1 escolhida, roteiro em 11/11 | Reels | [[pauta-gta-6]] |
+| Claude edita meus Reels: corte de enrolação e respiro, legenda e logos, no Mac e de graça | v0 em 12/11, em lapidação com a edição manual | Reels de bastidor | [[03-processos/editar-video]] |
 | Menos é mais: manter cliente e subir o ticket com IA, em vez de escalar número de cliente | pauta de 11/11, sem roteiro | Reels | [[04-clientes/hub3ps/guimiguelmkt/roteiros/2026-11-11-fim-do-gestor-de-trafego#Pauta que surgiu na gravação\|gravação do roteiro 1]] |

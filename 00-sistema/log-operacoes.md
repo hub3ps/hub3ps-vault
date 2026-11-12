@@ -7,6 +7,7 @@ Uma linha por sessão de trabalho, a mais recente no topo.
 
 Formato: `- AAAA-MM-DD · <slug ou agencia> · <tarefa> · <onde está o resultado>`
 
+- 2026-11-12 · hub3ps · Editor de vídeo falado: IMG_2087 editado (3 min 09 s para 1 min 42 s, HDR mantido) e runbook v0 · `03-processos/editar-video.md` e `agencia_marketing/ferramentas/editar-video/`
 - 2026-11-11 · hub3ps · Gravação do roteiro 1 avaliada, com corte sugerido; pauta do GTA 6 pesquisada e roteiro das 4 coisas em rascunho · `04-clientes/hub3ps/guimiguelmkt/` e `conteudo/pauta-gta-6.md`
 - 2026-11-11 · hub3ps · Pasta do @guimiguelmkt: posicionamento, diagnóstico do perfil e roteiro 1 aprovado (O gestor de tráfego vai acabar) · `04-clientes/hub3ps/guimiguelmkt/`
 - 2026-11-11 · marjorie · Campanhas renomeadas no padrão novo de nomes, e fichas atualizadas · `04-clientes/marjorie/campanhas/`
