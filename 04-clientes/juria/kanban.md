@@ -26,7 +26,6 @@ kanban-plugin: board
 
 ## Fazendo
 
-- [ ] Site novo: publicar o favicon com J, escolhido entre três opções em 12/11 #lp-e-site
 - [ ] Folder: mandar à gráfica, confirmar sanfona no papel e testar o QR na prova. Entrega até @{2026-11-15} #criativo
 - [ ] Teste: informativos de segurança no cadastro, no ar desde 09/11 (Saulo). Avaliar em @{2026-11-23} a importação e a passagem da tela da OAB #lp-e-site
 - [ ] Teste: campanha otimizando pela conta criada (`LEAD`). Avaliar em @{2026-11-13} #trafego-pago
@@ -47,6 +46,7 @@ kanban-plugin: board
 
 ## Feito
 
+- [x] Favicon com o J da logo, branco sobre navy, no ar (12/11)
 - [x] Site novo no ar em www.juria.app.br, com merge na `main` e publicação no `juria-lps` (12/11)
 - [x] Pendências antigas das LPs (demonstração, rodapé de exemplo, WhatsApp falso) saíram junto com as LPs antigas na troca do site (12/11)
 - [x] IG-VID-01 v7, a Jú no WhatsApp, publicado como Reels no @juria.app (11/11)

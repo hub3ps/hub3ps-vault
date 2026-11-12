@@ -6,6 +6,11 @@ autor: claude
 
 A entrada mais recente fica no topo, uma por sessão de trabalho.
 
+### 2026-11-12 · Favicon com J no ar
+- **Decisões:** opção 1, J branco sobre navy (Guilherme, 12/11).
+- **O que fiz:** gerei `favicon.svg`, `favicon.ico` (16, 32 e 48 px) e o ícone do iPhone (180 px) do glifo da Inter 800 e liguei no layout (6a30b84). Publiquei no `juria-lps` (371c92c). Na segunda publicação, o `npm run publicar` travou ao ver em `logos/` as imagens que ele mesmo tinha copiado da primeira vez. Corrigi o script: só as seis logos antigas são do `juria-lps`, e o resto é trocado a cada publicação (a667f52).
+- **Resultado em:** https://www.juria.app.br. Os três arquivos respondem 200, e as páginas apontam para eles.
+
 ### 2026-11-12 · Site novo no ar em www.juria.app.br
 - **O que fiz:** com o OK do Guilherme, fiz push da `main` com o merge (632d312), igualei a `feat/site-astro` a ela e publiquei o build no `juria-lps` (1f8cc9f), com o README de lá reescrito. Atualizei `CLAUDE.md`, o README do cliente e o ESTADO do site (ca83cb8).
 - **Resultado em:** https://www.juria.app.br. Conferido no ar: as páginas respondem 200 e o `www` está sem noindex. `/oab`, `trabalhista.` e `previdenciario.` saem com noindex. As rotas antigas fazem 308 para a home levando a UTM, o apex faz 308 para o `www` e o canonical está com `www`. Pixel `PageView`, GA4 `page_view` e Google Ads disparam, e o botão de teste leva a UTM ao cadastro.
