@@ -6,6 +6,11 @@ autor: claude
 
 A entrada mais recente fica no topo, uma por sessão de trabalho.
 
+### 2026-11-12 · Site novo: o que falta para ir ao domínio principal
+- **O que fiz:** comparei as rotas do site no ar (`juria-lps`, só leitura) com as páginas do site novo e conferi o build e a prévia.
+- **O que achei:** bloqueiam a troca: (1) somem rotas que existem hoje: `/privacidade`, `/termos` e `/cookies`, para onde o rodapé novo aponta, `/oab`, que é o QR do flyer impresso, `/geral` e `/institucional`; e `trabalhista.` e `previdenciario.` dependem do projeto `juria-lps`; (2) o `vercel.json` do site novo manda noindex em todas as páginas; (3) os anúncios levam a `www.juria.app.br`, então trocar antes de 25/11 muda a página no meio dos testes `Lead` (13/11), `m15` (23/11) e vídeos (25/11); (4) GTM, Pixel e GA4 nunca foram conferidos carregando de verdade no site novo. Também faltam: o favicon, o "Contato" do rodapé, que aponta para `#`, a `/v2` pública, o `/blog` vazio e no sitemap, o sitemap com barra final que redireciona (308), mover os domínios na Vercel e trazer a branch para a `main`. O QR do folder leva à home, então segue valendo.
+- **Próximo passo:** o Guilherme decide a data da troca e o que fazer com as rotas antigas.
+
 ### 2026-11-12 · Site novo: WhatsApp e telefone novos
 - **O que fiz:** troquei o (47) 93386-3850, da revisão da Mobiletec de 21/10, pelo (47) 98817-5142 no WhatsApp e no telefone de contato do site novo.
 - **Resultado em:** commit 54550fe na `feat/site-astro` do `agencia_marketing`, com push. Conferido no ar em `site.juria.hub3ps.com` (home, `/sobre` e `/precos`): só o número novo aparece.
