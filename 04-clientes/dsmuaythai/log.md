@@ -6,6 +6,12 @@ autor: claude
 
 A entrada mais recente fica no topo, uma por sessão de trabalho.
 
+### 2026-11-12 · IG-02 do Engajamento aprovado e entregando
+- **O que fiz:** conferi na API e no MCP, só leitura, as duas campanhas de seguidores. O `IG-02 | Reels | Holding pads` da campanha de Engajamento saiu da análise e está ativo. As duas campanhas e os dois conjuntos seguem ativos a US$ 7/dia.
+- **Resultado em:** [[seguidores-frio-perfil-engajamento]]
+- **O que achei:** parcial de 11 e 12/11, Engajamento com US$ 6,15 e 1 seguidor, Tráfego com US$ 8,43 e 6. Amostra pequena demais para ler. O campo de seguidores (`instagram_profile_follow_v2`) volta vazio pela Marketing API direta; só o MCP traz o número.
+- **Próximo passo:** primeira leitura do teste em 14/11.
+
 ### 2026-11-11 · Teste de seguidores: Engajamento contra Tráfego
 - **O que fiz:** abri a campanha `Seguidores | Frio | Perfil | Engajamento`, mesma verba (US$ 7/dia) e mesmo público frio de Massachusetts da de Tráfego, para comparar o custo por seguidor. A de Tráfego ganhou o quarto campo `| Tráfego`. Montei a fila de 7 Reels aprovada pelo Guilherme; nenhuma das duas gira criativo por ora. Conjunto e anúncio foram renomeados pelo MCP e conferidos na API.
 - **Resultado em:** [[seguidores-frio-perfil-engajamento]], [[seguidores-frio-perfil-trafego]] e [[2026-11-11-reels-para-seguidores]]
