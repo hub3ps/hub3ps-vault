@@ -6,6 +6,12 @@ autor: claude
 
 A entrada mais recente fica no topo, uma por sessão de trabalho.
 
+### 2026-11-12 · Site novo: WhatsApp e telefone novos
+- **O que fiz:** troquei o (47) 93386-3850, da revisão da Mobiletec de 21/10, pelo (47) 98817-5142 no WhatsApp e no telefone de contato do site novo.
+- **Resultado em:** commit 54550fe na `feat/site-astro` do `agencia_marketing`, com push. Conferido no ar em `site.juria.hub3ps.com` (home, `/sobre` e `/precos`): só o número novo aparece.
+- **Decisões:** número novo no WhatsApp e no telefone de contato (Guilherme, 12/11).
+- **O que achei:** o número antigo segue em `clients/juria/revisao-mobiletec-2110.md`, que é registro da revisão e não muda. Não conferi se o site em produção (`juria-lps`) e outras peças usam o número antigo: o repo é outro e ficou intocado.
+
 ### 2026-11-12 · Site novo: últimos ajustes da Isadora
 - **O que fiz:** apliquei os três pedidos da Isadora na `feat/site-astro`. O título do financeiro na home foi para o plural, "Dos honorários à nota fiscal, tudo no mesmo sistema.". O "Preços" do rodapé virou "Planos", igual ao menu. No FAQ "O que é o DJEN?", da `/gestao-de-processos-e-prazos`, saiu "como intimações e editais".
 - **Resultado em:** commit be15b1f na `feat/site-astro` do `agencia_marketing`, com push a pedido do Guilherme. Conferido no ar em `site.juria.hub3ps.com`: os três ajustes aparecem, e a prévia segue com noindex. Conferências, build e as 22 conferências de página passando.
