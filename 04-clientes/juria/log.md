@@ -8,8 +8,8 @@ A entrada mais recente fica no topo, uma por sessão de trabalho.
 
 ### 2026-11-12 · Site novo: últimos ajustes da Isadora
 - **O que fiz:** apliquei os três pedidos da Isadora na `feat/site-astro`. O título do financeiro na home foi para o plural, "Dos honorários à nota fiscal, tudo no mesmo sistema.". O "Preços" do rodapé virou "Planos", igual ao menu. No FAQ "O que é o DJEN?", da `/gestao-de-processos-e-prazos`, saiu "como intimações e editais".
-- **Resultado em:** branch `feat/site-astro` do `agencia_marketing`, sem commit (feito numa worktree, sem trocar a `main`). Conferências, build e as 22 conferências de página passando.
-- **Próximo passo:** commit e push com o OK do Guilherme, para a prévia `site.juria.hub3ps.com` atualizar.
+- **Resultado em:** commit be15b1f na `feat/site-astro` do `agencia_marketing`, com push a pedido do Guilherme. Conferido no ar em `site.juria.hub3ps.com`: os três ajustes aparecem, e a prévia segue com noindex. Conferências, build e as 22 conferências de página passando.
+- **Próximo passo:** publicar em produção. Antes, o favicon, o domínio e a data da troca, e trazer a branch para a `main`.
 
 ### 2026-11-12 · Site novo: logos dos clientes liberadas
 - **O que fiz:** registrei a liberação e conferi o estado da `feat/site-astro` para os últimos ajustes antes de publicar.

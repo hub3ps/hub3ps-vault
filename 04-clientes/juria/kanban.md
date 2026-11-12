@@ -26,7 +26,7 @@ kanban-plugin: board
 
 ## Fazendo
 
-- [ ] Site novo em produção (reunião de 06/11). Logos dos clientes liberadas pela Mobiletec em 12/11. Falta: ajustes finais da Isadora, favicon, domínio e data da troca, e trazer a `feat/site-astro` para a main (113 commits fora) #lp-e-site
+- [ ] Site novo em produção (reunião de 06/11). Logos dos clientes liberadas pela Mobiletec em 12/11. Ajustes finais da Isadora no ar na prévia (12/11). Falta: favicon, domínio e data da troca, e trazer a `feat/site-astro` para a main (113 commits fora) #lp-e-site
 - [ ] Folder: mandar à gráfica, confirmar sanfona no papel e testar o QR na prova. Entrega até @{2026-11-15} #criativo
 - [ ] Teste: informativos de segurança no cadastro, no ar desde 09/11 (Saulo). Avaliar em @{2026-11-23} a importação e a passagem da tela da OAB #lp-e-site
 - [ ] Teste: campanha otimizando pela conta criada (`LEAD`). Avaliar em @{2026-11-13} #trafego-pago
