@@ -6,6 +6,11 @@ autor: claude
 
 A entrada mais recente fica no topo, uma por sessão de trabalho.
 
+### 2026-11-12 · Site novo: preparação da troca
+- **Decisões (Guilherme, 12/11):** a troca é hoje, e o impacto nos testes em andamento (`Lead`, `m15` e vídeos) será analisado depois, já com o site novo. Os domínios ficam no projeto `juria-lps` da Vercel, que passa a publicar o site novo. A branch vai para a `main`. A Mobiletec não precisa revisar mais nada.
+- **O que fiz:** enviei para aprovação o favicon de 20/10 ("IA" ciano sobre navy). No rodapé, "Recursos", "Inteligência (IA)", "Planos" e "Central de ajuda" eram âncoras que só funcionavam na home. Corrigi para `/#recursos`, `/#inteligencia`, `/precos` e `/#faq` (sem commit). "Central de ajuda" não é uma central: leva ao FAQ da home.
+- **O que achei:** na prévia o GTM carrega e o consentimento segue a mesma regra do site no ar, mas Pixel e GA4 não disparam. O próprio container só libera as tags em `juria.app.br`, `www.`, `portal.`, `trabalhista.` e `previdenciario.`. É esperado, e a conferência real fica para logo depois da troca, no `www`. Neste navegador havia uma recusa de cookies no site atual, de 06/11. O projeto `juria-lps` publica estático do repo `juria-lps`, com `www`, apex (308 para o `www`), `trabalhista.` e `previdenciario.`. O merge da `feat/site-astro` na `main` tem 12 conflitos, e a `main` local tem 4 commits sem push.
+
 ### 2026-11-12 · Site novo: páginas do rodapé no desenho novo
 - **O que fiz:** refiz `/termos`, `/privacidade` e `/cookies` no desenho do site novo: cápsula navy no topo, sumário fixo ao lado e o texto num cartão. Nos termos, corrigi só o que é produto: a seção 3 passou a listar Solo, Plus, Max e Sob consulta, com os preços de hoje e "todas as funcionalidades" só do Plus em diante, e a seção 4 passou a falar em teste de 7 dias.
 - **Resultado em:** commit dc74164 na `feat/site-astro` do `agencia_marketing`, com push. Conferido no ar na prévia: as três páginas no desenho novo e com noindex, e no celular (375 px) sem rolagem lateral. O texto foi comparado palavra por palavra com o que está no ar: privacidade e cookies sem nenhuma mudança, e os termos só nas seções 3 e 4. Conferências e build passando, com capturas de tela conferidas no desktop.
