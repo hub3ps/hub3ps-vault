@@ -27,6 +27,7 @@ kanban-plugin: board
 
 ## Fazendo
 
+- [ ] Folder: mandar à gráfica, confirmar sanfona no papel e testar o QR na prova. Entrega até @{2026-11-15} #criativo
 - [ ] Teste: informativos de segurança no cadastro, no ar desde 09/11 (Saulo). Avaliar em @{2026-11-23} a importação e a passagem da tela da OAB #lp-e-site
 - [ ] Teste: campanha otimizando pela conta criada (`LEAD`). Avaliar em @{2026-11-13} #trafego-pago
 - [ ] Teste: e-mails pessoais da Isadora para quem não importou processos. Avaliar em @{2026-11-11} #email-marketing
@@ -35,7 +36,6 @@ kanban-plugin: board
 
 ## Aguardando cliente
 
-- [ ] Mobiletec aprovar a opção B do folder com a revisão da Isadora, aplicada em 10/11. Entrega até @{2026-11-15} #criativo
 - [ ] Confirmar na reunião de sexta @{2026-11-06} se os dois escritórios no plano `pro` pagam e de onde vieram
 - [ ] Exportação de OAB por cadastro, para validar o cadastro só com OAB encontrada (29/10)
 - [ ] Motivos do erro na tela de dados do escritório (29/10)
