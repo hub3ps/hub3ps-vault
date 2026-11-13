@@ -18,4 +18,4 @@ A agência roda os próprios playbooks.
 
 **Conteúdo do Instagram do Guilherme:** os bastidores da operação com IA ficam em `conteudo/`, com o índice em [[04-clientes/hub3ps/conteudo/README|banco de conteúdo]] (09/11/2026).
 
-**Posicionamento e roteiros do @guimiguelmkt:** em [[04-clientes/hub3ps/guimiguelmkt/README|guimiguelmkt]], com o diagnóstico do perfil (11/11/2026).
+**Posicionamento e roteiros do @guimiguelmkt:** em [[04-clientes/hub3ps/guimiguelmkt/README|guimiguelmkt]], com o diagnóstico do perfil (11/11/2026). A campanha de seguidores do perfil, na conta `CONTA 03`, tem a ficha em [[04-clientes/hub3ps/guimiguelmkt/campanhas/seguidores-frio-perfil|Seguidores | Frio | Perfil]] (13/11/2026).
