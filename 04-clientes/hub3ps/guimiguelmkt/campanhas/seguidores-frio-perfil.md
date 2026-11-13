@@ -39,7 +39,7 @@ Um conjunto por post, com verba própria em cada um (sem CBO), para garantir a e
 
 > Logo depois de renomear, o anúncio do IG-06 passou alguns minutos "em processamento" e voltou a ativo (conferido em 13/11).
 
-> ⚠️ **Anúncio do IG-04 com erro (13/11):** depois de renomeado pela API, ficou "com problemas", com o erro `1885499`: *Sem permissão para o anunciante na Página*. O usuário do sistema da BM não tem a função de anunciante na Página do @guimiguelmkt (`1497157753475425`), e a edição dele reabriu a validação do anúncio. **Correção:** dar ao usuário do sistema (ou à BM da Hub3Ps) acesso de anunciante à Página e ao Instagram, ou o Guilherme abrir o anúncio no Ads Manager e publicar de novo. Até ter esse acesso, renomear anúncio desta conta é pelo Ads Manager, não pela API.
+> **Anúncio do IG-04 com erro (13/11, resolvido no mesmo dia pelo Guilherme, conferido ativo na API):** depois de renomeado pela API, ficou "com problemas", com o erro `1885499`: *Sem permissão para o anunciante na Página*. O usuário do sistema da BM não tem a função de anunciante na Página do @guimiguelmkt (`1497157753475425`), e a edição dele reabriu a validação do anúncio. **Correção:** dar ao usuário do sistema (ou à BM da Hub3Ps) acesso de anunciante à Página e ao Instagram, ou o Guilherme abrir o anúncio no Ads Manager e publicar de novo. Até ter esse acesso, renomear anúncio desta conta é pelo Ads Manager, não pela API.
 
 ## Posts do perfil (IDs `IG-NN`)
 A ordem de publicação dá o número, e o ID do anúncio segue esta lista.
@@ -60,3 +60,4 @@ A Meta otimiza para visita ao perfil, não para quem segue. O que importa é o *
 - 2026-11-13 · publicada pelo Guilherme, com um conjunto e o IG-06 · primeira campanha de seguidores do perfil
 - 2026-11-13 · campanha, conjunto e anúncio renomeados para o padrão · só rótulo, sem efeito na entrega
 - 2026-11-13 · novo conjunto com o IG-04, duplicado do primeiro, R$ 20/dia · testar um segundo post; a verba total passa a R$ 40/dia. Conjuntos ganham o ID do post no nome
+- 2026-11-13 · anúncio do IG-04 destravado pelo Guilherme, depois do erro de permissão na Página · os dois conjuntos e anúncios ativos
