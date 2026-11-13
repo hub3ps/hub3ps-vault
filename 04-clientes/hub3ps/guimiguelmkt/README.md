@@ -6,7 +6,7 @@ autor: claude
 ---
 # @guimiguelmkt · posicionamento e conteúdo do Guilherme
 
-> **Estado atual:** 6 posts. O IG-06 (Claude no Meta Ads) foi publicado em 12/11 e roda na campanha [[campanhas/seguidores-frio-perfil|Seguidores | Frio | Perfil]] desde 13/11, a R$ 20/dia. Roteiro 1 (gestor de tráfego) aprovado em 11/11. Roteiro 2 (dono de negócio, outro assunto) só depois de gravar e publicar o roteiro 1.
+> **Estado atual:** 6 posts. O IG-06 (Claude no Meta Ads) foi publicado em 12/11 e roda na campanha [[campanhas/seguidores-frio-perfil|Seguidores | Frio | Perfil]] desde 13/11, com o IG-04 num segundo conjunto, a R$ 20/dia cada. Roteiro 1 (gestor de tráfego) aprovado em 11/11. Roteiro 2 (dono de negócio, outro assunto) só depois de gravar e publicar o roteiro 1.
 
 Pasta do Instagram pessoal do Guilherme. Criada em 11/11/2026, a pedido dele.
 

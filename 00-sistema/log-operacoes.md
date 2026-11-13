@@ -7,6 +7,7 @@ Uma linha por sessão de trabalho, a mais recente no topo.
 
 Formato: `- AAAA-MM-DD · <slug ou agencia> · <tarefa> · <onde está o resultado>`
 
+- 2026-11-13 · hub3ps · Seguidores do @guimiguelmkt: segundo conjunto com o IG-04 renomeado e registrado; anúncio do IG-04 com erro de permissão na Página depois da renomeação pela API · `04-clientes/hub3ps/guimiguelmkt/campanhas/seguidores-frio-perfil.md`
 - 2026-11-13 · hub3ps · Campanha de seguidores do @guimiguelmkt renomeada para o padrão (Seguidores | Frio | Perfil, IG-06) e ficha criada com os IDs e a lista de posts · `04-clientes/hub3ps/guimiguelmkt/campanhas/seguidores-frio-perfil.md`
 - 2026-11-13 · marjorie · WhatsApp diário: 10 mensagens de 12/11 (Pixel que o Guilherme acha que resolveu, plano de escalar o de menor custo depois dos 10) · `04-clientes/marjorie/fontes/2026-11-13-whatsapp-grupo.md`
 - 2026-11-13 · churrascodaelite · WhatsApp diário: primeira leitura do grupo, 23 mensagens de 10 a 12/11, sem fato novo · `04-clientes/churrascodaelite/fontes/2026-11-13-whatsapp-grupo.md`
