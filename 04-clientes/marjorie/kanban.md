@@ -4,6 +4,8 @@ kanban-plugin: board
 
 ## A fazer
 
+- [ ] Conferir em 13/11 se os eventos do Pixel carregaram e avisar a Julia, como o Guilherme prometeu no grupo (12/11, 22h05) #tracking
+- [ ] Depois do teste dos 10 principais, escalar um pouco o de menor custo por seguidor (Guilherme no grupo, 12/11). Verba e data a definir #trafego-pago
 - [ ] Renomear no Gerenciador o público salvo `int_cad-dental_us` para `Interesse CAD dental` (o MCP não renomeia público salvo) #trafego-pago
 - [ ] Rodízio dos criativos de seguidores a cada 3 dias, com 2 por vez, a partir dos 10 escolhidos pelas clientes #trafego-pago
 - [ ] Montar o lembrete para a lista de espera (25 e 26/11) e o carrinho na LP (27 a 30/11) #trafego-pago

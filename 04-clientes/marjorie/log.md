@@ -6,6 +6,13 @@ autor: claude
 
 A entrada mais recente fica no topo, uma por sessão de trabalho.
 
+### 2026-11-13 · Grupo de 12/11, pela rotina
+- **O que fiz:** a rotina WhatsApp diário registrou as 10 mensagens de 12/11 do grupo.
+- **Resultado em:** `fontes/2026-11-13-whatsapp-grupo.md`
+- **O que achei:** o Guilherme disse que os anúncios vão bem e que, depois de testar os 10 principais, o de menor custo vai escalar um pouco (12/11, 11h16). A Julia se ofereceu para mexer no Pixel durante a espera de 3h no aeroporto de Guarulhos (12/11, 11h45). Às 22h05, o Guilherme disse que acha que resolveu e que vai ver se os eventos carregam até 13/11 para avisar a Julia. Não está dito qual evento. Dois áudios, um da Julia e um do Guilherme, não baixaram e ficaram sem transcrição.
+- **Decisões:** escalar o criativo de menor custo depois do teste dos 10 principais (Guilherme, 12/11). Sem verba nem data.
+- **Próximo passo:** o Guilherme confere os eventos do Pixel em 13/11 e avisa a Julia.
+
 ### 2026-11-12 · Resumo da rodada 2 enviado ao grupo
 - **O que fiz:** com o ok do Guilherme, enviei no grupo "CURSO EXOCAD 🚀🇧🇷", pelo número da agência no whatsapp-mcp, o resumo da rodada 2 no mesmo formato do de 09/11: IG-06 continua (US$ 0,69 por seguidor), IG-07 pausado (US$ 1,38), com os links, e o IG-12 já no ar para teste.
 - **Próximo passo:** leitura da rodada 3 em 15/11.

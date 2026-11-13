@@ -7,6 +7,8 @@ Uma linha por sessão de trabalho, a mais recente no topo.
 
 Formato: `- AAAA-MM-DD · <slug ou agencia> · <tarefa> · <onde está o resultado>`
 
+- 2026-11-13 · marjorie · WhatsApp diário: 10 mensagens de 12/11 (Pixel que o Guilherme acha que resolveu, plano de escalar o de menor custo depois dos 10) · `04-clientes/marjorie/fontes/2026-11-13-whatsapp-grupo.md`
+- 2026-11-13 · churrascodaelite · WhatsApp diário: primeira leitura do grupo, 23 mensagens de 10 a 12/11, sem fato novo · `04-clientes/churrascodaelite/fontes/2026-11-13-whatsapp-grupo.md`
 - 2026-11-12 · churrascodaelite · Fechamento: proposta fechada em 350 € por mês, pasta do cliente, grupo na rotina do WhatsApp e lembrete de 12/02/2027 para rediscutir setup e 10% · `04-clientes/churrascodaelite/`
 - 2026-11-12 · juria · Folder opção B aprovado para a gráfica: Jú com "Envia", CAASC no lugar do QR do B1 e PDF/X-1a CMYK com as marcas de vinco · `04-clientes/juria/log.md`
 - 2026-11-12 · marjorie · Rodada 2 de seguidores: IG-07 pausado (US$ 1,38 por seguidor), IG-06 mantido (US$ 0,69), IG-12 no ar · `04-clientes/marjorie/campanhas/seguidores-frio-perfil.md`

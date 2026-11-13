@@ -76,6 +76,6 @@ Nunca guarde senha aqui.
 - Proposta: [[05-comercial/propostas/churrascodaelite-2026-11|churrascodaelite-2026-11]]
 - Reuniões: `reunioes/`
 - Campanhas: `campanhas/`
-- Fontes: `fontes/`. A conversa do grupo entra pela rotina [[whatsapp-diario|WhatsApp diário]], desde 10/11
+- Fontes: `fontes/`. A conversa do grupo entra pela rotina [[whatsapp-diario|WhatsApp diário]], desde 10/11. Primeira leitura em [[04-clientes/churrascodaelite/fontes/2026-11-13-whatsapp-grupo|2026-11-13-whatsapp-grupo]]
 - Drive: TODO
 - Painel: TODO (tráfego pago no escopo, então o hub sai pelo runbook [[novo-hub]])
