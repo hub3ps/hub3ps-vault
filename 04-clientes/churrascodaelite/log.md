@@ -12,6 +12,13 @@ Formato:
 - **Decisões:** 
 - **Próximo passo:** 
 
+### 2026-11-13 · Posts para a captação de seguidores
+- **O que:** os 82 posts do @churrasco_da_elite de 13/08 a 12/11 lidos no perfil, com 14 indicados para impulsionar e 7 bons em colab
+- **Resultado em:** [[04-clientes/churrascodaelite/entregas/2026-11-13-posts-para-captacao|posts para a captação]]
+- **Decisões:** critério é atrair quem quer viver de churrasco, e não quem contrata catering. Sem colab, pela lição de 05/11. Não assisti aos vídeos
+- **Bloqueio:** o @churrasco_da_elite não está ligado à CA02 nem à BM; só o @omestredochurraspt está (API, 13/11)
+- **Próximo passo:** Guilherme escolhe os posts, e o Lucas liga o @churrasco_da_elite à BM
+
 ### 2026-11-13 · LP da lista de espera da Black
 - **O que:** LP nova da lista de espera, em HTML, com a copy e as fotos da página atual do Framer (churracodaelitept.com), formulário de nome, e-mail e WhatsApp, Apps Script para a planilha e grupo VIP depois da inscrição
 - **Resultado em:** `agencia_marketing/clients/churrascodaelite/lps/lista-black/` (com README) e `ferramentas/lista-black.gs`

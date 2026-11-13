@@ -4,6 +4,7 @@ kanban-plugin: board
 
 ## A fazer
 
+- [ ] Guilherme escolher os posts da captação de seguidores em `entregas/2026-11-13-posts-para-captacao.md` (14 diretos e 7 em colab) #trafego-pago
 - [ ] Plano da Black Friday: oferta a 67,90 €, datas, verba de 450 € em novembro dividida entre aquecimento e Black (13/11) #estrategia
 - [ ] Verificar o domínio churracodaelitept.com na BM (13/11) #tracking
 - [ ] Pixel `597919442616239` na LP nova: PageView e Lead no envio da lista de espera (13/11) #tracking
@@ -26,6 +27,7 @@ kanban-plugin: board
 
 ## Aguardando cliente
 
+- [ ] Ligar o @churrasco_da_elite à BM e à CA02. Hoje só o @omestredochurraspt está ligado (13/11). Sem isso, a campanha de seguidores não sai
 - [ ] Grupo VIP do WhatsApp da Black criado pelo Lucas, e o link de convite para `CONFIG.grupo` da LP
 - [ ] Depoimentos reais com nome. Os da página antiga ("Aluno em Lisboa" e outros) não têm nome e ficaram de fora
 - [ ] Confirmar o parceiro "Peach" (`148826077524843`) na BM. Se o Lucas não reconhecer, sai na hora
