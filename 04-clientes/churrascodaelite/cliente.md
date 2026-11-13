@@ -18,7 +18,7 @@ painel:
 repositorios: []
 proxima-reuniao: TODO
 lembrete: 2027-02-12 rediscutir setup e 10% (tarefa agendada `churrascodaelite-rediscutir-setup`)
-atualizado: 2026-11-12
+atualizado: 2026-11-13
 autor: claude
 ---
 # Churrasco da Elite
@@ -58,14 +58,13 @@ Fechado em 12/11/2026 (Guilherme), num escopo menor que o da proposta, para entr
 | LP e site | A LP do curso já existe. Aqui só se ajusta, com o checklist do playbook | Feita pelo cliente antes de nós | 12/11/2026 |
 
 ## Depende do cliente
-- [ ] Acesso à BM e à conta de anúncios
 - [ ] Acesso à LP do curso, para os ajustes
 - [ ] Identidade visual do curso. O Lucas disse que é a da página e a do ebook (11/11, grupo)
 
 ## Acessos
 Nunca guarde senha aqui.
 
-- **Meta:** TODO (BM e conta de anúncios, em EUR). Auditoria de pessoas e parceiros da BM antes da primeira campanha
+- **Meta:** BM `1996641120812552` ("Lucas Oliveira"), já acessível pelo MCP em 13/11, com duas contas ativas e com forma de pagamento: `1355470165815740` ("CA02 - Lucas Oliveira", em EUR) e `1179328230501061` ("CA01 - Churrasco da Elite", em BRL). TODO: qual conta usar (a tag `exterior` pede a de EUR) e auditoria de pessoas e parceiros da BM antes da primeira campanha
 - **LP do curso:** churracodaelitept.com. TODO: onde está hospedada e com que conta
 - **Hotmart:** TODO
 - **Site e loja:** churrascodaelite.pt (fora do escopo)

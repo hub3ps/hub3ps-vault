@@ -12,6 +12,12 @@ Formato:
 - **Decisões:** 
 - **Próximo passo:** 
 
+### 2026-11-13 · Acesso à BM conferido
+- **O que:** a BM do Lucas (`1996641120812552`) já aparece no MCP da Meta, com a CA02 em EUR e a CA01 em BRL, as duas ativas e com forma de pagamento
+- **Resultado em:** seção Acessos do [[04-clientes/churrascodaelite/cliente|cliente]] e kanban
+- **Decisões:** nenhuma. A conta a usar fica com o Guilherme
+- **Próximo passo:** auditoria de pessoas e parceiros da BM e escolha da conta
+
 ### 2026-11-13 · Grupo de 10 a 12/11, primeira leitura pela rotina
 - **O que:** a rotina WhatsApp diário registrou as 23 mensagens do grupo, desde a criação em 10/11. O link de pagamento da Wise e os dados bancários foram omitidos da fonte
 - **Resultado em:** `fontes/2026-11-13-whatsapp-grupo.md`
