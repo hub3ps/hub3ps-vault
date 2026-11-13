@@ -7,6 +7,7 @@ Uma linha por sessão de trabalho, a mais recente no topo.
 
 Formato: `- AAAA-MM-DD · <slug ou agencia> · <tarefa> · <onde está o resultado>`
 
+- 2026-11-13 · churrascodaelite · LP da lista de espera da Black montada (formulário, planilha por Apps Script, grupo VIP e Pixel com consentimento), falta publicar · `agencia_marketing/clients/churrascodaelite/lps/lista-black/`
 - 2026-11-13 · churrascodaelite · Fechamento cumprido (meta de 12 vendas na Black, sem contrato, novembro pago), tracking e criativos no escopo, BM auditada pela API · `04-clientes/churrascodaelite/`
 - 2026-11-13 · churrascodaelite · Acesso à BM do Lucas conferido no MCP: CA02 em EUR e CA01 em BRL · `04-clientes/churrascodaelite/cliente.md`
 - 2026-11-13 · hub3ps · Seguidores do @guimiguelmkt: segundo conjunto com o IG-04 renomeado e registrado; anúncio do IG-04 com erro de permissão na Página depois da renomeação pela API · `04-clientes/hub3ps/guimiguelmkt/campanhas/seguidores-frio-perfil.md`

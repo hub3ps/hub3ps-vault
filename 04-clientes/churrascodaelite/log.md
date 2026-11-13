@@ -12,6 +12,12 @@ Formato:
 - **Decisões:** 
 - **Próximo passo:** 
 
+### 2026-11-13 · LP da lista de espera da Black
+- **O que:** LP nova da lista de espera, em HTML, com a copy e as fotos da página atual do Framer (churracodaelitept.com), formulário de nome, e-mail e WhatsApp, Apps Script para a planilha e grupo VIP depois da inscrição
+- **Resultado em:** `agencia_marketing/clients/churrascodaelite/lps/lista-black/` (com README) e `ferramentas/lista-black.gs`
+- **Decisões:** destino da lista é formulário mais grupo VIP (Guilherme, 13/11). O Pixel `597919442616239` só carrega com o aceite de cookies, por causa do RGPD. Preço da Black não aparece na página: só "preço especial de 27 a 30/11", enquanto os 67,90 € não estão confirmados com o Lucas. Depoimentos da página antiga ficaram de fora, por não terem nome
+- **Próximo passo:** Guilherme cria o projeto na Vercel e a planilha, Lucas cria o grupo VIP. Com a URL e o link, a LP vai ao ar
+
 ### 2026-11-13 · Fechamento cumprido, escopo ampliado e auditoria da BM
 - **O que:** meta, contrato e pagamento definidos pelo Guilherme; tracking e criativos entram no escopo; segunda auditoria da BM pela API
 - **Resultado em:** [[04-clientes/churrascodaelite/cliente|cliente]] (frontmatter, escopo e acessos), [[2026-11-13-acordo-guilherme]] e kanban

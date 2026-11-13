@@ -15,7 +15,7 @@ meta: 12 vendas do curso na Black Friday (27 a 30/11/2026), a 67,90 €, com cer
 contatos: Lucas Oliveira (dono, decide e paga). Grupo do WhatsApp "Churrasco da Elite - Tráfego" (`120363432140543418@g.us`), criado pelo Guilherme em 10/11, com o número da agência
 drive: TODO (Hub3Ps/Clientes/churrascodaelite/)
 painel: TODO (criar na semana de 16/11, Guilherme)
-repositorios: []
+repositorios: [agencia_marketing/clients/churrascodaelite]
 proxima-reuniao: TODO
 lembrete: 2027-02-12 rediscutir setup e 10% (tarefa agendada `churrascodaelite-rediscutir-setup`)
 atualizado: 2026-11-13
@@ -69,7 +69,7 @@ Nunca guarde senha aqui.
 - **Meta:** BM `1996641120812552` ("Lucas Oliveira"), acessível pelo MCP desde 13/11. **Conta em uso: CA02** `1355470165815740` ("CA02 - Lucas Oliveira", em EUR, com forma de pagamento; Guilherme, 13/11). A CA01 `1179328230501061` (em BRL) fica parada. Pixel `597919442616239` ("Pixel Lucas Oliveira"), ativo, último disparo em 08/11, com eventos de servidor até 04/11. Página `492637223936612` ("Lucas Oliveira")
 - **Auditoria da BM (13/11):** o Guilherme auditou, e o Claude conferiu pela API. Pessoas: Guilherme (`guilherme@hub3ps.com`) e dois perfis "Lucas Oliveira", todos com controle total. Usuário do sistema: "Conversions API System User", da integração de CAPI. Parceiro: **"Peach"** (`148826077524843`), a confirmar com o Lucas. Na CA02, o Lucas pôs e tirou um administrador sem nome entre 09 e 10/11
 - **Histórico da CA02 (API, 13/11):** cinco campanhas pausadas desde 01/09/2026, 570 € gastos desde 12/2024. A "Vendas 02/04" (abril de 2025) fez 6 compras a 29,44 € cada, e a "[Vendas] - [Site]" (12/2024), 3 compras a 82,13 €. O produto vendido não está registrado
-- **LP do curso:** domínio churracodaelitept.com, com acesso do Guilherme (13/11). A LP nova sobe na Vercel. TODO: projeto da Vercel e onde o domínio está registrado
+- **LP do curso:** domínio churracodaelitept.com, com acesso do Guilherme (13/11). A página antiga é do Framer, feita por @micas.dsg, com o checkout da Hotmart `pay.hotmart.com/E106463685V` e sem Pixel. A LP nova da lista de espera está em `agencia_marketing/clients/churrascodaelite/lps/lista-black/` (13/11), para subir na Vercel. TODO: projeto da Vercel e onde o domínio está registrado
 - **Hotmart:** TODO
 - **Site e loja:** churrascodaelite.pt (fora do escopo)
 
