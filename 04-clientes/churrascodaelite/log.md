@@ -12,6 +12,13 @@ Formato:
 - **Decisões:** 
 - **Próximo passo:** 
 
+### 2026-11-13 · Fechamento cumprido, escopo ampliado e auditoria da BM
+- **O que:** meta, contrato e pagamento definidos pelo Guilherme; tracking e criativos entram no escopo; segunda auditoria da BM pela API
+- **Resultado em:** [[04-clientes/churrascodaelite/cliente|cliente]] (frontmatter, escopo e acessos), [[2026-11-13-acordo-guilherme]] e kanban
+- **Decisões (Guilherme, 13/11):** conta CA02 em EUR. Meta de 12 vendas na Black Friday a 67,90 €, com cerca de 450 € de anúncio em novembro. Sem contrato. Novembro pago. Briefing assíncrono. LP refeita do zero na Vercel, no domínio que já existe. Tracking e criativos dos anúncios no escopo. Painel na semana de 16/11. Calendário da proposta mantido
+- **Auditoria (Claude):** pessoas são o Guilherme e dois perfis "Lucas Oliveira", todos com controle total. Usuário do sistema da CAPI. Um parceiro, "Peach" (`148826077524843`), a confirmar com o Lucas. Na CA02, um administrador sem nome entrou em 09/11 e saiu em 10/11, pelas mãos do Lucas
+- **Próximo passo:** plano da Black, verificação de domínio e Pixel, LP na Vercel, criativos e as duas campanhas, ainda em 13/11
+
 ### 2026-11-13 · Acesso à BM conferido
 - **O que:** a BM do Lucas (`1996641120812552`) já aparece no MCP da Meta, com a CA02 em EUR e a CA01 em BRL, as duas ativas e com forma de pagamento
 - **Resultado em:** seção Acessos do [[04-clientes/churrascodaelite/cliente|cliente]] e kanban

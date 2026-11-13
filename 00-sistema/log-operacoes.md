@@ -7,6 +7,7 @@ Uma linha por sessão de trabalho, a mais recente no topo.
 
 Formato: `- AAAA-MM-DD · <slug ou agencia> · <tarefa> · <onde está o resultado>`
 
+- 2026-11-13 · churrascodaelite · Fechamento cumprido (meta de 12 vendas na Black, sem contrato, novembro pago), tracking e criativos no escopo, BM auditada pela API · `04-clientes/churrascodaelite/`
 - 2026-11-13 · churrascodaelite · Acesso à BM do Lucas conferido no MCP: CA02 em EUR e CA01 em BRL · `04-clientes/churrascodaelite/cliente.md`
 - 2026-11-13 · hub3ps · Seguidores do @guimiguelmkt: segundo conjunto com o IG-04 renomeado e registrado; anúncio do IG-04 com erro de permissão na Página depois da renomeação pela API · `04-clientes/hub3ps/guimiguelmkt/campanhas/seguidores-frio-perfil.md`
 - 2026-11-13 · hub3ps · Campanha de seguidores do @guimiguelmkt renomeada para o padrão (Seguidores | Frio | Perfil, IG-06) e ficha criada com os IDs e a lista de posts · `04-clientes/hub3ps/guimiguelmkt/campanhas/seguidores-frio-perfil.md`
