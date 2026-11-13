@@ -12,6 +12,13 @@ Formato:
 - **Decisões:** 
 - **Próximo passo:** 
 
+### 2026-11-13 · Campanha de seguidores desenhada e roteiros do fim de semana
+- **O que:** ficha da `Seguidores | Frio | Perfil` com dois conjuntos (IG-01 e IG-02, 5 € por dia cada) e quatro roteiros para o Lucas gravar em 14 e 15/11
+- **Resultado em:** [[04-clientes/churrascodaelite/campanhas/seguidores-frio-perfil|ficha da campanha]] e [[2026-11-13-roteiros-fim-de-semana|roteiros]]
+- **Decisões:** começar pela lista dos 14, com dois conjuntos e um post em cada (Guilherme, 13/11). IG-01 e IG-02 são os dois primeiros, os dois com áudio original. Público e verba são proposta do Claude, a conferir pelo Guilherme
+- **Bloqueio:** a campanha não sobe sem o @churrasco_da_elite na CA02 (conferido de novo na API em 13/11)
+- **Próximo passo:** ligar o perfil à BM e à CA02, subir a campanha, revisar os roteiros e mandar ao Lucas
+
 ### 2026-11-13 · Posts para a captação de seguidores
 - **O que:** os 82 posts do @churrasco_da_elite de 13/08 a 12/11 lidos no perfil, com 14 indicados para impulsionar e 7 bons em colab
 - **Resultado em:** [[04-clientes/churrascodaelite/entregas/2026-11-13-posts-para-captacao|posts para a captação]]

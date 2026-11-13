@@ -4,7 +4,8 @@ kanban-plugin: board
 
 ## A fazer
 
-- [ ] Guilherme escolher os posts da captação de seguidores em `entregas/2026-11-13-posts-para-captacao.md` (14 diretos e 7 em colab) #trafego-pago
+- [ ] Subir `Seguidores | Frio | Perfil` com IG-01 e IG-02, 5 € por dia cada, pela ficha em `campanhas/` (depende do @churrasco_da_elite na CA02) #trafego-pago
+- [ ] Guilherme revisar os 4 roteiros de `entregas/2026-11-13-roteiros-fim-de-semana.md` e mandar ao Lucas para gravar em 14 e 15/11 #criativos-e-audiovisual
 - [ ] Plano da Black Friday: oferta a 67,90 €, datas, verba de 450 € em novembro dividida entre aquecimento e Black (13/11) #estrategia
 - [ ] Verificar o domínio churracodaelitept.com na BM (13/11) #tracking
 - [ ] Pixel `597919442616239` na LP nova: PageView e Lead no envio da lista de espera (13/11) #tracking
@@ -13,8 +14,7 @@ kanban-plugin: board
 - [ ] Planilha da lista com o Apps Script `ferramentas/lista-black.gs`, e a URL em `CONFIG.endpoint` (Guilherme instala, Claude cola) #tracking
 - [ ] Página de vendas da Black (27 a 30/11) com o checkout a 67,90 €: a LP nova tira do ar a página de 97 € do Framer #lp-e-site
 - [ ] Criativos da captação de seguidores e da base para a LP (13/11) #criativos-e-audiovisual
-- [ ] Roteiro de vídeo para o Lucas gravar no fim de semana de 14 e 15/11 (ele se ofereceu em 13/11) #criativos-e-audiovisual
-- [ ] Campanha de seguidores e campanha da base para a LP, na CA02, no padrão de nomes (prometido no grupo para 13/11) #trafego-pago
+- [ ] Campanha da base para a LP da lista de espera, na CA02, no padrão de nomes #trafego-pago
 - [ ] Ficha de cada campanha em `campanhas/` #trafego-pago
 - [ ] Criar o painel `churrascodaelite.hub3ps.com` pelo runbook novo-hub, na semana de 16/11 (Guilherme pediu para esperar) #trafego-pago
 - [ ] Criar a pasta `Hub3Ps/Clientes/churrascodaelite/` no Drive e subir o PDF da proposta (Guilherme) #comercial
@@ -37,6 +37,8 @@ kanban-plugin: board
 
 ## Feito
 
+- [x] Posts escolhidos: começa pela lista dos 14, com IG-01 e IG-02 (Guilherme, 13/11)
+- [x] Quatro roteiros para o fim de semana, em rascunho (13/11)
 - [x] LP da lista de espera montada e conferida no celular e no desktop: formulário, validação, aviso de cookies e Pixel com PageView e Lead (13/11)
 - [x] Meta definida: 12 vendas na Black Friday a 67,90 € (Guilherme, 13/11)
 - [x] Sem contrato: acordo em `fontes/2026-11-13-acordo-guilherme.md` (13/11)

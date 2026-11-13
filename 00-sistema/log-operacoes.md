@@ -7,6 +7,7 @@ Uma linha por sessão de trabalho, a mais recente no topo.
 
 Formato: `- AAAA-MM-DD · <slug ou agencia> · <tarefa> · <onde está o resultado>`
 
+- 2026-11-13 · churrascodaelite · Campanha de seguidores desenhada (IG-01 e IG-02), à espera do perfil na CA02, e 4 roteiros para o Lucas gravar · `04-clientes/churrascodaelite/campanhas/seguidores-frio-perfil.md`
 - 2026-11-13 · churrascodaelite · 82 posts do @churrasco_da_elite lidos: 14 para a captação de seguidores e 7 em colab; o perfil não está ligado à CA02 · `04-clientes/churrascodaelite/entregas/2026-11-13-posts-para-captacao.md`
 - 2026-11-13 · churrascodaelite · LP da lista de espera da Black montada (formulário, planilha por Apps Script, grupo VIP e Pixel com consentimento), falta publicar · `agencia_marketing/clients/churrascodaelite/lps/lista-black/`
 - 2026-11-13 · churrascodaelite · Fechamento cumprido (meta de 12 vendas na Black, sem contrato, novembro pago), tracking e criativos no escopo, BM auditada pela API · `04-clientes/churrascodaelite/`

@@ -11,6 +11,8 @@ Pedido do Guilherme em 13/11: dos posts dos últimos 3 meses, os que podem atrai
 Fonte: os 82 posts do @churrasco_da_elite de 13/08 a 12/11/2026 (75 reels e 7 de feed), lidos no perfil com login em 13/11. A API da Meta não alcança este perfil (ver "Bloqueio" abaixo). Li a legenda, as curtidas e o áudio. **Não assisti aos vídeos.**
 
 ## Para impulsionar
+O número da tabela é o ID do anúncio: o post 1 é o `IG-01`. A campanha começou pelo IG-01 e pelo IG-02 (Guilherme, 13/11).
+
 Posts só do @churrasco_da_elite, sem colab. "Música" quer dizer música licenciada no reel: no anúncio, ela pode ser cortada ou precisar de troca.
 
 | # | Data | Conteúdo | Curtidas | Áudio | Link |
