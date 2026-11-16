@@ -11,7 +11,7 @@ contrato: sem contrato. Acordo nas palavras do Guilherme, em fontes/2026-11-13-a
 vigencia: sem prazo
 valor-mensal: 350
 moeda: EUR
-meta: 12 vendas do curso na Black Friday (27 a 30/11/2026), a 67,90 €, com cerca de 450 € de anúncio em novembro. É o empate do Lucas entre fee e mídia (Guilherme, 13/11/2026)
+meta: 12 vendas do curso na Black Friday (27 a 30/11/2026), a 67 € (era 67,90 € em 13/11; Guilherme fixou 67 € em 16/11), com cerca de 450 € de anúncio em novembro. É o empate do Lucas entre fee e mídia (Guilherme, 13/11/2026)
 contatos: Lucas Oliveira (dono, decide e paga). Grupo do WhatsApp "Churrasco da Elite - Tráfego" (`120363432140543418@g.us`), criado pelo Guilherme em 10/11, com o número da agência
 drive: TODO (Hub3Ps/Clientes/churrascodaelite/)
 painel: TODO (criar na semana de 16/11, Guilherme)
@@ -23,7 +23,7 @@ autor: claude
 ---
 # Churrasco da Elite
 
-> **Estado atual:** Fechamento cumprido em 13/11: meta de 12 vendas na Black Friday a 67,90 €, sem contrato, mês de novembro pago. Escopo ampliado com tracking e criativos. Em 13/11, LP refeita do zero na Vercel e primeiras campanhas na CA02 (EUR), com a lista de espera. Painel na semana de 16/11. Em 12/02/2027, rediscutir setup e 10%.
+> **Estado atual:** Fechamento cumprido em 13/11: meta de 12 vendas na Black Friday a 67 € (preço fixado em 16/11), sem contrato, mês de novembro pago. Escopo ampliado com tracking e criativos. Em 13/11, LP refeita do zero na Vercel e primeiras campanhas na CA02 (EUR), com a lista de espera. Painel na semana de 16/11. Em 12/02/2027, rediscutir setup e 10%.
 
 ## Quem é
 - **Negócio:** eventos e catering de churrasco brasileiro em Portugal (Lisboa, Porto e Algarve), com loja em churrascodaelite.pt. O Lucas está em Portugal há 10 anos (03/11, call de diagnóstico).

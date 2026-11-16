@@ -7,6 +7,7 @@ Uma linha por sessão de trabalho, a mais recente no topo.
 
 Formato: `- AAAA-MM-DD · <slug ou agencia> · <tarefa> · <onde está o resultado>`
 
+- 2026-11-16 · churrascodaelite · LP da lista com preço de 97 € por 67 €, cronómetro até 27/11 e as seções de dores, ganhos e mentoria de volta; preço da Black atualizado no cliente, no kanban e no CLAUDE.md do repo · `04-clientes/churrascodaelite/log.md`
 - 2026-11-16 · marjorie · WhatsApp diário: 6 mensagens de 14 e 15/11 (Julia mandou os anúncios gravados, Ad 1 lista de espera e Ad 2 vagas abertas por público) · `04-clientes/marjorie/fontes/2026-11-16-whatsapp-grupo.md`
 - 2026-11-16 · churrascodaelite · WhatsApp diário: 16 mensagens de 13 e 14/11 (Lucas livre para gravar no fim de semana, e "feito" no pedido de ADM da Página) · `04-clientes/churrascodaelite/fontes/2026-11-16-whatsapp-grupo.md`
 

@@ -12,6 +12,12 @@ Formato:
 - **Decisões:** 
 - **Próximo passo:** 
 
+### 2026-11-16 · LP da lista com preço, cronómetro e seções de volta
+- **O que:** a pedido do Guilherme, voltaram à LP as dores, o "o que ganhas" e o caminho da mentoria com eventos pagos (com a FAQ do bónus), com o texto da página do Framer passado para "tu". Entrou o card de preço, de 97 € por 67 €, e uma barra fixa com cronómetro até 27/11, 0h de Lisboa, no modelo da LP da Marjorie. De 27 a 30/11 a barra conta até o fim da Black e depois some
+- **Resultado em:** `agencia_marketing/clients/churrascodaelite/lps/lista-black/index.html`, conferido no desktop e no celular, sem commit
+- **Decisões:** preço da Black em 67 €, não 67,90 € (Guilherme, 16/11). Com 12 vendas dá 804 €, ainda o empate com os 800 € de fee e mídia, antes da taxa da Hotmart
+- **Próximo passo:** Guilherme manda a LP ao Lucas para aprovar
+
 ### 2026-11-16 · Revisão da LP da lista antes de ir ao Lucas
 - **O que:** comparei a copy da LP nova com a publicada no Framer (churracodaelitept.com, lida em 16/11) e corrigi o selo da garantia, que aparecia esticado (faltava `height: auto`)
 - **Resultado em:** `agencia_marketing/clients/churrascodaelite/lps/lista-black/index.html`, sem commit
