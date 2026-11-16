@@ -12,6 +12,12 @@ Formato:
 - **Decisões:** 
 - **Próximo passo:** 
 
+### 2026-11-16 · Planilha da lista ligada à LP
+- **O que:** o Guilherme criou a planilha com o Apps Script, na conta guitrafegopago@gmail.com, e mandou a URL. Coloquei em `CONFIG.endpoint` (`comum.js`) e publiquei em curso.churrascodaelite.pt
+- **Resultado em:** a planilha do Guilherme. O script respondeu `{"ok":true}` a um envio direto, e uma inscrição pelo formulário no ar chegou à página de obrigado. Ficaram linhas "TESTE Claude" a apagar
+- **Decisões:** nenhuma. O primeiro teste deu "Você precisa ter acesso" por erro meu no `curl` (mantive POST ao seguir o redirecionamento), e não por falta de acesso
+- **Próximo passo:** Guilherme confere as linhas na planilha e apaga os testes
+
 ### 2026-11-16 · Domínio da LP e página de obrigado
 - **O que:** o Guilherme pôs o domínio `curso.churrascodaelite.pt` no projeto Vercel, com o CNAME no dominios.pt. A raiz `churrascodaelite.pt` é a loja Shopify do Lucas, por isso a LP não pode ficar em `/curso`. A pedido dele, criei a página de obrigado com o botão do grupo VIP e passei a configuração do Pixel para `comum.js`, partilhado pelas duas páginas
 - **Resultado em:** https://curso.churrascodaelite.pt e https://curso.churrascodaelite.pt/obrigado/, fonte em `agencia_marketing/clients/churrascodaelite/lps/lista-black/`, sem commit

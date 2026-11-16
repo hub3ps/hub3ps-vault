@@ -4,7 +4,7 @@ kanban-plugin: board
 
 ## A fazer
 
-- [ ] Lucas aprovar a LP da lista em https://curso.churrascodaelite.pt, com a página de obrigado em `/obrigado/` (sem Pixel e sem gravar inscrições, 16/11) #lp-e-site
+- [ ] Lucas aprovar a LP da lista em https://curso.churrascodaelite.pt, com a página de obrigado em `/obrigado/` (sem Pixel, já gravando na planilha, 16/11) #lp-e-site
 - [ ] Conferir na BM se o Guilherme virou ADM da Página do Churrasco da Elite no Facebook. O Lucas disse "feito" em 14/11, 11h25 #trafego-pago
 - [ ] Guilherme criar à mão os dois conjuntos e anúncios da `Seguidores | Frio | Perfil` (campanha `120250644049660559`, em rascunho), pela especificação da ficha. O MCP recusou a otimização por visita ao perfil (16/11). Depois, Claude confere e registra os IDs #trafego-pago
 - [ ] Pixel novo na BM `666930504135899`, criado pelo Guilherme, e trocar o ID em `CONFIG.pixel` da LP. O `597919442616239` é da BM antiga (16/11) #tracking
@@ -15,7 +15,6 @@ kanban-plugin: board
 - [ ] Pixel na LP nova: PageView nas duas páginas, Lead na página de obrigado e GrupoVIP no botão, já no código. Falta o ID do Pixel novo em `comum.js` (13/11, atualizado em 16/11) #tracking
 - [ ] Hotmart: Pixel no checkout e conferir de onde vêm os eventos de servidor do Pixel #tracking
 - [ ] Depois da aprovação do Lucas: tirar o `noindex` da LP e publicar com o Pixel novo em curso.churrascodaelite.pt #lp-e-site
-- [ ] Planilha da lista com o Apps Script `ferramentas/lista-black.gs`, e a URL em `CONFIG.endpoint` (Guilherme instala, Claude cola) #tracking
 - [ ] Página de vendas da Black (27 a 30/11) com o checkout a 67 €: a LP nova tira do ar a página de 97 € do Framer #lp-e-site
 - [ ] Criativos da captação de seguidores e da base para a LP (13/11) #criativos-e-audiovisual
 - [ ] Campanha da base para a LP da lista de espera, na CA02, no padrão de nomes #trafego-pago
@@ -39,6 +38,7 @@ kanban-plugin: board
 
 ## Feito
 
+- [x] Planilha da lista ligada: Apps Script na conta guitrafegopago, URL em `comum.js`, teste com `{"ok":true}` e inscrição pelo formulário no ar (16/11). Apagar as linhas "TESTE Claude"
 - [x] Página de obrigado com o botão do grupo VIP, e link do grupo na LP (16/11)
 - [x] LP no domínio curso.churrascodaelite.pt, com SSL (16/11)
 - [x] Conta de anúncios definida: CA01 - Churrasco da Elite `1295259920836612`, com Página e @churrasco_da_elite acessíveis pelo MCP (16/11)
