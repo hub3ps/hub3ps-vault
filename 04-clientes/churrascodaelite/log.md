@@ -12,6 +12,12 @@ Formato:
 - **Decisões:** 
 - **Próximo passo:** 
 
+### 2026-11-16 · LP da lista no ar em domínio provisório, para o Lucas aprovar
+- **O que:** publiquei a LP no projeto Vercel `churrasco-da-elite` (time hub3psmarketing, criado pelo Guilherme em 16/11), pela CLI, a partir de uma cópia no scratchpad
+- **Resultado em:** https://project-6x255.vercel.app/ (público). O outro alias, `churrasco-da-elite-hub3psmarketing.vercel.app`, pede login da Vercel e não serve para mandar ao Lucas
+- **Decisões:** a cópia de aprovação vai sem Pixel (`CONFIG.pixel` vazio) e com `noindex`, para os testes do Lucas não sujarem o Pixel `597919442616239`. O formulário ainda não grava (sem `CONFIG.endpoint`) e não leva ao grupo (sem `CONFIG.grupo`). A fonte ganhou uma guarda para carregar o Pixel só se houver ID
+- **Próximo passo:** Guilherme manda o link ao Lucas. Depois da aprovação: Apps Script, grupo VIP, Pixel de volta e domínio próprio sob churracodaelitept.com
+
 ### 2026-11-16 · LP da lista com preço, cronómetro e seções de volta
 - **O que:** a pedido do Guilherme, voltaram à LP as dores, o "o que ganhas" e o caminho da mentoria com eventos pagos (com a FAQ do bónus), com o texto da página do Framer passado para "tu". Entrou o card de preço, de 97 € por 67 €, e uma barra fixa com cronómetro até 27/11, 0h de Lisboa, no modelo da LP da Marjorie. De 27 a 30/11 a barra conta até o fim da Black e depois some
 - **Resultado em:** `agencia_marketing/clients/churrascodaelite/lps/lista-black/index.html`, conferido no desktop e no celular, sem commit

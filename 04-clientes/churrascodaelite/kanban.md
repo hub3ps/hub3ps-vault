@@ -4,6 +4,7 @@ kanban-plugin: board
 
 ## A fazer
 
+- [ ] Lucas aprovar a LP da lista em https://project-6x255.vercel.app/ (provisória, sem Pixel e sem gravar inscrições, 16/11) #lp-e-site
 - [ ] Conferir na BM se o Guilherme virou ADM da Página do Churrasco da Elite no Facebook. O Lucas disse "feito" em 14/11, 11h25 #trafego-pago
 - [ ] Subir `Seguidores | Frio | Perfil` com IG-01 e IG-02, 5 € por dia cada, pela ficha em `campanhas/` (depende do @churrasco_da_elite na CA02) #trafego-pago
 - [ ] Guilherme revisar os 4 roteiros de `entregas/2026-11-13-roteiros-fim-de-semana.md` e mandar ao Lucas para gravar em 14 e 15/11 #criativos-e-audiovisual
@@ -11,7 +12,7 @@ kanban-plugin: board
 - [ ] Verificar o domínio churracodaelitept.com na BM (13/11) #tracking
 - [ ] Pixel `597919442616239` na LP nova: PageView e Lead no envio da lista de espera (13/11) #tracking
 - [ ] Hotmart: Pixel no checkout e conferir de onde vêm os eventos de servidor do Pixel #tracking
-- [ ] Publicar a LP da lista: projeto na Vercel com raiz em `clients/churrascodaelite/lps/lista-black`, domínio e DNS (Guilherme) #lp-e-site
+- [ ] Publicar a LP da lista no domínio próprio: projeto `churrasco-da-elite` na Vercel já criado (16/11), falta o domínio, o DNS e o Pixel de volta #lp-e-site
 - [ ] Planilha da lista com o Apps Script `ferramentas/lista-black.gs`, e a URL em `CONFIG.endpoint` (Guilherme instala, Claude cola) #tracking
 - [ ] Página de vendas da Black (27 a 30/11) com o checkout a 67 €: a LP nova tira do ar a página de 97 € do Framer #lp-e-site
 - [ ] Criativos da captação de seguidores e da base para a LP (13/11) #criativos-e-audiovisual
