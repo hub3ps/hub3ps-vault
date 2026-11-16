@@ -4,6 +4,8 @@ kanban-plugin: board
 
 ## A fazer
 
+- [ ] Revisar os anúncios gravados que a Julia mandou no Drive (Ad 1 lista de espera, 2 variações; Ad 2 vagas abertas, por público) e definir quando sobe cada um (Guilherme no grupo, 15/11) #criativos-e-audiovisual
+- [ ] Conferir no Gerenciador se os cargos da lista da Julia para o Ad 2 existem como segmentação (dentistas, técnicos e assistentes, 14/11) #trafego-pago
 - [ ] Conferir em 13/11 se os eventos do Pixel carregaram e avisar a Julia, como o Guilherme prometeu no grupo (12/11, 22h05) #tracking
 - [ ] Depois do teste dos 10 principais, escalar um pouco o de menor custo por seguidor (Guilherme no grupo, 12/11). Verba e data a definir #trafego-pago
 - [ ] Renomear no Gerenciador o público salvo `int_cad-dental_us` para `Interesse CAD dental` (o MCP não renomeia público salvo) #trafego-pago
@@ -39,11 +41,11 @@ kanban-plugin: board
 - [ ] Datas: evento no RJ e viagem à Alemanha
 - [ ] Política de reembolso
 - [ ] Razão social
-- [ ] Conteúdo de lembrete e de carrinho gravado antes da viagem (até 16/11)
 
 
 ## Feito
 
+- [x] Anúncios gravados antes da viagem, mandados pela Julia no Drive (14/11): Ad 1 lista de espera e Ad 2 vagas abertas
 - [x] Rodada 2 de seguidores fechada (12/11): IG-06 fica (US$ 0,69 por seguidor), IG-07 pausado (US$ 1,38), IG-12 no ar. Resumo enviado ao grupo
 - [x] Campanhas, conjuntos, anúncios e públicos renomeados para o padrão novo de nomes (11/11)
 - [x] IG-07 no ar para a rodada 2 e resumo da rodada 1 enviado ao grupo (09/11)

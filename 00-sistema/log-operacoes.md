@@ -7,6 +7,9 @@ Uma linha por sessão de trabalho, a mais recente no topo.
 
 Formato: `- AAAA-MM-DD · <slug ou agencia> · <tarefa> · <onde está o resultado>`
 
+- 2026-11-16 · marjorie · WhatsApp diário: 6 mensagens de 14 e 15/11 (Julia mandou os anúncios gravados, Ad 1 lista de espera e Ad 2 vagas abertas por público) · `04-clientes/marjorie/fontes/2026-11-16-whatsapp-grupo.md`
+- 2026-11-16 · churrascodaelite · WhatsApp diário: 16 mensagens de 13 e 14/11 (Lucas livre para gravar no fim de semana, e "feito" no pedido de ADM da Página) · `04-clientes/churrascodaelite/fontes/2026-11-16-whatsapp-grupo.md`
+
 - 2026-11-13 · churrascodaelite · Campanha de seguidores desenhada (IG-01 e IG-02), à espera do perfil na CA02, e 4 roteiros para o Lucas gravar · `04-clientes/churrascodaelite/campanhas/seguidores-frio-perfil.md`
 - 2026-11-13 · churrascodaelite · 82 posts do @churrasco_da_elite lidos: 14 para a captação de seguidores e 7 em colab; o perfil não está ligado à CA02 · `04-clientes/churrascodaelite/entregas/2026-11-13-posts-para-captacao.md`
 - 2026-11-13 · churrascodaelite · LP da lista de espera da Black montada (formulário, planilha por Apps Script, grupo VIP e Pixel com consentimento), falta publicar · `agencia_marketing/clients/churrascodaelite/lps/lista-black/`

@@ -6,6 +6,13 @@ autor: claude
 
 A entrada mais recente fica no topo, uma por sessão de trabalho.
 
+### 2026-11-16 · Grupo de 14 e 15/11, pela rotina
+- **O que fiz:** a rotina WhatsApp diário registrou as 6 mensagens de 14 e 15/11 do grupo.
+- **Resultado em:** `fontes/2026-11-16-whatsapp-grupo.md`
+- **O que achei:** a Julia mandou os anúncios gravados numa pasta do Drive (14/11, 11h43). São dois: o Ad 1, aviso da lista de espera, em 2 variações que servem para qualquer público, e o Ad 2, vagas abertas, com uma versão para cada público (dentistas, técnicos e assistentes), cada um com uma lista de cargos em inglês. Ela diz que dá para cortar o início de algum Ad 2 e virar versão genérica, mas preferiu manter específico. O Guilherme respondeu que vai olhar todos e organizar quando sobe cada um (15/11, 17h42).
+- **Decisões:** nenhuma. O calendário de subida fica com o Guilherme.
+- **Próximo passo:** o Guilherme revisa os anúncios e define a data de cada um, contra o lembrete da lista (25 e 26/11) e o carrinho (27 a 30/11). Conferir no Gerenciador se os cargos da lista da Julia existem como segmentação.
+
 ### 2026-11-13 · Grupo de 12/11, pela rotina
 - **O que fiz:** a rotina WhatsApp diário registrou as 10 mensagens de 12/11 do grupo.
 - **Resultado em:** `fontes/2026-11-13-whatsapp-grupo.md`

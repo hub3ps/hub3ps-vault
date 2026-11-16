@@ -4,6 +4,7 @@ kanban-plugin: board
 
 ## A fazer
 
+- [ ] Conferir na BM se o Guilherme virou ADM da Página do Churrasco da Elite no Facebook. O Lucas disse "feito" em 14/11, 11h25 #trafego-pago
 - [ ] Subir `Seguidores | Frio | Perfil` com IG-01 e IG-02, 5 € por dia cada, pela ficha em `campanhas/` (depende do @churrasco_da_elite na CA02) #trafego-pago
 - [ ] Guilherme revisar os 4 roteiros de `entregas/2026-11-13-roteiros-fim-de-semana.md` e mandar ao Lucas para gravar em 14 e 15/11 #criativos-e-audiovisual
 - [ ] Plano da Black Friday: oferta a 67,90 €, datas, verba de 450 € em novembro dividida entre aquecimento e Black (13/11) #estrategia
@@ -37,6 +38,7 @@ kanban-plugin: board
 
 ## Feito
 
+- [x] Lucas disse ter adicionado o Guilherme como ADM da Página do Churrasco da Elite no Facebook (14/11, a conferir)
 - [x] Posts escolhidos: começa pela lista dos 14, com IG-01 e IG-02 (Guilherme, 13/11)
 - [x] Quatro roteiros para o fim de semana, em rascunho (13/11)
 - [x] LP da lista de espera montada e conferida no celular e no desktop: formulário, validação, aviso de cookies e Pixel com PageView e Lead (13/11)

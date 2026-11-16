@@ -12,6 +12,19 @@ Formato:
 - **Decisões:** 
 - **Próximo passo:** 
 
+### 2026-11-16 · Revisão da LP da lista antes de ir ao Lucas
+- **O que:** comparei a copy da LP nova com a publicada no Framer (churracodaelitept.com, lida em 16/11) e corrigi o selo da garantia, que aparecia esticado (faltava `height: auto`)
+- **Resultado em:** `agencia_marketing/clients/churrascodaelite/lps/lista-black/index.html`, sem commit
+- **Decisões:** a copy da página de 97 € foi mantida onde serve à lista (módulos, para quem é, equipa, FAQ). Saíram mercado, dores, "o que ganhas", caminho da mentoria, preço, depoimentos sem nome e as FAQs do bónus e da garantia. A experiência do Lucas voltou a "em Portugal e no mundo", como na página dele
+- **Próximo passo:** Guilherme decide se o bónus da mentoria volta, e manda a LP ao Lucas para aprovar
+
+### 2026-11-16 · Grupo de 13 e 14/11, pela rotina
+- **O que:** a rotina WhatsApp diário registrou as 16 mensagens de 13 e 14/11 do grupo
+- **Resultado em:** `fontes/2026-11-16-whatsapp-grupo.md`
+- **O que achei:** o Lucas se pôs à disposição para gravar no fim de semana (13/11, 12h38). O Guilherme disse que ia ver se precisava de vídeo e passar para ele gravar no fim de semana (13/11, 13h04). Não há no grupo o envio dos roteiros. Às 18h26, o Guilherme pediu ao Lucas para ser adicionado como ADM da Página do Churrasco da Elite no Facebook. O Lucas respondeu "feito" em 14/11, 11h25, depois de uma imagem que não baixou
+- **Decisões:** nenhuma
+- **Próximo passo:** conferir na BM se o Guilherme virou ADM da Página e ligar o @churrasco_da_elite à CA02, o bloqueio da campanha de seguidores. Ver com o Guilherme se os roteiros foram ao Lucas, já que o fim de semana de 14 e 15/11 passou
+
 ### 2026-11-13 · Campanha de seguidores desenhada e roteiros do fim de semana
 - **O que:** ficha da `Seguidores | Frio | Perfil` com dois conjuntos (IG-01 e IG-02, 5 € por dia cada) e quatro roteiros para o Lucas gravar em 14 e 15/11
 - **Resultado em:** [[04-clientes/churrascodaelite/campanhas/seguidores-frio-perfil|ficha da campanha]] e [[2026-11-13-roteiros-fim-de-semana|roteiros]]
