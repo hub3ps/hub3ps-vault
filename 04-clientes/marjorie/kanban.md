@@ -25,14 +25,14 @@ kanban-plugin: board
 
 ## Fazendo
 
+- [ ] Confirmar o primeiro Lead real no Pixel, vindo do código da Julia. Com isso, o Ad 1 da lista de espera fica liberado #tracking
 - [ ] IG-28 (DffdDhwhldx) em espera: subir quando o orgânico esgotar. A Julia monitora e avisa (09/11) #trafego-pago
-- [ ] Rodada 4 de seguidores, IG-12 contra IG-14: confirmar que o IG-14 saiu da análise e entrega, e ler em 19/11 #trafego-pago
-- [ ] Distribuição com a base cansando do IG-27 (frequência 4,4, ThruPlay por dia caindo). IG-29 ("Don't buy yet") e IG-30 ("Nobody becomes an exocad expert overnight") no ar no mesmo conjunto desde 16/11, verba mantida em US$ 5, conferidos na API. Confirmar que saíram da análise e ler o ThruPlay por anúncio em 19/11, junto com a rodada 4 #trafego-pago
+- [ ] Rodada 4 de seguidores, IG-12 contra IG-14: o IG-14 saiu da análise e está ativo (16/11). Ler em 19/11 #trafego-pago
+- [ ] Distribuição com a base cansando do IG-27 (frequência 4,4, ThruPlay por dia caindo). IG-29 ("Don't buy yet") e IG-30 ("Nobody becomes an exocad expert overnight") no ar no mesmo conjunto desde 16/11, verba mantida em US$ 5, conferidos na API. Saíram da análise e estão ativos (16/11). Ler o ThruPlay por anúncio em 19/11, junto com a rodada 4 #trafego-pago
 
 
 ## Aguardando cliente
 
-- [ ] **Urgente, trava o Ad 1:** Julia pôr o Lead no código, no sucesso do envio da lista de espera. A regra de clique `4511374259101290` nunca disparou: no clique o botão vira "enviando" antes de o Pixel ler (16/11). Depois de publicado, testar com inscrição real e desativar a regra
 - [ ] Acesso ao Instagram (o convite deu erro em 03/11)
 - [ ] Aprovar a verba inicial de US$ 15 por dia
 - [ ] Publicar a LP e informar o domínio (até 20/11, para o Pixel)
@@ -44,6 +44,8 @@ kanban-plugin: board
 
 ## Feito
 
+- [x] Lead no código da lista de espera, conferido em simulação, e regra de clique `4511374259101290` excluída (16/11)
+- [x] Resumo da rodada 3 e da distribuição enviado ao grupo (16/11)
 - [x] IG-14 (DRnTUjXk0MW) no ar contra o IG-12, conjunto duplicado à mão e conferido na API (16/11)
 - [x] Rodada 3 de seguidores fechada (16/11): IG-12 fica (US$ 0,46 por seguidor), IG-06 pausado (US$ 4,48)
 

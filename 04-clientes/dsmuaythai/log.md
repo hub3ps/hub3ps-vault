@@ -6,6 +6,12 @@ autor: claude
 
 A entrada mais recente fica no topo, uma por sessão de trabalho.
 
+### 2026-11-16 · Revisão dos Reels dos últimos 3 meses para seguidores
+- **O que fiz:** listei pelo MCP da Meta os posts do perfil de 16/08 a 16/11: 13 Reels. Propus 6 candidatos novos, além dos 5 da fila de 11/11 que caem na janela.
+- **Resultado em:** [[2026-11-11-reels-para-seguidores]]
+- **Decisão:** o Guilherme manteve a fila de 11/11 como está; os candidatos não entraram.
+- **Próximo passo:** nenhum. Nada muda nas campanhas durante o teste, que vai até 25/11.
+
 ### 2026-11-12 · IG-02 do Engajamento aprovado e entregando
 - **O que fiz:** conferi na API e no MCP, só leitura, as duas campanhas de seguidores. O `IG-02 | Reels | Holding pads` da campanha de Engajamento saiu da análise e está ativo. As duas campanhas e os dois conjuntos seguem ativos a US$ 7/dia.
 - **Resultado em:** [[seguidores-frio-perfil-engajamento]]

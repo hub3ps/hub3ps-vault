@@ -6,6 +6,17 @@ autor: claude
 
 A entrada mais recente fica no topo, uma por sessão de trabalho.
 
+### 2026-11-16 · Lead no código da lista de espera e regra de clique excluída
+- **O que fiz:** a Julia publicou o Lead no código. Li o código no ar e simulei a inscrição no navegador, com o envio para `/api/zth-waitlist` interceptado e o `fbq` trocado por um registro, então nada chegou ao servidor do site nem à Meta. Com o ok do Guilherme, excluí pelo MCP a regra de clique `4511374259101290` (exclusão reversível, a regra fica arquivada) e conferi que o Pixel não tem mais regra nem parâmetro.
+- **O que achei:** o código chama `fbq('track','Lead')` no retorno de sucesso do envio, só para inscrição nova: não dispara para quem já estava na lista nem para o campo armadilha de robô, e não dispara na página `/rx`. Os dois formulários, o do topo e o cartão, passam pelo mesmo envio. Na simulação, a inscrição disparou exatamente um Lead. Não vai `content_name`, o que não muda nada para otimizar.
+- **Decisões:** o Lead da lista de espera passa a vir só do código. Não precisa configurar nada no Gerenciador de Eventos: o Lead é evento padrão e aparece sozinho quando a primeira inscrição real chegar.
+- **Próximo passo:** confirmar o primeiro Lead real no Pixel. Com isso, o Ad 1 da lista de espera fica liberado.
+
+### 2026-11-16 · Resumo da rodada 3 e da distribuição enviado ao grupo
+- **O que fiz:** com o ok do Guilherme, enviei no grupo "CURSO EXOCAD 🚀🇧🇷", pelo número da agência no whatsapp-mcp, o resumo no formato do de 12/11. Seguidores: IG-12 continua (US$ 0,46 por seguidor), IG-06 pausado (US$ 4,48), IG-14 no ar para teste. Distribuição: IG-27 desde 09/11 com 7.463 pessoas, 4.185 ThruPlays e US$ 36,19 (API em 16/11), e o IG-29 e o IG-30 no ar para renovar. Todos com link.
+- **O que achei:** na API, os 5 anúncios ativos (IG-12, IG-14, IG-27, IG-29 e IG-30) já saíram da análise.
+- **Próximo passo:** leitura da rodada 4 e do ThruPlay por anúncio em 19/11. O pedido do Lead no código não foi nessa mensagem.
+
 ### 2026-11-16 · O Lead da lista de espera nunca disparou
 - **O que fiz:** o Guilherme avisou que o Pixel não recebe Lead. Li o Pixel `1775314010396135` na API e a config pública dele, li o código do formulário e simulei a inscrição no navegador, com o envio interceptado: o e-mail de teste não chegou ao servidor do site.
 - **O que achei:**

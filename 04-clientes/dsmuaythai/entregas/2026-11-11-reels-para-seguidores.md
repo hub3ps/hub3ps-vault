@@ -2,7 +2,7 @@
 tipo: entrega
 cliente: dsmuaythai
 data: 2026-11-11
-atualizado: 2026-11-11
+atualizado: 2026-11-16
 autor: claude
 ---
 # Fila de Reels para as campanhas de seguidores
@@ -25,3 +25,7 @@ aqui quando um Reels entrar no ar.
 | IG-06 | Sparring parte 1 | https://www.instagram.com/reel/DbYh7Q8OfKs/ | |
 | IG-07 | Wheels Gambit parte 2 | https://www.instagram.com/reel/DbhwmlKOtNe/ | |
 | IG-08 | Professional mindset | https://www.instagram.com/reel/DeILbO_h9IQ/ | |
+
+## Revisão de 16/11
+Busquei os Reels de 16/08 a 16/11/2026 para ver se faltava algo na fila. O
+Guilherme decidiu **manter a fila como está**, sem candidatos novos.
