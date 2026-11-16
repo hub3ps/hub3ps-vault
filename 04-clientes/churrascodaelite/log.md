@@ -15,8 +15,8 @@ Formato:
 ### 2026-11-16 · Campanha de seguidores no ar
 - **O que:** o Guilherme publicou à mão os dois conjuntos da `Seguidores | Frio | Perfil`. Conferi na API e registrei os IDs
 - **Resultado em:** `campanhas/seguidores-frio-perfil.md` (seção "IDs no ar")
-- **Decisões:** o Guilherme excluiu quem já segue o perfil (público `seguidores`) e deixou o Advantage+ público desligado. Os conjuntos ficaram sem data de fim, contra os 26/11 da especificação
-- **Próximo passo:** confirmar com o Guilherme a data de fim. Primeira leitura de custo por seguidor em 19/11
+- **Decisões:** o Guilherme excluiu quem já segue o perfil (público `seguidores`) e deixou o Advantage+ público desligado. Os conjuntos subiram sem data de fim. A pedido dele, pus 26/11 às 23h59 pelo MCP e conferi na leitura
+- **Próximo passo:** primeira leitura de custo por seguidor em 19/11
 
 ### 2026-11-16 · Planilha da lista ligada à LP
 - **O que:** o Guilherme criou a planilha com o Apps Script, na conta guitrafegopago@gmail.com, e mandou a URL. Coloquei em `CONFIG.endpoint` (`comum.js`) e publiquei em curso.churrascodaelite.pt

@@ -42,7 +42,7 @@ Mesmo desenho da campanha de seguidores da Marjorie ([[04-clientes/marjorie/camp
 Publicados pelo Guilherme à mão, no ar desde 16/11, 18h46 UTC. Na leitura, os anúncios estavam em análise (`IN_PROCESS`).
 
 O que ficou diferente da especificação abaixo, lido na API:
-- **Sem data de fim:** os conjuntos não têm `end_time`. A especificação pedia até 26/11 às 23h59
+- **Data de fim:** os conjuntos subiram sem data de fim. Pus `end_time` em 26/11, 23h59 de Lisboa, pelo MCP, a pedido do Guilherme, e conferi na leitura (16/11)
 - **Advantage+ público desligado:** a idade de 23 a 55 é limite fixo, e não sugestão
 - **Com exclusão:** o Guilherme criou o público `seguidores` (`120250644113480559`, quem segue o @churrasco_da_elite) e excluiu dos dois conjuntos. Melhor que a especificação, que não tinha exclusão
 
@@ -57,6 +57,7 @@ Especificação de cada conjunto, para a subida à mão:
 - Anúncio: publicação existente do Instagram @churrasco_da_elite, IG-01 `DdgfPAcqGmT` num conjunto e IG-02 `Dd_WRoXKN5K` no outro, com o botão de visitar o perfil
 
 ## Histórico de otimizações
+- 2026-11-16 · data de fim em 26/11, 23h59, nos dois conjuntos, pelo MCP (Guilherme pediu)
 - 2026-11-16 · Guilherme publicou os dois conjuntos à mão, com exclusão de quem já segue; conferido na API, anúncios em análise
 - 2026-11-16 · campanha criada em rascunho pelo MCP; conjuntos recusados pelo MCP, ficam com o Guilherme à mão
 - 2026-11-16 · conta trocada para a CA01 `1295259920836612`, com Página e Instagram conferidos · pronta para subir
