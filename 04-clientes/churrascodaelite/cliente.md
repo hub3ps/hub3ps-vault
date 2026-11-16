@@ -40,7 +40,7 @@ Fechado em 12/11/2026 (Guilherme), num escopo menor que o da proposta, para entr
 
 - [[trafego-pago]]: Meta, na conta CA01 - Churrasco da Elite `1295259920836612` (EUR), escolhida pelo Guilherme em 16/11. Antes era a CA02
 - **Estratégia:** apoio pontual. TODO: não há serviço nem playbook de estratégia no [[catalogo]]
-- [[lp-e-site]]: LP do curso refeita do zero na Vercel, no domínio que já existe (churracodaelitept.com), com a lista de espera
+- [[lp-e-site]]: LP do curso refeita do zero na Vercel, com a lista de espera, no ar em curso.churrascodaelite.pt desde 16/11
 - [[tracking]]: Pixel, eventos da LP e da Hotmart, verificação de domínio na BM (13/11)
 - [[criativos-e-audiovisual]]: só os criativos dos anúncios (13/11). O Lucas grava quando precisar, e se ofereceu para o fim de semana de 14 e 15/11
 - **Calendário (da proposta, mantido em 13/11):** aquecimento da base até 26/11, Black Friday de 27 a 30/11, funil contínuo em dezembro e captação para o workshop de 08/02 em janeiro
@@ -70,7 +70,7 @@ Nunca guarde senha aqui.
 - **Meta, BM antiga (fora de uso desde 16/11):** BM `1996641120812552` ("Lucas Oliveira"), acessível pelo MCP desde 13/11. **Conta usada até 16/11: CA02** `1355470165815740` ("CA02 - Lucas Oliveira", em EUR, com forma de pagamento; Guilherme, 13/11). A CA01 `1179328230501061` (em BRL) fica parada. Pixel `597919442616239` ("Pixel Lucas Oliveira"), ativo, último disparo em 08/11, com eventos de servidor até 04/11. Página `492637223936612` ("Lucas Oliveira"), ligada ao Instagram @omestredochurraspt (perfil pessoal do Lucas). O @churrasco_da_elite (33,2 mil seguidores em 13/11) não está na BM nem na CA02. **Página do Churrasco da Elite no Facebook:** o Guilherme pediu para ser ADM em 13/11, e o Lucas respondeu "feito" em 14/11, 11h25 (grupo). TODO: conferir na BM e anotar o ID
 - **Auditoria da BM (13/11):** o Guilherme auditou, e o Claude conferiu pela API. Pessoas: Guilherme (`guilherme@hub3ps.com`) e dois perfis "Lucas Oliveira", todos com controle total. Usuário do sistema: "Conversions API System User", da integração de CAPI. Parceiro: **"Peach"** (`148826077524843`), a confirmar com o Lucas. Na CA02, o Lucas pôs e tirou um administrador sem nome entre 09 e 10/11
 - **Histórico da CA02 (API, 13/11):** cinco campanhas pausadas desde 01/09/2026, 570 € gastos desde 12/2024. A "Vendas 02/04" (abril de 2025) fez 6 compras a 29,44 € cada, e a "[Vendas] - [Site]" (12/2024), 3 compras a 82,13 €. O produto vendido não está registrado
-- **LP do curso:** domínio churracodaelitept.com, com acesso do Guilherme (13/11). A página antiga é do Framer, feita por @micas.dsg, com o checkout da Hotmart `pay.hotmart.com/E106463685V` e sem Pixel. A LP nova da lista de espera está em `agencia_marketing/clients/churrascodaelite/lps/lista-black/` (13/11), para subir na Vercel. TODO: projeto da Vercel e onde o domínio está registrado
+- **LP do curso:** domínio churracodaelitept.com, com acesso do Guilherme (13/11). A página antiga é do Framer, feita por @micas.dsg, com o checkout da Hotmart `pay.hotmart.com/E106463685V` e sem Pixel. A LP nova da lista de espera está em `agencia_marketing/clients/churrascodaelite/lps/lista-black/` (13/11), no ar em `https://curso.churrascodaelite.pt` (16/11), projeto Vercel `churrasco-da-elite` do time hub3psmarketing. A raiz churrascodaelite.pt é a loja Shopify do Lucas, e o DNS está no dominios.pt, com o CNAME `curso` criado pelo Guilherme (16/11)
 - **Hotmart:** TODO
 - **Site e loja:** churrascodaelite.pt (fora do escopo)
 

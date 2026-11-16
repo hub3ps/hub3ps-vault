@@ -7,6 +7,7 @@ Uma linha por sessão de trabalho, a mais recente no topo.
 
 Formato: `- AAAA-MM-DD · <slug ou agencia> · <tarefa> · <onde está o resultado>`
 
+- 2026-11-16 · churrascodaelite · LP no domínio curso.churrascodaelite.pt e página de obrigado com o botão do grupo VIP; Lead passou para a página de obrigado · https://curso.churrascodaelite.pt
 - 2026-11-16 · churrascodaelite · BM trocada para a `666930504135899`; campanha de seguidores em rascunho (`120250644049660559`), conjuntos à mão pelo Guilherme porque o MCP recusou a visita ao perfil · `04-clientes/churrascodaelite/campanhas/seguidores-frio-perfil.md`
 - 2026-11-16 · churrascodaelite · Acessos conferidos na conta nova CA01 `1295259920836612`: Página e @churrasco_da_elite ok, sem Pixel ativo · `04-clientes/churrascodaelite/cliente.md`
 - 2026-11-16 · churrascodaelite · LP da lista publicada em domínio provisório para aprovação do Lucas, sem Pixel e com noindex · https://project-6x255.vercel.app/

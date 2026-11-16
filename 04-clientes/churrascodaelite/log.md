@@ -12,6 +12,12 @@ Formato:
 - **Decisões:** 
 - **Próximo passo:** 
 
+### 2026-11-16 · Domínio da LP e página de obrigado
+- **O que:** o Guilherme pôs o domínio `curso.churrascodaelite.pt` no projeto Vercel, com o CNAME no dominios.pt. A raiz `churrascodaelite.pt` é a loja Shopify do Lucas, por isso a LP não pode ficar em `/curso`. A pedido dele, criei a página de obrigado com o botão do grupo VIP e passei a configuração do Pixel para `comum.js`, partilhado pelas duas páginas
+- **Resultado em:** https://curso.churrascodaelite.pt e https://curso.churrascodaelite.pt/obrigado/, fonte em `agencia_marketing/clients/churrascodaelite/lps/lista-black/`, sem commit
+- **Decisões:** o formulário leva à página de obrigado, e não mais direto ao WhatsApp. O `Lead` sai na página de obrigado, só para quem veio do formulário e uma vez só. O clique no botão dispara o `GrupoVIP`. Link do grupo sem os parâmetros de partilha. O endereço provisório `project-6x255.vercel.app` saiu do projeto, e o domínio novo serve a mesma cópia, sem Pixel e com `noindex`
+- **Próximo passo:** Lucas aprova a LP. Depois, Pixel novo, Apps Script e tirar o `noindex`
+
 ### 2026-11-16 · Campanha de seguidores em rascunho, conjuntos à mão
 - **O que:** o Guilherme confirmou a troca para a BM `666930504135899` e mandou subir a campanha de seguidores. Os registros passaram para a BM nova. Criei a campanha `Seguidores | Frio | Perfil` (`120250644049660559`) em rascunho pelo MCP. O conjunto foi recusado: a otimização por visita ao perfil não está disponível pelo MCP nesta conta, como na Marjorie
 - **Resultado em:** `campanhas/seguidores-frio-perfil.md`, com a especificação para a subida à mão
