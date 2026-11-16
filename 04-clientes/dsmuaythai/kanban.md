@@ -19,7 +19,7 @@ kanban-plugin: board
 
 ## Fazendo
 
-- [ ] Subir o IG-03 (Holding pads parte 2) na campanha de Tráfego num conjunto próprio, duplicado pelo Gerenciador #trafego-pago @{2026-11-16}
+- [ ] Conferir se o IG-03 saiu da análise e está entregando #trafego-pago @{2026-11-17}
 - [ ] Campanha de seguidores (Tráfego) em Massachusetts, sem os seguidores atuais, desde 13/10 #trafego-pago
 
 
@@ -36,6 +36,8 @@ kanban-plugin: board
 
 ## Feito
 
+- [x] Conjunto do IG-02 renomeado com o quarto campo `| IG-02` (16/11)
+- [x] IG-03 publicado na campanha de Tráfego, em conjunto próprio (16/11)
 - [x] Teste de seguidores encerrado: Tráfego a US$ 0,90 por seguidor, Engajamento a US$ 2,78, pausado (16/11)
 - [x] Campanhas, anúncios e públicos renomeados para o padrão novo de nomes (11/11)
 - [x] E-mail da LP de trial trocado para o da recepção (30/10)

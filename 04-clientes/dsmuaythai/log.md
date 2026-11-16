@@ -6,6 +6,12 @@ autor: claude
 
 A entrada mais recente fica no topo, uma por sessão de trabalho.
 
+### 2026-11-16 · IG-03 no ar na campanha de Tráfego
+- **O que fiz:** conferi na API o conjunto e o anúncio que o Guilherme publicou pelo Gerenciador. Atualizei a ficha do Tráfego, a fila de Reels e o kanban.
+- **Resultado em:** [[seguidores-frio-perfil-trafego]] e [[2026-11-11-reels-para-seguidores]]
+- **O que achei:** conjunto `... | Visita ao perfil | IG-03` ativo, US$ 7/dia, visita ao perfil, MA, sem `Seguidores IG`. Anúncio `IG-03 | Reels | Holding pads parte 2` em análise, com o post certo (Dcgku5WBbIj) e botão de ver perfil. A campanha passou a US$ 14/dia. O conjunto novo saiu sem Advantage+ e com 18 a 55 fixos; o do IG-02 usa Advantage+.
+- **Próximo passo:** conferir a aprovação do IG-03 em 17/11; o conjunto do IG-03 fica sem Advantage+, por decisão do Guilherme. Com o OK dele, renomeei o conjunto original para `... | Visita ao perfil | IG-02`, conferido na API.
+
 ### 2026-11-16 · Fim do teste de seguidores e IG-03 na fila do Tráfego
 - **O que fiz:** conferi na API que o Guilherme pausou a campanha de Engajamento em 16/11 e li o resultado do teste. Preparei a subida do IG-03 (Holding pads parte 2) na campanha de Tráfego. O Guilherme decidiu que cada anúncio ganha conjunto próprio, duplicado do atual.
 - **Resultado em:** [[seguidores-frio-perfil-engajamento]] e [[seguidores-frio-perfil-trafego]]
