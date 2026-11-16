@@ -6,13 +6,13 @@ kanban-plugin: board
 
 - [ ] Lucas aprovar a LP da lista em https://project-6x255.vercel.app/ (provisória, sem Pixel e sem gravar inscrições, 16/11) #lp-e-site
 - [ ] Conferir na BM se o Guilherme virou ADM da Página do Churrasco da Elite no Facebook. O Lucas disse "feito" em 14/11, 11h25 #trafego-pago
-- [ ] Subir `Seguidores | Frio | Perfil` com IG-01 e IG-02, 5 € por dia cada, pela ficha em `campanhas/`, na CA01 `1295259920836612` (acessos conferidos em 16/11) #trafego-pago
-- [ ] Pixel para a campanha da LP: o `597919442616239` é da outra BM e não está na CA01. Compartilhar com a conta ou decidir outro (16/11) #tracking
+- [ ] Guilherme criar à mão os dois conjuntos e anúncios da `Seguidores | Frio | Perfil` (campanha `120250644049660559`, em rascunho), pela especificação da ficha. O MCP recusou a otimização por visita ao perfil (16/11). Depois, Claude confere e registra os IDs #trafego-pago
+- [ ] Pixel novo na BM `666930504135899`, criado pelo Guilherme, e trocar o ID em `CONFIG.pixel` da LP. O `597919442616239` é da BM antiga (16/11) #tracking
 - [ ] Auditar a BM `666930504135899`, dona da CA01, como foi feito com a `1996641120812552` (16/11) #trafego-pago
 - [ ] Guilherme revisar os 4 roteiros de `entregas/2026-11-13-roteiros-fim-de-semana.md` e mandar ao Lucas para gravar em 14 e 15/11 #criativos-e-audiovisual
 - [ ] Plano da Black Friday: oferta de 97 € por 67 € (16/11), datas, verba de 450 € em novembro dividida entre aquecimento e Black (13/11) #estrategia
-- [ ] Verificar o domínio churracodaelitept.com na BM (13/11) #tracking
-- [ ] Pixel `597919442616239` na LP nova: PageView e Lead no envio da lista de espera (13/11) #tracking
+- [ ] Verificar o domínio churracodaelitept.com na BM `666930504135899` (13/11, BM trocada em 16/11) #tracking
+- [ ] Pixel na LP nova: PageView e Lead no envio da lista de espera, com o ID do Pixel novo (13/11, ID trocado em 16/11) #tracking
 - [ ] Hotmart: Pixel no checkout e conferir de onde vêm os eventos de servidor do Pixel #tracking
 - [ ] Publicar a LP da lista no domínio próprio: projeto `churrasco-da-elite` na Vercel já criado (16/11), falta o domínio, o DNS e o Pixel de volta #lp-e-site
 - [ ] Planilha da lista com o Apps Script `ferramentas/lista-black.gs`, e a URL em `CONFIG.endpoint` (Guilherme instala, Claude cola) #tracking
@@ -33,8 +33,8 @@ kanban-plugin: board
 
 - [ ] Grupo VIP do WhatsApp da Black criado pelo Lucas, e o link de convite para `CONFIG.grupo` da LP
 - [ ] Depoimentos reais com nome. Os da página antiga ("Aluno em Lisboa" e outros) não têm nome e ficaram de fora
-- [ ] Confirmar o parceiro "Peach" (`148826077524843`) na BM. Se o Lucas não reconhecer, sai na hora
-- [ ] Confirmar que os dois perfis "Lucas Oliveira" com controle total da BM são dele
+- [ ] Confirmar o parceiro "Peach" (`148826077524843`) na BM antiga `1996641120812552`, que saiu de uso em 16/11. Conferir de novo na auditoria da BM nova. Se o Lucas não reconhecer, sai na hora
+- [ ] Confirmar que os dois perfis "Lucas Oliveira" com controle total da BM antiga são dele (conferir também na BM nova)
 - [ ] Preço da Black: 97 € por 67 €, definido pelo Guilherme em 16/11. Falta o Lucas aprovar, junto com a LP, e configurar na Hotmart
 
 

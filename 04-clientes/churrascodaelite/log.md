@@ -12,6 +12,12 @@ Formato:
 - **Decisões:** 
 - **Próximo passo:** 
 
+### 2026-11-16 · Campanha de seguidores em rascunho, conjuntos à mão
+- **O que:** o Guilherme confirmou a troca para a BM `666930504135899` e mandou subir a campanha de seguidores. Os registros passaram para a BM nova. Criei a campanha `Seguidores | Frio | Perfil` (`120250644049660559`) em rascunho pelo MCP. O conjunto foi recusado: a otimização por visita ao perfil não está disponível pelo MCP nesta conta, como na Marjorie
+- **Resultado em:** `campanhas/seguidores-frio-perfil.md`, com a especificação para a subida à mão
+- **Decisões:** Guilherme cria os conjuntos à mão, mantendo a visita ao perfil, em vez de otimizar por clique no link. Pixel novo fica para depois, criado pelo Guilherme (16/11)
+- **Próximo passo:** Guilherme sobe os conjuntos; Claude confere na API e registra os IDs
+
 ### 2026-11-16 · Acessos na conta de anúncios nova
 - **O que:** o Guilherme indicou a conta `1295259920836612` para os anúncios. Conferi pelo MCP a conta, a Página e o Instagram
 - **Resultado em:** `cliente.md` (Acessos), `campanhas/seguidores-frio-perfil.md` e kanban
