@@ -7,6 +7,7 @@ Uma linha por sessão de trabalho, a mais recente no topo.
 
 Formato: `- AAAA-MM-DD · <slug ou agencia> · <tarefa> · <onde está o resultado>`
 
+- 2026-11-16 · churrascodaelite · Campanha de seguidores no ar (IG-01 e IG-02, 5 € por dia cada), IDs conferidos na API e registrados · `04-clientes/churrascodaelite/campanhas/seguidores-frio-perfil.md`
 - 2026-11-16 · churrascodaelite · Planilha da lista ligada à LP pelo Apps Script; inscrições gravando · `04-clientes/churrascodaelite/log.md`
 - 2026-11-16 · churrascodaelite · LP no domínio curso.churrascodaelite.pt e página de obrigado com o botão do grupo VIP; Lead passou para a página de obrigado · https://curso.churrascodaelite.pt
 - 2026-11-16 · churrascodaelite · BM trocada para a `666930504135899`; campanha de seguidores em rascunho (`120250644049660559`), conjuntos à mão pelo Guilherme porque o MCP recusou a visita ao perfil · `04-clientes/churrascodaelite/campanhas/seguidores-frio-perfil.md`

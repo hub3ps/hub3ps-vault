@@ -6,7 +6,7 @@ kanban-plugin: board
 
 - [ ] Lucas aprovar a LP da lista em https://curso.churrascodaelite.pt, com a página de obrigado em `/obrigado/` (sem Pixel, já gravando na planilha, 16/11) #lp-e-site
 - [ ] Conferir na BM se o Guilherme virou ADM da Página do Churrasco da Elite no Facebook. O Lucas disse "feito" em 14/11, 11h25 #trafego-pago
-- [ ] Guilherme criar à mão os dois conjuntos e anúncios da `Seguidores | Frio | Perfil` (campanha `120250644049660559`, em rascunho), pela especificação da ficha. O MCP recusou a otimização por visita ao perfil (16/11). Depois, Claude confere e registra os IDs #trafego-pago
+- [ ] Seguidores: primeira leitura de custo por seguidor em 19/11, 3 dias depois de entrar no ar, e rodízio do pior pelo próximo da lista #trafego-pago
 - [ ] Pixel novo na BM `666930504135899`, criado pelo Guilherme, e trocar o ID em `CONFIG.pixel` da LP. O `597919442616239` é da BM antiga (16/11) #tracking
 - [ ] Auditar a BM `666930504135899`, dona da CA01, como foi feito com a `1996641120812552` (16/11) #trafego-pago
 - [ ] Guilherme revisar os 4 roteiros de `entregas/2026-11-13-roteiros-fim-de-semana.md` e mandar ao Lucas para gravar em 14 e 15/11 #criativos-e-audiovisual
@@ -38,7 +38,8 @@ kanban-plugin: board
 
 ## Feito
 
-- [x] Planilha da lista ligada: Apps Script na conta guitrafegopago, URL em `comum.js`, teste com `{"ok":true}` e inscrição pelo formulário no ar (16/11). Apagar as linhas "TESTE Claude"
+- [x] `Seguidores | Frio | Perfil` no ar, IG-01 e IG-02 a 5 € por dia cada, IDs na ficha (16/11)
+- [x] Planilha da lista ligada: Apps Script na conta guitrafegopago, URL em `comum.js`, teste com `{"ok":true}` e inscrição pelo formulário no ar, conferidas na planilha pelo Guilherme (16/11)
 - [x] Página de obrigado com o botão do grupo VIP, e link do grupo na LP (16/11)
 - [x] LP no domínio curso.churrascodaelite.pt, com SSL (16/11)
 - [x] Conta de anúncios definida: CA01 - Churrasco da Elite `1295259920836612`, com Página e @churrasco_da_elite acessíveis pelo MCP (16/11)
