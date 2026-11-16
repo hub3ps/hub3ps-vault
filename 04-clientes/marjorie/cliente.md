@@ -16,12 +16,12 @@ drive: TODO (Hub3Ps/Clientes/marjorie/)
 painel:
 repositorios: []
 proxima-reuniao: TODO
-atualizado: 2026-11-12
+atualizado: 2026-11-16
 autor: claude
 ---
 # Marjorie Andrade
 
-> **Estado atual:** fechado em 02/11 por WhatsApp, sem proposta nem contrato. O lançamento é em 27/11, com lista de espera no ar e preço especial até 30/11. Duas campanhas Meta no ar: [[seguidores-frio-perfil]] (seguidores, público frio dos EUA, desde 06/11) e [[distribuicao-quente-zero-to-hero]] (vídeo do curso para a base, criada em 09/11). Na rodada 1 de seguidores, o IG-06 ficou e o IG-03 saiu (09/11). Na rodada 2, o IG-06 ficou de novo e o IG-07 saiu; o IG-12 entrou em 12/11. O perfil foi de 14.035 seguidores em 02/11 para 15.764 em 09/11 (Julia, no grupo).
+> **Estado atual:** fechado em 02/11 por WhatsApp, sem proposta nem contrato. O lançamento é em 27/11, com lista de espera no ar e preço especial até 30/11. Duas campanhas Meta no ar: [[seguidores-frio-perfil]] (seguidores, público frio dos EUA, desde 06/11) e [[distribuicao-quente-zero-to-hero]] (vídeo do curso para a base, criada em 09/11). Na rodada 1 de seguidores, o IG-06 ficou e o IG-03 saiu (09/11). Na rodada 2, o IG-06 ficou de novo e o IG-07 saiu; o IG-12 entrou em 12/11. Na rodada 3, o IG-12 ficou e o IG-06 saiu (16/11); o IG-14 é o próximo. A distribuição está aprovada e entregando. O perfil foi de 14.035 seguidores em 02/11 para 15.764 em 09/11 (Julia, no grupo).
 
 ## Quem é
 - **Negócio:** Marjorie é designer de CAD odontológico, técnica, educadora e KOL do exocad. Desenha em tempo integral desde 2020. O primeiro curso, "Mastering exocad" (2023), teve alunos em mais de 65 países.

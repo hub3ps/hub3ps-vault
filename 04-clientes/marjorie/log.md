@@ -6,6 +6,12 @@ autor: claude
 
 A entrada mais recente fica no topo, uma por sessão de trabalho.
 
+### 2026-11-16 · Rodada 3 de seguidores e IG-06 pausado
+- **O que fiz:** li na API o custo por seguidor de 12 a 16/11 em [[seguidores-frio-perfil]]. Com o ok do Guilherme, pausei pelo MCP o conjunto do IG-06 e conferi a pausa na API. Li também a [[distribuicao-quente-zero-to-hero]]: está aprovada e entregando.
+- **O que achei:** IG-12 com US$ 19,64 e 43 seguidores (US$ 0,46 cada), IG-06 com US$ 22,40 e 5 (US$ 4,48). O IG-06 cansou depois de 10 dias no ar. Na distribuição, desde 09/11: US$ 35,05, 4.066 ThruPlays (uns US$ 0,01 cada), 7.396 pessoas alcançadas com frequência de 4,4, e o ThruPlay por dia caindo de 653 para 501 de 12 a 15/11.
+- **Decisões:** o IG-12 fica, o IG-06 sai e entra o IG-14, o 5º da lista da Julia (Guilherme). A campanha roda a US$ 5 por dia até o IG-14 entrar. A distribuição fica para depois da de seguidores (Guilherme).
+- **Próximo passo:** o Guilherme duplica o conjunto do IG-12 com o IG-14 e eu confiro na API. Depois, a otimização da distribuição.
+
 ### 2026-11-16 · Grupo de 14 e 15/11, pela rotina
 - **O que fiz:** a rotina WhatsApp diário registrou as 6 mensagens de 14 e 15/11 do grupo.
 - **Resultado em:** `fontes/2026-11-16-whatsapp-grupo.md`

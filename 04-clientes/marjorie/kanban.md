@@ -26,8 +26,8 @@ kanban-plugin: board
 ## Fazendo
 
 - [ ] IG-28 (DffdDhwhldx) em espera: subir quando o orgânico esgotar. A Julia monitora e avisa (09/11) #trafego-pago
-- [ ] Rodada 3 de seguidores: IG-06 contra IG-12, desde 12/11. Ler o custo por seguidor em 15/11. O próximo da fila é o IG-14 #trafego-pago
-- [ ] Campanha 2 (`marjorie-distribuicao-quente-0611`) em análise da Meta desde 09/11: conferir a aprovação e a primeira leitura de ThruPlay #trafego-pago
+- [ ] IG-14 (DRnTUjXk0MW) no ar contra o IG-12: o Guilherme duplica o conjunto do IG-12 à mão, eu confiro na API. Rodada 4 lida 3 dias depois de subir #trafego-pago
+- [ ] Distribuição aprovada e entregando (16/11), mas a base está quase toda alcançada (frequência 4,4 em 7 dias). Otimizar depois da de seguidores: segundo anúncio, o "Don't buy yet" ou os anúncios gravados da Julia #trafego-pago
 
 
 ## Aguardando cliente
@@ -44,6 +44,8 @@ kanban-plugin: board
 
 
 ## Feito
+
+- [x] Rodada 3 de seguidores fechada (16/11): IG-12 fica (US$ 0,46 por seguidor), IG-06 pausado (US$ 4,48)
 
 - [x] Anúncios gravados antes da viagem, mandados pela Julia no Drive (14/11): Ad 1 lista de espera e Ad 2 vagas abertas
 - [x] Rodada 2 de seguidores fechada (12/11): IG-06 fica (US$ 0,69 por seguidor), IG-07 pausado (US$ 1,38), IG-12 no ar. Resumo enviado ao grupo
