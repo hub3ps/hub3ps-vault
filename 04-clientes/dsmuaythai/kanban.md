@@ -19,7 +19,7 @@ kanban-plugin: board
 
 ## Fazendo
 
-- [ ] Subir o IG-03 (Holding pads parte 2) na campanha de Tráfego, pelo Gerenciador #trafego-pago @{2026-11-16}
+- [ ] Subir o IG-03 (Holding pads parte 2) na campanha de Tráfego num conjunto próprio, duplicado pelo Gerenciador #trafego-pago @{2026-11-16}
 - [ ] Campanha de seguidores (Tráfego) em Massachusetts, sem os seguidores atuais, desde 13/10 #trafego-pago
 
 

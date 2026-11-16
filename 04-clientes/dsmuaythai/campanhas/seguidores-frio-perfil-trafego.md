@@ -38,4 +38,4 @@ Os dois são Reels do perfil (conferido no Instagram em 11/11).
 - TODO · verba em US$ 7/dia na API (04/11 e 11/11). Conferir se mudou ou se o plano está errado
 - 2026-11-11 · campanha, conjunto e anúncios renomeados para o padrão novo · só rótulo, sem efeito na entrega
 - 2026-11-11 · ganha o quarto campo `Tráfego` e vira a base do teste contra o Engajamento · sem girar criativo enquanto o teste roda
-- 2026-11-16 · o teste contra o Engajamento acabou (US$ 0,90 contra US$ 2,78 por seguidor, de 11 a 16/11) · volta a girar criativo pela fila; próximo: IG-03, a subir pelo Gerenciador
+- 2026-11-16 · o teste contra o Engajamento acabou (US$ 0,90 contra US$ 2,78 por seguidor, de 11 a 16/11) · volta a girar criativo pela fila; próximo: IG-03, a subir pelo Gerenciador num conjunto próprio. Decisão do Guilherme em 16/11: daqui em diante, um anúncio por conjunto
