@@ -32,8 +32,7 @@ kanban-plugin: board
 
 ## Aguardando cliente
 
-- [ ] Testar o Lead do clique em "Join the list" com uma inscrição real no "Testar eventos" (regra ativa desde 09/11)
-- [ ] Julia pôr o Lead no sucesso do formulário da lista de espera, e então desativar a regra de clique `4511374259101290`
+- [ ] **Urgente, trava o Ad 1:** Julia pôr o Lead no código, no sucesso do envio da lista de espera. A regra de clique `4511374259101290` nunca disparou: no clique o botão vira "enviando" antes de o Pixel ler (16/11). Depois de publicado, testar com inscrição real e desativar a regra
 - [ ] Acesso ao Instagram (o convite deu erro em 03/11)
 - [ ] Aprovar a verba inicial de US$ 15 por dia
 - [ ] Publicar a LP e informar o domínio (até 20/11, para o Pixel)

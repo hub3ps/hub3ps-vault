@@ -6,6 +6,16 @@ autor: claude
 
 A entrada mais recente fica no topo, uma por sessão de trabalho.
 
+### 2026-11-16 · O Lead da lista de espera nunca disparou
+- **O que fiz:** o Guilherme avisou que o Pixel não recebe Lead. Li o Pixel `1775314010396135` na API e a config pública dele, li o código do formulário e simulei a inscrição no navegador, com o envio interceptado: o e-mail de teste não chegou ao servidor do site.
+- **O que achei:**
+  - De 09 a 16/11, o Pixel recebeu só PageView, entre 30 e 346 por dia, e nenhum Lead.
+  - A regra `4511374259101290` está ativa e chega ao site. O texto "join list" está certo, porque é a forma que a Meta guarda "Join the list".
+  - O erro é o tipo de rota. No clique, o formulário passa na hora para "enviando": o botão fica desabilitado e troca de texto. O Pixel lê o clique um instante depois e não acha mais o "Join the list". Na simulação completa, o clique não gerou nenhuma chamada à Meta.
+  - A falha é minha. Em 09/11 a regra foi ativada sem o teste com inscrição real, que ficou como próximo passo e não foi feito.
+- **Decisões:** a regra de clique não serve para este formulário. O Lead tem que entrar no código, no retorno de sucesso do envio, e só para inscrição nova.
+- **Próximo passo:** o Guilherme manda à Julia o pedido do Lead no código, com o texto aprovado. Depois que ela publicar, testar com uma inscrição real no "Testar eventos" e desativar a regra de clique. O Ad 1 da lista de espera só sobe depois disso.
+
 ### 2026-11-16 · Dois anúncios novos na distribuição
 - **O que fiz:** li a [[distribuicao-quente-zero-to-hero]] na API e propus dois posts novos no mesmo conjunto do IG-27. O Guilherme subiu os dois à mão, e conferi na API que os posts e o botão estão certos. Acrescentei os dois na lista de posts como #29 e #30.
 - **O que achei:** de 09 a 16/11, US$ 35,74 para 7.438 pessoas, com frequência de 4,4. O ThruPlay por dia caiu de 678 para 501 de 10 a 15/11. O custo segue bom (US$ 0,01 por ThruPlay, CPM de US$ 1,04 contra a mediana de US$ 4,24 de contas parecidas), então o problema é o criativo e não o custo.
