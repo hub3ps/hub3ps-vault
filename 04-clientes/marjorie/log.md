@@ -6,6 +6,12 @@ autor: claude
 
 A entrada mais recente fica no topo, uma por sessão de trabalho.
 
+### 2026-11-16 · IG-14 no ar contra o IG-12
+- **O que fiz:** o Guilherme duplicou à mão o conjunto do IG-12 com o IG-14, e conferi na API: mesma otimização, público, exclusão, posicionamentos e US$ 5 por dia. Na primeira leitura, o anúncio tinha herdado o post do IG-12 (mídia `18043055801138800`). O Guilherme trocou pelo post DRnTUjXk0MW e conferi de novo: o criativo `1520468176559826` aponta para "Sair do modo sobrevivência" (mídia `18166122352379849`).
+- **O que achei:** ao duplicar um conjunto, o anúncio leva junto o post de origem. Trocar o post é um passo à parte, e vale conferir sempre.
+- **Decisões:** nenhuma nova. A campanha volta a US$ 10 por dia.
+- **Próximo passo:** confirmar que o anúncio saiu da análise da Meta e está entregando. Ler a rodada 4, IG-12 contra IG-14, em 19/11. Depois, a otimização da distribuição.
+
 ### 2026-11-16 · Rodada 3 de seguidores e IG-06 pausado
 - **O que fiz:** li na API o custo por seguidor de 12 a 16/11 em [[seguidores-frio-perfil]]. Com o ok do Guilherme, pausei pelo MCP o conjunto do IG-06 e conferi a pausa na API. Li também a [[distribuicao-quente-zero-to-hero]]: está aprovada e entregando.
 - **O que achei:** IG-12 com US$ 19,64 e 43 seguidores (US$ 0,46 cada), IG-06 com US$ 22,40 e 5 (US$ 4,48). O IG-06 cansou depois de 10 dias no ar. Na distribuição, desde 09/11: US$ 35,05, 4.066 ThruPlays (uns US$ 0,01 cada), 7.396 pessoas alcançadas com frequência de 4,4, e o ThruPlay por dia caindo de 653 para 501 de 12 a 15/11.

@@ -26,7 +26,7 @@ kanban-plugin: board
 ## Fazendo
 
 - [ ] IG-28 (DffdDhwhldx) em espera: subir quando o orgânico esgotar. A Julia monitora e avisa (09/11) #trafego-pago
-- [ ] IG-14 (DRnTUjXk0MW) no ar contra o IG-12: o Guilherme duplica o conjunto do IG-12 à mão, eu confiro na API. Rodada 4 lida 3 dias depois de subir #trafego-pago
+- [ ] Rodada 4 de seguidores, IG-12 contra IG-14: confirmar que o IG-14 saiu da análise e entrega, e ler em 19/11 #trafego-pago
 - [ ] Distribuição aprovada e entregando (16/11), mas a base está quase toda alcançada (frequência 4,4 em 7 dias). Otimizar depois da de seguidores: segundo anúncio, o "Don't buy yet" ou os anúncios gravados da Julia #trafego-pago
 
 
@@ -45,6 +45,7 @@ kanban-plugin: board
 
 ## Feito
 
+- [x] IG-14 (DRnTUjXk0MW) no ar contra o IG-12, conjunto duplicado à mão e conferido na API (16/11)
 - [x] Rodada 3 de seguidores fechada (16/11): IG-12 fica (US$ 0,46 por seguidor), IG-06 pausado (US$ 4,48)
 
 - [x] Anúncios gravados antes da viagem, mandados pela Julia no Drive (14/11): Ad 1 lista de espera e Ad 2 vagas abertas
