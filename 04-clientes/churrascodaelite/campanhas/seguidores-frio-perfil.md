@@ -14,9 +14,9 @@ autor: claude
 ---
 # Seguidores | Frio | Perfil
 
-Captação de seguidores para o @churrasco_da_elite, com quem pode comprar o curso "Faturando com Churrasco" na Black Friday (27 a 30/11). Conta CA02 `1355470165815740`, valores em EUR. Pedida pelo Guilherme em 13/11, com dois conjuntos e um post em cada.
+Captação de seguidores para o @churrasco_da_elite, com quem pode comprar o curso "Faturando com Churrasco" na Black Friday (27 a 30/11). Conta CA01 - Churrasco da Elite `1295259920836612` (BM `666930504135899`), valores em EUR, indicada pelo Guilherme em 16/11. Página `111836513679647`, Instagram @churrasco_da_elite `17841403077087483`. Pedida pelo Guilherme em 13/11, com dois conjuntos e um post em cada.
 
-**Bloqueio em 13/11:** o @churrasco_da_elite não está ligado à CA02 nem à BM `1996641120812552`. O único Instagram da conta é o @omestredochurraspt. A campanha só sobe depois disso.
+**Bloqueio resolvido em 16/11:** na conta nova, a Página e o @churrasco_da_elite estão ligados e os posts IG-01 (`18114206996323146`) e IG-02 (`18399703315206330`) aparecem disponíveis para anúncio (MCP, 16/11).
 
 ## Configuração proposta
 Mesmo desenho da campanha de seguidores da Marjorie ([[04-clientes/marjorie/campanhas/seguidores-frio-perfil|ficha]]), que funcionou lá.
@@ -37,4 +37,5 @@ Mesmo desenho da campanha de seguidores da Marjorie ([[04-clientes/marjorie/camp
 Na Marjorie, o MCP não criou conjunto com `PROFILE_AND_PAGE_ENGAGEMENT` (12/11), e a subida foi à mão. Aqui, com o perfil ligado, o Claude tenta pelo MCP. Se recusar, o Guilherme sobe à mão por esta ficha, e o Claude confere na API e registra os IDs.
 
 ## Histórico de otimizações
+- 2026-11-16 · conta trocada para a CA01 `1295259920836612`, com Página e Instagram conferidos · pronta para subir
 - 2026-11-13 · campanha desenhada com IG-01 e IG-02, os dois primeiros da lista · à espera do @churrasco_da_elite na CA02

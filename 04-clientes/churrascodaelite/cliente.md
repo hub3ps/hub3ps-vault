@@ -38,7 +38,7 @@ Diagnóstico completo em [[05-comercial/propostas/churrascodaelite-2026-11|propo
 ## Escopo
 Fechado em 12/11/2026 (Guilherme), num escopo menor que o da proposta, para entrar no mercado europeu. Em 13/11 entraram o tracking e os criativos dos anúncios (Guilherme). Fonte: [[2026-11-13-acordo-guilherme]].
 
-- [[trafego-pago]]: Meta, na conta CA02 (EUR)
+- [[trafego-pago]]: Meta, na conta CA01 - Churrasco da Elite `1295259920836612` (EUR), escolhida pelo Guilherme em 16/11. Antes era a CA02
 - **Estratégia:** apoio pontual. TODO: não há serviço nem playbook de estratégia no [[catalogo]]
 - [[lp-e-site]]: LP do curso refeita do zero na Vercel, no domínio que já existe (churracodaelitept.com), com a lista de espera
 - [[tracking]]: Pixel, eventos da LP e da Hotmart, verificação de domínio na BM (13/11)
@@ -64,6 +64,7 @@ Fechado em 12/11/2026 (Guilherme), num escopo menor que o da proposta, para entr
 - [ ] Identidade visual do curso. O Lucas disse que é a da página e a do ebook (11/11, grupo)
 
 ## Acessos
+- **Conta de anúncios em uso desde 16/11: CA01 - Churrasco da Elite** `1295259920836612` (EUR, ativa, com forma de pagamento), indicada pelo Guilherme. Fica na BM `666930504135899` ("Lucas Oliveira"), **outra BM**, não a `1996641120812552` auditada em 13/11. Pelo MCP em 16/11: Página `111836513679647` ("churrasco_da_elite") promovida na conta, Instagram @churrasco_da_elite `17841403077087483` ligado a essa Página e com os posts disponíveis para anúncio (IG-01 e IG-02 conferidos). Pixels na conta: só três de 2021, parados desde dezembro de 2021 (`333549951080063`, `7234212559937411`, `627263991946070`); o Pixel `597919442616239` da LP é da outra BM e não está nesta conta. Histórico: quatro campanhas pausadas, 12,38 € gastos no total
 Nunca guarde senha aqui.
 
 - **Meta:** BM `1996641120812552` ("Lucas Oliveira"), acessível pelo MCP desde 13/11. **Conta em uso: CA02** `1355470165815740` ("CA02 - Lucas Oliveira", em EUR, com forma de pagamento; Guilherme, 13/11). A CA01 `1179328230501061` (em BRL) fica parada. Pixel `597919442616239` ("Pixel Lucas Oliveira"), ativo, último disparo em 08/11, com eventos de servidor até 04/11. Página `492637223936612` ("Lucas Oliveira"), ligada ao Instagram @omestredochurraspt (perfil pessoal do Lucas). O @churrasco_da_elite (33,2 mil seguidores em 13/11) não está na BM nem na CA02. **Página do Churrasco da Elite no Facebook:** o Guilherme pediu para ser ADM em 13/11, e o Lucas respondeu "feito" em 14/11, 11h25 (grupo). TODO: conferir na BM e anotar o ID

@@ -6,7 +6,9 @@ kanban-plugin: board
 
 - [ ] Lucas aprovar a LP da lista em https://project-6x255.vercel.app/ (provisória, sem Pixel e sem gravar inscrições, 16/11) #lp-e-site
 - [ ] Conferir na BM se o Guilherme virou ADM da Página do Churrasco da Elite no Facebook. O Lucas disse "feito" em 14/11, 11h25 #trafego-pago
-- [ ] Subir `Seguidores | Frio | Perfil` com IG-01 e IG-02, 5 € por dia cada, pela ficha em `campanhas/` (depende do @churrasco_da_elite na CA02) #trafego-pago
+- [ ] Subir `Seguidores | Frio | Perfil` com IG-01 e IG-02, 5 € por dia cada, pela ficha em `campanhas/`, na CA01 `1295259920836612` (acessos conferidos em 16/11) #trafego-pago
+- [ ] Pixel para a campanha da LP: o `597919442616239` é da outra BM e não está na CA01. Compartilhar com a conta ou decidir outro (16/11) #tracking
+- [ ] Auditar a BM `666930504135899`, dona da CA01, como foi feito com a `1996641120812552` (16/11) #trafego-pago
 - [ ] Guilherme revisar os 4 roteiros de `entregas/2026-11-13-roteiros-fim-de-semana.md` e mandar ao Lucas para gravar em 14 e 15/11 #criativos-e-audiovisual
 - [ ] Plano da Black Friday: oferta de 97 € por 67 € (16/11), datas, verba de 450 € em novembro dividida entre aquecimento e Black (13/11) #estrategia
 - [ ] Verificar o domínio churracodaelitept.com na BM (13/11) #tracking
@@ -29,7 +31,6 @@ kanban-plugin: board
 
 ## Aguardando cliente
 
-- [ ] Ligar o @churrasco_da_elite à BM e à CA02. Hoje só o @omestredochurraspt está ligado (13/11). Sem isso, a campanha de seguidores não sai
 - [ ] Grupo VIP do WhatsApp da Black criado pelo Lucas, e o link de convite para `CONFIG.grupo` da LP
 - [ ] Depoimentos reais com nome. Os da página antiga ("Aluno em Lisboa" e outros) não têm nome e ficaram de fora
 - [ ] Confirmar o parceiro "Peach" (`148826077524843`) na BM. Se o Lucas não reconhecer, sai na hora
@@ -39,6 +40,7 @@ kanban-plugin: board
 
 ## Feito
 
+- [x] Conta de anúncios definida: CA01 - Churrasco da Elite `1295259920836612`, com Página e @churrasco_da_elite acessíveis pelo MCP (16/11)
 - [x] Lucas disse ter adicionado o Guilherme como ADM da Página do Churrasco da Elite no Facebook (14/11, a conferir)
 - [x] Posts escolhidos: começa pela lista dos 14, com IG-01 e IG-02 (Guilherme, 13/11)
 - [x] Quatro roteiros para o fim de semana, em rascunho (13/11)

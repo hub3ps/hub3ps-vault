@@ -7,6 +7,7 @@ Uma linha por sessão de trabalho, a mais recente no topo.
 
 Formato: `- AAAA-MM-DD · <slug ou agencia> · <tarefa> · <onde está o resultado>`
 
+- 2026-11-16 · churrascodaelite · Acessos conferidos na conta nova CA01 `1295259920836612`: Página e @churrasco_da_elite ok, sem Pixel ativo · `04-clientes/churrascodaelite/cliente.md`
 - 2026-11-16 · churrascodaelite · LP da lista publicada em domínio provisório para aprovação do Lucas, sem Pixel e com noindex · https://project-6x255.vercel.app/
 - 2026-11-16 · churrascodaelite · LP da lista com preço de 97 € por 67 €, cronómetro até 27/11 e as seções de dores, ganhos e mentoria de volta; preço da Black atualizado no cliente, no kanban e no CLAUDE.md do repo · `04-clientes/churrascodaelite/log.md`
 - 2026-11-16 · marjorie · WhatsApp diário: 6 mensagens de 14 e 15/11 (Julia mandou os anúncios gravados, Ad 1 lista de espera e Ad 2 vagas abertas por público) · `04-clientes/marjorie/fontes/2026-11-16-whatsapp-grupo.md`

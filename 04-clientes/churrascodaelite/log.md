@@ -12,6 +12,12 @@ Formato:
 - **Decisões:** 
 - **Próximo passo:** 
 
+### 2026-11-16 · Acessos na conta de anúncios nova
+- **O que:** o Guilherme indicou a conta `1295259920836612` para os anúncios. Conferi pelo MCP a conta, a Página e o Instagram
+- **Resultado em:** `cliente.md` (Acessos), `campanhas/seguidores-frio-perfil.md` e kanban
+- **Decisões:** a conta dos anúncios passa a ser a CA01 - Churrasco da Elite (EUR, ativa, com pagamento), da BM `666930504135899`, e não a CA02. Página `111836513679647` e @churrasco_da_elite `17841403077087483` acessíveis, com os posts IG-01 e IG-02 disponíveis
+- **Próximo passo:** subir a campanha de seguidores. Para a campanha da LP falta Pixel nesta conta, e a BM nova ainda não foi auditada
+
 ### 2026-11-16 · LP da lista no ar em domínio provisório, para o Lucas aprovar
 - **O que:** publiquei a LP no projeto Vercel `churrasco-da-elite` (time hub3psmarketing, criado pelo Guilherme em 16/11), pela CLI, a partir de uma cópia no scratchpad
 - **Resultado em:** https://project-6x255.vercel.app/ (público). O outro alias, `churrasco-da-elite-hub3psmarketing.vercel.app`, pede login da Vercel e não serve para mandar ao Lucas
