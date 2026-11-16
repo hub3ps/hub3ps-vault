@@ -6,6 +6,12 @@ autor: claude
 
 A entrada mais recente fica no topo, uma por sessão de trabalho.
 
+### 2026-11-16 · Fim do teste de seguidores e IG-03 na fila do Tráfego
+- **O que fiz:** conferi na API que o Guilherme pausou a campanha de Engajamento em 16/11 e li o resultado do teste. Preparei a subida do IG-03 (Holding pads parte 2) na campanha de Tráfego, ao lado do IG-02.
+- **Resultado em:** [[seguidores-frio-perfil-engajamento]] e [[seguidores-frio-perfil-trafego]]
+- **O que achei:** de 11 a 16/11, Engajamento a US$ 2,78 por seguidor (US$ 36,09, 13 seguidores) e Tráfego a US$ 0,90 (US$ 38,70, 43). O anúncio de visita ao perfil não se cria pela API nesta conta, então o IG-03 sobe pelo Gerenciador.
+- **Próximo passo:** o Guilherme sobe o IG-03 no Gerenciador; eu confiro na API e marco a fila.
+
 ### 2026-11-16 · Revisão dos Reels dos últimos 3 meses para seguidores
 - **O que fiz:** listei pelo MCP da Meta os posts do perfil de 16/08 a 16/11: 13 Reels. Propus 6 candidatos novos, além dos 5 da fila de 11/11 que caem na janela.
 - **Resultado em:** [[2026-11-11-reels-para-seguidores]]

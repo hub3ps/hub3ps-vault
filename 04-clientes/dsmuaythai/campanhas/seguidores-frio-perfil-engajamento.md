@@ -4,12 +4,12 @@ cliente: dsmuaythai
 nome-campanha: Seguidores | Frio | Perfil | Engajamento
 plataforma: meta
 id-campanha: "120260262685740386"
-status: ativa
+status: pausada
 inicio: 2026-11-11
 verba-diaria: 7
 evento-otimizacao: PROFILE_AND_PAGE_ENGAGEMENT
 lp: https://instagram.com/ds_muaythai_squad
-atualizado: 2026-11-12
+atualizado: 2026-11-16
 autor: claude
 ---
 # Seguidores | Frio | Perfil | Engajamento
@@ -26,6 +26,18 @@ custos ficam parecidos, mas o Engajamento traz seguidor mais qualificado.
   [[2026-11-11-reels-para-seguidores]]
 - **Base de comparação:** Tráfego, US$ 216,53 por 207 seguidores desde 13/10,
   US$ 1,05 por seguidor
+
+## Resultado
+Pausada pelo Guilherme em 16/11/2026, antes dos 14 dias previstos, porque o
+custo por seguidor ficou ruim. De 11 a 16/11:
+
+| Campanha | Gasto | Seguidores | Por seguidor |
+|---|---|---|---|
+| Engajamento | US$ 36,09 | 13 | US$ 2,78 |
+| Tráfego | US$ 38,70 | 43 | US$ 0,90 |
+
+A hipótese de custo parecido não se confirmou: o Engajamento custou três vezes
+mais por seguidor. Seguidores lidos pelo MCP (`instagram_profile_follow_v2`).
 
 ## Configuração
 Conferida na API em 11/11/2026.
@@ -49,3 +61,4 @@ Conferida na API em 11/11/2026.
 - 2026-11-11 · primeira tentativa (`120260260783360386`), criada pelo MCP, arquivada · o anúncio ficou sem o Reels
 - 2026-11-11 · recriada e ativada pelo Guilherme no Gerenciador; conjunto e anúncio renomeados pelo MCP · início do teste
 - 2026-11-12 · IG-02 saiu da análise, ativo e entregando · parcial de 11 e 12/11: US$ 6,15 e 1 seguidor (Tráfego no mesmo período: US$ 8,43 e 6)
+- 2026-11-16 · pausada pelo Guilherme · US$ 2,78 por seguidor, contra US$ 0,90 do Tráfego no mesmo período

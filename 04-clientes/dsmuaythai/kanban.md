@@ -19,7 +19,7 @@ kanban-plugin: board
 
 ## Fazendo
 
-- [ ] Teste de seguidores, Engajamento contra Tráfego: ler o custo por seguidor das duas em 14/11; o teste vale 14 dias, até 25/11 #trafego-pago @{2026-11-14}
+- [ ] Subir o IG-03 (Holding pads parte 2) na campanha de Tráfego, pelo Gerenciador #trafego-pago @{2026-11-16}
 - [ ] Campanha de seguidores (Tráfego) em Massachusetts, sem os seguidores atuais, desde 13/10 #trafego-pago
 
 
@@ -36,6 +36,7 @@ kanban-plugin: board
 
 ## Feito
 
+- [x] Teste de seguidores encerrado: Tráfego a US$ 0,90 por seguidor, Engajamento a US$ 2,78, pausado (16/11)
 - [x] Campanhas, anúncios e públicos renomeados para o padrão novo de nomes (11/11)
 - [x] E-mail da LP de trial trocado para o da recepção (30/10)
 - [x] Bio do Instagram sem o perfil pessoal do David (30/10)
