@@ -44,6 +44,8 @@ Revisada com as clientes em 05/11, à tarde: saíram 5 e entraram 6, e a lista f
 | 26 | 10/08/2026 | Reel | A calculadora funcionando | 178 (224 comentários) | [abrir](https://www.instagram.com/reel/Db3JnViukF0/) | lista de 05/11 |
 | 27 | 04/11/2026 | Reel | Trajetória da Marjorie e anúncio do Zero to Hero (é o vídeo do curso, com "waitlist in my bio") | 229 | [abrir](https://www.instagram.com/reel/DfUu0YJBAsu/) | sugerido pela Julia |
 | 28 | 08/11/2026 | Post em vídeo | Dica de exocad: a Marjorie refaz um caso antigo e mostra a evolução. Termina com o convite para a LP da comunidade. Ganhou uns 900 seguidores no orgânico de 08 para 09/11. **Em espera:** só entra no tráfego quando o orgânico esgotar, e a Julia avisa (Guilherme, 09/11) | n/d | [abrir](https://www.instagram.com/p/DffdDhwhldx/) | sugerido pela Julia em 08/11 |
+| 29 | 01/11/2026 | Reel | "Don't buy yet": 12 segundos chamando para a lista de espera. Vai para a distribuição da base, não para a captação | 53 | [abrir](https://www.instagram.com/reel/DfM-nw-MKZo/) | proposto por nós em 16/11 |
+| 30 | 11/11/2026 | Reel | "Nobody becomes an exocad expert overnight": apresenta o Zero to Hero para dentista, técnico e estudante. Vai para a distribuição da base, não para a captação | 470 (161 comentários) | [abrir](https://www.instagram.com/reel/Dfmt9uiBN0g/) | proposto por nós em 16/11 |
 
 ## Lista inicial das clientes: os 10 para postar primeiro
 A Julia mandou no grupo em 05/11 a "lista pra postar inicial", com a numeração da lista de 26 que o Guilherme enviou. A mensagem só chegou ao vault em 06/11, reenviada pelo Guilherme. Uma lista de prioridade montada antes, sem ela, foi descartada.

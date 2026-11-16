@@ -27,7 +27,7 @@ kanban-plugin: board
 
 - [ ] IG-28 (DffdDhwhldx) em espera: subir quando o orgânico esgotar. A Julia monitora e avisa (09/11) #trafego-pago
 - [ ] Rodada 4 de seguidores, IG-12 contra IG-14: confirmar que o IG-14 saiu da análise e entrega, e ler em 19/11 #trafego-pago
-- [ ] Distribuição aprovada e entregando (16/11), mas a base está quase toda alcançada (frequência 4,4 em 7 dias). Otimizar depois da de seguidores: segundo anúncio, o "Don't buy yet" ou os anúncios gravados da Julia #trafego-pago
+- [ ] Distribuição com a base cansando do IG-27 (frequência 4,4, ThruPlay por dia caindo). IG-29 ("Don't buy yet") e IG-30 ("Nobody becomes an exocad expert overnight") no ar no mesmo conjunto desde 16/11, verba mantida em US$ 5, conferidos na API. Confirmar que saíram da análise e ler o ThruPlay por anúncio em 19/11, junto com a rodada 4 #trafego-pago
 
 
 ## Aguardando cliente

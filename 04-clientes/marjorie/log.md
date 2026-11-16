@@ -6,6 +6,12 @@ autor: claude
 
 A entrada mais recente fica no topo, uma por sessão de trabalho.
 
+### 2026-11-16 · Dois anúncios novos na distribuição
+- **O que fiz:** li a [[distribuicao-quente-zero-to-hero]] na API e propus dois posts novos no mesmo conjunto do IG-27. O Guilherme subiu os dois à mão, e conferi na API que os posts e o botão estão certos. Acrescentei os dois na lista de posts como #29 e #30.
+- **O que achei:** de 09 a 16/11, US$ 35,74 para 7.438 pessoas, com frequência de 4,4. O ThruPlay por dia caiu de 678 para 501 de 10 a 15/11. O custo segue bom (US$ 0,01 por ThruPlay, CPM de US$ 1,04 contra a mediana de US$ 4,24 de contas parecidas), então o problema é o criativo e não o custo.
+- **Decisões:** entram o IG-29 ("Don't buy yet") e o IG-30 ("Nobody becomes an exocad expert overnight"), e a verba fica em US$ 5 por dia (Guilherme). O IG-28 continua fora, esperando o orgânico esgotar. Os anúncios gravados da Julia ficam para o lembrete de 25 e 26/11.
+- **Próximo passo:** confirmar que os dois saíram da análise e ler o ThruPlay por anúncio em 19/11, junto com a rodada 4 de seguidores.
+
 ### 2026-11-16 · IG-14 no ar contra o IG-12
 - **O que fiz:** o Guilherme duplicou à mão o conjunto do IG-12 com o IG-14, e conferi na API: mesma otimização, público, exclusão, posicionamentos e US$ 5 por dia. Na primeira leitura, o anúncio tinha herdado o post do IG-12 (mídia `18043055801138800`). O Guilherme trocou pelo post DRnTUjXk0MW e conferi de novo: o criativo `1520468176559826` aponta para "Sair do modo sobrevivência" (mídia `18166122352379849`).
 - **O que achei:** ao duplicar um conjunto, o anúncio leva junto o post de origem. Trocar o post é um passo à parte, e vale conferir sempre.
