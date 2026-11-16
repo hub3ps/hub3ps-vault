@@ -13,6 +13,7 @@ A entrada mais recente fica no topo, uma por sessão de trabalho.
   - A regra `4511374259101290` está ativa e chega ao site. O texto "join list" está certo, porque é a forma que a Meta guarda "Join the list".
   - O erro é o tipo de rota. No clique, o formulário passa na hora para "enviando": o botão fica desabilitado e troca de texto. O Pixel lê o clique um instante depois e não acha mais o "Join the list". Na simulação completa, o clique não gerou nenhuma chamada à Meta.
   - A falha é minha. Em 09/11 a regra foi ativada sem o teste com inscrição real, que ficou como próximo passo e não foi feito.
+  - O Guilherme pediu para ficar só no clique. Refiz o teste com 1,5 s de atraso no envio, como na rede real, e o clique em "Join the list" de novo não mandou nada à Meta, nem o clique genérico. Já o clique em "Continue", do passo 1, gerou chamada à Meta. Então nenhuma regra de clique, com nenhum texto, pega o botão final.
 - **Decisões:** a regra de clique não serve para este formulário. O Lead tem que entrar no código, no retorno de sucesso do envio, e só para inscrição nova.
 - **Próximo passo:** o Guilherme manda à Julia o pedido do Lead no código, com o texto aprovado. Depois que ela publicar, testar com uma inscrição real no "Testar eventos" e desativar a regra de clique. O Ad 1 da lista de espera só sobe depois disso.
 
