@@ -7,6 +7,7 @@ Uma linha por sessão de trabalho, a mais recente no topo.
 
 Formato: `- AAAA-MM-DD · <slug ou agencia> · <tarefa> · <onde está o resultado>`
 
+- 2026-11-17 · hub3ps · Legenda do Reels do agente de WhatsApp (IG-07) e conjunto novo dele na campanha de seguidores renomeado; resultado do IG-06 e do IG-04 registrado · `04-clientes/hub3ps/guimiguelmkt/campanhas/seguidores-frio-perfil.md`
 - 2026-11-17 · hub3ps · Perfis de referência do @guimiguelmkt (pablo_aa, pedroaaugustto, odevtemplario, ssabriel_) analisados e guardados · `04-clientes/hub3ps/guimiguelmkt/referencias.md`
 - 2026-11-17 · churrascodaelite · WhatsApp diário: 62 mensagens de 16 e 17/11 (LP aprovada pelo Lucas, cartão na CA01, grupo novo da Black, Guilherme vai olhar a qualidade dos seguidores e segmentar só homens) · `04-clientes/churrascodaelite/fontes/2026-11-17-whatsapp-grupo.md`
 - 2026-11-17 · marjorie · WhatsApp diário: 28 mensagens de 16/11 (lista com 347 inscrições, pedido do Lead no código feito pela Julia, caixinha nos stories nesta semana) · `04-clientes/marjorie/fontes/2026-11-17-whatsapp-grupo.md`

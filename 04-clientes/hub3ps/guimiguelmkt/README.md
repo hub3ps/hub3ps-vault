@@ -6,7 +6,7 @@ autor: claude
 ---
 # @guimiguelmkt · posicionamento e conteúdo do Guilherme
 
-> **Estado atual:** 6 posts. O IG-06 (Claude no Meta Ads) foi publicado em 12/11 e roda na campanha [[campanhas/seguidores-frio-perfil|Seguidores | Frio | Perfil]] desde 13/11, com o IG-04 num segundo conjunto, a R$ 20/dia cada. Roteiro 1 (gestor de tráfego) aprovado em 11/11. Roteiro 2 (dono de negócio, outro assunto) só depois de gravar e publicar o roteiro 1.
+> **Estado atual:** 7 posts. A campanha [[campanhas/seguidores-frio-perfil|Seguidores | Frio | Perfil]] roda desde 17/11 só com o IG-07 (agente no WhatsApp), a R$ 30/dia. Os conjuntos do IG-06 e do IG-04 estão pausados. Roteiro 1 (gestor de tráfego) aprovado em 11/11. Roteiro 2 (dono de negócio, outro assunto) só depois de gravar e publicar o roteiro 1.
 
 Pasta do Instagram pessoal do Guilherme. Criada em 11/11/2026, a pedido dele.
 
@@ -27,7 +27,7 @@ Pasta do Instagram pessoal do Guilherme. Criada em 11/11/2026, a pedido dele.
 |---|---|---|---|
 | 11/11 | [[roteiros/2026-11-11-fim-do-gestor-de-trafego\|O fim do gestor de tráfego]] | gestor de tráfego | gravado em 11/11, corte sugerido na nota, falta editar e postar |
 | 11/11 | [[roteiros/2026-11-11-claude-meta-ads-contexto\|Não conecte o Claude no seu Meta Ads sem fazer isso antes]] | gestor de tráfego | publicado em 12/11 (IG-06), impulsionado desde 13/11 |
-| 17/11 | [[roteiros/2026-11-17-agente-whatsapp-tarefas\|Agente de IA que acompanha os grupos de WhatsApp]] | gestor de tráfego | gravado e com legenda em 17/11, postado por ele |
+| 17/11 | [[roteiros/2026-11-17-agente-whatsapp-tarefas\|Agente de IA que acompanha os grupos de WhatsApp]] | gestor de tráfego | publicado em 17/11 (IG-07), impulsionado no mesmo dia |
 | 11/11 | [[roteiros/2026-11-11-gta-6-4-coisas\|4 coisas que vou fazer quando lançar o GTA 6]] | gestor de tráfego e geral | rascunho para aprovação, postar em 18 ou 19/11 |
 | TODO | roteiro 2 | dono de negócio | depois de gravar e publicar o roteiro 1 (decisão de 11/11) |
 

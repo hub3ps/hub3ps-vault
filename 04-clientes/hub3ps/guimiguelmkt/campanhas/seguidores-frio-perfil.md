@@ -7,10 +7,10 @@ conta: "1702680416845524"
 id-campanha: "120249697942430578"
 status: ativa
 inicio: 2026-11-13
-verba-diaria: 40
+verba-diaria: 30
 evento-otimizacao: Visita ao perfil
 perfil: https://www.instagram.com/guimiguelmkt/
-atualizado: 2026-11-13
+atualizado: 2026-11-17
 autor: claude
 ---
 # Seguidores | Frio | Perfil
@@ -27,8 +27,9 @@ Conferida na API em 13/11/2026.
 
 | Conjunto | ID | Status | Verba | Público na API |
 |---|---|---|---|---|
-| `Aberto 18-45 \| Brasil \| Visita ao perfil \| IG-06` (antes `Novo conjunto de anúncios de Engajamento`) | `120249697942440578` | ativo | R$ 20/dia | Brasil, 18 a 45, todos os gêneros, sem Advantage+ de público, sem exclusão. Posicionamentos manuais: Feed, Stories e Reels do Facebook; Feed, Stories, Reels, Explorar e Feed do perfil do Instagram |
-| `Aberto 18-45 \| Brasil \| Visita ao perfil \| IG-04` (duplicado do primeiro) | `120249698525430578` | ativo | R$ 20/dia | igual ao do IG-06 |
+| `Aberto 18-45 \| Brasil \| Visita ao perfil \| IG-06` (antes `Novo conjunto de anúncios de Engajamento`) | `120249697942440578` | pausado até 17/11 | R$ 20/dia | Brasil, 18 a 45, todos os gêneros, sem Advantage+ de público, sem exclusão. Posicionamentos manuais: Feed, Stories e Reels do Facebook; Feed, Stories, Reels, Explorar e Feed do perfil do Instagram |
+| `Aberto 18-45 \| Brasil \| Visita ao perfil \| IG-04` (duplicado do primeiro) | `120249698525430578` | pausado até 17/11 | R$ 20/dia | igual ao do IG-06 |
+| `Aberto 22-45 \| Brasil \| Visita ao perfil \| IG-07` (veio como cópia do IG-04) | `120249758665500578` | ativo desde 17/11 | R$ 30/dia | igual, mas com idade de 22 a 45 |
 
 Um conjunto por post, com verba própria em cada um (sem CBO), para garantir a entrega dos dois no teste. O ID do post entra como quarto campo no nome do conjunto.
 
@@ -36,6 +37,7 @@ Um conjunto por post, com verba própria em cada um (sem CBO), para garantir a e
 |---|---|---|---|
 | `IG-06 \| Reels \| Claude no Meta Ads` (antes `Novo anúncio de Engajamento`) | `120249697942420578` | [Reels de 12/11](https://www.instagram.com/reel/Dfpya40vEsB/), o [[roteiros/2026-11-11-claude-meta-ads-contexto\|vídeo do IMG_2087]] | Ver perfil do Instagram |
 | `IG-04 \| Reels \| Gestor ou anúncio` (veio como `IG-06 \| Reels \| Claude no Meta Ads`, nome herdado da duplicação) | `120249698525420578` | [Reels de 05/11](https://www.instagram.com/reel/DfX7yIchzJk/), "Anúncio ou gestor de tráfego: onde você gasta mais?" | Ver perfil do Instagram |
+| `IG-07 \| Reels \| Agente no WhatsApp` (veio como `IG-04 \| Reels \| Gestor ou anúncio`, herdado da cópia; renomeado pelo Guilherme no Ads Manager em 17/11) | `120249758665510578` | [Reels de 17/11](https://www.instagram.com/reel/Df2qX-XMwqB/), o [[roteiros/2026-11-17-agente-whatsapp-tarefas\|agente dos grupos de WhatsApp]] | Ver perfil do Instagram |
 
 > Logo depois de renomear, o anúncio do IG-06 passou alguns minutos "em processamento" e voltou a ativo (conferido em 13/11).
 
@@ -52,12 +54,23 @@ A ordem de publicação dá o número, e o ID do anúncio segue esta lista.
 | IG-04 | 05/11 | Reels "Se o seu gestor ganha mais que o seu anúncio" |
 | IG-05 | 10/11 | Reels "Setup novo" |
 | IG-06 | 12/11 | Reels "Não conecte o Claude no seu Meta Ads sem fazer isso antes" |
+| IG-07 | 17/11 | Reels "É assim que eu dou conta de vários projetos sozinho" |
 
 ## Como ler o resultado
 A Meta otimiza para visita ao perfil, não para quem segue. O que importa é o **custo por seguidor**: o investimento dividido pelos seguidores ganhos no período, que se vê nos insights do perfil. A visita ao perfil é só o caminho até ele.
+
+## Resultado até 17/11
+Total na API desde 13/11. "Visitas" é o clique no perfil, que é o que a Meta otimiza. Seguidores ganhos por post: TODO, ler nos insights do perfil.
+
+| Conjunto | Investido | Impressões | Visitas ao perfil | Custo por visita | Salvamentos |
+|---|---|---|---|---|---|
+| IG-06 | R$ 51,43 | 3.244 | 219 | R$ 0,23 | 10 |
+| IG-04 | R$ 53,00 | 2.724 | 206 | R$ 0,26 | 9 |
 
 ## Histórico de otimizações
 - 2026-11-13 · publicada pelo Guilherme, com um conjunto e o IG-06 · primeira campanha de seguidores do perfil
 - 2026-11-13 · campanha, conjunto e anúncio renomeados para o padrão · só rótulo, sem efeito na entrega
 - 2026-11-13 · novo conjunto com o IG-04, duplicado do primeiro, R$ 20/dia · testar um segundo post; a verba total passa a R$ 40/dia. Conjuntos ganham o ID do post no nome
 - 2026-11-13 · anúncio do IG-04 destravado pelo Guilherme, depois do erro de permissão na Página · os dois conjuntos e anúncios ativos
+- até 2026-11-17 · conjuntos do IG-06 e do IG-04 pausados pelo Guilherme · TODO: o motivo
+- 2026-11-17 · conjunto novo com o IG-07, cópia do IG-04, R$ 30/dia e idade de 22 a 45 · post novo do dia. Conjunto renomeado pela API; o anúncio fica para o Ads Manager, por causa do erro de permissão na Página de 13/11
