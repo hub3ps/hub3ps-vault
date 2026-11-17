@@ -13,9 +13,9 @@ Público: gestor de tráfego e quem atende vários clientes.
 **Fala:** cada projeto e cada cliente tem um grupo de WhatsApp. Um agente de IA lê tudo todo dia, transforma em tarefa com prazo (ou pergunta o prazo), salva ideias e anotações e manda um resumo diário do que ficou para trás. Resultado: ele quase não esquece mais entrega. CTA: comentar e seguir para ver como montou.
 
 ## Legenda do post
-No padrão das [[referencias]]: uma linha só, em minúsculo, e poucas hashtags. A versão com pergunta no fim saiu longa demais. A frase final é do Guilherme, com "uso" no lugar de "utilizo" e o WhatsApp citado, a pedido dele. Sem "como eu", porque o vídeo mostra o que o agente faz e não ensina a montar (17/11). Sem "comenta X": esse gatilho promete um envio automático por DM, que ainda não temos (decisão de 17/11).
+No padrão das [[referencias]]: uma linha só, em minúsculo, e poucas hashtags. A versão com pergunta no fim saiu longa demais. A frase final é do Guilherme, com "uso" no lugar de "utilizo" e o WhatsApp citado, a pedido dele. Sem "como eu", porque o vídeo mostra o que o agente faz e não ensina a montar. Final escolhida por ele entre opções de curiosidade (17/11). Sem "comenta X": esse gatilho promete um envio automático por DM, que ainda não temos (decisão de 17/11).
 ```
-dica de gestão de projetos com agente de IA no WhatsApp 🤖
+é assim que eu dou conta de vários projetos sozinho 🤖
 
 #inteligenciaartificial #produtividade #automacao
 ```
