@@ -6,6 +6,12 @@ autor: claude
 
 A entrada mais recente fica no topo, uma por sessão de trabalho.
 
+### 2026-11-17 · Primeiro Lead real confirmado no Pixel
+- **O que fiz:** o Guilherme preferiu esperar inscrição real a fazer inscrição teste. Conferi pelo MCP o Lead do Pixel `1775314010396135` desde 16/11.
+- **O que achei:** 3 Leads em 16/11 e 2 em 17/11 até 06h21 (horário do Pacífico). Como a regra de clique nunca disparou, todos vêm do código da Julia. A simulação de 16/11 não mandou nada à Meta.
+- **Decisões:** o Lead está validado, e o Ad 1 da lista de espera fica liberado.
+- **Próximo passo:** subir o Ad 1 (VID-01 e VID-02) de 19 a 26/11 no público quente, com verba a definir pelo Guilherme.
+
 ### 2026-11-17 · Grupo de 16/11, pela rotina
 - **O que fiz:** a rotina WhatsApp diário registrou as 28 mensagens de 16/11 do grupo.
 - **Resultado em:** `fontes/2026-11-17-whatsapp-grupo.md`
