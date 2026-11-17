@@ -6,6 +6,17 @@ autor: claude
 
 A entrada mais recente fica no topo, uma por sessão de trabalho.
 
+### 2026-11-17 · Grupo de 16/11, pela rotina
+- **O que fiz:** a rotina WhatsApp diário registrou as 28 mensagens de 16/11 do grupo.
+- **Resultado em:** `fontes/2026-11-17-whatsapp-grupo.md`
+- **O que achei:**
+  - O Guilherme perguntou como estava a lista de espera, para decidir se a captação da lista roda para público frio ou fica só no quente: com volume bom, só quente (16/11, 14h25). A Julia respondeu que a lista está com 347 inscrições e que a expectativa delas é de 10 a 20 assinantes, num produto de ticket mais alto (16/11, 15h11). O Guilherme achou o volume muito bom, já que o preço está na LP. A decisão de frio ou quente não foi dita com todas as letras.
+  - O pedido do Lead no código foi feito no grupo pelo Guilherme (16/11, 14h36). A Julia passou o recado do Claude dela: se o clique no botão estiver marcado como Lead, a inscrição conta em dobro, e o clique deve ser desativado. O Guilherme respondeu que ia excluir o evento antigo ao subir o novo, e a Julia avisou "feito" às 16h06. Bate com o que já está registrado: a regra de clique foi excluída em 16/11.
+  - A Julia vai abrir caixinha de perguntas nos stories nesta semana (16/11, 15h57). O Guilherme sugeriu uma ou duas lives no Instagram quando abrirem as vagas, para tirar dúvidas (16/11, 15h54).
+  - Três áudios da Julia (15h12 a 15h14) não baixaram. Pela resposta do Guilherme ("Esse vídeo é uma boa mesmo"), falam de um vídeo, que não dá para identificar.
+- **Decisões:** nenhuma nova registrada.
+- **Próximo passo:** o Guilherme fecha se a captação da lista vai para público frio. Confirmar o primeiro Lead real no Pixel, como já estava.
+
 ### 2026-11-16 · Lead no código da lista de espera e regra de clique excluída
 - **O que fiz:** a Julia publicou o Lead no código. Li o código no ar e simulei a inscrição no navegador, com o envio para `/api/zth-waitlist` interceptado e o `fbq` trocado por um registro, então nada chegou ao servidor do site nem à Meta. Com o ok do Guilherme, excluí pelo MCP a regra de clique `4511374259101290` (exclusão reversível, a regra fica arquivada) e conferi que o Pixel não tem mais regra nem parâmetro.
 - **O que achei:** o código chama `fbq('track','Lead')` no retorno de sucesso do envio, só para inscrição nova: não dispara para quem já estava na lista nem para o campo armadilha de robô, e não dispara na página `/rx`. Os dois formulários, o do topo e o cartão, passam pelo mesmo envio. Na simulação, a inscrição disparou exatamente um Lead. Não vai `content_name`, o que não muda nada para otimizar.

@@ -4,6 +4,8 @@ kanban-plugin: board
 
 ## A fazer
 
+- [ ] Decidir se a captação da lista de espera vai também para público frio. A lista está com 347 inscrições (Julia, 16/11). Critério do Guilherme: com volume bom, fica só no quente (16/11, 14h26) #trafego-pago
+- [ ] Lives no Instagram quando abrirem as vagas, uma ou duas, para tirar dúvidas (sugestão do Guilherme no grupo, 16/11) #criativos-e-audiovisual
 - [ ] Revisar os anúncios gravados que a Julia mandou no Drive (Ad 1 lista de espera, 2 variações; Ad 2 vagas abertas, por público) e definir quando sobe cada um (Guilherme no grupo, 15/11) #criativos-e-audiovisual
 - [ ] Conferir no Gerenciador se os cargos da lista da Julia para o Ad 2 existem como segmentação (dentistas, técnicos e assistentes, 14/11) #trafego-pago
 - [ ] Conferir em 13/11 se os eventos do Pixel carregaram e avisar a Julia, como o Guilherme prometeu no grupo (12/11, 22h05) #tracking
@@ -33,6 +35,7 @@ kanban-plugin: board
 
 ## Aguardando cliente
 
+- [ ] Caixinha de perguntas nos stories nesta semana (Julia, 16/11, 15h57)
 - [ ] Acesso ao Instagram (o convite deu erro em 03/11)
 - [ ] Aprovar a verba inicial de US$ 15 por dia
 - [ ] Publicar a LP e informar o domínio (até 20/11, para o Pixel)

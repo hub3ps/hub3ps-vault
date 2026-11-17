@@ -4,7 +4,9 @@ kanban-plugin: board
 
 ## A fazer
 
-- [ ] Lucas aprovar a LP da lista em https://curso.churrascodaelite.pt, com a página de obrigado em `/obrigado/` (sem Pixel, já gravando na planilha, 16/11) #lp-e-site
+- [ ] Ver a qualidade dos seguidores que estão chegando e testar segmentar só homens na `Seguidores | Frio | Perfil` (Guilherme no grupo, 17/11, 09h07) #trafego-pago
+- [ ] Teste da lista de espera no grupo do WhatsApp nesta semana. Se não for bem, ajustar e rodar direto para vender na LP (Guilherme, 16/11) #estrategia
+- [ ] Trazer pelo Instagram quem foi ao primeiro workshop (23 no grupo antigo, 6 presenciais) para o grupo novo da Black (Guilherme, 16/11) #estrategia
 - [ ] Conferir na BM se o Guilherme virou ADM da Página do Churrasco da Elite no Facebook. O Lucas disse "feito" em 14/11, 11h25 #trafego-pago
 - [ ] Seguidores: primeira leitura de custo por seguidor em 19/11, 3 dias depois de entrar no ar, e rodízio do pior pelo próximo da lista #trafego-pago
 - [ ] Pixel novo na BM `666930504135899`, criado pelo Guilherme, e trocar o ID em `CONFIG.pixel` da LP. O `597919442616239` é da BM antiga (16/11) #tracking
@@ -14,10 +16,10 @@ kanban-plugin: board
 - [ ] Verificar o domínio churrascodaelite.pt na BM `666930504135899` (13/11; BM e domínio trocados em 16/11) #tracking
 - [ ] Pixel na LP nova: PageView nas duas páginas, Lead na página de obrigado e GrupoVIP no botão, já no código. Falta o ID do Pixel novo em `comum.js` (13/11, atualizado em 16/11) #tracking
 - [ ] Hotmart: Pixel no checkout e conferir de onde vêm os eventos de servidor do Pixel #tracking
-- [ ] Depois da aprovação do Lucas: tirar o `noindex` da LP e publicar com o Pixel novo em curso.churrascodaelite.pt #lp-e-site
+- [ ] LP aprovada pelo Lucas (16/11): tirar o `noindex` da LP e publicar com o Pixel novo em curso.churrascodaelite.pt #lp-e-site
 - [ ] Página de vendas da Black (27 a 30/11) com o checkout a 67 €: a LP nova tira do ar a página de 97 € do Framer #lp-e-site
 - [ ] Criativos da captação de seguidores e da base para a LP (13/11) #criativos-e-audiovisual
-- [ ] Campanha da base para a LP da lista de espera, na CA02, no padrão de nomes #trafego-pago
+- [ ] Campanha da base para a LP da lista de espera, na CA01 (conta em uso desde 16/11), no padrão de nomes #trafego-pago
 - [ ] Ficha de cada campanha em `campanhas/` #trafego-pago
 - [ ] Criar o painel `churrascodaelite.hub3ps.com` pelo runbook novo-hub, na semana de 16/11 (Guilherme pediu para esperar) #trafego-pago
 - [ ] Criar a pasta `Hub3Ps/Clientes/churrascodaelite/` no Drive e subir o PDF da proposta (Guilherme) #comercial
@@ -33,11 +35,14 @@ kanban-plugin: board
 - [ ] Depoimentos reais com nome. Os da página antiga ("Aluno em Lisboa" e outros) não têm nome e ficaram de fora
 - [ ] Confirmar o parceiro "Peach" (`148826077524843`) na BM antiga `1996641120812552`, que saiu de uso em 16/11. Conferir de novo na auditoria da BM nova. Se o Lucas não reconhecer, sai na hora
 - [ ] Confirmar que os dois perfis "Lucas Oliveira" com controle total da BM antiga são dele (conferir também na BM nova)
-- [ ] Preço da Black: 97 € por 67 €, definido pelo Guilherme em 16/11. Falta o Lucas aprovar, junto com a LP, e configurar na Hotmart
+- [ ] Preço da Black: 97 € por 67 €, definido pelo Guilherme em 16/11. O Lucas aprovou a LP com o card de 67 € (16/11), sem comentar o preço à parte. Falta configurar na Hotmart
 
 
 ## Feito
 
+- [x] LP da lista aprovada pelo Lucas: "TA PERFEITA" (16/11, 13h39)
+- [x] Cartão cadastrado pelo Lucas na CA01, em EUR (16/11, 15h00)
+- [x] Grupo novo da Black criado pelo Lucas, link mandado no grupo (16/11, 14h05)
 - [x] `Seguidores | Frio | Perfil` no ar, IG-01 e IG-02 a 5 € por dia cada, IDs na ficha (16/11)
 - [x] Planilha da lista ligada: Apps Script na conta guitrafegopago, URL em `comum.js`, teste com `{"ok":true}` e inscrição pelo formulário no ar, conferidas na planilha pelo Guilherme (16/11)
 - [x] Página de obrigado com o botão do grupo VIP, e link do grupo na LP (16/11)

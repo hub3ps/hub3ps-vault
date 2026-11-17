@@ -7,6 +7,8 @@ Uma linha por sessão de trabalho, a mais recente no topo.
 
 Formato: `- AAAA-MM-DD · <slug ou agencia> · <tarefa> · <onde está o resultado>`
 
+- 2026-11-17 · churrascodaelite · WhatsApp diário: 62 mensagens de 16 e 17/11 (LP aprovada pelo Lucas, cartão na CA01, grupo novo da Black, Guilherme vai olhar a qualidade dos seguidores e segmentar só homens) · `04-clientes/churrascodaelite/fontes/2026-11-17-whatsapp-grupo.md`
+- 2026-11-17 · marjorie · WhatsApp diário: 28 mensagens de 16/11 (lista com 347 inscrições, pedido do Lead no código feito pela Julia, caixinha nos stories nesta semana) · `04-clientes/marjorie/fontes/2026-11-17-whatsapp-grupo.md`
 - 2026-11-16 · churrascodaelite · Campanha de seguidores no ar (IG-01 e IG-02, 5 € por dia cada), IDs conferidos na API e registrados · `04-clientes/churrascodaelite/campanhas/seguidores-frio-perfil.md`
 - 2026-11-16 · churrascodaelite · Planilha da lista ligada à LP pelo Apps Script; inscrições gravando · `04-clientes/churrascodaelite/log.md`
 - 2026-11-16 · churrascodaelite · LP no domínio curso.churrascodaelite.pt e página de obrigado com o botão do grupo VIP; Lead passou para a página de obrigado · https://curso.churrascodaelite.pt

@@ -12,6 +12,21 @@ Formato:
 - **Decisões:** 
 - **Próximo passo:** 
 
+### 2026-11-17 · Grupo de 16 e 17/11, pela rotina
+- **O que:** a rotina WhatsApp diário registrou as 62 mensagens de 16 e 17/11 do grupo
+- **Resultado em:** `fontes/2026-11-17-whatsapp-grupo.md`
+- **O que achei:**
+  - **LP aprovada pelo Lucas:** "TA PERFEITA" (16/11, 13h39), sobre o link `churrascodaelite.vercel.app` mandado pelo Guilherme às 10h47. O preço de 67 € não foi comentado à parte
+  - **WhatsApp em Portugal:** o Lucas disse que o pessoal usa "BASTANTE" (16/11, 13h36)
+  - **Cartão na CA01:** o Guilherme passou a conta `1295259920836612` (13h49) e pediu o cadastro em euro, para não pagar os 12% de imposto do Brasil. O Lucas avisou "cartao ja cadastrado" às 15h00. Nenhum dado de cartão foi colado no grupo
+  - **Grupo da Black:** o Lucas tem o grupo do primeiro workshop, com 23 pessoas, das quais só 6 foram presencialmente (13h50). O Lucas criou um grupo novo e mandou o link às 14h05. É o mesmo link que já está em `comum.js` da LP
+  - **Seguidores:** em 17/11, 06h23, o Lucas disse que estão chegando muitos seguidores (sem número). O áudio dele das 09h05 não baixou. O Guilherme respondeu que vai ver a qualidade desses seguidores, que acha interessante segmentar só para homens e que vai otimizar as campanhas (17/11, 09h06 e 09h07)
+  - **Hotmart:** o Lucas pensou em, no futuro, sair da Hotmart para uma página própria com Stripe. O Guilherme disse que compensa quando houver um fluxo bom de vendas (16/11, 15h48)
+- **Decisões:**
+  - A lista de espera vai para um grupo no WhatsApp, que libera as vagas na Black. Teste nesta semana: se der bom, mantém; se não, ajusta e roda direto para vender na LP (Guilherme, 16/11, 13h48)
+  - Grupo novo, só para a Black, em vez do grupo do workshop. Quem foi ao workshop e não comprou se pega pelo Instagram (Guilherme, 16/11, 13h50 a 13h52)
+- **Próximo passo:** com a LP aprovada, tirar o `noindex` e pôr o Pixel novo. O Guilherme olha a qualidade dos seguidores e decide a segmentação só para homens
+
 ### 2026-11-16 · Campanha de seguidores no ar
 - **O que:** o Guilherme publicou à mão os dois conjuntos da `Seguidores | Frio | Perfil`. Conferi na API e registrei os IDs
 - **Resultado em:** `campanhas/seguidores-frio-perfil.md` (seção "IDs no ar")
