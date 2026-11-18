@@ -22,17 +22,23 @@ Sete vídeos que o Lucas mandou ao Guilherme pelo WhatsApp em 09/11, baixados em
 | VL-06 | `11.54.18` | 28 s | "Cansado de trabalhar na obra, no restaurante, de ganhar ordenado mínimo?" | **Usar com fecho novo:** é o melhor gancho, mas termina sem chamada ("me acompanhe"). Precisa de cartela final com "Clica no link e entra na lista" |
 | VL-07 | `11.57.52` | 33 s | Ao lado da piscina, "cansado da obra, do restaurante?" | **Usar com corte:** 0 a 6,6 s + 14,7 a 31,7 s (tira "1.500 euros" e a palavra solta do fim), cerca de 23 s |
 
-**Ordem para testar:** VL-06, VL-07 e VL-02 (dor e prova, sem promessa), depois VL-01 e VL-03.
+## Decisão do Guilherme (18/11)
+Depois de ver os cortes, o Guilherme decidiu vídeo a vídeo. Os cortes da primeira rodada (sem as promessas de ganho, e o VL-06 com cartela) foram descartados e estão na Lixeira do Mac.
 
-## Cortes prontos (18/11)
-Em `~/Downloads/churrascodaelite-captacao/`, 576x1024, H.264, 30 fps. Cortados no ffmpeg direto: a ferramenta `editar-video` sai em HDR de iPhone e 1080 de largura, e estes vídeos do WhatsApp são SDR. Sem legenda nova. Conferidos por retranscrição: sem emenda suja e sem valor em euros.
-
-| Arquivo | Duração | Trechos do original |
+| ID | Decisão | Papel na campanha |
 |---|---|---|
-| `VL-01_sintra-40-pessoas.mp4` | 13,7 s | 1,40 a 13,70 + 25,32 a 26,70 |
-| `VL-02_armazem-3-eventos.mp4` | 36 s | inteiro |
-| `VL-03_caixa-preta.mp4` | 45,4 s | 1,55 a 40,62 + 48,30 a 54,60 |
-| `VL-06_ordenado-minimo.mp4` | 28,8 s | 0 a 25,32 (sai o "me acompanhe") + 3,5 s de cartela sobre o último quadro: "Entra na lista VIP · A oferta da Black Friday sai primeiro no grupo VIP · Clica no link", nas cores da LP, acima da faixa que a interface do Reels cobre |
-| `VL-07_cansado-da-obra.mp4` | 23,2 s | 0 a 6,85 + 15,25 a 31,62 |
+| VL-07 | Inteiro, "o melhor de todos" | **Conjunto 1** |
+| VL-05 | Inteiro | **Conjunto 2** |
+| VL-02 | Inteiro | Fila, 1º a entrar |
+| VL-03 | Inteiro | Fila, 2º |
+| VL-04 | Só sem os dois "2025": de "quer empreender em 2025, quer ter" para "quer empreender, quer ter", e de "criar essa nova renda pra 2025? Clique" para "criar essa nova renda? Clique". O "final de ano, último churrasco do ano" ficou | Fila, 3º |
+| VL-01 | Descartado | |
+| VL-06 | Descartado | |
+
+A ordem da fila foi minha, não do Guilherme: ele pediu os outros "em sequência para irmos subindo e testando aos poucos".
+
+**Arquivos:** `~/Downloads/churrascodaelite-captacao/`, com o número da ordem no nome. Os inteiros são cópia do original do WhatsApp, sem reprocessar. O VL-04 foi cortado em 8,18 a 9,64 s e 32,48 a 33,90 s do original (35,8 s no fim) e conferido por retranscrição.
+
+**Risco que fica:** VL-07, VL-05 e VL-03 sobem com a promessa de ganho (1.500 € e 1.500 € a 2.500 €). Se a Meta reprovar algum, os cortes sem a promessa estão na tabela acima.
 
 Nenhum fala da Black nem da lista. A chamada é genérica ("clique no link"), o que serve, e o texto do anúncio completa com a lista e os 67 €.

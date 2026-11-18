@@ -17,7 +17,8 @@ Formato:
 - **Resultado em:** [[entregas/2026-11-18-videos-do-lucas]]
 - **O que achei:** 5 aproveitáveis (VL-01, 02, 03, 06 e 07), 3 deles só com corte, porque prometem de 1.500 € a 5.000 € por mês. VL-04 (fala de 2025) e VL-05 (a promessa é o vídeo inteiro) ficam de fora. Todos chegaram em 576x1024 pelo WhatsApp
 - **Cortes (18/11):** feitos a pedido do Guilherme, os 5 em `~/Downloads/churrascodaelite-captacao/`, conferidos por retranscrição. VL-06 com cartela final da lista VIP
-- **Próximo passo:** subir os 5 na campanha de captação da lista. Se o Lucas mandar os originais, refazer os cortes com a mesma tabela
+- **Decisão do Guilherme (18/11):** VL-07 e VL-05 inteiros, um em cada conjunto. VL-02, VL-03 inteiros e VL-04 sem o "2025" ficam na fila. VL-01 e VL-06 descartados, assim como os cortes da primeira rodada
+- **Próximo passo:** montar a campanha de captação da lista com dois conjuntos, otimizando por `Lead`
 
 ### 2026-11-18 · Cookies da LP no esquema do JurIA
 - **O que:** o aviso de cookies da LP e da página de obrigado passou para o esquema do site do JurIA: o Pixel liga sozinho, e o aviso tem só "Recusar" e "Dispensar". Uma primeira versão com "Preferências" e "Gerir cookies" no rodapé foi feita e desfeita no mesmo dia: o Guilherme não gostou das opções de seleção

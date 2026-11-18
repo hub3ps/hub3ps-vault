@@ -7,6 +7,7 @@ Uma linha por sessão de trabalho, a mais recente no topo.
 
 Formato: `- AAAA-MM-DD · <slug ou agencia> · <tarefa> · <onde está o resultado>`
 
+- 2026-11-18 · churrascodaelite · Vídeos da captação definidos pelo Guilherme: VL-07 e VL-05 nos conjuntos, fila VL-02, VL-03 e VL-04 sem 2025 · `04-clientes/churrascodaelite/entregas/2026-11-18-videos-do-lucas.md`
 - 2026-11-18 · churrascodaelite · 5 vídeos do Lucas cortados para a captação (sem promessa de ganho, VL-06 com cartela da lista VIP) · `~/Downloads/churrascodaelite-captacao/`
 - 2026-11-18 · churrascodaelite · 7 vídeos do Lucas analisados para a captação da lista: 5 aproveitáveis, 3 com corte · `04-clientes/churrascodaelite/entregas/2026-11-18-videos-do-lucas.md`
 - 2026-11-18 · churrascodaelite · Cookies da LP no esquema do JurIA: Pixel liga sozinho, aviso só com Recusar e Dispensar · `04-clientes/churrascodaelite/log.md`
