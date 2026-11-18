@@ -6,7 +6,7 @@ atualizado: 2026-11-09
 
 | Ferramenta | Papel |
 |---|---|
-| Obsidian | Cérebro: clientes, escopo, playbooks, processos, Kanban e histórico |
+| Obsidian | Cérebro: clientes, escopo, playbooks, processos, tarefas e histórico |
 | Claude Code | Execução local, na nuvem e em rotinas. Lê o vault antes de agir |
 | GitHub | Cópia online do vault e do código, com histórico. O vault sincroniza pelo Obsidian Git |
 | Vercel | Publicação de LPs, sites e hubs |
@@ -26,7 +26,8 @@ atualizado: 2026-11-09
 ## Plugins do Obsidian
 - **Obsidian Git**: commit, pull e push automáticos
 - **Dataview**: tabelas a partir dos campos das notas (usado em [[INICIO]])
-- **Kanban**: quadro de tarefas por cliente
+- **TaskNotes** (desde 18/11/2026): cada tarefa é uma nota em `08-tarefas/notas/`, com quadro central em `08-tarefas/Quadro.base` e um por cliente. Substituiu os kanbans por cliente, que estão em `_arquivo/kanbans-antigos/`
+- **Kanban**: plugin mantido para abrir os kanbans antigos do arquivo
 
 ## Repositórios de código
 | Repositório | O que publica |

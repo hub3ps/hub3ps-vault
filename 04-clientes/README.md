@@ -5,7 +5,7 @@ Uma pasta por cliente, com o slug igual ao do Drive e do repositório:
 ```
 04-clientes/<slug>/
 ├── cliente.md      ← nota viva: escopo, exceções, estado (de _modelos/cliente)
-├── kanban.md       ← tarefas (de _modelos/kanban)
+├── tarefas.base    ← quadro das tarefas do cliente (de _modelos/tarefas.base); as notas ficam em 08-tarefas/notas/
 ├── log.md          ← histórico de sessões (de _modelos/log)
 ├── reunioes/       ← uma nota por reunião
 ├── campanhas/      ← uma nota por campanha

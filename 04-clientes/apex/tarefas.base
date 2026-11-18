@@ -1,0 +1,22 @@
+# Tarefas do cliente apex. As notas ficam em 08-tarefas/notas/, com cliente: apex.
+filters:
+  and:
+    - file.hasTag("task")
+    - file.hasTag("archived") != true
+    - cliente == "apex"
+views:
+  - type: tasknotesKanban
+    name: Quadro
+    order:
+      - status
+      - due
+      - file.tags
+    sort:
+      - column: tasknotes_manual_order
+        direction: DESC
+    groupBy:
+      property: status
+      direction: ASC
+    hideEmptyColumns: false
+    pinnedColumns: a-fazer, fazendo, aguardando-cliente, feito
+    columnWidth: 280

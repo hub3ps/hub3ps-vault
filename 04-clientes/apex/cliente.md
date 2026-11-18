@@ -81,7 +81,7 @@ Nunca guarde senha aqui. As variáveis ficam no EasyPanel.
 | Briefing original de julho e FAQ de 47 itens | `clients/apex/` no `agencia_marketing` |
 
 ## Links
-- Kanban: [[04-clientes/apex/kanban|kanban]]
+- Tarefas: [[04-clientes/apex/tarefas.base|quadro de tarefas]]
 - Log: [[04-clientes/apex/log|log]]
 - Fontes: `fontes/`
 - Drive: TODO

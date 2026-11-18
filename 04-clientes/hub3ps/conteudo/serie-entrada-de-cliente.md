@@ -19,11 +19,11 @@ Grave a tela em cada fase, no momento em que ela acontece. Depois não dá para 
 | Fase | Cena | Número para anotar |
 |---|---|---|
 | 0. Abertura | Você falando para a câmera: "fechei um cliente ontem, olha o que acontece agora" | nenhum |
-| 2. Fechamento | Você pede no chat "abre o cliente novo", e a pasta aparece no Obsidian: nota, kanban e log | arquivos criados e tempo do pedido até a pasta pronta |
+| 2. Fechamento | Você pede no chat "abre o cliente novo", e a pasta aparece no Obsidian: nota, quadro de tarefas e log | arquivos criados e tempo do pedido até a pasta pronta |
 | 2. Fechamento | Número da agência entrando no grupo e a linha na tabela de grupos | nenhum |
 | 3. Briefing | O áudio ou a conversa do cliente virando briefing, com os blocos ✅ 🟡 ⬜ | áudios transcritos, perguntas que não precisaram ser feitas de novo |
 | 3. Briefing | As lacunas virando cartões em "Aguardando cliente" | cartões criados |
-| 4. Implantação | As tarefas saindo dos playbooks para o kanban, na ordem certa | tarefas criadas |
+| 4. Implantação | As tarefas saindo dos playbooks para o quadro de tarefas, na ordem certa | tarefas criadas |
 | 4. Implantação | O hub do cliente no ar, com o endereço dele | tempo da pasta ao hub no ar |
 | 5. Gestão | Às 8h, o resumo chegando no seu WhatsApp, já com o cliente novo | mensagens lidas no 1º dia |
 | Fecho | Você: "isso tudo antes era o meu dia inteiro" | só se for verdade e medido |

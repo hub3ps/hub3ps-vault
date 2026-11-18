@@ -48,7 +48,7 @@ O que está travado esperando o cliente.
 Onde estão (nunca a senha): BM, GA4, GTM, domínio, hospedagem, ferramentas.
 
 ## Links
-- Kanban: [[kanban]]
+- Tarefas: [[tarefas.base|quadro de tarefas]]
 - Log: [[log]]
 - Reuniões: `reunioes/`
 - Campanhas: `campanhas/`

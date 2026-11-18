@@ -84,7 +84,7 @@ Tudo está na branch `claude/loving-archimedes-rp33cv` do `agencia_marketing`. N
 | Briefing do vídeo respondido | Google Docs no Drive do Guilherme: "Vídeo institucional Mobiletec - Briefing para confirmar" |
 
 ## Links
-- Kanban: [[04-clientes/mobiletec/kanban|kanban]]
+- Tarefas: [[04-clientes/mobiletec/tarefas.base|quadro de tarefas]]
 - Log: [[04-clientes/mobiletec/log|log]]
 - Reuniões: `reunioes/`
 - Fontes: `fontes/`

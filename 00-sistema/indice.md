@@ -8,7 +8,7 @@ Primeira nota que o agente lê numa consulta. Uma linha por área, com o que tem
 dentro. Atualize sempre que criar, mover ou apagar nota.
 
 - [[INICIO]]: painel com clientes ativos e pendências
-- [[TAREFAS]]: cartões abertos de todos os kanbans numa tela só, por prazo, com as tarefas do Guilherme (`#gui`) e o que cobrar dos clientes
+- [[TAREFAS]]: o [[08-tarefas/Quadro.base|quadro de tarefas]] de todos os clientes, com uma faixa por cliente, as tarefas do Guilherme (`gui`) e a lista por prazo. Cada tarefa é uma nota em `08-tarefas/notas/`
 - **00-sistema**: [[regras]], [[licoes]], [[log-operacoes]], [[contexto-reestruturacao]] (histórico do projeto de reestruturação), este índice
 - **01-agencia**: [[jornada]], [[catalogo]], [[motor]], [[suporte]], [[stack]]
 - **02-playbooks**: [[trafego-pago]], [[lp-e-site]], [[criativos-e-audiovisual]], [[tracking]], [[email-marketing]], [[social]], [[agentes-de-ia]], [[busca-organica]]
@@ -17,4 +17,4 @@ dentro. Atualize sempre que criar, mover ou apagar nota.
 - **05-comercial**: [[pipeline]] e `propostas/`
 - **06-produto**: Hub3Ps SaaS
 - **07-referencias**: biblioteca de templates de criativo
-- **_modelos**: cliente, briefing, kanban, log, reunião, playbook, campanha, proposta e `proposta-pdf/` (padrão da proposta em PDF)
+- **_modelos**: cliente, briefing, tarefas do cliente (`tarefas.base`), log, reunião, playbook, campanha, proposta e `proposta-pdf/` (padrão da proposta em PDF)

@@ -1,0 +1,79 @@
+{
+  "tasksFolder": "08-tarefas/notas",
+  "taskTag": "task",
+  "taskIdentificationMethod": "tag",
+  "defaultTaskStatus": "a-fazer",
+  "defaultTaskPriority": "none",
+  "storeTitleInFilename": false,
+  "taskFilenameFormat": "custom",
+  "customFilenameTemplate": "{{title}}",
+  "enableMdbaseSpec": false,
+  "uiLanguage": "pt",
+  "nlpLanguage": "pt",
+  "taskCreationDefaults": {
+    "defaultScheduledDate": "none"
+  },
+  "customStatuses": [
+    {
+      "id": "a-fazer",
+      "value": "a-fazer",
+      "label": "A fazer",
+      "color": "#808080",
+      "isCompleted": false,
+      "excludeFromCycle": false,
+      "order": 1,
+      "autoArchive": false,
+      "autoArchiveDelay": 5
+    },
+    {
+      "id": "fazendo",
+      "value": "fazendo",
+      "label": "Fazendo",
+      "color": "#0066cc",
+      "isCompleted": false,
+      "excludeFromCycle": false,
+      "order": 2,
+      "autoArchive": false,
+      "autoArchiveDelay": 5
+    },
+    {
+      "id": "aguardando-cliente",
+      "value": "aguardando-cliente",
+      "label": "Aguardando cliente",
+      "color": "#d98c00",
+      "isCompleted": false,
+      "excludeFromCycle": false,
+      "order": 3,
+      "autoArchive": false,
+      "autoArchiveDelay": 5
+    },
+    {
+      "id": "feito",
+      "value": "feito",
+      "label": "Feito",
+      "color": "#00aa00",
+      "isCompleted": true,
+      "excludeFromCycle": false,
+      "order": 4,
+      "autoArchive": false,
+      "autoArchiveDelay": 5
+    }
+  ],
+  "userFields": [
+    {
+      "id": "cliente",
+      "displayName": "Cliente",
+      "key": "cliente",
+      "type": "text"
+    }
+  ],
+  "commandFileMapping": {
+    "open-calendar-view": "08-tarefas/_visoes/mini-calendario.base",
+    "open-kanban-view": "08-tarefas/Quadro.base",
+    "open-tasks-view": "08-tarefas/_visoes/tarefas.base",
+    "open-advanced-calendar-view": "08-tarefas/_visoes/calendario.base",
+    "open-agenda-view": "08-tarefas/_visoes/agenda.base",
+    "relationships": "08-tarefas/_visoes/relacoes.base",
+    "pomodoro-stats-base": "08-tarefas/_visoes/pomodoro.base"
+  }
+}

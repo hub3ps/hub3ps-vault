@@ -49,7 +49,7 @@ Fechado em 12/11/2026 (Guilherme), num escopo menor que o da proposta, para entr
 ## Condições comerciais
 - **Mensal:** 350 €, valor único. A verba de mídia é paga pelo cliente direto à Meta
 - **Sem setup e sem os 10%** sobre as vendas do infoproduto durante os 3 primeiros meses
-- **Lembrete:** em 12/02/2027, fim do 3º mês contado de 12/11/2026, o Guilherme senta com o Lucas para rediscutir o setup e a porcentagem. Tarefa agendada `churrascodaelite-rediscutir-setup` e cartão no [[04-clientes/churrascodaelite/kanban|kanban]]
+- **Lembrete:** em 12/02/2027, fim do 3º mês contado de 12/11/2026, o Guilherme senta com o Lucas para rediscutir o setup e a porcentagem. Tarefa agendada `churrascodaelite-rediscutir-setup` e tarefa no [[04-clientes/churrascodaelite/tarefas.base|quadro de tarefas]]
 - **Cotação:** nenhuma. O fee é cobrado e recebido em euro, pela conta EUR da Wise do Guilherme. O link de pagamento da Wise foi mandado no grupo em 10/11, e os dados bancários em 12/11, a pedido do Lucas
 
 ## Exceções ao padrão
@@ -61,7 +61,7 @@ Fechado em 12/11/2026 (Guilherme), num escopo menor que o da proposta, para entr
 | geral | Sem contrato. O acordo vale pela fonte [[2026-11-13-acordo-guilherme]] | Decisão do Guilherme | 13/11/2026 |
 
 ## Depende do cliente
-- [ ] Identidade visual do curso. O Lucas disse que é a da página e a do ebook (11/11, grupo). A logo já está vetorizada em [[marca/marca|marca/]] (18/11), traçada da versão do site; o arquivo original do designer segue faltando
+- [ ] Identidade visual do curso. O Lucas disse que é a da página e a do ebook (11/11, grupo). A logo em uso é a das artes, em PNG recortado da arte da Black, em [[marca/marca|marca/]] (18/11). Não é vetor, e o arquivo original do designer segue faltando
 
 ## Acessos
 - **Conta de anúncios em uso desde 16/11: CA01 - Churrasco da Elite** `1295259920836612` (EUR, ativa, com forma de pagamento), indicada pelo Guilherme. Cartão cadastrado pelo Lucas em 16/11, 15h00, em euro para evitar os 12% de imposto do Brasil (grupo). Fica na BM `666930504135899` ("Lucas Oliveira"), que **passou a ser a BM do trabalho em 16/11** (Guilherme: "trocamos a BM, agora vamos usar a BM da conta nova"). A `1996641120812552`, auditada em 13/11, sai de uso. Pelo MCP em 16/11: Página `111836513679647` ("churrasco_da_elite") promovida na conta, Instagram @churrasco_da_elite `17841403077087483` ligado a essa Página e com os posts disponíveis para anúncio (IG-01 e IG-02 conferidos). Pixels na conta: só três de 2021, parados desde dezembro de 2021 (`333549951080063`, `7234212559937411`, `627263991946070`); o Pixel `597919442616239` é da outra BM e não está nesta conta. **Pixel da LP desde 18/11: `333549951080063`**, escolhido e ajustado pelo Guilherme (hoje com o nome "Churrasco da Elite"), com PageView, `Lead` e `CompleteRegistration` conferidos chegando em 18/11. Histórico: quatro campanhas pausadas, 12,38 € gastos no total
@@ -76,7 +76,7 @@ Nunca guarde senha aqui.
 - **Site e loja:** churrascodaelite.pt (fora do escopo)
 
 ## Links
-- Kanban: [[04-clientes/churrascodaelite/kanban|kanban]]
+- Tarefas: [[04-clientes/churrascodaelite/tarefas.base|quadro de tarefas]]
 - Log: [[04-clientes/churrascodaelite/log|log]]
 - Proposta: [[05-comercial/propostas/churrascodaelite-2026-11|churrascodaelite-2026-11]]
 - Reuniões: `reunioes/`

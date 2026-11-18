@@ -50,7 +50,7 @@ Nem todo cliente entra pela porta da frente. O onboarding é um tronco comum, qu
 3. Pasta do cliente criada no vault:
    ```
    04-clientes/<slug>/cliente.md   ← de _modelos/cliente
-   04-clientes/<slug>/kanban.md    ← de _modelos/kanban
+   04-clientes/<slug>/tarefas.base ← de _modelos/tarefas.base, trocando <slug>
    04-clientes/<slug>/log.md       ← de _modelos/log
    ```
 4. Frontmatter do `cliente.md` preenchido: `status: implantacao`, `servicos`, `inicio`, `contrato` (link do PDF), `vigencia`, `valor-mensal`, `meta` e `drive`
@@ -76,24 +76,24 @@ Nem todo cliente entra pela porta da frente. O onboarding é um tronco comum, qu
 1. Salve a transcrição em `04-clientes/<slug>/fontes/AAAA-MM-DD-kickoff.md`. É fonte e nunca se edita
 2. Consolide o `briefing.md`, com status por bloco: ✅ fechado, 🟡 parcial ou ⬜ vazio
 3. Crie a nota da reunião em `reunioes/`, a partir de [[_modelos/reuniao]]
-4. Leve cada lacuna para "Depende do cliente" na nota e para "Aguardando cliente" no kanban
+4. Leve cada lacuna para "Depende do cliente" na nota e para uma tarefa em `aguardando-cliente`
 5. Marque `proxima-reuniao`
 
-**Para sair:** os blocos comuns estão fechados (✅), e cada lacuna dos blocos de serviço virou cartão no kanban.
+**Para sair:** os blocos comuns estão fechados (✅), e cada lacuna dos blocos de serviço virou tarefa.
 
 ## 4. Onboarding e implantação
 **Gatilho:** o briefing foi consolidado.
 
-1. **Checklist de onboarding.** Para cada serviço do escopo, abra o playbook e copie os itens de "Pré-requisitos" para o kanban:
-   - o que depende do cliente (acessos, materiais, aprovações) vai para **Aguardando cliente**
-   - o que é nosso vai para **A fazer**, com a tag do serviço
-2. **Tarefas de implantação.** Copie os passos de "Implantação" de cada playbook para **A fazer**, na ordem do [[motor]]: estratégia, tracking, LP e site, criativos, tráfego pago, e-mail e agente. O que não está no escopo fica de fora
+1. **Checklist de onboarding.** Para cada serviço do escopo, abra o playbook e transforme os itens de "Pré-requisitos" em tarefas, no padrão de [[convencoes#Tarefa|tarefa]]:
+   - o que depende do cliente (acessos, materiais, aprovações) vai para `aguardando-cliente`
+   - o que é nosso vai para `a-fazer`, com a tag do serviço
+2. **Tarefas de implantação.** Transforme os passos de "Implantação" de cada playbook em tarefas `a-fazer`, na ordem do [[motor]]: estratégia, tracking, LP e site, criativos, tráfego pago, e-mail e agente. O que não está no escopo fica de fora
 3. **Painel.** Só se `trafego-pago` estiver no escopo: crie o hub do cliente em `<slug>.hub3ps.com`, pelo runbook [[novo-hub]]. A criação do projeto no Vercel e o CNAME na Cloudflare são do Guilherme
 4. **Exceções.** Todo ponto em que o cliente foge do playbook vai para a tabela "Exceções ao padrão", com motivo e data. O playbook nunca se edita para um cliente
 5. **Acessos.** Registre onde está cada acesso na seção "Acessos", sem senha. Token e chave ficam fora do vault
 6. **Auditoria da BM.** Com tráfego pago no escopo, revise pessoas e parceiros da BM antes de qualquer campanha. Parceiro que o cliente não reconhece sai na hora, porque é o padrão usado para roubar conta de anúncios (caso marjorie, 03/11/2026)
 
-**Para sair:** todos os pré-requisitos estão feitos, todas as tarefas de implantação estão em "Feito", e os entregáveis da implantação de cada playbook estão no ar.
+**Para sair:** todos os pré-requisitos estão feitos, todas as tarefas de implantação estão em `feito`, e os entregáveis da implantação de cada playbook estão no ar.
 
 ## 5. Passagem para a gestão contínua
 **Gatilho:** a implantação foi concluída.

@@ -1,0 +1,59 @@
+# Quadro central das tarefas de todos os clientes (TaskNotes).
+# Colunas pelo status, uma faixa por cliente. Arrastar muda o status, e entre faixas muda o cliente.
+filters:
+  and:
+    - file.hasTag("task")
+    - file.hasTag("archived") != true
+views:
+  - type: tasknotesKanban
+    name: Todos os clientes
+    order:
+      - status
+      - due
+      - cliente
+      - file.tags
+    sort:
+      - column: tasknotes_manual_order
+        direction: DESC
+    groupBy:
+      property: status
+      direction: ASC
+    swimLane: note.cliente
+    hideEmptySwimLanes: true
+    hideEmptyColumns: false
+    pinnedColumns: a-fazer, fazendo, aguardando-cliente, feito
+    columnWidth: 280
+  - type: tasknotesKanban
+    name: Minhas (#gui)
+    filters:
+      and:
+        - file.hasTag("gui")
+    order:
+      - status
+      - due
+      - cliente
+      - file.tags
+    sort:
+      - column: tasknotes_manual_order
+        direction: DESC
+    groupBy:
+      property: status
+      direction: ASC
+    swimLane: note.cliente
+    hideEmptySwimLanes: true
+    hideEmptyColumns: false
+    pinnedColumns: a-fazer, fazendo, aguardando-cliente, feito
+    columnWidth: 280
+  - type: tasknotesTaskList
+    name: Por prazo
+    filters:
+      and:
+        - status != "feito"
+    order:
+      - status
+      - due
+      - cliente
+      - file.tags
+    sort:
+      - column: due
+        direction: ASC

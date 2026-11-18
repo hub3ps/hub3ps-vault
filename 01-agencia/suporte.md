@@ -19,7 +19,7 @@ O passo a passo, da proposta à gestão contínua: [[03-processos/novo-cliente]]
 Pipeline: [[05-comercial/pipeline]].
 
 ## Painel do cliente
-Um hub por cliente com tráfego pago no escopo, no mesmo formato para todos. Projetos sem tráfego, como agente ou site, usam o kanban e o relatório (Guilherme, 04/11/2026).
+Um hub por cliente com tráfego pago no escopo, no mesmo formato para todos. Projetos sem tráfego, como agente ou site, usam o quadro de tarefas e o relatório (Guilherme, 04/11/2026).
 - Páginas: Performance, Plano, Anúncios, Funil. Ativadas conforme o escopo
 - Números: atualização diária, automática
 - Leitura do gestor: quinzenal e mensal

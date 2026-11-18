@@ -126,7 +126,7 @@ Nunca guarde senha aqui. O token fica em `credenciais.local.md`, na raiz do `age
 - **Vercel** (time hub3psmarketing): `juria` (hub), `juria-lps` (produção) e `site-novo-juria` (prévia do site, publicada da branch `feat/site-astro`)
 
 ## Onde está cada coisa (repo `agencia_marketing`, pasta `clients/juria/`)
-Por enquanto o conhecimento fica no repo. A migração para o vault é o próximo passo, registrado no [[kanban]].
+Por enquanto o conhecimento fica no repo. A migração para o vault é o próximo passo, registrado no [[08-tarefas/Quadro.base|quadro de tarefas]].
 
 | Preciso de | Está em |
 |---|---|
@@ -141,7 +141,7 @@ Por enquanto o conhecimento fica no repo. A migração para o vault é o próxim
 | Runbooks | `docs/processos/atualizar-hub-juria.md` e `publicar-lp-juria.md` |
 
 ## Links
-- Kanban: [[04-clientes/juria/kanban|kanban]]
+- Tarefas: [[04-clientes/juria/tarefas.base|quadro de tarefas]]
 - Log: [[04-clientes/juria/log|log]]
 - Reuniões: `reunioes/`
 - Campanhas: `campanhas/`

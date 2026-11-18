@@ -63,7 +63,7 @@ Nunca guarde senha aqui.
 - **Domínio e hospedagem:** TODO, depois do doc
 
 ## Links
-- Kanban: [[04-clientes/dariele/kanban|kanban]]
+- Tarefas: [[04-clientes/dariele/tarefas.base|quadro de tarefas]]
 - Log: [[04-clientes/dariele/log|log]]
 - Fonte: [[2026-11-04-whatsapp-dariele]]
 - Doc de informações: https://docs.google.com/document/d/1kFuNmcJ9eZfdl-Vg6neAHu9UY6WG231jzvydwV5n1ro/edit

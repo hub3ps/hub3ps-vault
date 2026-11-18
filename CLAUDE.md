@@ -14,7 +14,7 @@ tarefa.
 5. Se existir runbook para a tarefa: `03-processos/`
 
 **Ao terminar, sempre:**
-1. Kanban do cliente: mova ou crie os cartões da tarefa
+1. Tarefas do cliente: crie ou atualize as notas em `08-tarefas/notas/`, no padrão de [[03-processos/convencoes#Tarefa|tarefa]]
 2. Log do cliente: uma entrada com data, o que foi feito e onde está o resultado
 3. Estado atual na nota do cliente: reescreva em até três linhas e atualize `atualizado`
 4. Se o usuário corrigiu algo: registre em [[00-sistema/licoes]]

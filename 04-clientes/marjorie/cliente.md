@@ -70,7 +70,7 @@ Nunca guarde senha aqui.
 - **Lista de compradores do curso antigo:** planilha no Google Sheets, com o link em [[2026-11-04-whatsapp-julia]] (04/11). Dados pessoais: o conteúdo nunca entra no vault
 
 ## Links
-- Kanban: [[04-clientes/marjorie/kanban|kanban]]
+- Tarefas: [[04-clientes/marjorie/tarefas.base|quadro de tarefas]]
 - Log: [[04-clientes/marjorie/log|log]]
 - Briefing: [[04-clientes/marjorie/briefing|briefing]]
 - Fontes: [[2026-11-04-whatsapp-julia]] e [[2026-11-02-lp-zero-to-hero]]

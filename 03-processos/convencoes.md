@@ -118,21 +118,49 @@ os IDs numéricos, a configuração e o histórico de otimizações. É o único
 onde os IDs ficam registrados. O arquivo leva o slug do nome:
 `agendamento-quente-aula-experimental.md`.
 
-## Tarefa no kanban
+## Tarefa
 
-Padrão de 18/11/2026, para montar a semana do Guilherme a partir dos kanbans
-de todos os clientes.
+Padrão de 18/11/2026. Toda tarefa de cliente é uma nota do plugin TaskNotes em
+`08-tarefas/notas/`, e não mais cartão de kanban. O quadro central é
+[[08-tarefas/Quadro.base|08-tarefas/Quadro]], com uma faixa por cliente, e cada
+cliente tem o seu em `04-clientes/<slug>/tarefas.base`. Os kanbans antigos estão
+em `_arquivo/kanbans-antigos/`.
 
-- **Prazo:** `@{AAAA-MM-DD}` no fim do cartão, quando a tarefa tem dia (vence,
-  leitura de campanha, entrega). O plugin Kanban mostra como data e marca o
-  atrasado. Hora, quando houver: `@@{HH:mm}`
-- **Só a data que o cartão já diz.** Sem dia combinado, sem prazo. Data de
-  contexto no texto ("Julia, 16/11") continua no texto e não vira prazo
-- **`#gui`:** a tarefa toma tempo do Guilherme: decidir, revisar, gravar, ir a
-  reunião, mexer no Ads Manager ou no Vercel onde o MCP não alcança. Sem `#gui`,
-  quem faz é o Claude. Rascunho de mensagem ao cliente é do Claude, mesmo
-  passando pelo ok do Guilherme
-- Em "Aguardando cliente", a data é o dia que o cliente prometeu, para cobrar
+```yaml
+---
+title: "Subir o Ad 1 da lista de espera no público quente"
+status: a-fazer        # a-fazer · fazendo · aguardando-cliente · feito
+cliente: marjorie      # slug da pasta em 04-clientes
+due: 2026-11-19        # só quando a tarefa tem dia
+tags:
+  - task               # obrigatória: é o que faz a nota virar tarefa
+  - trafego-pago
+  - gui
+dateCreated: 2026-11-18T10:00:00.000-03:00
+---
+```
+
+- **Arquivo:** `08-tarefas/notas/<cliente> - <título curto>.md`, sem `/ : # [ ]`
+  no nome. O título completo vai em `title`. Tarefa criada pelo botão do
+  TaskNotes ganha o nome do título sozinha
+- **Status** é a coluna: o que o cliente prometeu fica em `aguardando-cliente`.
+  Concluir é `status: feito` e `completedDate: AAAA-MM-DD`, que o quadro grava
+  sozinho ao arrastar para Feito
+- **Prazo (`due`):** só a data que a tarefa já diz (vence, leitura de campanha,
+  entrega). Sem dia combinado, sem prazo. A data não se repete no título,
+  porque arrastar ou editar o prazo deixaria o texto com a data velha. Em
+  `aguardando-cliente`, o prazo é o dia que o cliente prometeu, para cobrar
+- **`gui` nas tags:** a tarefa toma tempo do Guilherme: decidir, revisar,
+  gravar, ir a reunião, mexer no Ads Manager ou no Vercel onde o MCP não
+  alcança. Sem `gui`, quem faz é o Claude. Rascunho de mensagem ao cliente é do
+  Claude, mesmo passando pelo ok do Guilherme. A aba "Minhas (#gui)" do quadro
+  mostra só essas
+- **Demais tags:** a frente do trabalho, como nos cartões antigos:
+  `trafego-pago`, `criativo`, `lp-e-site`, `social`, `comercial`
+- **Tarefa de fora do cliente** (agência, conteúdo do @guimiguelmkt) usa
+  `cliente: hub3ps`
+- O que já estava feito na migração ganhou a tag `archived` e sai do quadro,
+  mas a nota fica
 
 ## Evento e conversão personalizada
 

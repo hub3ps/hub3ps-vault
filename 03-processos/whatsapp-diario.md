@@ -19,11 +19,11 @@ Os comandos rodam de `~/ferramentas/whatsapp-mcp/rotina`, com `.venv/bin/python`
 ## Passo a passo
 1. **Ponte:** `coletar.py --status`. Se não responder `ok`, pule para o passo 6 e avise só isso: ponte fora do ar, ou QR vencido. O QR novo exige o Guilherme no Mac, com o celular do número da agência
 2. **Coleta:** `coletar.py`. Ele imprime o caminho do arquivo do dia em `rotina/saida/`
-3. **Leitura:** para cada cliente com mensagem nova, leia o `cliente.md`, o `kanban.md` e o topo do `log.md` antes de registrar
+3. **Leitura:** para cada cliente com mensagem nova, leia o `cliente.md`, as tarefas abertas dele (`08-tarefas/notas/`, com `cliente: <slug>`) e o topo do `log.md` antes de registrar
 4. **Registro, por cliente com mensagem nova:**
    - `fontes/AAAA-MM-DD-whatsapp-grupo.md`, com as mensagens do período, no formato das fontes que já existem. **Omita** código de verificação, senha, token, dado de cartão e código de Pixel ou script colado
    - Uma entrada no topo do `log.md`, no formato de sempre: o que entrou, decisões (com quem decidiu e a data) e próximo passo
-   - O `kanban.md`: pedido novo vai para "A fazer", o que o cliente prometeu vai para "Aguardando cliente", e o que foi resolvido vai para "Feito", com a data. Cartão novo segue a [[convencoes#Tarefa no kanban|convenção de tarefa]]: `@{AAAA-MM-DD}` quando a mensagem dá o dia, e `#gui` quando a tarefa toma tempo do Guilherme
+   - As tarefas do cliente, uma nota por tarefa em `08-tarefas/notas/`: pedido novo vira nota com `status: a-fazer`, o que o cliente prometeu fica em `aguardando-cliente`, e o que foi resolvido passa a `feito`, com `completedDate`. Tarefa nova segue a [[convencoes#Tarefa|convenção de tarefa]]: `due` quando a mensagem dá o dia, e `gui` nas tags quando a tarefa toma tempo do Guilherme
    - Fato que muda o estado do cliente vai para o `cliente.md`: número, prazo, decisão de escopo
    - Linha no `00-sistema/log-operacoes.md`
 5. **Avanço:** só depois que tudo do passo 4 estiver gravado, `coletar.py --avancar`. Se algo falhar antes, não avance: a rodada seguinte relê o mesmo trecho

@@ -90,7 +90,7 @@ Nunca guarde senha aqui. O token da BM fica em `credenciais.local.md`, na raiz d
 | Runbooks | `docs/processos/publicar-lp-dsmuaythai.md` e `atualizar-hub-dsmuaythai.md` |
 
 ## Links
-- Kanban: [[04-clientes/dsmuaythai/kanban|kanban]]
+- Tarefas: [[04-clientes/dsmuaythai/tarefas.base|quadro de tarefas]]
 - Log: [[04-clientes/dsmuaythai/log|log]]
 - Campanhas: `campanhas/`
 - Fontes: `fontes/`
