@@ -28,11 +28,11 @@ Conferida na API em 18/11/2026.
 
 | Conjunto | ID | Posicionamentos na API | Anúncio | ID do anúncio |
 |---|---|---|---|---|
-| `Aberto 22-45 \| Brasil \| Visita ao perfil \| Só Instagram \| IG-06` | `120249768983450578` | Instagram: Feed, Stories, Reels, Explorar, Feed do perfil e Busca | `IG-06 \| Reels \| Claude no Meta Ads` | `120249768983400578` |
-| `Aberto 22-45 \| Brasil \| Visita ao perfil \| Só Instagram \| IG-04` | `120249768983460578` | Instagram: Feed, Stories, Reels, Explorar e Feed do perfil (sem Busca) | `IG-04 \| Reels \| Gestor ou anúncio` | `120249768983410578` |
-| `Aberto 22-45 \| Brasil \| Visita ao perfil \| IG-07` | `120249768983430578` | ⚠️ **Instagram e Facebook** (Feed, Stories e Reels do Facebook) | `IG-07 \| Reels \| Agente no WhatsApp` | `120249769141900578` |
+| `Aberto 22-45 \| Brasil \| Visita ao perfil \| Só Instagram \| IG-06` | `120249768983450578` | Instagram: Feed, Stories, Reels, Explorar e Feed do perfil | `IG-06 \| Reels \| Claude no Meta Ads` | `120249768983400578` |
+| `Aberto 22-45 \| Brasil \| Visita ao perfil \| Só Instagram \| IG-04` | `120249768983460578` | Instagram: Feed, Stories, Reels, Explorar e Feed do perfil | `IG-04 \| Reels \| Gestor ou anúncio` | `120249768983410578` |
+| `Aberto 22-45 \| Brasil \| Visita ao perfil \| Só Instagram \| IG-07` | `120249768983430578` | Instagram: Feed, Stories, Reels, Explorar e Feed do perfil | `IG-07 \| Reels \| Agente no WhatsApp` | `120249769141900578` |
 
-> ⚠️ **Conferência de 18/11:** o conjunto do IG-07 ainda entrega no Facebook, ao contrário dos outros dois. Por isso o nome dele ficou sem `Só Instagram`, até o Guilherme decidir. O do IG-04 também não tem a Busca do Instagram, que os outros têm. É uma diferença pequena.
+> **Conferência de 18/11:** o conjunto do IG-07 subiu entregando também no Facebook, e o do IG-04 sem a Busca do Instagram. O Guilherme tirou o Facebook do IG-07 e a Busca dos três. Agora os três estão iguais, conferidos na API.
 
 Os nomes dos anúncios vieram certos, dados pelo Guilherme. Campanha e conjuntos foram renomeados pela API, e anúncio desta conta se renomeia no Ads Manager (erro de permissão na Página, de 13/11).
 
@@ -42,3 +42,4 @@ Igual à anterior: o que importa é o **custo por seguidor**, que é o investime
 ## Histórico de otimizações
 - 2026-11-18 · publicada pelo Guilherme, com IG-04, IG-06 e IG-07, R$ 20/dia cada · testar o objetivo de tráfego, com idade de 22 a 45, só Instagram e só celular
 - 2026-11-18 · campanha e conjuntos do IG-04 e do IG-06 renomeados para o padrão · só rótulo, sem efeito na entrega
+- 2026-11-18 · Facebook tirado do IG-07 e Busca do Instagram tirada dos três, pelo Guilherme; conjunto do IG-07 renomeado com `Só Instagram` · deixar os três conjuntos iguais, só Instagram
