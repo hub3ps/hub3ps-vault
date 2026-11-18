@@ -31,6 +31,8 @@ Conferida na API em 18/11/2026.
 | `Aberto 22-45 \| Brasil \| Visita ao perfil \| Só Instagram \| IG-06` | `120249768983450578` | Instagram: Feed, Stories, Reels, Explorar e Feed do perfil | `IG-06 \| Reels \| Claude no Meta Ads` | `120249768983400578` |
 | `Aberto 22-45 \| Brasil \| Visita ao perfil \| Só Instagram \| IG-04` | `120249768983460578` | Instagram: Feed, Stories, Reels, Explorar e Feed do perfil | `IG-04 \| Reels \| Gestor ou anúncio` | `120249768983410578` |
 | `Aberto 22-45 \| Brasil \| Visita ao perfil \| Só Instagram \| IG-07` | `120249768983430578` | Instagram: Feed, Stories, Reels, Explorar e Feed do perfil | `IG-07 \| Reels \| Agente no WhatsApp` | `120249769141900578` |
+| `Interesse IA e marketing digital \| Brasil \| Visita ao perfil \| Só Instagram \| IG-07` (cópia do aberto do IG-07, 18/11) | `120249773881260578` | igual | `IG-07 \| Reels \| Agente no WhatsApp` | `120249773881280578` |
+| `Donos e admins de negócio \| Brasil \| Visita ao perfil \| Só Instagram \| IG-07` (cópia do aberto do IG-07, 18/11) | `120249773881250578` | igual | `IG-07 \| Reels \| Agente no WhatsApp` | `120249773881270578` |
 
 > **Conferência de 18/11:** o conjunto do IG-07 subiu entregando também no Facebook, e o do IG-04 sem a Busca do Instagram. O Guilherme tirou o Facebook do IG-07 e a Busca dos três. Agora os três estão iguais, conferidos na API.
 
@@ -75,10 +77,11 @@ Fontes: [Jon Loomer, tráfego com destino no perfil](https://www.jonloomer.com/c
 O Ads Manager mostra "Seguidores no Instagram" e "Custo por seguidor" por conjunto (colunas "Seguidores"). A API não devolve, então essa leitura é por print ou pelo navegador. Primeiro dia (18/11, print do Guilherme): IG-04 com 11 seguidores a R$ 0,82, IG-07 com 6 a R$ 0,89 e IG-06 com 3 a R$ 1,23.
 
 ### Sequência de testes proposta (18/11)
-- **Fase 1, de 19 a 22/11: público.** O conjunto aberto do IG-04 fica como controle. Ele é o de menor custo por seguidor e é o mesmo vídeo das duas cópias. Entram duas cópias dele com os públicos de interesse, a R$ 20/dia cada. Os abertos do IG-06 e do IG-07 pausam. Decide o custo por seguidor de cada conjunto, mais uma amostra da qualidade dos seguidores novos
+- **Fase 1, de 19 a 22/11: público.** O conjunto aberto do **IG-07** fica como controle, com duas cópias dele nos públicos de interesse, a R$ 20/dia cada. Os abertos do IG-04 e do IG-06 pausam. O IG-07 foi escolhido no lugar do IG-04 porque fala igual com os dois públicos (IA aplicada a quem atende cliente). O IG-04 puxaria para os donos e o IG-06 para IA e marketing. A diferença de custo entre eles no 1º dia era ruído. Decide o custo por seguidor de cada conjunto, mais uma amostra da qualidade dos seguidores novos
 - **Fase 2, de 23 a 26/11: conteúdo.** No público vencedor, um conjunto por post (IG-04, IG-06, IG-07 e o que tiver de novo)
 
 ## Histórico de otimizações
 - 2026-11-18 · publicada pelo Guilherme, com IG-04, IG-06 e IG-07, R$ 20/dia cada · testar o objetivo de tráfego, com idade de 22 a 45, só Instagram e só celular
 - 2026-11-18 · campanha e conjuntos do IG-04 e do IG-06 renomeados para o padrão · só rótulo, sem efeito na entrega
 - 2026-11-18 · Facebook tirado do IG-07 e Busca do Instagram tirada dos três, pelo Guilherme; conjunto do IG-07 renomeado com `Só Instagram` · deixar os três conjuntos iguais, só Instagram
+- 2026-11-18 · abertos do IG-04 e do IG-06 pausados pelo Guilherme; duas cópias do IG-07 publicadas por ele e configuradas pela API com os públicos `Interesse IA e marketing digital` e `Donos e admins de negócio`, pausadas até o ok · fase 1 do teste de público, com o aberto do IG-07 como controle
