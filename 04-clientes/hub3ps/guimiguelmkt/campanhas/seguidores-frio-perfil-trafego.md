@@ -32,7 +32,7 @@ Conferida na API em 18/11/2026.
 | `Aberto 22-45 \| Brasil \| Visita ao perfil \| Só Instagram \| IG-04` | `120249768983460578` | Instagram: Feed, Stories, Reels, Explorar e Feed do perfil | `IG-04 \| Reels \| Gestor ou anúncio` | `120249768983410578` |
 | `Aberto 22-45 \| Brasil \| Visita ao perfil \| Só Instagram \| IG-07` | `120249768983430578` | Instagram: Feed, Stories, Reels, Explorar e Feed do perfil | `IG-07 \| Reels \| Agente no WhatsApp` | `120249769141900578` |
 | `Interesse IA e marketing digital \| Brasil \| Visita ao perfil \| Só Instagram \| IG-07` (cópia do aberto do IG-07, 18/11) | `120249773881260578` | igual | `IG-07 \| Reels \| Agente no WhatsApp` | `120249773881280578` |
-| `Donos e admins de negócio \| Brasil \| Visita ao perfil \| Só Instagram \| IG-07` (cópia do aberto do IG-07, 18/11) | `120249773881250578` | igual | `IG-07 \| Reels \| Agente no WhatsApp` | `120249773881270578` |
+| `Donos e empresários \| Brasil \| Visita ao perfil \| Só Instagram \| IG-07` (cópia do aberto do IG-07, 18/11; idade de 22 a 55) | `120249773881250578` | igual | `IG-07 \| Reels \| Agente no WhatsApp` | `120249773881270578` |
 
 > **Conferência de 18/11:** o conjunto do IG-07 subiu entregando também no Facebook, e o do IG-04 sem a Busca do Instagram. O Guilherme tirou o Facebook do IG-07 e a Busca dos três. Agora os três estão iguais, conferidos na API.
 
@@ -65,9 +65,11 @@ Alcance estimado pela Meta para Brasil, 22 a 45, só Instagram, só celular. O a
 | Público | Regra | Alcance | IDs |
 |---|---|---|---|
 | `Interesse IA e marketing digital` (**proposto**) | curte IA **e** curte marketing (as duas coisas) | 10,2 a 12 mi | IA: `6002898176962` Inteligência artificial (computação), `6002968393168` A.I. Inteligência Artificial. Marketing: `6003127206524` Marketing digital, `6003389760112` Marketing de redes sociais, `6853952393067` Serviços e organizações de marketing |
-| `Donos e admins de negócio` (**proposto**) | comportamento, qualquer um dos três | 7,7 a 9,1 mi | `6002714898572` Proprietários de pequenas empresas, `6297846662583` Administradores do perfil comercial do Instagram, `6020530281783` Administradores de página comercial |
+| `Donos e admins de negócio` (rodou só algumas horas em 18/11) | comportamento, qualquer um dos três | 7,7 a 9,1 mi | `6002714898572` Proprietários de pequenas empresas, `6297846662583` Administradores do perfil comercial do Instagram, `6020530281783` Administradores de página comercial |
 | IA ou marketing (descartado) | qualquer interesse da lista | 30 a 36 mi | largo demais, perto do aberto |
 | Donos e admins mais PME e empreendedorismo (descartado) | comportamento e interesse | 30 a 35 mi | o interesse em empreendedorismo é amplo demais |
+
+| `Donos e empresários` (**no ar desde 18/11**, montado pelo Guilherme) | qualquer um: comportamento Proprietários de pequenas empresas (`6002714898572`); cargos Proprietário (`110722838955052`), Founder, Director, CEO (`133337610036491`), Empresária - sócia (`135379189860515`), Dono e Gerente (`143530962334045`); empregadores Empresario (`108043745885308`), Proprietário (`110722838955052`), Empresária (`135088686641282`), Empresária/proprietária (`420836674693676`). Idade de 22 a **55** | 770 a 910 mil | troca pedida pelo Guilherme: cargo declarado é mais preciso que comportamento |
 
 Não existe interesse de ChatGPT, OpenAI nem tráfego pago na busca da Meta em pt_BR.
 
@@ -86,3 +88,4 @@ O Ads Manager mostra "Seguidores no Instagram" e "Custo por seguidor" por conjun
 - 2026-11-18 · Facebook tirado do IG-07 e Busca do Instagram tirada dos três, pelo Guilherme; conjunto do IG-07 renomeado com `Só Instagram` · deixar os três conjuntos iguais, só Instagram
 - 2026-11-18 · abertos do IG-04 e do IG-06 pausados pelo Guilherme; duas cópias do IG-07 publicadas por ele e configuradas pela API com os públicos `Interesse IA e marketing digital` e `Donos e admins de negócio`, pausadas até o ok · fase 1 do teste de público, com o aberto do IG-07 como controle
 - 2026-11-18 · os dois conjuntos de interesse ligados pela API, com o ok do Guilherme · começa a fase 1; leitura em 22/11
+- 2026-11-18 · público do conjunto de donos trocado pelo Guilherme: sai admin de página e de perfil comercial, entram cargos e empregadores de dono e empresário, e a idade vai até 55; renomeado para `Donos e empresários` · comportamento era solto demais (pega social media e criador). A idade diferente do controle (22 a 45) entra na leitura do teste
