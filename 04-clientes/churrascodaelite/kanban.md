@@ -4,7 +4,7 @@ kanban-plugin: board
 
 ## A fazer
 
-- [ ] Publicar a `Leads | Quente | Lista de espera`, em rascunho desde 18/11 (seguidores e engajou IG 365d; VL-07 e VL-05 a 5 € cada até 26/11). Fila VL-02, VL-03 e VL-04 no Drive #trafego-pago
+- [ ] `Leads | Quente | Lista de espera`: conferir os botões ("Ver detalhes" e "Candidatar-se"); primeira leitura de custo por lead em 20/11 #trafego-pago
 - [ ] Ver a qualidade dos seguidores que estão chegando e testar segmentar só homens na `Seguidores | Frio | Perfil` (Guilherme no grupo, 17/11, 09h07) #trafego-pago
 - [ ] Teste da lista de espera no grupo do WhatsApp nesta semana. Se não for bem, ajustar e rodar direto para vender na LP (Guilherme, 16/11) #estrategia
 - [ ] Trazer pelo Instagram quem foi ao primeiro workshop (23 no grupo antigo, 6 presenciais) para o grupo novo da Black (Guilherme, 16/11) #estrategia
@@ -37,6 +37,7 @@ kanban-plugin: board
 
 ## Feito
 
+- [x] `Leads | Quente | Lista de espera` no ar: seguidores e engajou IG 365d, VL-07 e VL-05 a 6 € cada até 26/11, publicada pelo Guilherme e conferida na API (18/11)
 - [x] Pixel `333549951080063` na LP, sem `noindex`: PageView, `Lead` na página de obrigado e `CompleteRegistration` no botão do grupo VIP, conferidos chegando na Meta (18/11)
 - [x] LP da lista aprovada pelo Lucas: "TA PERFEITA" (16/11, 13h39)
 - [x] Cartão cadastrado pelo Lucas na CA01, em EUR (16/11, 15h00)

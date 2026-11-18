@@ -4,10 +4,10 @@ cliente: churrascodaelite
 nome-campanha: Leads | Quente | Lista de espera
 plataforma: meta
 id-campanha: "120250684802260559"
-status: rascunho, à espera do OK do Guilherme para publicar (18/11)
-inicio:
+status: no ar desde 18/11, anúncios em análise
+inicio: 2026-11-18
 fim: 2026-11-26
-verba-diaria: 10
+verba-diaria: 12
 evento-otimizacao: Lead (Pixel 333549951080063)
 lp: https://curso.churrascodaelite.pt
 atualizado: 2026-11-18
@@ -17,27 +17,35 @@ autor: claude
 
 Captação para a lista de espera da Black Friday do workshop "Faturando com Churrasco" (97 € por 67 €, de 27 a 30/11). A pessoa entra na lista pela [LP](https://curso.churrascodaelite.pt), cai na página de obrigado e entra no grupo VIP do WhatsApp, onde a oferta sai primeiro, a 27/11. Conta CA01 `1295259920836612`, Página `111836513679647`, Instagram @churrasco_da_elite `17841403077087483`. Pedida pelo Guilherme em 18/11, com os vídeos do Lucas ([[../entregas/2026-11-18-videos-do-lucas|análise]]).
 
-Montada pelo Claude pelo MCP, em rascunho, em 18/11. **Nada está no ar até o Guilherme dar o OK para publicar.**
+Montada pelo Claude pelo MCP em rascunho, corrigida e publicada à mão pelo Guilherme no Ads Manager em 18/11, por volta das 15h01 UTC.
 
-## IDs (rascunho, 18/11)
-| Conjunto | ID do conjunto | Anúncio | ID do anúncio | Criativo | Vídeo |
+## IDs no ar (API, 18/11)
+| Conjunto | ID do conjunto | Anúncio | ID do anúncio | Criativo | Botão |
 |---|---|---|---|---|---|
-| `Engajou IG 365d e seguidores \| Portugal \| Lead \| VL-07` | `120250684808600559` | `VL-07 \| Vídeo \| Cansado da obra` | `120250684833720559` | `1850820972734232` | `4756578914629424` (11.57.52) |
-| `Engajou IG 365d e seguidores \| Portugal \| Lead \| VL-05` | `120250684809190559` | `VL-05 \| Vídeo \| Profissão lucrativa` | `120250684838900559` | `2035597773792810` | `2552894725531758` (11.54.12) |
+| `Engajou IG 365d e seguidores \| Portugal \| Lead \| VL-07` | `120250684808600559` | `VL-07 \| Vídeo \| Cansado da obra` | `120250684833720559` | `2194781391249059` | Ver detalhes (`SEE_DETAILS`) |
+| `Engajou IG 365d e seguidores \| Portugal \| Lead \| VL-05` | `120250684809190559` | `VL-05 \| Vídeo \| Profissão lucrativa` | `120250684838900559` | `1004237632735235` | Candidatar-se (`APPLY_NOW`) |
 
 Ads Manager: [campanha](https://adsmanager.facebook.com/adsmanager/manage/adsets?act=1295259920836612&selected_campaign_ids=120250684802260559)
 
+## Conferência na API depois de publicar (18/11)
+- **Certo:** campanha, conjuntos e anúncios nos nomes do padrão. Conjuntos `ACTIVE`, anúncios em análise (`IN_PROCESS`). Lead do Pixel `333549951080063`, atribuição 7 dias clique e 1 visualização, fim em 26/11 às 23h59. URL `https://curso.churrascodaelite.pt/` e link de exibição `churrascodaelite.pt`. Texto, título e descrição principais da versão 2. Sem catálogo. Público `Seguidores IG` (o `seguidores` renomeado pelo Guilherme) e `Engajou IG 365d`, Portugal, 18 a 65, Advantage+ público desligado
+- **Mudou à mão:** verba de 5 € para 6 € por conjunto, 12 € por dia no total. Posicionamentos Advantage+, com Audience Network e Threads
+- **A ver com o Guilherme:**
+  - **Expansão do público:** estava ligada (`targeting_relaxation_types.custom_audience = 1`), entregando também para semelhantes de 1% dos dois públicos. **Desligada pelo Claude pelo MCP em 18/11, a pedido do Guilherme**, e conferida no ar: `custom_audience = 0`, sem semelhantes
+  - **Botões diferentes:** "Ver detalhes" no VL-07 e "Candidatar-se" no VL-05. No rascunho era "Inscrever-se" nos dois
+  - **"image_animation" ligado** nos dois criativos, além de Comentários relevantes. A regra é deixar só Comentários relevantes. Em vídeo, não deve ter efeito
+- **Não dá para ler pela API:** os outros 4 textos, títulos e descrições (a leitura traz só o principal), a UTM e a tela "Configuração do criativo"
+
 ## Configuração
 - **Objetivo:** Leads (`OUTCOME_LEADS`), conversão no site, otimizando pelo `Lead` do Pixel `333549951080063`, que dispara na página de obrigado
-- **Orçamento:** por conjunto (ABO), 5 € por dia em cada, até 26/11 às 23h59 de Lisboa. Cerca de 85 € no total. Verba escolhida pelo Guilherme em 18/11
+- **Orçamento:** por conjunto (ABO), 6 € por dia em cada (5 € escolhidos em 18/11 e subidos para 6 € pelo Guilherme ao publicar), até 26/11 às 23h59 de Lisboa. Cerca de 100 € no total
 - **Um conjunto por vídeo**, para os dois entregarem no teste (pedido do Guilherme)
 - **Público (Guilherme, 18/11):** só quem segue o @churrasco_da_elite ou interagiu com ele em 365 dias, os dois somados. Públicos `seguidores` (`120250644113480559`, de 16/11, cerca de 18,8 a 22,1 mil) e `Engajou IG 365d` (`120250684886700559`, criado pelo Claude em 18/11, todas as interações com o perfil). Portugal (mora ou esteve há pouco). Sem filtro de idade nem de idioma: o público já é quente. Advantage+ público desligado, para não sair dos dois públicos
 - **Primeira versão (descartada antes de publicar):** `Aberto 23-55`, frio, com Advantage+ público ligado. O Guilherme pediu a troca para os públicos quentes
 - **Posicionamentos:** Advantage+
 - **Atribuição:** 7 dias clique e 1 dia visualização
-- **Botão:** "Inscrever-se" (`SIGN_UP`), para `https://curso.churrascodaelite.pt/`
+- **Botão:** no ar, "Ver detalhes" no VL-07 e "Candidatar-se" no VL-05 (ver conferência acima)
 - **UTM:** `utm_source=meta&utm_medium=paid&utm_campaign=leads-quente-lista-de-espera&utm_content=vl-07` (ou `vl-05`) `&utm_term=engajou-ig-365d-e-seguidores`. Os criativos da primeira versão (`1859768228774504` e `1134670792675021`, com a UTM do público aberto) ficaram sem uso na conta. A LP leva as UTMs para a planilha da lista
-- **Melhorias automáticas do Advantage+ criativo:** todas desligadas
 - **Declaração de IA:** não marcada. Os vídeos são gravações reais do Lucas
 
 ## Copy (as mesmas nos dois anúncios, a Meta combina)
@@ -67,6 +75,8 @@ Para entrar aos poucos, no lugar do pior ou em conjunto novo: VL-02 (armazém), 
 - O Pixel só tinha o `Lead` do teste de 18/11 antes desta campanha
 
 ## Histórico de otimizações
+- 2026-11-18 · expansão do público desligada nos dois conjuntos pelo MCP (Guilherme pediu), conferida no ar
+- 2026-11-18 · publicada pelo Guilherme, conferida na API: no ar, anúncios em análise, 6 € por conjunto. Expansão do público, botões diferentes e image_animation a ver
 - 2026-11-18 · copy v2 sem preço e sem "renda extra", e link, aprimoramentos e configuração do criativo corrigidos à mão pelo Guilherme no Ads Manager
 - 2026-11-18 · público trocado para `Engajou IG 365d e seguidores` (pedido do Guilherme), campanha renomeada para Quente, criativos refeitos com a UTM nova · rascunho sem erro, à espera do OK
 - 2026-11-18 · montada em rascunho pelo Claude: campanha, 2 conjuntos a 5 € e 2 anúncios, sem erro de validação · à espera do OK para publicar

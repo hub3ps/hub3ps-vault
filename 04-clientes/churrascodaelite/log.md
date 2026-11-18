@@ -12,6 +12,15 @@ Formato:
 - **Decisões:** 
 - **Próximo passo:** 
 
+### 2026-11-18 · Lista de espera no ar
+- **O que:** o Guilherme corrigiu à mão no Ads Manager (link, link de exibição, aprimoramentos, configuração do criativo, copy v2 sem preço e sem "renda extra") e publicou `Leads | Quente | Lista de espera`. Conferi pela API
+- **Resultado em:** [[campanhas/leads-quente-lista-de-espera]]
+- **No ar:** 2 conjuntos `ACTIVE` a 6 € por dia até 26/11, anúncios em análise. Link e textos principais certos, sem catálogo
+- **Expansão do público:** estava ligada; desliguei pelo MCP a pedido do Guilherme e conferi no ar
+- **A ver:** botões diferentes ("Ver detalhes" e "Candidatar-se") e "image_animation" ligado
+- **Regras novas de montagem de anúncio:** registradas em `03-processos/convencoes.md`, seção "Montagem do anúncio"
+- **Próximo passo:** primeira leitura de custo por lead em 20/11
+
 ### 2026-11-18 · Lista de espera: público quente
 - **O que:** a pedido do Guilherme, a campanha da lista passou a rodar só para `seguidores` e `Engajou IG 365d` (criado agora, `120250684886700559`). Renomeada para `Leads | Quente | Lista de espera`, conjuntos renomeados, criativos refeitos com a UTM nova. Segue em rascunho
 - **Resultado em:** [[campanhas/leads-quente-lista-de-espera]]
