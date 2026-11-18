@@ -1,7 +1,7 @@
 ---
 tipo: campanha
 cliente: churrascodaelite
-nome-campanha: Leads | Frio | Lista de espera
+nome-campanha: Leads | Quente | Lista de espera
 plataforma: meta
 id-campanha: "120250684802260559"
 status: rascunho, à espera do OK do Guilherme para publicar (18/11)
@@ -13,7 +13,7 @@ lp: https://curso.churrascodaelite.pt
 atualizado: 2026-11-18
 autor: claude
 ---
-# Leads | Frio | Lista de espera
+# Leads | Quente | Lista de espera
 
 Captação para a lista de espera da Black Friday do workshop "Faturando com Churrasco" (97 € por 67 €, de 27 a 30/11). A pessoa entra na lista pela [LP](https://curso.churrascodaelite.pt), cai na página de obrigado e entra no grupo VIP do WhatsApp, onde a oferta sai primeiro, a 27/11. Conta CA01 `1295259920836612`, Página `111836513679647`, Instagram @churrasco_da_elite `17841403077087483`. Pedida pelo Guilherme em 18/11, com os vídeos do Lucas ([[../entregas/2026-11-18-videos-do-lucas|análise]]).
 
@@ -22,8 +22,8 @@ Montada pelo Claude pelo MCP, em rascunho, em 18/11. **Nada está no ar até o G
 ## IDs (rascunho, 18/11)
 | Conjunto | ID do conjunto | Anúncio | ID do anúncio | Criativo | Vídeo |
 |---|---|---|---|---|---|
-| `Aberto 23-55 \| Portugal \| Lead \| VL-07` | `120250684808600559` | `VL-07 \| Vídeo \| Cansado da obra` | `120250684833720559` | `1859768228774504` | `4756578914629424` (11.57.52) |
-| `Aberto 23-55 \| Portugal \| Lead \| VL-05` | `120250684809190559` | `VL-05 \| Vídeo \| Profissão lucrativa` | `120250684838900559` | `1134670792675021` | `2552894725531758` (11.54.12) |
+| `Engajou IG 365d e seguidores \| Portugal \| Lead \| VL-07` | `120250684808600559` | `VL-07 \| Vídeo \| Cansado da obra` | `120250684833720559` | `1850820972734232` | `4756578914629424` (11.57.52) |
+| `Engajou IG 365d e seguidores \| Portugal \| Lead \| VL-05` | `120250684809190559` | `VL-05 \| Vídeo \| Profissão lucrativa` | `120250684838900559` | `2035597773792810` | `2552894725531758` (11.54.12) |
 
 Ads Manager: [campanha](https://adsmanager.facebook.com/adsmanager/manage/adsets?act=1295259920836612&selected_campaign_ids=120250684802260559)
 
@@ -31,12 +31,12 @@ Ads Manager: [campanha](https://adsmanager.facebook.com/adsmanager/manage/adsets
 - **Objetivo:** Leads (`OUTCOME_LEADS`), conversão no site, otimizando pelo `Lead` do Pixel `333549951080063`, que dispara na página de obrigado
 - **Orçamento:** por conjunto (ABO), 5 € por dia em cada, até 26/11 às 23h59 de Lisboa. Cerca de 85 € no total. Verba escolhida pelo Guilherme em 18/11
 - **Um conjunto por vídeo**, para os dois entregarem no teste (pedido do Guilherme)
-- **Público:** Portugal (mora ou esteve há pouco), idiomas português (Portugal) e português (Brasil), idade mínima fixa de 23 anos. Advantage+ público ligado, com 23 a 55 como sugestão. Sem exclusão: quem já segue o @churrasco_da_elite também pode entrar na lista
-- **Diferença para a de seguidores:** lá o Advantage+ público está desligado, com 23 a 55 fixo, e quem segue está excluído. Aqui ficou ligado por padrão do MCP. Se o Guilherme quiser igual, desliga no conjunto antes de publicar
+- **Público (Guilherme, 18/11):** só quem segue o @churrasco_da_elite ou interagiu com ele em 365 dias, os dois somados. Públicos `seguidores` (`120250644113480559`, de 16/11, cerca de 18,8 a 22,1 mil) e `Engajou IG 365d` (`120250684886700559`, criado pelo Claude em 18/11, todas as interações com o perfil). Portugal (mora ou esteve há pouco). Sem filtro de idade nem de idioma: o público já é quente. Advantage+ público desligado, para não sair dos dois públicos
+- **Primeira versão (descartada antes de publicar):** `Aberto 23-55`, frio, com Advantage+ público ligado. O Guilherme pediu a troca para os públicos quentes
 - **Posicionamentos:** Advantage+
 - **Atribuição:** 7 dias clique e 1 dia visualização
 - **Botão:** "Inscrever-se" (`SIGN_UP`), para `https://curso.churrascodaelite.pt/`
-- **UTM:** `utm_source=meta&utm_medium=paid&utm_campaign=leads-frio-lista-de-espera&utm_content=vl-07` (ou `vl-05`) `&utm_term=aberto-23-55`. A LP leva as UTMs para a planilha da lista
+- **UTM:** `utm_source=meta&utm_medium=paid&utm_campaign=leads-quente-lista-de-espera&utm_content=vl-07` (ou `vl-05`) `&utm_term=engajou-ig-365d-e-seguidores`. Os criativos da primeira versão (`1859768228774504` e `1134670792675021`, com a UTM do público aberto) ficaram sem uso na conta. A LP leva as UTMs para a planilha da lista
 - **Melhorias automáticas do Advantage+ criativo:** todas desligadas
 - **Declaração de IA:** não marcada. Os vídeos são gravações reais do Lucas
 
@@ -65,4 +65,5 @@ Para entrar aos poucos, no lugar do pior ou em conjunto novo: VL-02 (armazém), 
 - O Pixel só tinha o `Lead` do teste de 18/11 antes desta campanha
 
 ## Histórico de otimizações
+- 2026-11-18 · público trocado para `Engajou IG 365d e seguidores` (pedido do Guilherme), campanha renomeada para Quente, criativos refeitos com a UTM nova · rascunho sem erro, à espera do OK
 - 2026-11-18 · montada em rascunho pelo Claude: campanha, 2 conjuntos a 5 € e 2 anúncios, sem erro de validação · à espera do OK para publicar

@@ -4,7 +4,7 @@ kanban-plugin: board
 
 ## A fazer
 
-- [ ] Publicar a `Leads | Frio | Lista de espera`, em rascunho desde 18/11 (VL-07 e VL-05 a 5 € cada até 26/11). Fila VL-02, VL-03 e VL-04 no Drive #trafego-pago
+- [ ] Publicar a `Leads | Quente | Lista de espera`, em rascunho desde 18/11 (seguidores e engajou IG 365d; VL-07 e VL-05 a 5 € cada até 26/11). Fila VL-02, VL-03 e VL-04 no Drive #trafego-pago
 - [ ] Ver a qualidade dos seguidores que estão chegando e testar segmentar só homens na `Seguidores | Frio | Perfil` (Guilherme no grupo, 17/11, 09h07) #trafego-pago
 - [ ] Teste da lista de espera no grupo do WhatsApp nesta semana. Se não for bem, ajustar e rodar direto para vender na LP (Guilherme, 16/11) #estrategia
 - [ ] Trazer pelo Instagram quem foi ao primeiro workshop (23 no grupo antigo, 6 presenciais) para o grupo novo da Black (Guilherme, 16/11) #estrategia

@@ -12,9 +12,14 @@ Formato:
 - **Decisões:** 
 - **Próximo passo:** 
 
+### 2026-11-18 · Lista de espera: público quente
+- **O que:** a pedido do Guilherme, a campanha da lista passou a rodar só para `seguidores` e `Engajou IG 365d` (criado agora, `120250684886700559`). Renomeada para `Leads | Quente | Lista de espera`, conjuntos renomeados, criativos refeitos com a UTM nova. Segue em rascunho
+- **Resultado em:** [[campanhas/leads-quente-lista-de-espera]]
+- **Próximo passo:** OK do Guilherme para publicar
+
 ### 2026-11-18 · Campanha da lista de espera em rascunho
 - **O que:** `Leads | Frio | Lista de espera` montada pelo MCP na CA01, em rascunho: 2 conjuntos a 5 € por dia até 26/11, um com o VL-07 e outro com o VL-05, otimizando pelo `Lead`. 5 textos, 5 títulos e 5 descrições, em português de Portugal, sem promessa de ganho
-- **Resultado em:** [[campanhas/leads-frio-lista-de-espera]]
+- **Resultado em:** [[campanhas/leads-quente-lista-de-espera]] (o arquivo trocou de nome com a campanha)
 - **Decisões:** verba de 5 € por conjunto (Guilherme, 18/11). Advantage+ público ligado e sem exclusão de seguidores, diferente da de seguidores
 - **Achado:** o conjunto IG-01 da `Seguidores | Frio | Perfil` estava pausado na leitura de 18/11. Não fui eu
 - **Próximo passo:** OK do Guilherme para publicar
