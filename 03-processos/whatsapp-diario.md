@@ -1,6 +1,6 @@
 ---
 tipo: processo
-atualizado: 2026-11-09
+atualizado: 2026-11-18
 autor: claude
 ---
 # WhatsApp diário
@@ -23,7 +23,7 @@ Os comandos rodam de `~/ferramentas/whatsapp-mcp/rotina`, com `.venv/bin/python`
 4. **Registro, por cliente com mensagem nova:**
    - `fontes/AAAA-MM-DD-whatsapp-grupo.md`, com as mensagens do período, no formato das fontes que já existem. **Omita** código de verificação, senha, token, dado de cartão e código de Pixel ou script colado
    - Uma entrada no topo do `log.md`, no formato de sempre: o que entrou, decisões (com quem decidiu e a data) e próximo passo
-   - O `kanban.md`: pedido novo vai para "A fazer", o que o cliente prometeu vai para "Aguardando cliente", e o que foi resolvido vai para "Feito", com a data
+   - O `kanban.md`: pedido novo vai para "A fazer", o que o cliente prometeu vai para "Aguardando cliente", e o que foi resolvido vai para "Feito", com a data. Cartão novo segue a [[convencoes#Tarefa no kanban|convenção de tarefa]]: `@{AAAA-MM-DD}` quando a mensagem dá o dia, e `#gui` quando a tarefa toma tempo do Guilherme
    - Fato que muda o estado do cliente vai para o `cliente.md`: número, prazo, decisão de escopo
    - Linha no `00-sistema/log-operacoes.md`
 5. **Avanço:** só depois que tudo do passo 4 estiver gravado, `coletar.py --avancar`. Se algo falhar antes, não avance: a rodada seguinte relê o mesmo trecho

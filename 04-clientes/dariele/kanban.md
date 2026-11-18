@@ -8,7 +8,7 @@ kanban-plugin: board
 - [ ] Copy do site em português, a partir do doc, para ela aprovar #lp-e-site
 - [ ] Tradução da copy para o inglês #lp-e-site
 - [ ] Design e build do site de uma página #lp-e-site
-- [ ] Registrar o domínio no nome da empresa e publicar #lp-e-site
+- [ ] Registrar o domínio no nome da empresa e publicar #lp-e-site #gui
 - [ ] QA no celular e entrega, com a cobrança dos 50% finais #lp-e-site
 - [ ] Ligar o site no perfil do Google e no Instagram dela #lp-e-site
 

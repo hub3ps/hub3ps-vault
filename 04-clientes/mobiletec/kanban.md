@@ -6,10 +6,10 @@ kanban-plugin: board
 
 - [ ] Mandar à Mobiletec o doc "Site Mobiletec - Informações para finalizar" (Drive, pasta 9. Mobiletec) #lp-e-site
 - [ ] Tirar a fundação repetida da home: deixar só na abertura, como pediu o Fábio em 30/10 #lp-e-site
-- [ ] Trocar a Vibra Energia pela Vibra Foods no site, como no vídeo. O Guilherme manda o logo #lp-e-site
+- [ ] Trocar a Vibra Energia pela Vibra Foods no site, como no vídeo. O Guilherme manda o logo #lp-e-site #gui
 - [ ] Trocar o ano de fundação do site para 1999, confirmado pelo Guilherme em 04/11 (`site.ts` e textos com "Desde 2000") #lp-e-site
 - [ ] Trazer a branch `claude/loving-archimedes-rp33cv` para a main (36 commits fora). Antes, trocar a branch de produção do projeto `site-mobiletec` na Vercel #lp-e-site
-- [ ] Definir o domínio e a data de lançamento do site, e então tirar o `noindex` #lp-e-site
+- [ ] Definir o domínio e a data de lançamento do site, e então tirar o `noindex` #lp-e-site #gui
 - [ ] Menu no celular, quando houver mais de uma página #lp-e-site
 - [ ] Pedir o logo da Bello em SVG, se o vídeo ganhar outra versão #criativos-e-audiovisual
 - [ ] Migração: mover para o Drive os zips "Design Kits - Mobiletec" e "AFV", o `mobiletec-institucional-locucao.mp4` e a pasta `clientes mobiletec` do Downloads #migracao

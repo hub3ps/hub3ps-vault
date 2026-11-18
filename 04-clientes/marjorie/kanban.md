@@ -4,41 +4,41 @@ kanban-plugin: board
 
 ## A fazer
 
-- [ ] Decidir se a captação da lista de espera vai também para público frio. A lista está com 347 inscrições (Julia, 16/11). Critério do Guilherme: com volume bom, fica só no quente (16/11, 14h26) #trafego-pago
+- [ ] Decidir se a captação da lista de espera vai também para público frio. A lista está com 347 inscrições (Julia, 16/11). Critério do Guilherme: com volume bom, fica só no quente (16/11, 14h26) #trafego-pago #gui
 - [ ] Lives no Instagram quando abrirem as vagas, uma ou duas, para tirar dúvidas (sugestão do Guilherme no grupo, 16/11) #criativos-e-audiovisual
-- [ ] Subir o Ad 1 da lista de espera (VID-01 e VID-02), de 19 a 26/11, no público quente. Lead validado em 17/11; falta a verba #trafego-pago
-- [ ] Revisar os anúncios gravados que a Julia mandou no Drive (Ad 1 lista de espera, 2 variações; Ad 2 vagas abertas, por público) e definir quando sobe cada um (Guilherme no grupo, 15/11) #criativos-e-audiovisual
+- [ ] Subir o Ad 1 da lista de espera (VID-01 e VID-02), de 19 a 26/11, no público quente. Lead validado em 17/11; falta a verba #trafego-pago @{2026-11-19} #gui
+- [ ] Revisar os anúncios gravados que a Julia mandou no Drive (Ad 1 lista de espera, 2 variações; Ad 2 vagas abertas, por público) e definir quando sobe cada um (Guilherme no grupo, 15/11) #criativos-e-audiovisual #gui
 - [ ] Conferir no Gerenciador se os cargos da lista da Julia para o Ad 2 existem como segmentação (dentistas, técnicos e assistentes, 14/11) #trafego-pago
-- [ ] Conferir em 13/11 se os eventos do Pixel carregaram e avisar a Julia, como o Guilherme prometeu no grupo (12/11, 22h05) #tracking
-- [ ] Depois do teste dos 10 principais, escalar um pouco o de menor custo por seguidor (Guilherme no grupo, 12/11). Verba e data a definir #trafego-pago
-- [ ] Renomear no Gerenciador o público salvo `int_cad-dental_us` para `Interesse CAD dental` (o MCP não renomeia público salvo) #trafego-pago
+- [ ] Conferir em 13/11 se os eventos do Pixel carregaram e avisar a Julia, como o Guilherme prometeu no grupo (12/11, 22h05) #tracking @{2026-11-13}
+- [ ] Depois do teste dos 10 principais, escalar um pouco o de menor custo por seguidor (Guilherme no grupo, 12/11). Verba e data a definir #trafego-pago #gui
+- [ ] Renomear no Gerenciador o público salvo `int_cad-dental_us` para `Interesse CAD dental` (o MCP não renomeia público salvo) #trafego-pago #gui
 - [ ] Rodízio dos criativos de seguidores a cada 3 dias, com 2 por vez, a partir dos 10 escolhidos pelas clientes #trafego-pago
-- [ ] Montar o lembrete para a lista de espera (25 e 26/11) e o carrinho na LP (27 a 30/11) #trafego-pago
+- [ ] Montar o lembrete para a lista de espera (25 e 26/11) e o carrinho na LP (27 a 30/11) #trafego-pago @{2026-11-25}
 - [ ] Avisar a Julia: MOD Institute, SHINING 3D, DentalCAD, Dental CAD e Spear Education não existem no Gerenciador (06/11) #trafego-pago
 - [ ] Colabs: segundo nível de teste, depois do lançamento. Precisa da aprovação da outra conta #trafego-pago
 - [ ] Criar o semelhante dos compradores, depois de confirmar se a lista é da Marjorie ou da iDD e quantos compradores são dos EUA #trafego-pago
-- [ ] Pixel na LP até 20/11, para o carrinho de 27 a 30/11 #tracking
+- [ ] Pixel na LP até 20/11, para o carrinho de 27 a 30/11 #tracking @{2026-11-20}
 - [ ] Mandar para a Julia o checklist de publicação de site. Prometido em 26/10 #lp-e-site
 - [ ] Revisar o site e a LP com o checklist do playbook #lp-e-site
 - [ ] E-mail de suporte no domínio: migrar o Google Workspace do Wix ou usar o e-mail da Hostinger #lp-e-site
 - [ ] Pixel e eventos na LP e no checkout da Circle, e verificação de domínio na BM #tracking
-- [ ] Definir o valor do fee em dólar (Guilherme) #comercial
+- [ ] Definir o valor do fee em dólar (Guilherme) #comercial #gui
 - [ ] Migração: levar o PDF da LP e o export do WhatsApp do Downloads para o Drive #migracao
 
 
 ## Fazendo
 
 - [ ] IG-28 (DffdDhwhldx) em espera: subir quando o orgânico esgotar. A Julia monitora e avisa (09/11) #trafego-pago
-- [ ] Rodada 4 de seguidores, IG-12 contra IG-14: o IG-14 saiu da análise e está ativo (16/11). Ler em 19/11 #trafego-pago
-- [ ] Distribuição com a base cansando do IG-27 (frequência 4,4, ThruPlay por dia caindo). IG-29 ("Don't buy yet") e IG-30 ("Nobody becomes an exocad expert overnight") no ar no mesmo conjunto desde 16/11, verba mantida em US$ 5, conferidos na API. Saíram da análise e estão ativos (16/11). Ler o ThruPlay por anúncio em 19/11, junto com a rodada 4 #trafego-pago
+- [ ] Rodada 4 de seguidores, IG-12 contra IG-14: o IG-14 saiu da análise e está ativo (16/11). Ler em 19/11 #trafego-pago @{2026-11-19}
+- [ ] Distribuição com a base cansando do IG-27 (frequência 4,4, ThruPlay por dia caindo). IG-29 ("Don't buy yet") e IG-30 ("Nobody becomes an exocad expert overnight") no ar no mesmo conjunto desde 16/11, verba mantida em US$ 5, conferidos na API. Saíram da análise e estão ativos (16/11). Ler o ThruPlay por anúncio em 19/11, junto com a rodada 4 #trafego-pago @{2026-11-19}
 
 
 ## Aguardando cliente
 
-- [ ] Caixinha de perguntas nos stories nesta semana (Julia, 16/11, 15h57)
+- [ ] Caixinha de perguntas nos stories nesta semana (Julia, 16/11, 15h57) @{2026-11-21}
 - [ ] Acesso ao Instagram (o convite deu erro em 03/11)
 - [ ] Aprovar a verba inicial de US$ 15 por dia
-- [ ] Publicar a LP e informar o domínio (até 20/11, para o Pixel)
+- [ ] Publicar a LP e informar o domínio (até 20/11, para o Pixel) @{2026-11-20}
 - [ ] Arquivo do design system
 - [ ] Datas: evento no RJ e viagem à Alemanha
 - [ ] Política de reembolso

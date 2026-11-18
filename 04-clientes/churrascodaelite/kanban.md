@@ -4,23 +4,23 @@ kanban-plugin: board
 
 ## A fazer
 
-- [ ] `Leads | Quente | Lista de espera`: primeira leitura de custo por lead em 20/11 #trafego-pago
-- [ ] Ver a qualidade dos seguidores que estão chegando e testar segmentar só homens na `Seguidores | Frio | Perfil` (Guilherme no grupo, 17/11, 09h07) #trafego-pago
-- [ ] Teste da lista de espera no grupo do WhatsApp nesta semana. Se não for bem, ajustar e rodar direto para vender na LP (Guilherme, 16/11) #estrategia
-- [ ] Trazer pelo Instagram quem foi ao primeiro workshop (23 no grupo antigo, 6 presenciais) para o grupo novo da Black (Guilherme, 16/11) #estrategia
+- [ ] `Leads | Quente | Lista de espera`: primeira leitura de custo por lead em 20/11 #trafego-pago @{2026-11-20}
+- [ ] Ver a qualidade dos seguidores que estão chegando e testar segmentar só homens na `Seguidores | Frio | Perfil` (Guilherme no grupo, 17/11, 09h07) #trafego-pago #gui
+- [ ] Teste da lista de espera no grupo do WhatsApp nesta semana. Se não for bem, ajustar e rodar direto para vender na LP (Guilherme, 16/11) #estrategia @{2026-11-21} #gui
+- [ ] Trazer pelo Instagram quem foi ao primeiro workshop (23 no grupo antigo, 6 presenciais) para o grupo novo da Black (Guilherme, 16/11) #estrategia #gui
 - [ ] Conferir na BM se o Guilherme virou ADM da Página do Churrasco da Elite no Facebook. O Lucas disse "feito" em 14/11, 11h25 #trafego-pago
-- [ ] Seguidores: primeira leitura de custo por seguidor em 19/11, 3 dias depois de entrar no ar, e rodízio do pior pelo próximo da lista #trafego-pago
+- [ ] Seguidores: primeira leitura de custo por seguidor em 19/11, 3 dias depois de entrar no ar, e rodízio do pior pelo próximo da lista #trafego-pago @{2026-11-19}
 - [ ] Auditar a BM `666930504135899`, dona da CA01, como foi feito com a `1996641120812552` (16/11) #trafego-pago
-- [ ] Guilherme revisar os 4 roteiros de `entregas/2026-11-13-roteiros-fim-de-semana.md` e mandar ao Lucas para gravar em 14 e 15/11 #criativos-e-audiovisual
-- [ ] Plano da Black Friday: oferta de 97 € por 67 € (16/11), datas, verba de 450 € em novembro dividida entre aquecimento e Black (13/11) #estrategia
+- [ ] Guilherme revisar os 4 roteiros de `entregas/2026-11-13-roteiros-fim-de-semana.md` e mandar ao Lucas para gravar em 14 e 15/11 #criativos-e-audiovisual @{2026-11-14} #gui
+- [ ] Plano da Black Friday: oferta de 97 € por 67 € (16/11), datas, verba de 450 € em novembro dividida entre aquecimento e Black (13/11) #estrategia #gui
 - [ ] Verificar o domínio churrascodaelite.pt na BM `666930504135899` (13/11; BM e domínio trocados em 16/11) #tracking
 - [ ] Hotmart: Pixel no checkout e conferir de onde vêm os eventos de servidor do Pixel #tracking
-- [ ] Página de vendas da Black (27 a 30/11) com o checkout a 67 €: a LP nova tira do ar a página de 97 € do Framer #lp-e-site
+- [ ] Página de vendas da Black (27 a 30/11) com o checkout a 67 €: a LP nova tira do ar a página de 97 € do Framer #lp-e-site @{2026-11-27}
 - [ ] Criativos da captação de seguidores e da base para a LP (13/11) #criativos-e-audiovisual
 - [ ] Ficha de cada campanha em `campanhas/` #trafego-pago
-- [ ] Criar o painel `churrascodaelite.hub3ps.com` pelo runbook novo-hub, na semana de 16/11 (Guilherme pediu para esperar) #trafego-pago
+- [ ] Criar o painel `churrascodaelite.hub3ps.com` pelo runbook novo-hub, na semana de 16/11 (Guilherme pediu para esperar) #trafego-pago @{2026-11-21} #gui
 - [ ] Subir o PDF da proposta na pasta do cliente no Drive, `1. CLIENTES ATIVOS/12. Lucas - Churrasco da Elite` (criada pelo Guilherme em 16/11; tem a planilha da lista e, desde 18/11, `Criativos · Captação lista Black`) #comercial
-- [ ] Rediscutir com o Lucas o setup e os 10% em 12/02/2027, fim do 3º mês (tarefa agendada `churrascodaelite-rediscutir-setup`) #comercial
+- [ ] Rediscutir com o Lucas o setup e os 10% em 12/02/2027, fim do 3º mês (tarefa agendada `churrascodaelite-rediscutir-setup`) #comercial @{2027-02-12} #gui
 
 
 ## Fazendo

@@ -1,6 +1,6 @@
 ---
 tipo: processo
-atualizado: 2026-11-11
+atualizado: 2026-11-18
 autor: claude
 ---
 # Convenções
@@ -117,6 +117,22 @@ Uma nota por campanha em `04-clientes/<slug>/campanhas/`, com o nome no Meta,
 os IDs numéricos, a configuração e o histórico de otimizações. É o único lugar
 onde os IDs ficam registrados. O arquivo leva o slug do nome:
 `agendamento-quente-aula-experimental.md`.
+
+## Tarefa no kanban
+
+Padrão de 18/11/2026, para montar a semana do Guilherme a partir dos kanbans
+de todos os clientes.
+
+- **Prazo:** `@{AAAA-MM-DD}` no fim do cartão, quando a tarefa tem dia (vence,
+  leitura de campanha, entrega). O plugin Kanban mostra como data e marca o
+  atrasado. Hora, quando houver: `@@{HH:mm}`
+- **Só a data que o cartão já diz.** Sem dia combinado, sem prazo. Data de
+  contexto no texto ("Julia, 16/11") continua no texto e não vira prazo
+- **`#gui`:** a tarefa toma tempo do Guilherme: decidir, revisar, gravar, ir a
+  reunião, mexer no Ads Manager ou no Vercel onde o MCP não alcança. Sem `#gui`,
+  quem faz é o Claude. Rascunho de mensagem ao cliente é do Claude, mesmo
+  passando pelo ok do Guilherme
+- Em "Aguardando cliente", a data é o dia que o cliente prometeu, para cobrar
 
 ## Evento e conversão personalizada
 

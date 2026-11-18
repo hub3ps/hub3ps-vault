@@ -6,27 +6,27 @@ kanban-plugin: board
 
 ## A fazer
 
-- [ ] Publicar o IG-CAR-02 (NFS-e) no @juria.app, aprovado em 20/10 #social
-- [ ] Guilherme decide no Ads Manager: o 1º conjunto de vídeos (música) está pausado e só a locução roda. Reativar para o teste valer ou encerrar o teste. Combinado em 04/11 que o Claude não mexe na campanha #trafego-pago @{2026-11-04}
-- [ ] Decidir o evento da campanha de vídeos: manter `COMPLETE_REGISTRATION` (5 por semana na conta) ou trocar para `LEAD` #trafego-pago
-- [ ] Decidir o posicionamento da campanha de vídeos: manter automático ou voltar ao manual (Facebook e Instagram, só celular) #trafego-pago
-- [ ] Renomear o 2º conjunto de vídeos, que termina em "— Cópia" #trafego-pago
-- [ ] Conferir no Ads Manager as 5 variações de texto dos vídeos: a prévia trouxe texto do INST-B-01 #trafego-pago
+- [ ] Publicar o IG-CAR-02 (NFS-e) no @juria.app, aprovado em 20/10 #social #gui
+- [ ] Guilherme decide no Ads Manager: o 1º conjunto de vídeos (música) está pausado e só a locução roda. Reativar para o teste valer ou encerrar o teste. Combinado em 04/11 que o Claude não mexe na campanha #trafego-pago @{2026-11-04} #gui
+- [ ] Decidir o evento da campanha de vídeos: manter `COMPLETE_REGISTRATION` (5 por semana na conta) ou trocar para `LEAD` #trafego-pago #gui
+- [ ] Decidir o posicionamento da campanha de vídeos: manter automático ou voltar ao manual (Facebook e Instagram, só celular) #trafego-pago #gui
+- [ ] Renomear o 2º conjunto de vídeos, que termina em "— Cópia" #trafego-pago #gui
+- [ ] Conferir no Ads Manager as 5 variações de texto dos vídeos: a prévia trouxe texto do INST-B-01 #trafego-pago #gui
 - [ ] Cadastrar a campanha de vídeos nos geradores do hub, depois das decisões acima #tracking
 - [ ] Atualizar a ficha da campanha Lead: a verba está a R$ 42/dia na API (04/11) #trafego-pago
 - [ ] Preencher os IDs da campanha View_Register (3009), que estão como TODO na ficha #trafego-pago
 - [ ] Proposta: medir a importação de processos como evento na Meta e no GA4 #tracking
 - [ ] Proposta: testes de comunicação por nicho, mantendo o sistema geral #trafego-pago
-- [ ] Decidir a estratégia de e-mail do JurIA (sessão parada esperando decisão) #email-marketing
-- [ ] Encontrar uma pessoa para gravar conteúdo do Instagram e criativos dos anúncios, para humanizar a marca (reunião de 06/11) #criativo
+- [ ] Decidir a estratégia de e-mail do JurIA (sessão parada esperando decisão) #email-marketing #gui
+- [ ] Encontrar uma pessoa para gravar conteúdo do Instagram e criativos dos anúncios, para humanizar a marca (reunião de 06/11) #criativo #gui
 - [ ] Migração: levar o conhecimento do repo para o vault (brief, brand, comercial, funil, e-mail, Helena) #migracao
 - [ ] Migração: mover os arquivos do JurIA que estão no Downloads para o Drive #migracao
 - [ ] Site novo: ajustar a página `/oab` (oferta OAB30 do flyer de Brusque). Foi copiada como está do `juria-lps` e promete "todos os módulos liberados, em todos os planos", falso desde 29/09. Deixada para depois pelo Guilherme em 12/11 #lp-e-site
-- [ ] Próxima reunião com a Mobiletec: analisar juntos os informativos de segurança (m15, 09/11) e o site novo (m16, 12/11). Esperado: leads de mais qualidade, com mais cadastros concluídos e processos importados. Ler também `Lead` (m12) e vídeos (m13), que tiveram a página trocada no meio do teste #trafego-pago
+- [ ] Próxima reunião com a Mobiletec: analisar juntos os informativos de segurança (m15, 09/11) e o site novo (m16, 12/11). Esperado: leads de mais qualidade, com mais cadastros concluídos e processos importados. Ler também `Lead` (m12) e vídeos (m13), que tiveram a página trocada no meio do teste #trafego-pago #gui
 
 ## Fazendo
 
-- [ ] Folder: mandar à gráfica, confirmar sanfona no papel e testar o QR na prova. Entrega até @{2026-11-15} #criativo
+- [ ] Folder: mandar à gráfica, confirmar sanfona no papel e testar o QR na prova. Entrega até @{2026-11-15} #criativo #gui
 - [ ] Teste: informativos de segurança no cadastro, no ar desde 09/11 (Saulo). Avaliar em @{2026-11-23} a importação e a passagem da tela da OAB #lp-e-site
 - [ ] Teste: campanha otimizando pela conta criada (`LEAD`). Avaliar em @{2026-11-13} #trafego-pago
 - [ ] Teste: e-mails pessoais da Isadora para quem não importou processos. Avaliar em @{2026-11-11} #email-marketing

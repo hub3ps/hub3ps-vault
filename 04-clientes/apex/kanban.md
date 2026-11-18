@@ -14,8 +14,8 @@ kanban-plugin: board
 - [ ] Backup off-site do banco, que hoje fica no mesmo servidor #agentes-de-ia
 - [ ] Suíte de testes de conversa automatizada #agentes-de-ia
 - [ ] Encurtar o texto das respostas sem perder informação, como pediu a Beatriz em 17/09 #agentes-de-ia
-- [ ] Definir o modelo comercial e o prazo do projeto #comercial
-- [ ] Avaliar se o repo sai da conta pessoal `guimiguell` para a organização hub3ps #migracao
+- [ ] Definir o modelo comercial e o prazo do projeto #comercial #gui
+- [ ] Avaliar se o repo sai da conta pessoal `guimiguell` para a organização hub3ps #migracao #gui
 - [ ] Migração: levar o `menu apex servicos.pdf` do Downloads para o Drive. Está desatualizado #migracao
 
 
