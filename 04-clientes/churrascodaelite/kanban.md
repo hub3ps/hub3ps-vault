@@ -9,17 +9,14 @@ kanban-plugin: board
 - [ ] Trazer pelo Instagram quem foi ao primeiro workshop (23 no grupo antigo, 6 presenciais) para o grupo novo da Black (Guilherme, 16/11) #estrategia
 - [ ] Conferir na BM se o Guilherme virou ADM da Página do Churrasco da Elite no Facebook. O Lucas disse "feito" em 14/11, 11h25 #trafego-pago
 - [ ] Seguidores: primeira leitura de custo por seguidor em 19/11, 3 dias depois de entrar no ar, e rodízio do pior pelo próximo da lista #trafego-pago
-- [ ] Pixel novo na BM `666930504135899`, criado pelo Guilherme, e trocar o ID em `CONFIG.pixel` da LP. O `597919442616239` é da BM antiga (16/11) #tracking
 - [ ] Auditar a BM `666930504135899`, dona da CA01, como foi feito com a `1996641120812552` (16/11) #trafego-pago
 - [ ] Guilherme revisar os 4 roteiros de `entregas/2026-11-13-roteiros-fim-de-semana.md` e mandar ao Lucas para gravar em 14 e 15/11 #criativos-e-audiovisual
 - [ ] Plano da Black Friday: oferta de 97 € por 67 € (16/11), datas, verba de 450 € em novembro dividida entre aquecimento e Black (13/11) #estrategia
 - [ ] Verificar o domínio churrascodaelite.pt na BM `666930504135899` (13/11; BM e domínio trocados em 16/11) #tracking
-- [ ] Pixel na LP nova: PageView nas duas páginas, Lead na página de obrigado e GrupoVIP no botão, já no código. Falta o ID do Pixel novo em `comum.js` (13/11, atualizado em 16/11) #tracking
 - [ ] Hotmart: Pixel no checkout e conferir de onde vêm os eventos de servidor do Pixel #tracking
-- [ ] LP aprovada pelo Lucas (16/11): tirar o `noindex` da LP e publicar com o Pixel novo em curso.churrascodaelite.pt #lp-e-site
 - [ ] Página de vendas da Black (27 a 30/11) com o checkout a 67 €: a LP nova tira do ar a página de 97 € do Framer #lp-e-site
 - [ ] Criativos da captação de seguidores e da base para a LP (13/11) #criativos-e-audiovisual
-- [ ] Campanha da base para a LP da lista de espera, na CA01 (conta em uso desde 16/11), no padrão de nomes #trafego-pago
+- [ ] Campanha da base para a LP da lista de espera, na CA01 (conta em uso desde 16/11), no padrão de nomes. Pixel pronto em 18/11: otimizar por `Lead` #trafego-pago
 - [ ] Ficha de cada campanha em `campanhas/` #trafego-pago
 - [ ] Criar o painel `churrascodaelite.hub3ps.com` pelo runbook novo-hub, na semana de 16/11 (Guilherme pediu para esperar) #trafego-pago
 - [ ] Criar a pasta `Hub3Ps/Clientes/churrascodaelite/` no Drive e subir o PDF da proposta (Guilherme) #comercial
@@ -40,6 +37,7 @@ kanban-plugin: board
 
 ## Feito
 
+- [x] Pixel `333549951080063` na LP, sem `noindex`: PageView, `Lead` na página de obrigado e `CompleteRegistration` no botão do grupo VIP, conferidos chegando na Meta (18/11)
 - [x] LP da lista aprovada pelo Lucas: "TA PERFEITA" (16/11, 13h39)
 - [x] Cartão cadastrado pelo Lucas na CA01, em EUR (16/11, 15h00)
 - [x] Grupo novo da Black criado pelo Lucas, link mandado no grupo (16/11, 14h05)

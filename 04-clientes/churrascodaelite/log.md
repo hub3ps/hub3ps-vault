@@ -12,6 +12,16 @@ Formato:
 - **Decisões:** 
 - **Próximo passo:** 
 
+### 2026-11-18 · Pixel na LP da lista
+- **O que:** Pixel `333549951080063` (escolhido e ajustado pelo Guilherme) posto em `comum.js`, `noindex` tirado da LP e publicado em curso.churrascodaelite.pt. O clique no botão do grupo VIP passou de `GrupoVIP` (personalizado) para `CompleteRegistration`, com `content_name: grupo_vip`
+- **Resultado em:** `agencia_marketing/clients/churrascodaelite/lps/lista-black/` (comum.js, obrigado/index.html, README.md), sem commit
+- **Teste no ar:** com o cookie aceito, saíram PageView, `Lead` e `CompleteRegistration` para o `333549951080063`, e a Meta registrou o disparo (18/11, 13h30 UTC). O teste deixou 1 `Lead` e 1 `CompleteRegistration` de mentira no Pixel, sem linha na planilha. A Meta também manda sozinha o `SubscribedButtonClick` no clique
+- **Decisões:**
+  - O `Lead` continua só para quem chega à página de obrigado pelo formulário, uma vez por inscrição: quem abre o link direto ou recarrega não conta
+  - A entrada no grupo não se mede de fora do WhatsApp, então o cadastro concluído é o clique no botão
+  - Pelo RGPD, quem recusa os cookies não gera evento nenhum: a planilha segue sendo a contagem verdadeira
+- **Próximo passo:** subir a campanha de captação da lista otimizando por `Lead`
+
 ### 2026-11-17 · Grupo de 16 e 17/11, pela rotina
 - **O que:** a rotina WhatsApp diário registrou as 62 mensagens de 16 e 17/11 do grupo
 - **Resultado em:** `fontes/2026-11-17-whatsapp-grupo.md`
