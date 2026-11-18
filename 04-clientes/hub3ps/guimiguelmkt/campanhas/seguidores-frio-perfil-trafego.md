@@ -57,6 +57,18 @@ O Guilherme achou fraca a qualidade de quem está seguindo. O público que ele q
 4. **Medir toda semana:** custo por seguidor (insights do perfil) e uma amostra dos seguidores novos, conferindo se são do nicho
 5. **Depois, com base:** semelhante de quem engajou com o perfil (`Engajou IG 365d`), quando o público tiver tamanho
 
+### Públicos propostos (18/11, IDs e alcance na API)
+Alcance estimado pela Meta para Brasil, 22 a 45, só Instagram, só celular. O aberto de hoje alcança de 83 a 98 milhões.
+
+| Público | Regra | Alcance | IDs |
+|---|---|---|---|
+| `Interesse IA e marketing digital` (**proposto**) | curte IA **e** curte marketing (as duas coisas) | 10,2 a 12 mi | IA: `6002898176962` Inteligência artificial (computação), `6002968393168` A.I. Inteligência Artificial. Marketing: `6003127206524` Marketing digital, `6003389760112` Marketing de redes sociais, `6853952393067` Serviços e organizações de marketing |
+| `Donos e admins de negócio` (**proposto**) | comportamento, qualquer um dos três | 7,7 a 9,1 mi | `6002714898572` Proprietários de pequenas empresas, `6297846662583` Administradores do perfil comercial do Instagram, `6020530281783` Administradores de página comercial |
+| IA ou marketing (descartado) | qualquer interesse da lista | 30 a 36 mi | largo demais, perto do aberto |
+| Donos e admins mais PME e empreendedorismo (descartado) | comportamento e interesse | 30 a 35 mi | o interesse em empreendedorismo é amplo demais |
+
+Não existe interesse de ChatGPT, OpenAI nem tráfego pago na busca da Meta em pt_BR.
+
 Fontes: [Jon Loomer, tráfego com destino no perfil](https://www.jonloomer.com/create-a-traffic-campaign-with-instagram-profile-conversion-location/), [Creatorflow, como medir follower ads](https://creatorflow.so/blog/instagram-follower-ads/), [Felipe Vergara, seguidores com Meta Ads](https://felipevergara.co/blogs/meta-ads/aumentar-seguidores-instagram-meta-ads/), [Stackmatix, interesse em 2026](https://www.stackmatix.com/blog/meta-ads-interest-targeting). São blogs de quem opera, não documentação da Meta.
 
 ## Histórico de otimizações
