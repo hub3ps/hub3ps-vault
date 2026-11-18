@@ -105,6 +105,7 @@ Regras do Guilherme de 18/11/2026, para todo cliente e toda campanha, pelo MCP o
 
 - **Link no anúncio, sempre:** "URL do site" preenchido com a página de destino e "Link de exibição" com o domínio (ex.: `churrascodaelite.pt`). Pelo MCP, `link_url` e `display_link` no criativo. Só fica sem link quando o MCP não deixar, e aí isso é dito na hora
 - **Otimizações automáticas da Meta desligadas.** Em "Aprimoramentos de criativos Advantage+", tudo desligado. Em "Aprimoramentos essenciais", só "Comentários relevantes" ligado (`inline_comment`) e o resto desligado
+- **Configuração do criativo, tudo desligado:** "Destaques do site" nunca, "Links de site" e "Produtos e serviços" também não. **Nunca vincular catálogo** (ex.: o Shopify Product Catalog do Churrasco da Elite) a anúncio que não vende produto do catálogo. Em 18/11, a campanha da lista subiu pelo MCP com tudo isso marcado como desligado no pedido, e mesmo assim o Ads Manager mostrou Destaques do site e Produtos e serviços ligados, com o catálogo da loja. Por isso, conferir essa tela no Ads Manager antes de publicar, sempre
 - **Texto do anúncio nunca diz o preço do produto.** O anúncio chama a atenção do público certo e leva ao local de conversão (site, LP, conversa no WhatsApp ou no Instagram). O preço a pessoa descobre lá
 - **Nunca usar "renda extra"** nos textos
 - **Erro #1815589** ("título e descrição do link da chamada para ação obsoletos"): o MCP grava o título e a descrição dentro do botão do vídeo, e o Ads Manager acusa. Conferir no rascunho antes de publicar (Churrasco da Elite, 18/11)

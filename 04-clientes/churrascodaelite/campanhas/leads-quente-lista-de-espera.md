@@ -41,18 +41,20 @@ Ads Manager: [campanha](https://adsmanager.facebook.com/adsmanager/manage/adsets
 - **Declaração de IA:** não marcada. Os vídeos são gravações reais do Lucas
 
 ## Copy (as mesmas nos dois anúncios, a Meta combina)
-Português de Portugal, como a LP. Só fatos da LP, sem promessa de ganho.
+Versão 2, de 18/11, subida à mão pelo Guilherme no Ads Manager. A versão 1 citava o preço (97 € por 67 €) e "renda extra", fora da regra de montagem ([[../../../03-processos/convencoes|convenções]], "Montagem do anúncio").
 
 **Textos principais**
-1. Gostas de fazer churrasco e queres transformar isso em renda extra em Portugal? Na Black Friday, o workshop Faturando com Churrasco passa de 97 € para 67 €, só de 27 a 30 de novembro. Entra na lista VIP: quem está na lista recebe o link primeiro, no grupo do WhatsApp.
-2. Cansado da obra ou do restaurante? O Churrasco da Elite faz eventos de churrasco há mais de 10 anos e mostra o passo a passo no workshop Faturando com Churrasco. Na Black Friday sai a 67 €. Entra na lista e recebe a oferta primeiro.
-3. Sabes grelhar, mas não sabes cobrar? No workshop Faturando com Churrasco aprendes a montar o menu, a divulgar e a gerir os teus eventos. De 27 a 30 de novembro custa 67 € em vez de 97 €, e a lista VIP recebe o link antes de todos.
-4. A oferta da Black Friday do Churrasco da Elite sai primeiro no grupo VIP do WhatsApp, a 27 de novembro: o workshop completo Faturando com Churrasco por 67 €. A inscrição na lista é grátis.
-5. Casamentos, batizados, aniversários: há sempre um evento a precisar de um bom churrasco. O workshop Faturando com Churrasco mostra como começar. Na Black Friday custa 67 €, e quem entra na lista recebe o link primeiro.
+1. Gostas de fazer churrasco e já pensaste em transformar isso num negócio de eventos em Portugal? O workshop Faturando com Churrasco vai ter uma condição especial na Black Friday, de 27 a 30 de novembro. Entra na lista VIP e recebe a oferta primeiro, no grupo do WhatsApp.
+2. Cansado da obra ou do restaurante? O Churrasco da Elite faz eventos de churrasco há mais de 10 anos e abre o passo a passo no workshop Faturando com Churrasco. Entra na lista VIP e sê dos primeiros a saber da oferta da Black Friday.
+3. Sabes grelhar, mas não sabes cobrar? No workshop Faturando com Churrasco aprendes a montar o menu, a divulgar e a gerir os teus eventos. A oferta da Black Friday sai primeiro para quem está na lista VIP.
+4. A oferta da Black Friday do workshop Faturando com Churrasco sai primeiro no grupo VIP do WhatsApp, a 27 de novembro. A inscrição na lista é grátis. Entra e recebe o link antes de todos.
+5. Casamentos, batizados, aniversários: há sempre um evento a precisar de um bom churrasco. O workshop Faturando com Churrasco mostra como começar a trabalhar com eventos. Entra na lista VIP e recebe a oferta da Black Friday em primeira mão.
 
-**Títulos:** Entra na lista VIP da Black Friday · Workshop de 97 € por 67 € · A oferta sai primeiro no grupo VIP · Transforma o churrasco em renda extra · Faturando com Churrasco na Black
+**Títulos:** Entra na lista VIP da Black Friday · A oferta sai primeiro no grupo VIP · Transforma a paixão em negócio · Workshop Faturando com Churrasco · Sabes grelhar? Aprende a cobrar
 
-**Descrições:** Inscrição grátis na lista · Só de 27 a 30 de novembro · O link chega primeiro no WhatsApp · Workshop online do Churrasco da Elite · Mais de 10 anos de eventos
+**Descrições:** Inscrição grátis na lista · Oferta de 27 a 30 de novembro · O link chega primeiro no WhatsApp · Workshop online do Churrasco da Elite · Mais de 10 anos de eventos
+
+**Ajustes do Guilherme no Ads Manager (18/11):** URL do site e link de exibição `churrascodaelite.pt`, aprimoramentos desligados (só Comentários relevantes), Destaques do site, Links de site e Produtos e serviços desligados, catálogo do Shopify desvinculado
 
 ## Fila de vídeos
 Para entrar aos poucos, no lugar do pior ou em conjunto novo: VL-02 (armazém), VL-03 (caixa preta) e VL-04 (sem o "2025"). Todos no Drive, em `12. Lucas - Churrasco da Elite/Criativos · Captação lista Black`.
@@ -65,5 +67,6 @@ Para entrar aos poucos, no lugar do pior ou em conjunto novo: VL-02 (armazém), 
 - O Pixel só tinha o `Lead` do teste de 18/11 antes desta campanha
 
 ## Histórico de otimizações
+- 2026-11-18 · copy v2 sem preço e sem "renda extra", e link, aprimoramentos e configuração do criativo corrigidos à mão pelo Guilherme no Ads Manager
 - 2026-11-18 · público trocado para `Engajou IG 365d e seguidores` (pedido do Guilherme), campanha renomeada para Quente, criativos refeitos com a UTM nova · rascunho sem erro, à espera do OK
 - 2026-11-18 · montada em rascunho pelo Claude: campanha, 2 conjuntos a 5 € e 2 anúncios, sem erro de validação · à espera do OK para publicar
