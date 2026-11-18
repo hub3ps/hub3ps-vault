@@ -99,6 +99,16 @@ utm_term=<público do conjunto em slug>    ← engajou-ig-365d-e-seguidores
 - UTM já publicada não se troca: o histórico do relatório depende dela
 - Gerador pronto: `juria.hub3ps.com/utm-generator.html`
 
+## Montagem do anúncio
+
+Regras do Guilherme de 18/11/2026, para todo cliente e toda campanha, pelo MCP ou à mão.
+
+- **Link no anúncio, sempre:** "URL do site" preenchido com a página de destino e "Link de exibição" com o domínio (ex.: `churrascodaelite.pt`). Pelo MCP, `link_url` e `display_link` no criativo. Só fica sem link quando o MCP não deixar, e aí isso é dito na hora
+- **Otimizações automáticas da Meta desligadas.** Em "Aprimoramentos de criativos Advantage+", tudo desligado. Em "Aprimoramentos essenciais", só "Comentários relevantes" ligado (`inline_comment`) e o resto desligado
+- **Texto do anúncio nunca diz o preço do produto.** O anúncio chama a atenção do público certo e leva ao local de conversão (site, LP, conversa no WhatsApp ou no Instagram). O preço a pessoa descobre lá
+- **Nunca usar "renda extra"** nos textos
+- **Erro #1815589** ("título e descrição do link da chamada para ação obsoletos"): o MCP grava o título e a descrição dentro do botão do vídeo, e o Ads Manager acusa. Conferir no rascunho antes de publicar (Churrasco da Elite, 18/11)
+
 ## Ficha da campanha
 
 Uma nota por campanha em `04-clientes/<slug>/campanhas/`, com o nome no Meta,
