@@ -4,7 +4,7 @@ kanban-plugin: board
 
 ## A fazer
 
-- [ ] Campanha de captação da lista: conjunto 1 com VL-07 e conjunto 2 com VL-05; fila VL-02, VL-03 e VL-04 (sem 2025), em `~/Downloads/churrascodaelite-captacao/` (18/11) #trafego-pago
+- [ ] Campanha de captação da lista: conjunto 1 com VL-07 e conjunto 2 com VL-05; fila VL-02, VL-03 e VL-04 (sem 2025), na pasta `Criativos · Captação lista Black` do Drive (18/11) #trafego-pago
 - [ ] Ver a qualidade dos seguidores que estão chegando e testar segmentar só homens na `Seguidores | Frio | Perfil` (Guilherme no grupo, 17/11, 09h07) #trafego-pago
 - [ ] Teste da lista de espera no grupo do WhatsApp nesta semana. Se não for bem, ajustar e rodar direto para vender na LP (Guilherme, 16/11) #estrategia
 - [ ] Trazer pelo Instagram quem foi ao primeiro workshop (23 no grupo antigo, 6 presenciais) para o grupo novo da Black (Guilherme, 16/11) #estrategia
@@ -20,7 +20,7 @@ kanban-plugin: board
 - [ ] Campanha da base para a LP da lista de espera, na CA01 (conta em uso desde 16/11), no padrão de nomes. Pixel pronto em 18/11: otimizar por `Lead` #trafego-pago
 - [ ] Ficha de cada campanha em `campanhas/` #trafego-pago
 - [ ] Criar o painel `churrascodaelite.hub3ps.com` pelo runbook novo-hub, na semana de 16/11 (Guilherme pediu para esperar) #trafego-pago
-- [ ] Criar a pasta `Hub3Ps/Clientes/churrascodaelite/` no Drive e subir o PDF da proposta (Guilherme) #comercial
+- [ ] Subir o PDF da proposta na pasta do cliente no Drive, `1. CLIENTES ATIVOS/12. Lucas - Churrasco da Elite` (criada pelo Guilherme em 16/11; tem a planilha da lista e, desde 18/11, `Criativos · Captação lista Black`) #comercial
 - [ ] Rediscutir com o Lucas o setup e os 10% em 12/02/2027, fim do 3º mês (tarefa agendada `churrascodaelite-rediscutir-setup`) #comercial
 
 

@@ -18,6 +18,7 @@ Formato:
 - **O que achei:** 5 aproveitáveis (VL-01, 02, 03, 06 e 07), 3 deles só com corte, porque prometem de 1.500 € a 5.000 € por mês. VL-04 (fala de 2025) e VL-05 (a promessa é o vídeo inteiro) ficam de fora. Todos chegaram em 576x1024 pelo WhatsApp
 - **Cortes (18/11):** feitos a pedido do Guilherme, os 5 em `~/Downloads/churrascodaelite-captacao/`, conferidos por retranscrição. VL-06 com cartela final da lista VIP
 - **Decisão do Guilherme (18/11):** VL-07 e VL-05 inteiros, um em cada conjunto. VL-02, VL-03 inteiros e VL-04 sem o "2025" ficam na fila. VL-01 e VL-06 descartados, assim como os cortes da primeira rodada
+- **Drive (18/11):** os 5 subidos em `12. Lucas - Churrasco da Elite/Criativos · Captação lista Black`, pelo Chrome, e conferidos pelo tamanho
 - **Próximo passo:** montar a campanha de captação da lista com dois conjuntos, otimizando por `Lead`
 
 ### 2026-11-18 · Cookies da LP no esquema do JurIA
