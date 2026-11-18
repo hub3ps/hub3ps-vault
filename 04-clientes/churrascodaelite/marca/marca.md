@@ -16,6 +16,7 @@ autor: claude
 | `perfil-grupo-operacional.png` | Essa logo sobre fundo escuro, 1024x1024, cabe no círculo | Foto do grupo "Churrasco da Elite - Tráfego" |
 | `perfil-grupo-black-week.png` | Arte do Lucas com "BLACK WEEK" no lugar de "BLACK FRYDER", sem os 4 cards, enquadrada no círculo | Foto do grupo da promoção |
 | `logo-original-site.png` | A logo do site, 1276x1276, como baixada | Referência |
-| `logo-churrascodaelite.svg`, `-ouro.svg`, `-branca.svg`, `logo-churrascodaelite.png` | Vetorização da logo do site, desinclinada | **Reprovada pelo Guilherme em 18/11** ("ficou ruim"), e é da logo errada. Não usar |
+
+A vetorização da logo do site foi reprovada pelo Guilherme em 18/11 ("ficou ruim", e era a logo errada) e apagada.
 
 **Cores (amostradas do original):** dourado `#F2DC8C` → `#D2B45C` → `#A8883C`.
