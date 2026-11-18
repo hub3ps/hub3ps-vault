@@ -1,19 +1,21 @@
 ---
 tipo: campanha
 cliente: hub3ps
-nome-campanha: Seguidores | Frio | Perfil
+nome-campanha: Seguidores | Frio | Perfil | Engajamento
 plataforma: meta
 conta: "1702680416845524"
 id-campanha: "120249697942430578"
-status: ativa
+status: pausada
 inicio: 2026-11-13
-verba-diaria: 30
+verba-diaria: 0
 evento-otimizacao: Visita ao perfil
 perfil: https://www.instagram.com/guimiguelmkt/
-atualizado: 2026-11-17
+atualizado: 2026-11-18
 autor: claude
 ---
-# Seguidores | Frio | Perfil
+# Seguidores | Frio | Perfil | Engajamento
+
+> **Pausada em 18/11/2026.** Substituída pela [[campanhas/seguidores-frio-perfil-trafego|Seguidores | Frio | Perfil | Tráfego]], com os mesmos três posts, objetivo de tráfego e só Instagram no celular. O nome ganhou o quarto campo, `Engajamento`, para não repetir o da nova.
 
 Campanha de seguidores do Instagram pessoal do Guilherme (@guimiguelmkt), subida por ele em 13/11/2026 às 10h06. Nomes no [[03-processos/convencoes|padrão]] desde 13/11. Valores em BRL.
 
@@ -27,9 +29,9 @@ Conferida na API em 13/11/2026.
 
 | Conjunto | ID | Status | Verba | Público na API |
 |---|---|---|---|---|
-| `Aberto 18-45 \| Brasil \| Visita ao perfil \| IG-06` (antes `Novo conjunto de anúncios de Engajamento`) | `120249697942440578` | pausado até 17/11 | R$ 20/dia | Brasil, 18 a 45, todos os gêneros, sem Advantage+ de público, sem exclusão. Posicionamentos manuais: Feed, Stories e Reels do Facebook; Feed, Stories, Reels, Explorar e Feed do perfil do Instagram |
-| `Aberto 18-45 \| Brasil \| Visita ao perfil \| IG-04` (duplicado do primeiro) | `120249698525430578` | pausado até 17/11 | R$ 20/dia | igual ao do IG-06 |
-| `Aberto 22-45 \| Brasil \| Visita ao perfil \| IG-07` (veio como cópia do IG-04) | `120249758665500578` | ativo desde 17/11 | R$ 30/dia | igual, mas com idade de 22 a 45 |
+| `Aberto 18-45 \| Brasil \| Visita ao perfil \| IG-06` (antes `Novo conjunto de anúncios de Engajamento`) | `120249697942440578` | pausado em 15/11 | R$ 20/dia | Brasil, 18 a 45, todos os gêneros, sem Advantage+ de público, sem exclusão. Posicionamentos manuais: Feed, Stories e Reels do Facebook; Feed, Stories, Reels, Explorar e Feed do perfil do Instagram |
+| `Aberto 18-45 \| Brasil \| Visita ao perfil \| IG-04` (duplicado do primeiro) | `120249698525430578` | pausado em 15/11 | R$ 20/dia | igual ao do IG-06 |
+| `Aberto 22-45 \| Brasil \| Visita ao perfil \| IG-07` (veio como cópia do IG-04) | `120249758665500578` | ativo de 17 a 18/11 | R$ 30/dia | igual, mas com idade de 22 a 45 |
 
 Um conjunto por post, com verba própria em cada um (sem CBO), para garantir a entrega dos dois no teste. O ID do post entra como quarto campo no nome do conjunto.
 
@@ -59,18 +61,21 @@ A ordem de publicação dá o número, e o ID do anúncio segue esta lista.
 ## Como ler o resultado
 A Meta otimiza para visita ao perfil, não para quem segue. O que importa é o **custo por seguidor**: o investimento dividido pelos seguidores ganhos no período, que se vê nos insights do perfil. A visita ao perfil é só o caminho até ele.
 
-## Resultado até 17/11
-Total na API desde 13/11. "Visitas" é o clique no perfil, que é o que a Meta otimiza. Seguidores ganhos por post: TODO, ler nos insights do perfil.
+## Resultado final
+Total na API de 13 a 18/11. "Visitas" é o clique no perfil, que é o que a Meta otimizou. Seguidores ganhos por post: TODO, ler nos insights do perfil.
 
 | Conjunto | Investido | Impressões | Visitas ao perfil | Custo por visita | Salvamentos |
 |---|---|---|---|---|---|
 | IG-06 | R$ 51,43 | 3.244 | 219 | R$ 0,23 | 10 |
 | IG-04 | R$ 53,00 | 2.724 | 206 | R$ 0,26 | 9 |
+| IG-07 | R$ 17,01 | 1.383 | 86 | R$ 0,20 | 2 |
+| **Total** | **R$ 121,44** | **7.351** | **511** | **R$ 0,24** | **21** |
 
 ## Histórico de otimizações
 - 2026-11-13 · publicada pelo Guilherme, com um conjunto e o IG-06 · primeira campanha de seguidores do perfil
 - 2026-11-13 · campanha, conjunto e anúncio renomeados para o padrão · só rótulo, sem efeito na entrega
 - 2026-11-13 · novo conjunto com o IG-04, duplicado do primeiro, R$ 20/dia · testar um segundo post; a verba total passa a R$ 40/dia. Conjuntos ganham o ID do post no nome
 - 2026-11-13 · anúncio do IG-04 destravado pelo Guilherme, depois do erro de permissão na Página · os dois conjuntos e anúncios ativos
-- até 2026-11-17 · conjuntos do IG-06 e do IG-04 pausados pelo Guilherme · TODO: o motivo
+- 2026-11-15 · conjuntos do IG-06 e do IG-04 pausados pelo Guilherme, às 20h22 · TODO: o motivo
 - 2026-11-17 · conjunto novo com o IG-07, cópia do IG-04, R$ 30/dia e idade de 22 a 45 · post novo do dia. Conjunto renomeado pela API; o anúncio fica para o Ads Manager, por causa do erro de permissão na Página de 13/11
+- 2026-11-18 · campanha pausada e renomeada com `| Engajamento` no fim · substituída pela campanha de tráfego, com os mesmos posts

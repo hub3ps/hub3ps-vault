@@ -6,7 +6,7 @@ autor: claude
 ---
 # Agente de IA que acompanha os grupos de WhatsApp
 
-> **Estado:** gravado pelo Guilherme sem roteiro (`copy_58EBA38F...MOV`, 1 min 30 s) e legenda pronta em 17/11. Publicado em 17/11 como [Reels](https://www.instagram.com/reel/Df2qX-XMwqB/) (IG-07) e impulsionado no mesmo dia na campanha [[campanhas/seguidores-frio-perfil|Seguidores | Frio | Perfil]].
+> **Estado:** gravado pelo Guilherme sem roteiro (`copy_58EBA38F...MOV`, 1 min 30 s) e legenda pronta em 17/11. Publicado em 17/11 como [Reels](https://www.instagram.com/reel/Df2qX-XMwqB/) (IG-07) e impulsionado no mesmo dia na campanha [[campanhas/seguidores-frio-perfil-engajamento|Seguidores | Frio | Perfil | Engajamento]].
 
 Público: gestor de tráfego e quem atende vários clientes.
 

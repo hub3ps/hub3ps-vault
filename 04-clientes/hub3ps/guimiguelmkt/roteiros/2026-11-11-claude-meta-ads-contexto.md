@@ -6,7 +6,7 @@ autor: claude
 ---
 # Não conecte o Claude no seu Meta Ads sem fazer isso antes
 
-> **Estado:** gravado (IMG_2087, 11/11/2026) e editado pelo Claude ([[03-processos/editar-video|editar vídeo]]), com o arquivo em `~/Downloads/IMG_2087_editado.mp4`. Publicado em 12/11 como [Reels](https://www.instagram.com/reel/Dfpya40vEsB/) (IG-06) e impulsionado desde 13/11 na campanha [[campanhas/seguidores-frio-perfil|Seguidores | Frio | Perfil]].
+> **Estado:** gravado (IMG_2087, 11/11/2026) e editado pelo Claude ([[03-processos/editar-video|editar vídeo]]), com o arquivo em `~/Downloads/IMG_2087_editado.mp4`. Publicado em 12/11 como [Reels](https://www.instagram.com/reel/Dfpya40vEsB/) (IG-06) e impulsionado desde 13/11 na campanha [[campanhas/seguidores-frio-perfil-engajamento|Seguidores | Frio | Perfil | Engajamento]].
 
 Público: gestor de tráfego. Gravado sem roteiro prévio.
 

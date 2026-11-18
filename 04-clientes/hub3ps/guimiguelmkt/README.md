@@ -1,12 +1,12 @@
 ---
 tipo: conteudo
 cliente: hub3ps
-atualizado: 2026-11-17
+atualizado: 2026-11-18
 autor: claude
 ---
 # @guimiguelmkt · posicionamento e conteúdo do Guilherme
 
-> **Estado atual:** 7 posts. A campanha [[campanhas/seguidores-frio-perfil|Seguidores | Frio | Perfil]] roda desde 17/11 só com o IG-07 (agente no WhatsApp), a R$ 30/dia. Os conjuntos do IG-06 e do IG-04 estão pausados. Roteiro 1 (gestor de tráfego) aprovado em 11/11. Roteiro 2 (dono de negócio, outro assunto) só depois de gravar e publicar o roteiro 1.
+> **Estado atual:** 7 posts. A campanha [[campanhas/seguidores-frio-perfil-trafego|Seguidores | Frio | Perfil | Tráfego]] roda desde 18/11 com IG-04, IG-06 e IG-07, a R$ 20/dia cada, só no Instagram e no celular. A de engajamento, de 13 a 18/11, está pausada. Roteiro 1 (gestor de tráfego) aprovado em 11/11. Roteiro 2 (dono de negócio, outro assunto) só depois de gravar e publicar o roteiro 1.
 
 Pasta do Instagram pessoal do Guilherme. Criada em 11/11/2026, a pedido dele.
 
