@@ -12,6 +12,13 @@ Formato:
 - **Decisões:** 
 - **Próximo passo:** 
 
+### 2026-11-18 · Cookies da LP no esquema do JurIA
+- **O que:** o aviso de cookies da LP e da página de obrigado passou para o esquema do site do JurIA: o Pixel liga sozinho, e o aviso tem "Recusar", "Preferências" (com o interruptor de medição) e "Dispensar". O rodapé das duas páginas ganhou o link "Gerir cookies". O aviso saiu do HTML das páginas e ficou só no `comum.js`
+- **Resultado em:** `agencia_marketing/clients/churrascodaelite/lps/lista-black/` (comum.js, index.html, obrigado/index.html, README.md), publicado em curso.churrascodaelite.pt, sem commit
+- **Teste:** no local, recusar desliga o Pixel e apaga os cookies `_fbp`/`_fbc`; religar pelas preferências solta o `Lead` que estava em fila. No ar, o PageView saiu sem clique nenhum
+- **Decisões:** ligar o Pixel sem esperar o aceite foi pedido do Guilherme (18/11). O RGPD pede consentimento antes, e o risco é do Lucas, como dono da página
+- **Próximo passo:** subir a campanha de captação da lista otimizando por `Lead`
+
 ### 2026-11-18 · Pixel na LP da lista
 - **O que:** Pixel `333549951080063` (escolhido e ajustado pelo Guilherme) posto em `comum.js`, `noindex` tirado da LP e publicado em curso.churrascodaelite.pt. O clique no botão do grupo VIP passou de `GrupoVIP` (personalizado) para `CompleteRegistration`, com `content_name: grupo_vip`
 - **Resultado em:** `agencia_marketing/clients/churrascodaelite/lps/lista-black/` (comum.js, obrigado/index.html, README.md), sem commit
