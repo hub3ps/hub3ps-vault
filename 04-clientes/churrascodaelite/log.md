@@ -12,6 +12,11 @@ Formato:
 - **Decisões:** 
 - **Próximo passo:** 
 
+### 2026-11-18 · Logo vetorizada e fotos dos grupos
+- **O que:** vetorizei a logo dourada do site do Lucas (SVG completo, só ouro e branco, PNG transparente). Ajustei a arte do grupo da promoção: "BLACK FRYDER" virou "BLACK WEEK" (nome que o Lucas usa), saíram os 4 cards e a arte foi enquadrada no círculo do WhatsApp
+- **Resultado em:** [[marca/marca]]
+- **Próximo passo:** o Guilherme põe `perfil-grupo-operacional.png` no grupo "Churrasco da Elite - Tráfego" e a arte Black Week no grupo da promoção
+
 ### 2026-11-18 · Lista de espera no ar
 - **O que:** o Guilherme corrigiu à mão no Ads Manager (link, link de exibição, aprimoramentos, configuração do criativo, copy v2 sem preço e sem "renda extra") e publicou `Leads | Quente | Lista de espera`. Conferi pela API
 - **Resultado em:** [[campanhas/leads-quente-lista-de-espera]]
