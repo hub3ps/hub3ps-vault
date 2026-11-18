@@ -12,6 +12,12 @@ Formato:
 - **Decisões:** 
 - **Próximo passo:** 
 
+### 2026-11-18 · Vídeos do Lucas analisados para a captação
+- **O que:** os 7 vídeos que o Lucas mandou em 09/11, vistos por quadros e transcritos
+- **Resultado em:** [[entregas/2026-11-18-videos-do-lucas]]
+- **O que achei:** 5 aproveitáveis (VL-01, 02, 03, 06 e 07), 3 deles só com corte, porque prometem de 1.500 € a 5.000 € por mês. VL-04 (fala de 2025) e VL-05 (a promessa é o vídeo inteiro) ficam de fora. Todos chegaram em 576x1024 pelo WhatsApp
+- **Próximo passo:** o Guilherme decide os cortes e se pede os originais ao Lucas
+
 ### 2026-11-18 · Cookies da LP no esquema do JurIA
 - **O que:** o aviso de cookies da LP e da página de obrigado passou para o esquema do site do JurIA: o Pixel liga sozinho, e o aviso tem só "Recusar" e "Dispensar". Uma primeira versão com "Preferências" e "Gerir cookies" no rodapé foi feita e desfeita no mesmo dia: o Guilherme não gostou das opções de seleção
 - **Resultado em:** `agencia_marketing/clients/churrascodaelite/lps/lista-black/` (comum.js, index.html, obrigado/index.html, README.md), publicado em curso.churrascodaelite.pt, sem commit. O aviso saiu do HTML das páginas e ficou só no `comum.js`
