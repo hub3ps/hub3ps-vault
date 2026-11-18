@@ -12,10 +12,10 @@ Formato:
 - **Decisões:** 
 - **Próximo passo:** 
 
-### 2026-11-18 · Logo vetorizada e fotos dos grupos
-- **O que:** vetorizei a logo dourada do site do Lucas (SVG completo, só ouro e branco, PNG transparente). Ajustei a arte do grupo da promoção: "BLACK FRYDER" virou "BLACK WEEK" (nome que o Lucas usa), saíram os 4 cards e a arte foi enquadrada no círculo do WhatsApp
+### 2026-11-18 · Logo e fotos dos grupos
+- **O que:** ajustei a arte do grupo da promoção: "BLACK FRYDER" virou "BLACK WEEK" (nome que o Lucas usa), saíram os 4 cards e a arte foi enquadrada no círculo do WhatsApp. Para a logo, vetorizei primeiro a do site (duas vezes), e o Guilherme reprovou: além de ruim, era outra logo. A que vale é a das artes do Lucas. Recortei essa da arte da Black e ampliei em PNG, sem vetor, para a foto do grupo por enquanto
 - **Resultado em:** [[marca/marca]]
-- **Refeita:** a primeira saiu torta, porque a logo do site é um mockup inclinado. Desinclinei antes de traçar e suavizei as bordas
+- **Pendente:** o arquivo original da logo, com o Lucas ou o designer
 - **Próximo passo:** o Guilherme põe `perfil-grupo-operacional.png` no grupo "Churrasco da Elite - Tráfego" e a arte Black Week no grupo da promoção
 
 ### 2026-11-18 · Lista de espera no ar

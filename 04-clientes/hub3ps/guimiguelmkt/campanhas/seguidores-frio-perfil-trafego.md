@@ -39,6 +39,26 @@ Os nomes dos anúncios vieram certos, dados pelo Guilherme. Campanha e conjuntos
 ## Como ler o resultado
 Igual à anterior: o que importa é o **custo por seguidor**, que é o investimento dividido pelos seguidores ganhos nos insights do perfil. A comparação justa com a campanha de engajamento é o custo por visita ao perfil: R$ 0,24 na média de 13 a 18/11.
 
+## Diagnóstico de qualidade (18/11)
+O Guilherme achou fraca a qualidade de quem está seguindo. O público que ele quer: quem trabalha com IA e marketing, empresários e autônomos.
+
+**O que os dados mostram** (API, 13 a 18/11, as duas campanhas):
+- **Seguidores:** 41 em 11/11 e 81 em 18/11, com cerca de R$ 139 investidos. Dá uns R$ 3,50 por seguidor, contando também os orgânicos
+- **Conversão:** 511 visitas ao perfil na campanha de engajamento e uns 40 seguidores novos. Só 8% de quem visita segue
+- **Quem chega:** homem de 25 a 34 é o maior grupo, espalhado por todos os estados, sem nenhum filtro além da idade. O público é `Aberto`
+- **Onde:** os Reels concentram mais da metade da verba. O Facebook custou de 2 a 3 vezes mais por visita, e já saiu
+
+**Por quê:** público aberto com otimização para visita entrega a quem clica barato, não a quem é do nicho. A Meta não tem otimização para seguir, só para visita ao perfil (fontes abaixo), então o filtro tem que vir do público e do criativo. E o IG-07 (produtividade) fala com qualquer um.
+
+**O que fazer, em ordem:**
+1. **Trocar `Aberto` por público de interesse**, em dois conjuntos de teste: `Interesse IA e marketing digital` (inteligência artificial, ChatGPT, marketing digital, Facebook Ads, tráfego pago) e `Interesse empreendedorismo e pequenas empresas` (empreendedorismo, pequenas empresas, comportamento de administrador de página de negócio). Advantage+ de público continua desligado
+2. **Criativo que filtra:** o primeiro segundo e o texto na tela dizem com quem o vídeo fala ("se você é gestor de tráfego", "se você atende cliente sozinho"). O IG-06 é o mais de nicho; o IG-07 pode sair do teste de qualidade
+3. **Perfil que converte o público certo:** bio, destaques e fixados falando com quem trabalha com IA e marketing, no padrão das [[referencias]]
+4. **Medir toda semana:** custo por seguidor (insights do perfil) e uma amostra dos seguidores novos, conferindo se são do nicho
+5. **Depois, com base:** semelhante de quem engajou com o perfil (`Engajou IG 365d`), quando o público tiver tamanho
+
+Fontes: [Jon Loomer, tráfego com destino no perfil](https://www.jonloomer.com/create-a-traffic-campaign-with-instagram-profile-conversion-location/), [Creatorflow, como medir follower ads](https://creatorflow.so/blog/instagram-follower-ads/), [Felipe Vergara, seguidores com Meta Ads](https://felipevergara.co/blogs/meta-ads/aumentar-seguidores-instagram-meta-ads/), [Stackmatix, interesse em 2026](https://www.stackmatix.com/blog/meta-ads-interest-targeting). São blogs de quem opera, não documentação da Meta.
+
 ## Histórico de otimizações
 - 2026-11-18 · publicada pelo Guilherme, com IG-04, IG-06 e IG-07, R$ 20/dia cada · testar o objetivo de tráfego, com idade de 22 a 45, só Instagram e só celular
 - 2026-11-18 · campanha e conjuntos do IG-04 e do IG-06 renomeados para o padrão · só rótulo, sem efeito na entrega

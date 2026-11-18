@@ -6,19 +6,16 @@ autor: claude
 ---
 # Marca do Churrasco da Elite
 
-Logo vetorizada em 18/11 a partir da versão dourada que está no site do Lucas (`churrascodaelite.pt`, arquivo `Logo_Churrasco_da_elite_DOURADA_2.png`, 1276x1276, guardado aqui como `logo-original-site.png`). Não é o arquivo do designer: é traçado (potrace), fiel no desenho, mas sem a textura de folha de ouro do original.
+**Há duas logos diferentes.** A que vale é a das artes do Lucas: escudo só em contorno dourado, sem fundo preto, "CHURRASCO" e "DA ELITE" em letra fina e reta. A do site (`churrascodaelite.pt`, `Logo_Churrasco_da_elite_DOURADA_2.png`) é outra: um adesivo com escudo preto recortado, letra de pincel, num mockup inclinado.
 
-**A versão do site é um mockup inclinado** (o texto sobe cerca de 10° para a direita). A primeira vetorização saiu assim e o Guilherme achou torta. Na refeita, também em 18/11, a imagem foi desinclinada antes do traçado (cisalhamento vertical de 0,17, medido na base de "DA ELITE") e as bordas foram suavizadas para tirar a ondulação da textura. Agora o texto fica reto, como na logo das artes do Lucas.
+**Em uso, por enquanto:** `logo-churrascodaelite-arte.png`, recortada da arte da Black (foto do grupo da promoção, 640x640 do WhatsApp) e ampliada 6x, com o fundo removido e as bordas reforçadas. Não é vetor, e a fonte é pequena: serve para foto de perfil e uso pequeno, não para impressão. O arquivo original da logo segue faltando: pedir ao Lucas ou ao designer.
 
 | Arquivo | O que é | Uso |
 |---|---|---|
-| `logo-churrascodaelite.svg` | Escudo preto com o desenho em degradê dourado | Padrão, qualquer fundo |
-| `logo-churrascodaelite-ouro.svg` | Só o desenho, dourado chapado `#D2B45C`, sem o escudo | Fundo escuro |
-| `logo-churrascodaelite-branca.svg` | Só o desenho, branco | Fundo escuro, marca d'água em vídeo |
-| `logo-churrascodaelite.png` | A padrão em PNG transparente, 2307x2381 | Onde não aceita SVG |
-| `perfil-grupo-operacional.png` | Logo sobre fundo escuro, 1024x1024, cabe no círculo | Foto do grupo "Churrasco da Elite - Tráfego" |
+| `logo-churrascodaelite-arte.png` | Logo das artes do Lucas, PNG transparente, 934x926 | A logo em uso |
+| `perfil-grupo-operacional.png` | Essa logo sobre fundo escuro, 1024x1024, cabe no círculo | Foto do grupo "Churrasco da Elite - Tráfego" |
 | `perfil-grupo-black-week.png` | Arte do Lucas com "BLACK WEEK" no lugar de "BLACK FRYDER", sem os 4 cards, enquadrada no círculo | Foto do grupo da promoção |
+| `logo-original-site.png` | A logo do site, 1276x1276, como baixada | Referência |
+| `logo-churrascodaelite.svg`, `-ouro.svg`, `-branca.svg`, `logo-churrascodaelite.png` | Vetorização da logo do site, desinclinada | **Reprovada pelo Guilherme em 18/11** ("ficou ruim"), e é da logo errada. Não usar |
 
-**Cores (amostradas do original):** dourado `#F2DC8C` → `#D2B45C` → `#A8883C`, preto do escudo `#0B0B0A`.
-
-Há também uma versão "brasão em brasa" no site (`Brasao_fogo.jpg`, mockup 3D, não vetorizável).
+**Cores (amostradas do original):** dourado `#F2DC8C` → `#D2B45C` → `#A8883C`.
