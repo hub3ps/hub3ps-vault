@@ -22,7 +22,7 @@ Montada pelo Claude pelo MCP em rascunho, corrigida e publicada à mão pelo Gui
 ## IDs no ar (API, 18/11)
 | Conjunto | ID do conjunto | Anúncio | ID do anúncio | Criativo | Botão |
 |---|---|---|---|---|---|
-| `Engajou IG 365d e seguidores \| Portugal \| Lead \| VL-07` | `120250684808600559` | `VL-07 \| Vídeo \| Cansado da obra` | `120250684833720559` | `2194781391249059` | Ver detalhes (`SEE_DETAILS`) |
+| `Engajou IG 365d e seguidores \| Portugal \| Lead \| VL-07` | `120250684808600559` | `VL-07 \| Vídeo \| Cansado da obra` | `120250684833720559` | `1852552182752556` (era `2194781391249059` até a troca do botão) | Candidatar-se (`APPLY_NOW`) |
 | `Engajou IG 365d e seguidores \| Portugal \| Lead \| VL-05` | `120250684809190559` | `VL-05 \| Vídeo \| Profissão lucrativa` | `120250684838900559` | `1004237632735235` | Candidatar-se (`APPLY_NOW`) |
 
 Ads Manager: [campanha](https://adsmanager.facebook.com/adsmanager/manage/adsets?act=1295259920836612&selected_campaign_ids=120250684802260559)
@@ -32,8 +32,8 @@ Ads Manager: [campanha](https://adsmanager.facebook.com/adsmanager/manage/adsets
 - **Mudou à mão:** verba de 5 € para 6 € por conjunto, 12 € por dia no total. Posicionamentos Advantage+, com Audience Network e Threads
 - **A ver com o Guilherme:**
   - **Expansão do público:** estava ligada (`targeting_relaxation_types.custom_audience = 1`), entregando também para semelhantes de 1% dos dois públicos. **Desligada pelo Claude pelo MCP em 18/11, a pedido do Guilherme**, e conferida no ar: `custom_audience = 0`, sem semelhantes
-  - **Botões diferentes:** "Ver detalhes" no VL-07 e "Candidatar-se" no VL-05. No rascunho era "Inscrever-se" nos dois
-  - **"image_animation" ligado** nos dois criativos, além de Comentários relevantes. A regra é deixar só Comentários relevantes. Em vídeo, não deve ter efeito
+  - **Botões:** estavam diferentes ("Ver detalhes" no VL-07). O Guilherme igualou em "Candidatar-se" nos dois em 18/11. O VL-07 ganhou criativo novo e voltou para análise
+  - **"image_animation" ligado** nos dois criativos, além de Comentários relevantes. Não aparece no Ads Manager (o Guilherme procurou) porque é animação de imagem e o anúncio é vídeo: não tem efeito. O MCP não desliga em anúncio publicado com variações de texto. Fica como está
 - **Não dá para ler pela API:** os outros 4 textos, títulos e descrições (a leitura traz só o principal), a UTM e a tela "Configuração do criativo"
 
 ## Configuração
@@ -44,7 +44,7 @@ Ads Manager: [campanha](https://adsmanager.facebook.com/adsmanager/manage/adsets
 - **Primeira versão (descartada antes de publicar):** `Aberto 23-55`, frio, com Advantage+ público ligado. O Guilherme pediu a troca para os públicos quentes
 - **Posicionamentos:** Advantage+
 - **Atribuição:** 7 dias clique e 1 dia visualização
-- **Botão:** no ar, "Ver detalhes" no VL-07 e "Candidatar-se" no VL-05 (ver conferência acima)
+- **Botão:** "Candidatar-se" (`APPLY_NOW`) nos dois
 - **UTM:** `utm_source=meta&utm_medium=paid&utm_campaign=leads-quente-lista-de-espera&utm_content=vl-07` (ou `vl-05`) `&utm_term=engajou-ig-365d-e-seguidores`. Os criativos da primeira versão (`1859768228774504` e `1134670792675021`, com a UTM do público aberto) ficaram sem uso na conta. A LP leva as UTMs para a planilha da lista
 - **Declaração de IA:** não marcada. Os vídeos são gravações reais do Lucas
 
@@ -75,6 +75,7 @@ Para entrar aos poucos, no lugar do pior ou em conjunto novo: VL-02 (armazém), 
 - O Pixel só tinha o `Lead` do teste de 18/11 antes desta campanha
 
 ## Histórico de otimizações
+- 2026-11-18 · botão do VL-07 trocado para "Candidatar-se" pelo Guilherme; VL-05 aprovado e ativo, VL-07 de novo em análise
 - 2026-11-18 · expansão do público desligada nos dois conjuntos pelo MCP (Guilherme pediu), conferida no ar
 - 2026-11-18 · publicada pelo Guilherme, conferida na API: no ar, anúncios em análise, 6 € por conjunto. Expansão do público, botões diferentes e image_animation a ver
 - 2026-11-18 · copy v2 sem preço e sem "renda extra", e link, aprimoramentos e configuração do criativo corrigidos à mão pelo Guilherme no Ads Manager

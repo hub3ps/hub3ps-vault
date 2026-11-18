@@ -4,7 +4,7 @@ kanban-plugin: board
 
 ## A fazer
 
-- [ ] `Leads | Quente | Lista de espera`: conferir os botões ("Ver detalhes" e "Candidatar-se"); primeira leitura de custo por lead em 20/11 #trafego-pago
+- [ ] `Leads | Quente | Lista de espera`: primeira leitura de custo por lead em 20/11 #trafego-pago
 - [ ] Ver a qualidade dos seguidores que estão chegando e testar segmentar só homens na `Seguidores | Frio | Perfil` (Guilherme no grupo, 17/11, 09h07) #trafego-pago
 - [ ] Teste da lista de espera no grupo do WhatsApp nesta semana. Se não for bem, ajustar e rodar direto para vender na LP (Guilherme, 16/11) #estrategia
 - [ ] Trazer pelo Instagram quem foi ao primeiro workshop (23 no grupo antigo, 6 presenciais) para o grupo novo da Black (Guilherme, 16/11) #estrategia

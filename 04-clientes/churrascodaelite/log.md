@@ -17,7 +17,7 @@ Formato:
 - **Resultado em:** [[campanhas/leads-quente-lista-de-espera]]
 - **No ar:** 2 conjuntos `ACTIVE` a 6 € por dia até 26/11, anúncios em análise. Link e textos principais certos, sem catálogo
 - **Expansão do público:** estava ligada; desliguei pelo MCP a pedido do Guilherme e conferi no ar
-- **A ver:** botões diferentes ("Ver detalhes" e "Candidatar-se") e "image_animation" ligado
+- **Botões:** o Guilherme igualou em "Candidatar-se". O "image_animation" fica: não aparece no Ads Manager e não age em vídeo
 - **Regras novas de montagem de anúncio:** registradas em `03-processos/convencoes.md`, seção "Montagem do anúncio"
 - **Próximo passo:** primeira leitura de custo por lead em 20/11
 
