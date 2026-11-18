@@ -24,4 +24,15 @@ Sete vídeos que o Lucas mandou ao Guilherme pelo WhatsApp em 09/11, baixados em
 
 **Ordem para testar:** VL-06, VL-07 e VL-02 (dor e prova, sem promessa), depois VL-01 e VL-03.
 
+## Cortes prontos (18/11)
+Em `~/Downloads/churrascodaelite-captacao/`, 576x1024, H.264, 30 fps. Cortados no ffmpeg direto: a ferramenta `editar-video` sai em HDR de iPhone e 1080 de largura, e estes vídeos do WhatsApp são SDR. Sem legenda nova. Conferidos por retranscrição: sem emenda suja e sem valor em euros.
+
+| Arquivo | Duração | Trechos do original |
+|---|---|---|
+| `VL-01_sintra-40-pessoas.mp4` | 13,7 s | 1,40 a 13,70 + 25,32 a 26,70 |
+| `VL-02_armazem-3-eventos.mp4` | 36 s | inteiro |
+| `VL-03_caixa-preta.mp4` | 45,4 s | 1,55 a 40,62 + 48,30 a 54,60 |
+| `VL-06_ordenado-minimo.mp4` | 28,8 s | 0 a 25,32 (sai o "me acompanhe") + 3,5 s de cartela sobre o último quadro: "Entra na lista VIP · A oferta da Black Friday sai primeiro no grupo VIP · Clica no link", nas cores da LP, acima da faixa que a interface do Reels cobre |
+| `VL-07_cansado-da-obra.mp4` | 23,2 s | 0 a 6,85 + 15,25 a 31,62 |
+
 Nenhum fala da Black nem da lista. A chamada é genérica ("clique no link"), o que serve, e o texto do anúncio completa com a lista e os 67 €.
