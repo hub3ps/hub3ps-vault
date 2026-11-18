@@ -7,6 +7,7 @@ Uma linha por sessão de trabalho, a mais recente no topo.
 
 Formato: `- AAAA-MM-DD · <slug ou agencia> · <tarefa> · <onde está o resultado>`
 
+- 2026-11-18 · churrascodaelite · `Leads | Frio | Lista de espera` montada em rascunho na CA01, à espera do OK · `04-clientes/churrascodaelite/campanhas/leads-frio-lista-de-espera.md`
 - 2026-11-18 · churrascodaelite · 5 vídeos da captação subidos no Drive do cliente · `12. Lucas - Churrasco da Elite/Criativos · Captação lista Black`
 - 2026-11-18 · churrascodaelite · Vídeos da captação definidos pelo Guilherme: VL-07 e VL-05 nos conjuntos, fila VL-02, VL-03 e VL-04 sem 2025 · `04-clientes/churrascodaelite/entregas/2026-11-18-videos-do-lucas.md`
 - 2026-11-18 · churrascodaelite · 5 vídeos do Lucas cortados para a captação (sem promessa de ganho, VL-06 com cartela da lista VIP) · `~/Downloads/churrascodaelite-captacao/`

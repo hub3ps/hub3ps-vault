@@ -12,6 +12,13 @@ Formato:
 - **Decisões:** 
 - **Próximo passo:** 
 
+### 2026-11-18 · Campanha da lista de espera em rascunho
+- **O que:** `Leads | Frio | Lista de espera` montada pelo MCP na CA01, em rascunho: 2 conjuntos a 5 € por dia até 26/11, um com o VL-07 e outro com o VL-05, otimizando pelo `Lead`. 5 textos, 5 títulos e 5 descrições, em português de Portugal, sem promessa de ganho
+- **Resultado em:** [[campanhas/leads-frio-lista-de-espera]]
+- **Decisões:** verba de 5 € por conjunto (Guilherme, 18/11). Advantage+ público ligado e sem exclusão de seguidores, diferente da de seguidores
+- **Achado:** o conjunto IG-01 da `Seguidores | Frio | Perfil` estava pausado na leitura de 18/11. Não fui eu
+- **Próximo passo:** OK do Guilherme para publicar
+
 ### 2026-11-18 · Vídeos do Lucas analisados para a captação
 - **O que:** os 7 vídeos que o Lucas mandou em 09/11, vistos por quadros e transcritos
 - **Resultado em:** [[entregas/2026-11-18-videos-do-lucas]]

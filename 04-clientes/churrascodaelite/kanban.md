@@ -4,7 +4,7 @@ kanban-plugin: board
 
 ## A fazer
 
-- [ ] Campanha de captação da lista: conjunto 1 com VL-07 e conjunto 2 com VL-05; fila VL-02, VL-03 e VL-04 (sem 2025), na pasta `Criativos · Captação lista Black` do Drive (18/11) #trafego-pago
+- [ ] Publicar a `Leads | Frio | Lista de espera`, em rascunho desde 18/11 (VL-07 e VL-05 a 5 € cada até 26/11). Fila VL-02, VL-03 e VL-04 no Drive #trafego-pago
 - [ ] Ver a qualidade dos seguidores que estão chegando e testar segmentar só homens na `Seguidores | Frio | Perfil` (Guilherme no grupo, 17/11, 09h07) #trafego-pago
 - [ ] Teste da lista de espera no grupo do WhatsApp nesta semana. Se não for bem, ajustar e rodar direto para vender na LP (Guilherme, 16/11) #estrategia
 - [ ] Trazer pelo Instagram quem foi ao primeiro workshop (23 no grupo antigo, 6 presenciais) para o grupo novo da Black (Guilherme, 16/11) #estrategia
@@ -17,7 +17,6 @@ kanban-plugin: board
 - [ ] Hotmart: Pixel no checkout e conferir de onde vêm os eventos de servidor do Pixel #tracking
 - [ ] Página de vendas da Black (27 a 30/11) com o checkout a 67 €: a LP nova tira do ar a página de 97 € do Framer #lp-e-site
 - [ ] Criativos da captação de seguidores e da base para a LP (13/11) #criativos-e-audiovisual
-- [ ] Campanha da base para a LP da lista de espera, na CA01 (conta em uso desde 16/11), no padrão de nomes. Pixel pronto em 18/11: otimizar por `Lead` #trafego-pago
 - [ ] Ficha de cada campanha em `campanhas/` #trafego-pago
 - [ ] Criar o painel `churrascodaelite.hub3ps.com` pelo runbook novo-hub, na semana de 16/11 (Guilherme pediu para esperar) #trafego-pago
 - [ ] Subir o PDF da proposta na pasta do cliente no Drive, `1. CLIENTES ATIVOS/12. Lucas - Churrasco da Elite` (criada pelo Guilherme em 16/11; tem a planilha da lista e, desde 18/11, `Criativos · Captação lista Black`) #comercial
