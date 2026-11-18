@@ -71,6 +71,13 @@ Não existe interesse de ChatGPT, OpenAI nem tráfego pago na busca da Meta em p
 
 Fontes: [Jon Loomer, tráfego com destino no perfil](https://www.jonloomer.com/create-a-traffic-campaign-with-instagram-profile-conversion-location/), [Creatorflow, como medir follower ads](https://creatorflow.so/blog/instagram-follower-ads/), [Felipe Vergara, seguidores com Meta Ads](https://felipevergara.co/blogs/meta-ads/aumentar-seguidores-instagram-meta-ads/), [Stackmatix, interesse em 2026](https://www.stackmatix.com/blog/meta-ads-interest-targeting). São blogs de quem opera, não documentação da Meta.
 
+### Medição por conjunto
+O Ads Manager mostra "Seguidores no Instagram" e "Custo por seguidor" por conjunto (colunas "Seguidores"). A API não devolve, então essa leitura é por print ou pelo navegador. Primeiro dia (18/11, print do Guilherme): IG-04 com 11 seguidores a R$ 0,82, IG-07 com 6 a R$ 0,89 e IG-06 com 3 a R$ 1,23.
+
+### Sequência de testes proposta (18/11)
+- **Fase 1, de 19 a 22/11: público.** O conjunto aberto do IG-04 fica como controle. Ele é o de menor custo por seguidor e é o mesmo vídeo das duas cópias. Entram duas cópias dele com os públicos de interesse, a R$ 20/dia cada. Os abertos do IG-06 e do IG-07 pausam. Decide o custo por seguidor de cada conjunto, mais uma amostra da qualidade dos seguidores novos
+- **Fase 2, de 23 a 26/11: conteúdo.** No público vencedor, um conjunto por post (IG-04, IG-06, IG-07 e o que tiver de novo)
+
 ## Histórico de otimizações
 - 2026-11-18 · publicada pelo Guilherme, com IG-04, IG-06 e IG-07, R$ 20/dia cada · testar o objetivo de tráfego, com idade de 22 a 45, só Instagram e só celular
 - 2026-11-18 · campanha e conjuntos do IG-04 e do IG-06 renomeados para o padrão · só rótulo, sem efeito na entrega
