@@ -7,7 +7,7 @@ Uma linha por sessão de trabalho, a mais recente no topo.
 
 Formato: `- AAAA-MM-DD · <slug ou agencia> · <tarefa> · <onde está o resultado>`
 
-- 2026-11-18 · churrascodaelite · Cookies da LP no esquema do JurIA: Pixel liga sozinho, com Recusar, Preferências e Gerir cookies · `04-clientes/churrascodaelite/log.md`
+- 2026-11-18 · churrascodaelite · Cookies da LP no esquema do JurIA: Pixel liga sozinho, aviso só com Recusar e Dispensar · `04-clientes/churrascodaelite/log.md`
 - 2026-11-18 · churrascodaelite · Pixel `333549951080063` na LP da lista, sem noindex, com Lead e CompleteRegistration testados no ar · `04-clientes/churrascodaelite/log.md`
 - 2026-11-18 · hub3ps · Campanha nova de seguidores do @guimiguelmkt (tráfego) conferida e renomeada; a de engajamento pausada, renomeada e fechada com o resultado · `04-clientes/hub3ps/guimiguelmkt/campanhas/`
 - 2026-11-17 · hub3ps · Legenda do Reels do agente de WhatsApp (IG-07) e conjunto novo dele na campanha de seguidores renomeado; resultado do IG-06 e do IG-04 registrado · `04-clientes/hub3ps/guimiguelmkt/campanhas/seguidores-frio-perfil.md`

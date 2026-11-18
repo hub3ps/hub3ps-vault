@@ -13,10 +13,10 @@ Formato:
 - **Próximo passo:** 
 
 ### 2026-11-18 · Cookies da LP no esquema do JurIA
-- **O que:** o aviso de cookies da LP e da página de obrigado passou para o esquema do site do JurIA: o Pixel liga sozinho, e o aviso tem "Recusar", "Preferências" (com o interruptor de medição) e "Dispensar". O rodapé das duas páginas ganhou o link "Gerir cookies". O aviso saiu do HTML das páginas e ficou só no `comum.js`
-- **Resultado em:** `agencia_marketing/clients/churrascodaelite/lps/lista-black/` (comum.js, index.html, obrigado/index.html, README.md), publicado em curso.churrascodaelite.pt, sem commit
-- **Teste:** no local, recusar desliga o Pixel e apaga os cookies `_fbp`/`_fbc`; religar pelas preferências solta o `Lead` que estava em fila. No ar, o PageView saiu sem clique nenhum
-- **Decisões:** ligar o Pixel sem esperar o aceite foi pedido do Guilherme (18/11). O RGPD pede consentimento antes, e o risco é do Lucas, como dono da página
+- **O que:** o aviso de cookies da LP e da página de obrigado passou para o esquema do site do JurIA: o Pixel liga sozinho, e o aviso tem só "Recusar" e "Dispensar". Uma primeira versão com "Preferências" e "Gerir cookies" no rodapé foi feita e desfeita no mesmo dia: o Guilherme não gostou das opções de seleção
+- **Resultado em:** `agencia_marketing/clients/churrascodaelite/lps/lista-black/` (comum.js, index.html, obrigado/index.html, README.md), publicado em curso.churrascodaelite.pt, sem commit. O aviso saiu do HTML das páginas e ficou só no `comum.js`
+- **Teste no ar:** o PageView sai sem clique nenhum. Depois do "Recusar", um evento de teste não saiu, o cookie `_fbp` foi apagado e a página seguinte nem carrega o Pixel. Só o `SubscribedButtonClick` automático da Meta sai no próprio clique do "Recusar"
+- **Decisões:** ligar o Pixel sem esperar o aceite foi pedido do Guilherme (18/11). O RGPD pede consentimento antes, e o risco é do Lucas, como dono da página. Quem recusa não tem como religar
 - **Próximo passo:** subir a campanha de captação da lista otimizando por `Lead`
 
 ### 2026-11-18 · Pixel na LP da lista
