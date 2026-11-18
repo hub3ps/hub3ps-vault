@@ -85,3 +85,4 @@ O Ads Manager mostra "Seguidores no Instagram" e "Custo por seguidor" por conjun
 - 2026-11-18 · campanha e conjuntos do IG-04 e do IG-06 renomeados para o padrão · só rótulo, sem efeito na entrega
 - 2026-11-18 · Facebook tirado do IG-07 e Busca do Instagram tirada dos três, pelo Guilherme; conjunto do IG-07 renomeado com `Só Instagram` · deixar os três conjuntos iguais, só Instagram
 - 2026-11-18 · abertos do IG-04 e do IG-06 pausados pelo Guilherme; duas cópias do IG-07 publicadas por ele e configuradas pela API com os públicos `Interesse IA e marketing digital` e `Donos e admins de negócio`, pausadas até o ok · fase 1 do teste de público, com o aberto do IG-07 como controle
+- 2026-11-18 · os dois conjuntos de interesse ligados pela API, com o ok do Guilherme · começa a fase 1; leitura em 22/11
