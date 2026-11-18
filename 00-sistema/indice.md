@@ -1,6 +1,6 @@
 ---
 tipo: sistema
-atualizado: 2026-11-12
+atualizado: 2026-11-18
 ---
 # Índice do vault
 
@@ -8,6 +8,7 @@ Primeira nota que o agente lê numa consulta. Uma linha por área, com o que tem
 dentro. Atualize sempre que criar, mover ou apagar nota.
 
 - [[INICIO]]: painel com clientes ativos e pendências
+- [[TAREFAS]]: cartões abertos de todos os kanbans numa tela só, por prazo, com as tarefas do Guilherme (`#gui`) e o que cobrar dos clientes
 - **00-sistema**: [[regras]], [[licoes]], [[log-operacoes]], [[contexto-reestruturacao]] (histórico do projeto de reestruturação), este índice
 - **01-agencia**: [[jornada]], [[catalogo]], [[motor]], [[suporte]], [[stack]]
 - **02-playbooks**: [[trafego-pago]], [[lp-e-site]], [[criativos-e-audiovisual]], [[tracking]], [[email-marketing]], [[social]], [[agentes-de-ia]], [[busca-organica]]

@@ -3,7 +3,7 @@ tipo: painel
 ---
 # Hub3Ps · Início
 
-Requer o plugin Dataview.
+Requer o plugin Dataview. As tarefas de todos os clientes, por prazo, estão em [[TAREFAS]].
 
 ## Clientes
 ```dataview

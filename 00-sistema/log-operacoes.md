@@ -7,6 +7,7 @@ Uma linha por sessão de trabalho, a mais recente no topo.
 
 Formato: `- AAAA-MM-DD · <slug ou agencia> · <tarefa> · <onde está o resultado>`
 
+- 2026-11-18 · agencia · Painel central de tarefas, lendo os kanbans de todos os clientes por prazo · `TAREFAS.md`
 - 2026-11-18 · agencia · Kanbans de todos os clientes com prazo `@{AAAA-MM-DD}` e `#gui` nos cartões abertos, padrão novo na convenção e na rotina do WhatsApp · `03-processos/convencoes.md`, seção Tarefa no kanban
 - 2026-11-18 · churrascodaelite · `Leads | Quente | Lista de espera` publicada pelo Guilherme e conferida na API: no ar a 12 € por dia, com expansão do público a decidir · `04-clientes/churrascodaelite/campanhas/leads-quente-lista-de-espera.md`
 - 2026-11-18 · churrascodaelite · `Leads | Quente | Lista de espera` montada em rascunho na CA01 (seguidores e engajou IG 365d), à espera do OK · `04-clientes/churrascodaelite/campanhas/leads-quente-lista-de-espera.md`
