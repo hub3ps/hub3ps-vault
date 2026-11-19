@@ -15,8 +15,13 @@ Uma frase em minúsculo, como nas referências ("rotina de um dev que vive do pr
 
 **Sugerido:** `rotina de um gestor de tráfego que trabalha sozinho com IA`
 
-Mistura pedida pelo Guilherme em 19/11 (escritório, tráfego e IA):
-- `rotina de um gestor de tráfego que fechou o escritório e trabalha de casa com IA` (recomendada)
+Versão curta, uma linha (pedida em 19/11):
+- `gestor de tráfego sem escritório, só com IA` (recomendada)
+- `fechei o escritório, fiquei com a IA`
+- `rotina de gestor sem escritório, com IA`
+
+Mistura pedida pelo Guilherme em 19/11 (escritório, tráfego e IA), longa demais:
+- `rotina de um gestor de tráfego que fechou o escritório e trabalha de casa com IA`
 - `fechei o escritório e hoje gerencio anúncios de casa, com IA`
 - `gestor de tráfego, sem escritório e sem equipe: só eu e a IA`
 
