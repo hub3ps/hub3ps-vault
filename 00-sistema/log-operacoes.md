@@ -7,6 +7,7 @@ Uma linha por sessão de trabalho, a mais recente no topo.
 
 Formato: `- AAAA-MM-DD · <slug ou agencia> · <tarefa> · <onde está o resultado>`
 
+- 2026-11-19 · churrascodaelite · WhatsApp diário: 32 mensagens de 18 e 19/11 registradas (público feminino cortado, Black Week, vídeos novos do Lucas), 4 áudios sem transcrição · `04-clientes/churrascodaelite/fontes/2026-11-19-whatsapp-grupo.md`
 - 2026-11-18 · agencia · Tarefas migradas dos kanbans para o TaskNotes: 244 notas (154 abertas, 90 feitas e arquivadas), quadro central com faixa por cliente e um quadro por cliente. Kanbans antigos no arquivo, convenção, rotina do WhatsApp e novo cliente atualizados · `08-tarefas/Quadro.base`, `03-processos/convencoes.md`, seção Tarefa
 - 2026-11-18 · hub3ps · Seguidores do @guimiguelmkt: diagnóstico de qualidade, públicos de interesse com IDs e alcance, teste de público montado com IG-07 (controle aberto e dois interesses) · `04-clientes/hub3ps/guimiguelmkt/campanhas/seguidores-frio-perfil-trafego.md`
 - 2026-11-18 · agencia · Painel central de tarefas, lendo os kanbans de todos os clientes por prazo · `TAREFAS.md`

@@ -12,6 +12,17 @@ Formato:
 - **Decisões:** 
 - **Próximo passo:** 
 
+### 2026-11-19 · Grupo de 18 e 19/11, pela rotina
+- **O que:** a rotina WhatsApp diário registrou as 32 mensagens de 18/11 10:57 a 19/11 05:36. Quatro áudios não baixaram e ficaram sem transcrição
+- **Resultado em:** `fontes/2026-11-19-whatsapp-grupo.md`
+- **Do Lucas (18/11):** chegaram muitos pedidos de orçamento de churrasco (10h57) e "muita mulher seguindo" (10h57). Em Portugal a promoção se chama "Black Week" (15h04). O grupo da Black está enchendo (17h06). Em 19/11, 05h36, acha que o lead pode sair mais barato que no Brasil, com o imposto
+- **Decisões:**
+  - Público feminino cortado 100% na campanha de seguidores (Guilherme, 18/11, 10h58). Não conferido pela API nesta rotina
+  - O Lucas pode gravar vídeos novos no estilo dos que mandou (Guilherme, 18/11, 14h48)
+  - Imagem e nome do grupo da promoção passam a "Black Week" (Guilherme, 18/11, 15h08). O Lucas respondeu "Eu vi aqui, perfeito" às 15h26
+- **Números ditos no grupo, sem valor:** "Lead tá bem barato" (Guilherme, 18/11, 17h10). Não substitui a leitura pela API
+- **Próximo passo:** leitura da lista de espera até sexta, 21/11, como o Guilherme disse no grupo (18/11, 14h47)
+
 ### 2026-11-18 · Logo e fotos dos grupos
 - **O que:** ajustei a arte do grupo da promoção: "BLACK FRYDER" virou "BLACK WEEK" (nome que o Lucas usa), saíram os 4 cards e a arte foi enquadrada no círculo do WhatsApp. Para a logo, vetorizei primeiro a do site (duas vezes), e o Guilherme reprovou: além de ruim, era outra logo. A que vale é a das artes do Lucas. Recortei essa da arte da Black e ampliei em PNG, sem vetor, para a foto do grupo por enquanto
 - **Resultado em:** [[marca/marca]]
