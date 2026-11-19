@@ -6,6 +6,12 @@ autor: claude
 
 A entrada mais recente fica no topo, uma por sessão de trabalho.
 
+### 2026-11-19 · Rodada 4 de seguidores fechada e IG-14 pausado
+- **O que fiz:** li a rodada 4 na API (16 a 19/11, dia 19 aberto) e, com o ok do Guilherme, pausei pelo MCP o conjunto do IG-14 (`120251042926820554`). Conferi na API: IG-14 pausado, IG-12 ativo a US$ 5 por dia. Conferi também quais dos próximos posts são anunciáveis.
+- **O que achei:** IG-12 com US$ 0,72 por seguidor (24 seguidores, US$ 17,20) e IG-14 com US$ 1,19 (12 seguidores, US$ 14,30), conta nossa. O IG-14 teve a visita mais barata, mas converteu pouco em seguidor, como o IG-03 e o IG-07. O IG-12 encareceu frente à rodada 3 (US$ 0,46). O #18 e o #19 não aparecem como anunciáveis na API, por causa da música.
+- **Decisões:** IG-12 fica, IG-14 sai. O próximo post entra num conjunto duplicado do IG-12 à mão: o #18 se o Gerenciador deixar, se não o #24 (Candy Coating).
+- **Próximo passo:** o Guilherme duplica o conjunto com o próximo post. Ler a rodada 5 três dias depois de o post entrar. A leitura do ThruPlay da distribuição, também marcada para 19/11, segue em aberto.
+
 ### 2026-11-17 · Primeiro Lead real confirmado no Pixel
 - **O que fiz:** o Guilherme preferiu esperar inscrição real a fazer inscrição teste. Conferi pelo MCP o Lead do Pixel `1775314010396135` desde 16/11.
 - **O que achei:** 3 Leads em 16/11 e 2 em 17/11 até 06h21 (horário do Pacífico). Como a regra de clique nunca disparou, todos vêm do código da Julia. A simulação de 16/11 não mandou nada à Meta.

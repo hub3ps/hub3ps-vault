@@ -9,7 +9,7 @@ inicio: 2026-11-06
 verba-diaria: 10
 evento-otimizacao: PROFILE_AND_PAGE_ENGAGEMENT
 lp: https://instagram.com/marjoriedentalcad
-atualizado: 2026-11-16
+atualizado: 2026-11-19
 autor: claude
 ---
 # Seguidores | Frio | Perfil
@@ -33,13 +33,12 @@ Conferida na API em 09/11/2026.
 | `Interesse CAD dental \| EUA \| Visita ao perfil \| IG-06` | `120250874693650554` | `IG-06 \| Reels \| Teclado ou caneta` | `120250874693660554` | pausado em 16/11 |
 | `Interesse CAD dental \| EUA \| Visita ao perfil \| IG-07` | `120250920038790554` | `IG-07 \| Reels \| Face scan` | `120250920038780554` | pausado em 12/11 |
 | `Interesse CAD dental \| EUA \| Visita ao perfil \| IG-12` | `120250969998310554` | `IG-12 \| Reels \| Setup em casa` | `120250969998320554` | ativo desde 12/11 |
-| `Interesse CAD dental \| EUA \| Visita ao perfil \| IG-14` | `120251042926820554` | `IG-14 \| Reels \| Modo sobrevivência` | `120251042926830554` | em análise desde 16/11 |
+| `Interesse CAD dental \| EUA \| Visita ao perfil \| IG-14` | `120251042926820554` | `IG-14 \| Reels \| Modo sobrevivência` | `120251042926830554` | pausado em 19/11 |
 
 ## Criativos no ar
 | ID | Anúncio | Desde |
 |---|---|---|
 | IG-12 | `IG-12 \| Reels \| Setup em casa` | 12/11/2026 |
-| IG-14 | `IG-14 \| Reels \| Modo sobrevivência` | 16/11/2026, em análise |
 
 ## Resultado por rodada
 Rodada 1, de 06 a 09/11/2026. Seguidores pelo campo de seguidores do Instagram da API, valores de 09/11.
@@ -63,6 +62,13 @@ Rodada 3, de 12 a 16/11/2026, com o dia 16 ainda aberto. Valores da API em 16/11
 | IG-06 | US$ 22,40 | 1.106 | 1,36 | 35 | US$ 0,64 | 5 | US$ 4,48 | sai |
 | IG-12 | US$ 19,64 | 1.731 | 1,12 | 131 | US$ 0,15 | 43 | US$ 0,46 | fica |
 
+Rodada 4, de 16 a 19/11/2026, com o dia 19 ainda aberto. Valores da API em 19/11, somados dia a dia. O IG-12 inclui o dia 16 inteiro, que já tinha entrado em parte na rodada 3. Custo por visita e por seguidor são conta nossa.
+
+| ID | Gasto | Impressões | Visitas ao perfil | Custo por visita | Seguidores | Custo por seguidor | Decisão |
+|---|---|---|---|---|---|---|---|
+| IG-12 | US$ 17,20 | 1.504 | 91 | US$ 0,19 | 24 | US$ 0,72 | fica |
+| IG-14 | US$ 14,30 | 1.310 | 125 | US$ 0,11 | 12 | US$ 1,19 | sai |
+
 ## Histórico de otimizações
 - 2026-11-06 · publicada com dois conjuntos de US$ 5 por dia, IG-03 e IG-06, os dois primeiros da lista da Julia · teste dos 2 primeiros posts, em rodízio a cada 3 dias
 - 2026-11-09 · IG-03 pausado pelo Guilherme, IG-06 mantido · custo por seguidor de US$ 1,46 contra US$ 0,55. O IG-03 teve a visita ao perfil mais barata (US$ 0,08), mas só 5% das visitas viraram seguidor, contra 42% no IG-06. Com o conjunto pausado, a campanha roda a US$ 5 por dia até entrar o próximo post
@@ -71,3 +77,4 @@ Rodada 3, de 12 a 16/11/2026, com o dia 16 ainda aberto. Valores da API em 16/11
 - 2026-11-12 · IG-07 pausado, IG-06 mantido e IG-12 no ar num conjunto novo de US$ 5 por dia · rodada 2 fechada pelo custo por seguidor: US$ 0,69 no IG-06 contra US$ 1,38 no IG-07. O IG-07 repetiu o IG-03: a visita mais barata (US$ 0,10 contra US$ 0,25), mas só 7% das visitas viraram seguidor, contra 36% no IG-06. O IG-12 ("O setup novo em casa", DH1sAqTTxyY) é o 4º da lista da Julia. Pausa pelo MCP; o conjunto do IG-12 foi duplicado do IG-07 à mão pelo Guilherme, porque o MCP não cria conjunto com `PROFILE_AND_PAGE_ENGAGEMENT` nesta conta. Conferido na API: mesma configuração do IG-07, anúncio aprovado e entregando no mesmo dia. A campanha segue a US$ 10 por dia
 - 2026-11-16 · IG-06 pausado pelo MCP, IG-12 mantido · rodada 3 fechada pelo custo por seguidor: US$ 0,46 no IG-12 contra US$ 4,48 no IG-06 (US$ 3,40 sem o dia 12). O IG-06 cansou: o custo por seguidor foi de US$ 0,55 na rodada 1 para US$ 0,69 na 2 e US$ 4,48 na 3, e só 14% das visitas viraram seguidor, contra 33% no IG-12. Na vida toda, o IG-06 trouxe 53 seguidores com US$ 50,12. A campanha roda a US$ 5 por dia até o IG-14 ("Sair do modo sobrevivência", DRnTUjXk0MW), o 5º da lista da Julia, entrar num conjunto duplicado do IG-12 à mão pelo Guilherme
 - 2026-11-16 · IG-14 no ar num conjunto novo de US$ 5 por dia, contra o IG-12 · rodada 4, o 5º da lista da Julia. Conjunto duplicado do IG-12 à mão pelo Guilherme e conferido na API: mesma configuração. A duplicação levou junto o post do IG-12; o Guilherme trocou pelo DRnTUjXk0MW e conferi de novo. Anúncio em análise da Meta. A campanha volta a US$ 10 por dia
+- 2026-11-19 · IG-14 pausado pelo MCP, com o ok do Guilherme, e IG-12 mantido · rodada 4 fechada pelo custo por seguidor: US$ 0,72 no IG-12 contra US$ 1,19 no IG-14. O IG-14 repetiu o IG-03 e o IG-07: a visita mais barata (US$ 0,11 contra US$ 0,19), mas só 10% das visitas viraram seguidor, contra 26% no IG-12, e nenhum seguidor desde 18/11. O IG-12 encareceu (US$ 0,46 na rodada 3), com frequência ainda perto de 1. Pausa conferida na API. A campanha roda a US$ 5 por dia até o próximo post entrar num conjunto duplicado do IG-12 à mão pelo Guilherme. O #18 e o #19, os próximos da lista das clientes, têm música e não aparecem como anunciáveis na API; se o Gerenciador também não deixar, entra o #24 (Candy Coating)
