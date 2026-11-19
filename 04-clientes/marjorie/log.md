@@ -6,6 +6,13 @@ autor: claude
 
 A entrada mais recente fica no topo, uma por sessão de trabalho.
 
+### 2026-11-19 · IG-24 no ar na rodada 5 de seguidores
+- **O que fiz:** o Guilherme duplicou o conjunto do IG-12 com o #24 (Candy Coating), porque o #18 não deu no Gerenciador. Conferi o conjunto na API contra o do IG-12 e renomeei pelo MCP o conjunto e o anúncio no padrão. A pedido dele, verifiquei o Advantage.
+- **O que achei:** configuração igual à do IG-12 (público, idade 22 a 55, EUA, posicionamentos, exclusão do `Engajou IG 365d`, visita ao perfil, US$ 5 por dia). Na API, o Advantage+ de público está desligado (`advantage_audience: 0`) neste conjunto e nos do IG-12 e do IG-14, o anúncio não tem aprimoramento Advantage+ de criativo e não há rascunho pendente na campanha. Não achei na API o Advantage que aparece ligado para o Guilherme. Os nomes ficaram em rascunho: a publicação pelo MCP foi bloqueada pelo controle de permissões. Anúncio em análise.
+- **Decisões:** nenhuma mudança de configuração.
+- **Depois:** o Guilherme publicou os nomes no Gerenciador, e conferi na API que estão no ar.
+- **Próximo passo:** identificar qual Advantage o Guilherme viu ligado e ler a rodada 5 em 22/11.
+
 ### 2026-11-19 · Rodada 4 de seguidores fechada e IG-14 pausado
 - **O que fiz:** li a rodada 4 na API (16 a 19/11, dia 19 aberto) e, com o ok do Guilherme, pausei pelo MCP o conjunto do IG-14 (`120251042926820554`). Conferi na API: IG-14 pausado, IG-12 ativo a US$ 5 por dia. Conferi também quais dos próximos posts são anunciáveis.
 - **O que achei:** IG-12 com US$ 0,72 por seguidor (24 seguidores, US$ 17,20) e IG-14 com US$ 1,19 (12 seguidores, US$ 14,30), conta nossa. O IG-14 teve a visita mais barata, mas converteu pouco em seguidor, como o IG-03 e o IG-07. O IG-12 encareceu frente à rodada 3 (US$ 0,46). O #18 e o #19 não aparecem como anunciáveis na API, por causa da música.

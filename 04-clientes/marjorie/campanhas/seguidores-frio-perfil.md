@@ -34,11 +34,13 @@ Conferida na API em 09/11/2026.
 | `Interesse CAD dental \| EUA \| Visita ao perfil \| IG-07` | `120250920038790554` | `IG-07 \| Reels \| Face scan` | `120250920038780554` | pausado em 12/11 |
 | `Interesse CAD dental \| EUA \| Visita ao perfil \| IG-12` | `120250969998310554` | `IG-12 \| Reels \| Setup em casa` | `120250969998320554` | ativo desde 12/11 |
 | `Interesse CAD dental \| EUA \| Visita ao perfil \| IG-14` | `120251042926820554` | `IG-14 \| Reels \| Modo sobrevivência` | `120251042926830554` | pausado em 19/11 |
+| `Interesse CAD dental \| EUA \| Visita ao perfil \| IG-24` | `120251098026000554` | `IG-24 \| Reels \| Candy Coating` | `120251098025990554` | em análise desde 19/11 |
 
 ## Criativos no ar
 | ID | Anúncio | Desde |
 |---|---|---|
 | IG-12 | `IG-12 \| Reels \| Setup em casa` | 12/11/2026 |
+| IG-24 | `IG-24 \| Reels \| Candy Coating` | 19/11/2026, em análise |
 
 ## Resultado por rodada
 Rodada 1, de 06 a 09/11/2026. Seguidores pelo campo de seguidores do Instagram da API, valores de 09/11.
@@ -78,3 +80,4 @@ Rodada 4, de 16 a 19/11/2026, com o dia 19 ainda aberto. Valores da API em 19/11
 - 2026-11-16 · IG-06 pausado pelo MCP, IG-12 mantido · rodada 3 fechada pelo custo por seguidor: US$ 0,46 no IG-12 contra US$ 4,48 no IG-06 (US$ 3,40 sem o dia 12). O IG-06 cansou: o custo por seguidor foi de US$ 0,55 na rodada 1 para US$ 0,69 na 2 e US$ 4,48 na 3, e só 14% das visitas viraram seguidor, contra 33% no IG-12. Na vida toda, o IG-06 trouxe 53 seguidores com US$ 50,12. A campanha roda a US$ 5 por dia até o IG-14 ("Sair do modo sobrevivência", DRnTUjXk0MW), o 5º da lista da Julia, entrar num conjunto duplicado do IG-12 à mão pelo Guilherme
 - 2026-11-16 · IG-14 no ar num conjunto novo de US$ 5 por dia, contra o IG-12 · rodada 4, o 5º da lista da Julia. Conjunto duplicado do IG-12 à mão pelo Guilherme e conferido na API: mesma configuração. A duplicação levou junto o post do IG-12; o Guilherme trocou pelo DRnTUjXk0MW e conferi de novo. Anúncio em análise da Meta. A campanha volta a US$ 10 por dia
 - 2026-11-19 · IG-14 pausado pelo MCP, com o ok do Guilherme, e IG-12 mantido · rodada 4 fechada pelo custo por seguidor: US$ 0,72 no IG-12 contra US$ 1,19 no IG-14. O IG-14 repetiu o IG-03 e o IG-07: a visita mais barata (US$ 0,11 contra US$ 0,19), mas só 10% das visitas viraram seguidor, contra 26% no IG-12, e nenhum seguidor desde 18/11. O IG-12 encareceu (US$ 0,46 na rodada 3), com frequência ainda perto de 1. Pausa conferida na API. A campanha roda a US$ 5 por dia até o próximo post entrar num conjunto duplicado do IG-12 à mão pelo Guilherme. O #18 e o #19, os próximos da lista das clientes, têm música e não aparecem como anunciáveis na API; se o Gerenciador também não deixar, entra o #24 (Candy Coating)
+- 2026-11-19 · IG-24 no ar num conjunto novo de US$ 5 por dia, contra o IG-12 · rodada 5. O #18 também não pôde ser escolhido no Gerenciador, então entrou o #24 ("Tutorial do Candy Coating", DbTiRHGsOb4). Conjunto duplicado do IG-12 à mão pelo Guilherme e conferido na API: mesmo público, idade, posicionamentos, exclusão do `Engajou IG 365d`, otimização e verba; Advantage+ de público desligado (`advantage_audience: 0`) e nenhum aprimoramento Advantage+ de criativo no anúncio. Anúncio em análise. Os nomes no padrão foram feitos pelo MCP em rascunho e publicados pelo Guilherme no Gerenciador, conferidos na API. A campanha volta a US$ 10 por dia

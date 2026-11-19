@@ -63,6 +63,8 @@ A Julia mandou no grupo em 05/11 a "lista pra postar inicial", com a numeração
 | 9 | 24 | #24 | Tutorial do Candy Coating | [abrir](https://www.instagram.com/reel/DbTiRHGsOb4/) |
 | 10 | fora da lista | #27 | Trajetória e vídeo do curso. A Julia achou forte | [abrir](https://www.instagram.com/reel/DfUu0YJBAsu/) |
 
+**Em 19/11:** o #18 não pôde ser escolhido no Gerenciador, e o #24 entrou na rodada 5 no lugar dele. O #19 também não aparece como anunciável na API.
+
 **Atenção:** 4 dos 10 têm música licenciada e a API não devolve como anunciáveis: os números 4, 9, 19 e 20 da lista de 26. Se o Gerenciador não deixar escolher algum deles, o próximo da fila entra no lugar.
 
 **Depois dos 10**, vêm os outros posts que a Julia indicou como os que trouxeram seguidores: #17 Ferramentas escondidas do DentalCAD 3.3, #16 Estratificação de cerâmica, #15 3 novidades do DentalCAD 3.3, #23 Candy Coating em placas e #13 Dica de enceramento. O resto da lista vem por último.
