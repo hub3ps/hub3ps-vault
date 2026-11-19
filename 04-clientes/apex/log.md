@@ -6,6 +6,16 @@ autor: claude
 
 A entrada mais recente fica no topo, uma por sessão de trabalho.
 
+### 2026-11-19 · Revisão do quadro de tarefas
+- **O que fiz:** comparei o quadro com o `ESTADO.md` do repo (17/11). A Fase 6 foi para Feito (virou WA-4b). Quatro tarefas que dependem do Guilherme ganharam `gui`. Criei as tarefas dos testes reais T1 a T9, do go-live com o número real pela API oficial, do logo da Apex e dos fluxos por perfil de lead da Beatriz, e registrei como feito o que entrou em 17 e 18/11. Atualizei o estado e os acessos na nota do cliente.
+- **Resultado em:** `08-tarefas/notas/apex - *.md`, `04-clientes/apex/cliente.md`
+- **Próximo passo:** testes reais T1 a T9; pedir à Beatriz os fluxos por perfil.
+
+### 2026-11-17 e 18 · Canal oficial, painel novo, templates, lembretes e campanhas
+- **O que fiz:** app da Hub3Ps aprovado como Tech Provider; canal oficial e botão Conectar WhatsApp (WA-1 e WA-2), com a instalação da Apex trocada para a API oficial no número Operacional Hub3ps; atendimento pelo painel (WA-3); visual estilo Apple, logo do cliente, menu por tarefa e tela Hoje; templates (WA-4a), lembretes com horário ajustável (WA-4b) e campanhas com opt-in (WA-5).
+- **Resultado em:** repo `whatsapp-langchain`, ADRs 0014 a 0022, `ESTADO.md`
+- **Próximo passo:** testes reais T1 a T9 listados no `ESTADO.md`.
+
 ### 2026-11-04 · Migração do Apex para o vault
 - **O que fiz:** criei a nota do cliente, o kanban e este log. As fontes foram o `ESTADO.md` e os docs do repo `whatsapp-langchain` (atualizados em 21/10, sem nada fora da `main`) e o briefing de julho no `agencia_marketing`. Nenhum repositório foi alterado.
 - **Resultado em:** `04-clientes/apex/`

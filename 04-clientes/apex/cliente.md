@@ -15,12 +15,12 @@ drive: TODO (Hub3Ps/Clientes/apex/)
 painel: https://apex.hub3ps.com
 repositorios: [guimiguell/whatsapp-langchain]
 proxima-reuniao: TODO
-atualizado: 2026-11-04
+atualizado: 2026-11-19
 autor: claude
 ---
 # Apex
 
-> **Estado atual:** a Amanda, agente de WhatsApp, está em produção no número de teste desde 26/08/2026. Ela agenda, remarca e cancela, reconhece paciente e encaminha urgência ao Matheus, e o painel da clínica funciona. O go-live com paciente real espera o termo LGPD, as respostas da anamnese e as chaves da InfinitePay. A última sessão de trabalho foi em 21/10.
+> **Estado atual:** a Amanda está em produção no número de teste, agora pela API oficial da Meta (17/11/2026). O painel ganhou visual novo, atendimento humano, templates, lembretes e campanhas, todos construídos entre 17 e 18/11. Falta fazer os testes reais T1 a T9 e, para o go-live, conectar o número da clínica e receber do cliente o termo LGPD, as chaves da InfinitePay e a agenda compartilhada.
 
 ## Quem é
 - **Negócio:** clínica de liberação miofascial em Itajaí/SC, com acupuntura, fisioterapia e recovery. Fica dentro do Studio Remo, na R. Jorge Tzachel, 200, Fazenda. Matheus Goulart é o profissional único.
@@ -38,14 +38,14 @@ TODO: modelo comercial e prazo. O briefing de 27/07 deixou para depois, e não h
 | Serviço | Exceção | Motivo | Desde |
 |---|---|---|---|
 | agentes de IA | O código vive no repo `guimiguell/whatsapp-langchain`, numa conta pessoal do GitHub, fora da organização hub3ps | O projeto nasceu antes da Apex, em 01/2026 | 27/07/2026 |
-| agentes de IA | Roda numa VPS com EasyPanel e Evolution, e não na API oficial do WhatsApp. A instância do Evolution é dividida com outro projeto | Herança do projeto | 08/2026 |
+| agentes de IA | Roda numa VPS com EasyPanel. Desde 17/11 usa a API oficial da Meta (Hub3Ps é Tech Provider), com o número de teste Operacional Hub3ps. O número do Evolution foi para outro projeto | Herança do projeto e aprovação da Meta | 17/11/2026 |
 | agentes de IA | A agente usa o nome da atendente, Amanda. Não diz que é IA, mas confirma se perguntarem | Decisão da clínica (ADR 0010 e resposta de 13/10) | 13/10/2026 |
 | agentes de IA | As mensagens padronizadas da equipe saem literais, em balão único | ADR 0011 | 07/10/2026 |
 | agentes de IA | O cadastro dos 316 pacientes, com CPF e saúde, nunca entra em repositório. Vai para o banco por migração | LGPD | 21/08/2026 |
 | agentes de IA | Nada de diagnóstico, indicação de tratamento ou promessa de resultado. Dúvida clínica vai para a avaliação com o Matheus | Saúde e conselho profissional | 27/07/2026 |
 
 ## Depende do cliente
-Conforme o `ESTADO.md` do repo (21/10/2026):
+Conforme o `ESTADO.md` do repo (17/11/2026):
 
 - [ ] Texto do termo de consentimento LGPD, que está no Notion. Bloqueia o go-live e a anamnese
 - [ ] Estrutura real do formulário de anamnese e as três perguntas do Matheus
@@ -56,13 +56,15 @@ Conforme o `ESTADO.md` do repo (21/10/2026):
 - [ ] Cartão antecipado ou no dia? (confirmar com a Beatriz)
 - [ ] De quem é o telefone que Otávio e Patrícia Socha dividem
 - [ ] Pergunta da Beatriz de 17/09, ainda sem resposta (ver `pendencias.md` no repo)
+- [ ] Logo da Apex, versões clara e escura, para Ajustes › Marca
+- [ ] Fluxos de atendimento por perfil de lead e a lista de qual anúncio leva a qual perfil (Beatriz)
 
 ## Acessos
 Nunca guarde senha aqui. As variáveis ficam no EasyPanel.
 
 - **Painel:** https://apex.hub3ps.com
 - **Infra:** VPS com EasyPanel, com os serviços `db`, `api`, `worker`, `evolution`, `evolution-db` e `frontend`
-- **WhatsApp:** número de teste no Evolution. O número da clínica é (47) 99609-4508
+- **WhatsApp:** API oficial da Meta, com o número de teste Operacional Hub3ps (+55 47 9969-4347). O número da clínica é (47) 99609-4508 e entra no go-live pelo botão Conectar WhatsApp
 - **Google Calendar:** service account configurada. Hoje aponta para a agenda de teste, de propósito
 - **InfinitePay:** testado com a conta de teste do Guilherme. Faltam a API Key e a InfiniteTag da conta da Apex. A nota de contexto da reestruturação diz que o checkout exige conta PJ. TODO: conferir
 - **Modelo:** `anthropic/claude-sonnet-5.5`, desde 13/10

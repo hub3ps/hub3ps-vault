@@ -7,6 +7,7 @@ Uma linha por sessão de trabalho, a mais recente no topo.
 
 Formato: `- AAAA-MM-DD · <slug ou agencia> · <tarefa> · <onde está o resultado>`
 
+- 2026-11-19 · apex · Quadro de tarefas revisado contra o `ESTADO.md`: Fase 6 em Feito, `gui` em 4 tarefas, 10 tarefas novas (testes T1 a T9, go-live pela API oficial, logo, fluxos por perfil e 6 entregas de 17 e 18/11), estado e acessos da nota do cliente atualizados · `04-clientes/apex/`, `08-tarefas/notas/`
 - 2026-11-19 · churrascodaelite · WhatsApp diário: 32 mensagens de 18 e 19/11 registradas (público feminino cortado, Black Week, vídeos novos do Lucas), 4 áudios sem transcrição · `04-clientes/churrascodaelite/fontes/2026-11-19-whatsapp-grupo.md`
 - 2026-11-18 · agencia · Tarefas migradas dos kanbans para o TaskNotes: 244 notas (154 abertas, 90 feitas e arquivadas), quadro central com faixa por cliente e um quadro por cliente. Kanbans antigos no arquivo, convenção, rotina do WhatsApp e novo cliente atualizados · `08-tarefas/Quadro.base`, `03-processos/convencoes.md`, seção Tarefa
 - 2026-11-18 · hub3ps · Seguidores do @guimiguelmkt: diagnóstico de qualidade, públicos de interesse com IDs e alcance, teste de público montado com IG-07 (controle aberto e dois interesses) · `04-clientes/hub3ps/guimiguelmkt/campanhas/seguidores-frio-perfil-trafego.md`

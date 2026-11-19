@@ -5,6 +5,7 @@ cliente: apex
 tags:
   - task
   - agentes-de-ia
+  - gui
 dateCreated: 2026-11-18T00:00:00.000-03:00
 id: cac3f820-1dd5-4dd6-b21c-f1a9a21ff57f
 ---
