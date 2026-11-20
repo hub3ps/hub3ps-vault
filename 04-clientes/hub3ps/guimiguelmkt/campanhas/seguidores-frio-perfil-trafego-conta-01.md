@@ -17,7 +17,7 @@ autor: claude
 
 Terceira campanha de seguidores do @guimiguelmkt, subida pelo Guilherme em 20/11/2026 às 11h39 na conta `5427704790678832` (nome "01", BRL). Ela substitui a [[campanhas/seguidores-frio-perfil-trafego|campanha de tráfego da CONTA 03]]. Lista de posts `IG-NN` na [[campanhas/seguidores-frio-perfil-engajamento|ficha da primeira campanha]].
 
-> **Nomes pendentes:** o usuário do sistema da BM só tem **leitura** nesta conta (erro `2490591` ao renomear em 20/11). Campanha, conjuntos e anúncios se renomeiam no Ads Manager, ou com a função de anunciante dada ao usuário do sistema. Os nomes abaixo são os do padrão, a aplicar.
+> **Nomes (20/11):** campanha e conjuntos renomeados pela API depois que o Guilherme deu permissão de escrita ao usuário do sistema. Os anúncios ainda se chamam `Novo anúncio de Tráfego` e se renomeiam no Ads Manager: pela API, anúncio desta Página trava com o erro `1885499` (ver a [[campanhas/seguidores-frio-perfil-engajamento|ficha de engajamento]]). Os quatro foram aprovados e estão ativos.
 
 ## Configuração
 Conferida na API em 20/11/2026. Os quatro conjuntos são iguais, muda só o post.
@@ -31,14 +31,14 @@ Conferida na API em 20/11/2026. Os quatro conjuntos são iguais, muda só o post
 - **Alcance estimado:** 9,8 a 11,5 milhões
 - **Posicionamentos:** Facebook (Feed, Stories, Reels) e Instagram (Feed, Stories, Reels, Explorar, Feed do perfil e **Busca**). Na campanha anterior, o Facebook custava 2 a 3 vezes mais por visita e tinha saído, junto com a Busca
 
-| Nome atual | Nome no padrão | ID do conjunto | Anúncio (nome no padrão) | ID do anúncio | Post |
+| Nome de origem | Nome | ID do conjunto | Anúncio (nome no padrão) | ID do anúncio | Post |
 |---|---|---|---|---|---|
 | `Novo conjunto de anúncios de Tráfego` | `Marketing e donos, iOS 18+ \| 7 estados \| Visita ao perfil \| IG-05` | `120250758482840143` | `IG-05 \| Reels \| Setup novo` | `120250758482850143` | [Setup novo](https://www.instagram.com/reel/DfknEUwBSlJ/) |
 | `... — Cópia — Cópia` | `Marketing e donos, iOS 18+ \| 7 estados \| Visita ao perfil \| IG-04` | `120250759036810143` | `IG-04 \| Reels \| Gestor ou anúncio` | `120250759036820143` | [Gestor ou anúncio](https://www.instagram.com/reel/DfX7yIchzJk/) |
 | `... — Cópia — Cópia — Cópia` | `Marketing e donos, iOS 18+ \| 7 estados \| Visita ao perfil \| IG-06` | `120250759039540143` | `IG-06 \| Reels \| Claude no Meta Ads` | `120250759039550143` | [Claude no Meta Ads](https://www.instagram.com/reel/Dfpya40vEsB/) |
 | `... — Cópia` | `Marketing e donos, iOS 18+ \| 7 estados \| Visita ao perfil \| IG-07` | `120250759033160143` | `IG-07 \| Reels \| Agente no WhatsApp` | `120250759033170143` | [Agente no WhatsApp](https://www.instagram.com/reel/Df2qX-XMwqB/) |
 
-Campanha: `Nova campanha de Tráfego` vira `Seguidores | Frio | Perfil | Tráfego`.
+Campanha: era `Nova campanha de Tráfego`, renomeada para `Seguidores | Frio | Perfil | Tráfego`.
 
 ## Como ler o resultado
 Custo por seguidor por conjunto, nas colunas "Seguidores" do Ads Manager (a API não devolve), e uma amostra da qualidade dos seguidores novos. Como os quatro conjuntos têm o mesmo público, esta campanha é o teste de **conteúdo** (a fase 2 da sequência).
@@ -46,3 +46,4 @@ Custo por seguidor por conjunto, nas colunas "Seguidores" do Ads Manager (a API 
 ## Histórico de otimizações
 - 2026-11-20 · publicada pelo Guilherme com IG-04, IG-05, IG-06 e IG-07, R$ 30/dia cada, anúncios em análise às 11h39 · nova conta, público de marketing e donos, 7 estados e só iOS 18+
 - 2026-11-20 · renomear pela API falhou: o usuário do sistema não tem permissão de escrita nesta conta · nomes no padrão passados ao Guilherme para aplicar no Ads Manager
+- 2026-11-20 · permissão de escrita dada pelo Guilherme; campanha e os quatro conjuntos renomeados pela API, anúncios aprovados e ativos · os anúncios ficam para o Guilherme renomear no Ads Manager
