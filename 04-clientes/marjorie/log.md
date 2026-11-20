@@ -6,6 +6,13 @@ autor: claude
 
 A entrada mais recente fica no topo, uma por sessão de trabalho.
 
+### 2026-11-20 · Grupo de 19/11, pela rotina
+- **O que fiz:** a rotina WhatsApp diário registrou a única mensagem nova do grupo, de 19/11.
+- **Resultado em:** `fontes/2026-11-20-whatsapp-grupo.md`
+- **O que achei:** a Julia mandou mais um reel para entrar nos anúncios, o `Df7Zrz-NOv6` ([abrir](https://www.instagram.com/reel/Df7Zrz-NOv6/)) (19/11, 17h09). Ele não aparece em nenhuma campanha nem na lista de posts registrada no vault. Ela não disse em qual campanha.
+- **Decisões:** nenhuma.
+- **Próximo passo:** o Guilherme decide onde o reel entra (seguidores ou distribuição) e com que número de IG. Antes de subir, conferir na API se o post é anunciável, por causa da música, como no #18 e no #19.
+
 ### 2026-11-19 · IG-24 no ar na rodada 5 de seguidores
 - **O que fiz:** o Guilherme duplicou o conjunto do IG-12 com o #24 (Candy Coating), porque o #18 não deu no Gerenciador. Conferi o conjunto na API contra o do IG-12 e renomeei pelo MCP o conjunto e o anúncio no padrão. A pedido dele, verifiquei o Advantage.
 - **O que achei:** configuração igual à do IG-12 (público, idade 22 a 55, EUA, posicionamentos, exclusão do `Engajou IG 365d`, visita ao perfil, US$ 5 por dia). Na API, o Advantage+ de público está desligado (`advantage_audience: 0`) neste conjunto e nos do IG-12 e do IG-14, o anúncio não tem aprimoramento Advantage+ de criativo e não há rascunho pendente na campanha. Não achei na API o Advantage que aparece ligado para o Guilherme. Os nomes ficaram em rascunho: a publicação pelo MCP foi bloqueada pelo controle de permissões. Anúncio em análise.
