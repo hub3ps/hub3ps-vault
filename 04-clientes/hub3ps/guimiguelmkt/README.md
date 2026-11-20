@@ -6,7 +6,7 @@ autor: claude
 ---
 # @guimiguelmkt · posicionamento e conteúdo do Guilherme
 
-> **Estado atual:** 7 posts. A campanha [[campanhas/seguidores-frio-perfil-trafego|Seguidores | Frio | Perfil | Tráfego]] roda desde 18/11 com IG-04, IG-06 e IG-07, a R$ 20/dia cada, só no Instagram e no celular. A de engajamento, de 13 a 18/11, está pausada. Roteiro 1 (gestor de tráfego) aprovado em 11/11. Roteiro 2 (dono de negócio, outro assunto) só depois de gravar e publicar o roteiro 1.
+> **Estado atual:** 7 posts. A campanha [[campanhas/seguidores-frio-perfil-trafego-conta-01|Seguidores | Frio | Perfil | Tráfego]] roda desde 20/11 na conta 01, com IG-04, IG-05, IG-06 e IG-07 a R$ 30/dia cada. As da CONTA 03 ([[campanhas/seguidores-frio-perfil-trafego|tráfego]], 18 a 20/11, e [[campanhas/seguidores-frio-perfil-engajamento|engajamento]], 13 a 18/11) foram substituídas. Roteiro 1 (gestor de tráfego) aprovado em 11/11. Roteiro 2 (dono de negócio, outro assunto) só depois de gravar e publicar o roteiro 1.
 
 Pasta do Instagram pessoal do Guilherme. Criada em 11/11/2026, a pedido dele.
 

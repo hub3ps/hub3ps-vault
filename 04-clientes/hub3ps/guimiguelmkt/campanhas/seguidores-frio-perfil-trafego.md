@@ -10,10 +10,12 @@ inicio: 2026-11-18
 verba-diaria: 60
 evento-otimizacao: Visita ao perfil
 perfil: https://www.instagram.com/guimiguelmkt/
-atualizado: 2026-11-18
+atualizado: 2026-11-20
 autor: claude
 ---
 # Seguidores | Frio | Perfil | Tráfego
+
+> **Substituída em 20/11/2026** pela [[campanhas/seguidores-frio-perfil-trafego-conta-01|campanha da conta 01]]. O Guilherme disse que pausou esta, mas a API ainda mostrava, às 11h40 de 20/11, a campanha e três anúncios ativos: o aberto do IG-04 e os dois de interesse do IG-07. A fase 1 do teste de público para aqui, sem leitura. Pausar pela API falhou: a CONTA 03 está com **pagamento pendente** (`account_status` 3, saldo devedor de R$ 247,15), e conta assim não aceita edição. Sem o pagamento a entrega trava (R$ 7,31 até 11h40 de 20/11, contra R$ 67,25 em 19/11), mas a campanha volta a gastar quando a conta for quitada. **Pausar no Ads Manager antes de pagar.**
 
 Segunda campanha de seguidores do @guimiguelmkt, subida pelo Guilherme em 18/11/2026 às 10h07. Ela substitui a [[campanhas/seguidores-frio-perfil-engajamento|Seguidores | Frio | Perfil | Engajamento]], pausada no mesmo dia, e roda com os mesmos três posts. Valores em BRL. A lista de posts `IG-NN` está na ficha da campanha anterior.
 
@@ -89,3 +91,5 @@ O Ads Manager mostra "Seguidores no Instagram" e "Custo por seguidor" por conjun
 - 2026-11-18 · abertos do IG-04 e do IG-06 pausados pelo Guilherme; duas cópias do IG-07 publicadas por ele e configuradas pela API com os públicos `Interesse IA e marketing digital` e `Donos e admins de negócio`, pausadas até o ok · fase 1 do teste de público, com o aberto do IG-07 como controle
 - 2026-11-18 · os dois conjuntos de interesse ligados pela API, com o ok do Guilherme · começa a fase 1; leitura em 22/11
 - 2026-11-18 · público do conjunto de donos trocado pelo Guilherme: sai admin de página e de perfil comercial, entram cargos e empregadores de dono e empresário, e a idade vai até 55; renomeado para `Donos e empresários` · comportamento era solto demais (pega social media e criador). A idade diferente do controle (22 a 45) entra na leitura do teste
+- 2026-11-20 · substituída pela campanha da conta 01 (`5427704790678832`), com público misto e os 4 posts · o Guilherme pausou para rodar só a nova; na API, três anúncios ainda constavam ativos às 11h40
+- 2026-11-20 · tentativa de pausar a campanha pela API, a pedido do Guilherme, recusada (erro `4841021`): a conta está com pagamento pendente · pausar no Ads Manager antes de quitar o saldo

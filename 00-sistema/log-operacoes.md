@@ -7,6 +7,7 @@ Uma linha por sessão de trabalho, a mais recente no topo.
 
 Formato: `- AAAA-MM-DD · <slug ou agencia> · <tarefa> · <onde está o resultado>`
 
+- 2026-11-20 · hub3ps · Campanha de seguidores do @guimiguelmkt na conta 01 (`5427704790678832`) conferida e registrada, com os nomes no padrão para o Guilherme aplicar (a BM só lê esta conta); a da CONTA 03 marcada como substituída · `04-clientes/hub3ps/guimiguelmkt/campanhas/seguidores-frio-perfil-trafego-conta-01.md`
 - 2026-11-20 · marjorie · WhatsApp diário: 1 mensagem de 19/11 registrada (reel novo da Julia para os anúncios) e tarefa nova para encaixar o reel · `04-clientes/marjorie/fontes/2026-11-20-whatsapp-grupo.md`
 - 2026-11-19 · apex · Quadro de tarefas revisado contra o `ESTADO.md`: Fase 6 em Feito, `gui` em 4 tarefas, 10 tarefas novas (testes T1 a T9, go-live pela API oficial, logo, fluxos por perfil e 6 entregas de 17 e 18/11), estado e acessos da nota do cliente atualizados · `04-clientes/apex/`, `08-tarefas/notas/`
 - 2026-11-19 · churrascodaelite · WhatsApp diário: 32 mensagens de 18 e 19/11 registradas (público feminino cortado, Black Week, vídeos novos do Lucas), 4 áudios sem transcrição · `04-clientes/churrascodaelite/fontes/2026-11-19-whatsapp-grupo.md`
