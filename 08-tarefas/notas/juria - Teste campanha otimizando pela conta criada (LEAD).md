@@ -1,8 +1,9 @@
 ---
 title: "Teste: campanha otimizando pela conta criada (`LEAD`)"
-status: fazendo
+status: feito
 cliente: juria
 due: 2026-11-13
+completedDate: 2026-11-23
 tags:
   - task
   - trafego-pago
