@@ -48,11 +48,15 @@ Texto principal:
 1. Stuck on an exocad case with no one to ask? On November 27, I'm opening exocad: Zero to Hero Circle, a community where you post your cases, ask your questions and get answers from me and from people who use exocad every day. The waitlist hears from me first. It's free to join.
 2. What if you had an exocad expert to ask every time you got stuck? exocad: Zero to Hero Circle opens on November 27, with real support, real cases and more than 20 hours of training inside. Join the free waitlist and be the first to know.
 3. Doors open on November 27. Save your spot on the free waitlist for exocad: Zero to Hero Circle and hear from me before anyone else.
+4. Learning exocad alone is slow. Inside exocad: Zero to Hero Circle, you bring your real cases and get feedback from me, a dental technician and CAD designer, plus more than 20 hours of training. It opens on November 27. Join the free waitlist now.
+5. Dentists, dental technicians and assistants: if you design in exocad, this is for you. exocad: Zero to Hero Circle opens on November 27. The waitlist is free and hears everything from me first.
 
 Título:
 1. Join the free waitlist
 2. Zero to Hero Circle opens Nov 27
 3. Save your spot before Nov 27
+4. Get exocad answers from an expert
+5. Stop figuring out exocad alone
 
 Descrição: Free to join. Opens November 27.
 
