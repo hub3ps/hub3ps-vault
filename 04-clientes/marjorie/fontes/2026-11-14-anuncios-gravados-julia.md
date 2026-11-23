@@ -28,6 +28,17 @@ A pasta tem só estes 5 vídeos. Nenhum é de lembrete à parte: o Ad 1 é para 
 - Ad 2, versão 2 (dental tech): https://drive.google.com/file/d/1fkU3FgEaAqzlpI3GiGKCqfDfmgydjep7/view
 - Ad 2, versão 3 (dental assistant): https://drive.google.com/file/d/1iS3B4UT-B60t9J3e7UCdYWnqvuJTOMMM/view
 
+## Na biblioteca da conta de anúncios (23/11)
+Subidos pelo MCP direto do Drive, com o nome do anúncio. A duração bate com a de cada arquivo.
+
+| Vídeo | Nome na biblioteca | ID do vídeo |
+|---|---|---|
+| Ad 1, versão 1 | `VID-01 \| Vídeo \| Caso travado` | `5595817547309155` |
+| Ad 1, versão 2 | `VID-02 \| Vídeo \| Especialista à mão` | `1693163199139239` |
+| Ad 2, versão 1 (dentist) | `VID-03 \| Vídeo \| Vagas dentista` | `1160731756456315` |
+| Ad 2, versão 2 (dental tech) | `VID-04 \| Vídeo \| Vagas técnico` | `1142569055023775` |
+| Ad 2, versão 3 (dental assistant) | `VID-05 \| Vídeo \| Vagas assistente` | `29290951537192198` |
+
 ## Ad 1, lista de espera
 
 **Versão 1:** Stuck on an exocad case with no one to ask? On November 27, I'm opening my community, exocad Zero to Hero Circle, a place where you post your questions, share your cases and get answers from me and from other people that use exocad every day. Plus, more than 20 hours of training to back everything up. The waitlist hears from me first. It's free to join, so tap the link and save your spot.
