@@ -12,6 +12,12 @@ Formato:
 - **Decisões:** 
 - **Próximo passo:** 
 
+### 2026-11-23 · Vídeos e carrossel do Lucas, de 20 a 22/11
+- **O que:** baixados os 3 vídeos (20 e 21/11) e o carrossel de 7 imagens (22/11) do grupo. A ponte do WhatsApp devolvia 403 em toda mídia, porque cortava a autorização do link. Corrigida a função `extractDirectPathFromURL` em `~/ferramentas/whatsapp-mcp/whatsapp-bridge/main.go`, com o binário antigo em `whatsapp-bridge.bak-20261123`. Vídeos transcritos, convertidos de 4K HDR para 1080p e comprimidos abaixo de 10 MB
+- **Resultado em:** [[entregas/2026-11-23-videos-do-lucas]] e na pasta do Drive `Criativos · Captação lista Black`, com os tamanhos conferidos byte a byte
+- **Decisões:** nenhuma do Guilherme ainda. A proposta: VL-10 e VL-08 na fila da lista até 26/11; VL-09 para seguidores e venda; carrossel CR-01 só como anúncio depois de tirar "renda extra" dos cards 1 e 5 e corrigir o card 7
+- **Próximo passo:** o Guilherme decide se sobe VL-10 e VL-08 na lista e se pede ao Lucas o ajuste do carrossel
+
 ### 2026-11-23 · Leitura das campanhas e plano da semana da Black
 - **O que:** leitura pela API (MCP e Marketing API) de 16 a 23/11, a pedido do Guilherme, para otimizar e organizar a semana
 - **Entrega parada:** o cartão da CA01 falhou. Período de carência em 21/11 (13h54 UTC) e 22/11 (10h08 UTC), depois "Pagamento necessário": nenhuma impressão de 22/11, 16h, até a leitura de 23/11, 12h53 UTC. O Lucas pagou 20,03 € em 23/11, 10h25 UTC, e a conta voltou a Ativa. Era o "travou o pagamento" dele. Às 12h53 UTC a entrega ainda não tinha voltado a aparecer nos números
