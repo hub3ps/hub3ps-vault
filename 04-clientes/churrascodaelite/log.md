@@ -22,6 +22,9 @@ Formato:
 - **Plano da semana:** 23/11 rebalancear a verba da lista, data de fim no Homem IG-01, conferir a volta da entrega e avaliar os vídeos de 22/11. 24/11 reunião com o Lucas (oferta na Hotmart, cartão e roteiro do grupo), contagem da planilha e do grupo. 25/11 página de vendas e campanha de vendas em rascunho, cartão garantido. 26/11 publicar a campanha de vendas e fechar a captação às 23h59. 27 a 30/11 leitura diária. 01/12 fechamento e relatório
 - **Tarefas:** 3 fechadas (as duas leituras e o pagamento) e 8 novas em `08-tarefas/notas/`
 - **Ajustes do Guilherme em 23/11:** o pagamento da conta foi ajustado, e a entrega voltou (impressões no conjunto às 13h UTC). A página de vendas e a oferta de 67 € na Hotmart, com o Lucas, foram para 24/11
+- **Planilha (23/11):** 27 linhas, 26 pessoas (uma inscrição repetida, linha 22), todas da campanha: VL-07 16 (1,48 € cada), VL-05 10 (3,06 €). O Pixel contou 21, por causa de quem recusa os cookies. O Guilherme conta 24 pessoas no grupo
+- **WhatsApp da planilha:** 19 das 27 linhas davam `#ERROR!`, porque a LP manda "+351 9..." e a planilha lia como fórmula. Os 27 números foram recuperados da fórmula de cada célula e regravados como texto pelo Chrome, conferidos célula a célula. Na fonte, a LP passou a mandar o WhatsApp com apóstrofo e o `lista-black.gs` ganhou o `comoTexto`, sem commit. LP corrigida publicada na Vercel com o OK do Guilherme (23/11) e conferida no ar. O `.gs` novo só vale depois de reimplantado no Apps Script
+- **Resumo no grupo:** aprovado pelo Guilherme, não enviado. A ponte do WhatsApp derruba a conexão (`localhost:8080`, connection reset)
 - **Próximo passo:** página de vendas e oferta na Hotmart em 24/11. A data de fim do Homem IG-01 segue sem decisão
 
 ### 2026-11-23 · Grupo de 20 a 23/11, pela rotina
