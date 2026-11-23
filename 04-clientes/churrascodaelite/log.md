@@ -12,6 +12,14 @@ Formato:
 - **Decisões:** 
 - **Próximo passo:** 
 
+### 2026-11-23 · Grupo de 20 a 23/11, pela rotina
+- **O que:** a rotina WhatsApp diário registrou as 32 mensagens de 20/11 10:08 a 23/11 09:16. Três áudios e dez documentos não baixaram, então o conteúdo deles não está registrado
+- **Resultado em:** `fontes/2026-11-23-whatsapp-grupo.md`
+- **Do Lucas:** "tá entrando gente" (20/11, 10h08), e o Guilherme respondeu que "compensa chamar esse pessoal" (10h17); o resto do contexto estava no áudio. Em 21/11, 06h54, disse que ia tentar gravar mais dois vídeos. Em 21/11, 08h53, pediu 5 minutos sobre "um outro assunto aqui de urgencia pra 2027", e os dois combinaram de falar às 11h11; o que foi conversado não está no grupo. Em 22/11, 17h23, mandou vídeos e um carrossel para avaliar como criativos e pediu uma reunião nesta semana. Em 23/11, 05h44: "Travou o pagamento não consegui colocar pra pagar"
+- **Pagamento:** a mensagem não diz de quê. Na leitura pela API em 23/11, a CA01 `1295259920836612` estava `ACTIVE` e com forma de pagamento, então não é bloqueio da conta de anúncios por dívida. O Guilherme disse "Já vou olhar aqui" (23/11, 09h16)
+- **Decisões:** nenhuma nova no grupo
+- **Próximo passo:** o Lucas dizer o dia da reunião (o Guilherme perguntou em 23/11, 09h16); baixar e avaliar os vídeos e o carrossel de 22/11; o Guilherme registrar o assunto de 2027 da conversa de 21/11
+
 ### 2026-11-19 · Grupo de 18 e 19/11, pela rotina
 - **O que:** a rotina WhatsApp diário registrou as 32 mensagens de 18/11 10:57 a 19/11 05:36. Quatro áudios não baixaram e ficaram sem transcrição
 - **Resultado em:** `fontes/2026-11-19-whatsapp-grupo.md`
