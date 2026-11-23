@@ -47,7 +47,12 @@ Preparada em 23/11/2026 para as 10:30, confirmada pela Ana no grupo. A fonte é 
 - **Próximo passo sugerido:** contato pelo WhatsApp (propostas "Pedir o WhatsApp no cadastro, com a Jú" e "Convite para conversar no WhatsApp"), já que o e-mail não gera resposta
 
 ## 5. Perguntas para a Mobiletec
-- Os 53 que concluíram o cadastro sem importar pularam a importação ou a busca pela OAB voltou vazia?
+- **A pergunta principal:** que atividade faz o advogado voltar ao JurIA no dia seguinte? A resposta deve vir dos escritórios que pagam e usam todo dia, comparados com quem veio do teste
+- **Três pedidos de dados:**
+  - **Importação:** separar os 53 que concluíram sem importar em quatro grupos: a busca encontrou e importou, encontrou e a pessoa adiou, voltou vazia, ou falhou
+  - **Depois da importação:** o que cada escritório fez nos 14 dias seguintes (Meu Dia, publicações abertas, prazos, tarefas, IA)
+  - **Tela do escritório:** o "erro nos dados do escritório" separado por motivo
+- Dá para registrar o navegador interno do Instagram e do Facebook? Hoje aparece como Chrome ou Safari, e 97,6% da verba da Meta é entregue dentro do app
 - O painel mostra 1 conta Enterprise, que não aparece na exportação de contatos. É interna?
 - Prazo para separar o erro da tela do escritório por motivo
 - Os botões de WhatsApp dos e-mails levam a dois números diferentes do WhatsApp do site, (47) 98817-5142. Qual deve ser o número?
@@ -64,7 +69,7 @@ Preparada em 23/11/2026 para as 10:30, confirmada pela Ana no grupo. A fonte é 
 - **Folder:** 100 unidades impressas na Gráfica Gêmeos. A Isadora confirmou em 17/11 que deu tudo certo
 
 ## 7. Propostas, na ordem revista em 23/11
-Ordem pelo impacto direto no resultado: escritórios que importam, voltam e pagam.
+Ordem pelo impacto direto no resultado: escritórios que importam, voltam e pagam. A ativação passa a ser lida em camadas: importar, fazer a primeira atividade real e voltar em outros dias (só 8 dos 23 que importaram acessaram em 3 dias ou mais).
 
 **Impacto direto no resultado**
 
@@ -74,13 +79,13 @@ Ordem pelo impacto direto no resultado: escritórios que importam, voltam e paga
 | 2 | Importação começa sozinha depois da OAB | Produto | 53 dos 76 que concluíram o cadastro não importaram. Confirmar se pularam ou se a busca voltou vazia |
 | 3 | Pedir o WhatsApp no cadastro, com a Jú | Produto | Não há telefone de nenhum lead. Os assinantes vieram de relação pessoal, e a única negociação veio do WhatsApp |
 | 4 | Convite para continuar no computador | Produto | Desde 06/10, importaram 50% de quem se cadastrou pelo computador (6 de 12) e 2% pelo celular (3 de 157) |
-| 5 | Teste por nicho, com a verba do vídeo | Marketing | Sul com o menor custo por escritório que importou, R$ 294. O vídeo gastou R$ 818 sem nenhum que importou |
+| 5 | Teste por nicho, com a verba do vídeo | Marketing | Sul com o menor custo por escritório que importou, R$ 294 (29 escritórios, 6 importaram, de 14/08 a 30/09, em outra época). Precisa de página de nicho: as antigas hoje levam à home geral |
 
 **Apoio**
 
 | # | Proposta | Área | Por quê |
 |---|---|---|---|
-| 6 | Botão de WhatsApp nos e-mails, com o número certo | Comercial | Os links dos e-mails levam a outros dois números |
+| 6 | Ajuda pelo WhatsApp dentro do sistema e nos e-mails | Comercial | Botão "Quero configurar com ajuda" que abre o WhatsApp ou a agenda. Não depende de telefone. Os links dos e-mails hoje levam a outros dois números |
 | 7 | Conversa com quem importou | Comercial | Começa pelos 2 Pro, únicos com uso contínuo, e pelos 10 que acessaram nos últimos 30 dias |
 | 8 | E-mail de publicações com botão para importar | Produto | 33 das 48 pessoas que recebem esse e-mail não têm processos |
 | 9 | Cadastro aceita só OAB encontrada | Produto | 16 dos 45 que concluíram vindos da Meta não mostram sinal de ser advogado. Depende da exportação |

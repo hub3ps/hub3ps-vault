@@ -6,6 +6,11 @@ autor: claude
 
 A entrada mais recente fica no topo, uma por sessão de trabalho.
 
+### 2026-11-23 · Revisão externa do diagnóstico incorporada
+- **O que fiz:** cruzei a segunda versão de um diagnóstico externo com o hub. No registro: conclusão "Importar não é usar" com a ativação em camadas (importar, primeira atividade, retorno); proposta de WhatsApp virou "Ajuda pelo WhatsApp dentro do sistema e nos e-mails"; nicho com página própria e ressalva de época; os 53 separados em quatro grupos; registro do navegador interno do Instagram e do Facebook. Em Materiais, a legenda do PDF da régua de e-mails passou a dizer "no ar desde 22/10". Pauta com a pergunta "que atividade faz voltar amanhã" e três pedidos de dados.
+- **O que achei:** o painel classifica o navegador interno dos apps como Chrome ou Safari, então hoje não dá para separar. O Sul rodou em outra época e com página de nicho, e as páginas de nicho hoje levam à home geral. Só 8 dos 23 que importaram acessaram em 3 dias ou mais.
+- **Próximo passo:** commit e push do hub com o OK do Guilherme; reunião de 24/11.
+
 ### 2026-11-23 · Propostas reordenadas pelo impacto direto no resultado
 - **Decisões (Guilherme, 23/11):** o plano de 30 dias de um diagnóstico externo não será aplicado; só revisamos as análises e propostas à luz dele. Não existe telefone dos cadastros em outra base. Os assinantes atuais vieram de indicação e networking da Mobiletec, nenhum de campanha.
 - **O que fiz:** reordenei as propostas: 1 corrigir o erro da tela do escritório, 2 importação automática (deixou de ser último recurso), 3 WhatsApp no cadastro com a Jú, 4 continuar no computador, 5 nicho; depois os apoios (WhatsApp nos e-mails, conversa com quem importou, e-mail de publicações, OAB encontrada) e por último evento de importação, limite do Plus e aviso de limite. Corrigi "traz quem usa" para "traz quem importa" e reescrevi a conclusão de uso. Pauta atualizada com as metas do briefing, os fatos novos e as três categorias.
