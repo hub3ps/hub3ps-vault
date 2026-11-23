@@ -31,8 +31,8 @@ Montada pelo MCP em rascunho em 23/11 e validada no rascunho, sem erro.
   - Posicionamentos automáticos
   - **Sem exclusão de quem já se inscreveu.** O público é pequeno, então não compensa (Guilherme, 23/11)
 - **Anúncios:** os dois vídeos do Ad 1 ([[2026-11-14-anuncios-gravados-julia]]), sobem à mão no Gerenciador, porque estão no Drive da Marjorie e o MCP não sobe vídeo do Drive
-  - `VID-01 | Vídeo | Caso travado`: Ad 1, versão 1
-  - `VID-02 | Vídeo | Especialista à mão`: Ad 1, versão 2
+  - `VID-01 | Vídeo | Caso travado`: Ad 1, versão 1 ([Drive](https://drive.google.com/file/d/1rql2gOV2ymvmOmisEx9731wNpUc-3SGC/view))
+  - `VID-02 | Vídeo | Especialista à mão`: Ad 1, versão 2 ([Drive](https://drive.google.com/file/d/1I5hqXyhjpi4sUFJtjux2lVJokTuZl6Mz/view))
 
 ## Montagem dos anúncios
 - **URL do site:** `https://www.marjoriedentalcad.com/zero-to-hero`

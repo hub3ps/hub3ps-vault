@@ -19,6 +19,15 @@ Os 5 vídeos são selfie da Marjorie no estúdio, em 9:16 (1080x1920), com legen
 | Ad 2 - Versão 2 (dental tech cad cam designer) | 27 s | técnicos e designers de CAD | de 27 a 30/11 |
 | Ad 2 - Versão 3 (dental assistant) | 30 s | assistentes | de 27 a 30/11 |
 
+## Links de cada vídeo (conferidos em 23/11)
+A pasta tem só estes 5 vídeos. Nenhum é de lembrete à parte: o Ad 1 é para a lista de espera e o Ad 2 é para o carrinho aberto.
+
+- Ad 1, versão 1: https://drive.google.com/file/d/1rql2gOV2ymvmOmisEx9731wNpUc-3SGC/view
+- Ad 1, versão 2: https://drive.google.com/file/d/1I5hqXyhjpi4sUFJtjux2lVJokTuZl6Mz/view
+- Ad 2, versão 1 (dentist): https://drive.google.com/file/d/1Xb_LH7BLuqHXJNcIDr2PmQDG4PiHFy-H/view
+- Ad 2, versão 2 (dental tech): https://drive.google.com/file/d/1fkU3FgEaAqzlpI3GiGKCqfDfmgydjep7/view
+- Ad 2, versão 3 (dental assistant): https://drive.google.com/file/d/1iS3B4UT-B60t9J3e7UCdYWnqvuJTOMMM/view
+
 ## Ad 1, lista de espera
 
 **Versão 1:** Stuck on an exocad case with no one to ask? On November 27, I'm opening my community, exocad Zero to Hero Circle, a place where you post your questions, share your cases and get answers from me and from other people that use exocad every day. Plus, more than 20 hours of training to back everything up. The waitlist hears from me first. It's free to join, so tap the link and save your spot.

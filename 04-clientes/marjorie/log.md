@@ -6,6 +6,15 @@ autor: claude
 
 A entrada mais recente fica no topo, uma por sessão de trabalho.
 
+### 2026-11-23 · Pasta de vídeos do Drive conferida
+- **O que fiz:** a pedido do Guilherme, abri a pasta do Drive de 14/11 e conferi os 5 vídeos e a fala de cada um. Os links estão em [[2026-11-14-anuncios-gravados-julia]].
+- **O que achei:**
+  - O Ad 1 (versões 1 e 2) fala do curso e chama para a lista de espera. É o vídeo de captação de lead, e não conteúdo.
+  - O Ad 2 (versões 1 a 3, uma por público) já é o aviso de vagas abertas, com o preço de lançamento até 30/11.
+  - Não há vídeo de lembrete à parte.
+- **Decisões:** não é preciso pedir vídeo novo à Julia, e nenhuma mensagem foi enviada. O carrinho de 27/11 usa o Ad 2.
+- **Próximo passo:** o Guilherme sobe o Ad 1 no rascunho da [[leads-quente-lista-de-espera]] e publica.
+
 ### 2026-11-23 · Distribuição pausada e campanha de lead da lista de espera em rascunho
 - **O que fiz:**
   - A pedido do Guilherme, pausei pelo MCP a [[distribuicao-quente-zero-to-hero]] e conferi na API que está pausada.

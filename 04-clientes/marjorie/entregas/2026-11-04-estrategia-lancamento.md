@@ -130,4 +130,4 @@ Depois da mensagem, o Guilherme confirmou: o preço especial começa em 27/11, e
 - **Seguidores:** a [[seguidores-frio-perfil]] continua no ar, com o #31 na fila.
 - **Distribuição:** pausada em 23/11.
 - **Lista de espera:** no lugar da distribuição e do lembrete de 25 e 26/11, entra a [[leads-quente-lista-de-espera]], de 23 a 26/11, a US$ 5 por dia. Leva a base para a lista de espera, com objetivo de lead e otimizando pelo `Lead` do Pixel. Usa os dois vídeos do Ad 1. Não exclui quem já se inscreveu, porque o público é pequeno.
-- **Carrinho, de 27 a 30/11:** só público quente, sem público frio. Sobe na sexta, 27/11, e não antes, porque falta um vídeo de aviso de carrinho aberto, que vamos pedir à Julia.
+- **Carrinho, de 27 a 30/11:** só público quente, sem público frio. Sobe na sexta, 27/11, com os 3 vídeos do Ad 2, um por público, que já anunciam as vagas abertas. Primeiro registrei que faltava um vídeo de carrinho aberto. Conferi a pasta do Drive no mesmo dia, e ele já existe: é o Ad 2.
