@@ -21,7 +21,9 @@ Preparada em 23/11/2026 para as 10:30, confirmada pela Ana no grupo. A fonte é 
 - **Importação não acompanhou:** 3 de 27 importaram (11%), contra 4 de 16 (25%) de 28/10 a 08/11. Quem entrou depois de 16/11 ainda está no teste
 - **Por pessoa, 14 dias contra 14 dias:** chegaram à OAB 26 (antes 23), passaram dela 10 (antes 11), concluíram 10 (antes 11). A passagem da OAB caiu de 48% para 38%
 - **Site novo:** a passagem da visita para a conta criada ficou parecida (9,7% depois de 12/11, contra 11,0% nos 11 dias anteriores). Das visitas ao cadastro vindas da Meta, 7% concluíram, antes e depois
-- **Leitura:** os informativos não pioraram a entrada e trouxeram mais gente até a OAB, mas ainda não destravaram a importação. Os dois seguem no ar
+- **Site novo (m16), sinal positivo em volume:** em 11 dias contra 11 dias, a Meta levou 17 escritórios criados contra 12, com menos verba (R$ 732 contra R$ 855). O custo por escritório criado caiu de R$ 71 para R$ 43. O custo por conta criada na Meta ficou igual, R$ 43: o ganho foi mais gente seguir da conta até o escritório
+- **Informativos de segurança (m15), não funcionou:** não trouxeram mais processos importados, e a passagem da OAB caiu de 48% para 38%
+- **Leitura (Guilherme, 23/11):** o site novo aumentou os escritórios criados e baixou o custo, mas nenhum dos dois ajustes trouxe mais processos importados. Os dois seguem no ar
 
 ## 2. Onde está a perda agora: escritório e OAB
 - Depois de 09/11, 18 visitas pararam na tela da OAB, todas pelo celular, e 12 saíram em menos de 8 segundos. Em 17 houve erro antes, e em **14 o erro foi nos dados do escritório**

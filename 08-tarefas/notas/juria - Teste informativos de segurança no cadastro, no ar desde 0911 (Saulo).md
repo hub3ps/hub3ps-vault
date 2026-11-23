@@ -1,8 +1,9 @@
 ---
 title: "Teste: informativos de segurança no cadastro, no ar desde 09/11 (Saulo). Avaliar a importação e a passagem da tela da OAB"
-status: fazendo
+status: feito
 cliente: juria
 due: 2026-11-23
+completedDate: 2026-11-23
 tags:
   - task
   - lp-e-site

@@ -6,6 +6,11 @@ autor: claude
 
 A entrada mais recente fica no topo, uma por sessão de trabalho.
 
+### 2026-11-23 · Leitura do site novo e dos informativos de segurança
+- **Decisões (Guilherme, 23/11):** o site novo aumentou os escritórios criados e baixou o custo, mas não trouxe mais processos importados. Os informativos de segurança na OAB também não trouxeram.
+- **O que fiz:** concluí o m16 (site novo) como sinal positivo e o m15 (informativos) como não funcionou, e reescrevi a conclusão do resumo. Publicado no commit 75ccd8e, conferido no ar. Pauta de 24/11 e tarefa do teste atualizadas.
+- **O que achei:** em 11 dias contra 11 dias, a Meta levou 17 escritórios criados contra 12, com R$ 732 contra R$ 855. O custo por escritório criado caiu de R$ 71 para R$ 43, mas o custo por conta criada na Meta ficou igual, R$ 43: o ganho foi no passo da conta para o escritório. A importação foi de 15% (08/10 a 08/11) para 11% (09 a 23/11). O aparelho só aparece no painel desde 06/10. Na Meta, 97,6% da verba vai para o celular.
+
 ### 2026-11-23 · Hub e pauta para a reunião de 24/11
 - **O que fiz:** puxei a Meta até 22/11 (o dia 22 foi revisado pela Meta e corrigido no gerador), exportei 10 planilhas do painel de marketing da Mobiletec (só leitura) e li o grupo do WhatsApp desde 06/11 (só leitura). Regerei o funil e a linha do tempo, com os informativos de segurança (09/11) e o site novo (12/11). Reli os testes: m12 vira sinal positivo, m14 não funcionou, e m13, m15 e m16 ficam com a leitura para a reunião. Entrou a proposta p12, limite de clientes do Plus. Reescrevi as conclusões e a Leitura do gestor da Performance, que passou a chamar o `Lead` de conta criada. Montei a pauta em [[2026-11-24-mobiletec]] e atualizei as tarefas.
 - **Resultado em:** `juria.hub3ps.com`, commit 2584101 na `main` com o OK do Guilherme, conferido no ar (números do topo, conclusões, propostas, Performance e funil). As 12 propostas foram revistas e reordenadas: 1 tela do escritório, 2 continuar no computador, 3 WhatsApp nos e-mails, 4 nicho, 5 Jú no cadastro, 6 OAB encontrada. Exportações e cópia do grupo em `~/Documents/juria-exportacoes/2026-11-23/`, fora do git.
