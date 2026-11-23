@@ -42,6 +42,8 @@ Conferida na API em 09/11/2026.
 | IG-12 | `IG-12 \| Reels \| Setup em casa` | 12/11/2026 |
 | IG-24 | `IG-24 \| Reels \| Candy Coating` | 19/11/2026, em análise |
 
+Próximo da fila: o #31 (`Df7Zrz-NOv6`), mandado pela Julia em 19/11 e incluído na lista pelo Guilherme em 23/11.
+
 ## Resultado por rodada
 Rodada 1, de 06 a 09/11/2026. Seguidores pelo campo de seguidores do Instagram da API, valores de 09/11.
 

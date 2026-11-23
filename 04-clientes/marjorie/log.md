@@ -6,6 +6,20 @@ autor: claude
 
 A entrada mais recente fica no topo, uma por sessão de trabalho.
 
+### 2026-11-23 · Distribuição pausada e campanha de lead da lista de espera em rascunho
+- **O que fiz:**
+  - A pedido do Guilherme, pausei pelo MCP a [[distribuicao-quente-zero-to-hero]] e conferi na API que está pausada.
+  - Criei pelo MCP, em rascunho, a [[leads-quente-lista-de-espera]]: conjunto de US$ 5 por dia, de 23 a 26/11, otimizando pelo `Lead` do Pixel, para a base quente sem filtro de país.
+  - Incluí o reel `Df7Zrz-NOv6` na lista de posts como #31, para a captação de seguidores. Ele é anunciável na API.
+- **O que achei:** o conjunto saiu primeiro com uma lista de 11 países, por erro meu. Corrigi no rascunho para sem filtro de país e conferi que validou sem erro. Os dois vídeos do Ad 1 estão no Drive da Marjorie, e o MCP não sobe vídeo do Drive.
+- **Decisões (Guilherme):**
+  - A captação de seguidores continua.
+  - A campanha de lead não exclui quem já se inscreveu, porque o público é pequeno.
+  - O carrinho não vai para público frio.
+  - O carrinho sobe na sexta, 27/11, depois que a Julia mandar um vídeo de aviso de carrinho aberto.
+  - O Advantage do conjunto do IG-24 não está ligado, e o assunto está encerrado.
+- **Próximo passo:** o Guilherme sobe os dois vídeos no rascunho e publica. Depois, confiro na API. O pedido do vídeo de carrinho aberto vai à Julia hoje, com o texto aprovado.
+
 ### 2026-11-23 · Rodada 5 lida e plano da semana do lançamento
 - **O que fiz:** li na API as duas campanhas de 19 a 23/11, o Pixel de 16 a 23/11 e a página da lista de espera, e cruzei com a estratégia.
 - **O que achei:**

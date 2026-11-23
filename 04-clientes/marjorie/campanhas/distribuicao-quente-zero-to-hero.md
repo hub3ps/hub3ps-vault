@@ -4,12 +4,12 @@ cliente: marjorie
 nome-campanha: Distribuição | Quente | Zero to Hero
 plataforma: meta
 id-campanha: "120250874745580554"
-status: ativa
+status: pausada
 inicio: 2026-11-09
 verba-diaria: 5
 evento-otimizacao: THRUPLAY
 lp: no próprio anúncio (ThruPlay)
-atualizado: 2026-11-16
+atualizado: 2026-11-23
 autor: claude
 ---
 # Distribuição | Quente | Zero to Hero
@@ -39,3 +39,4 @@ Conferida na API em 09/11/2026.
 - 2026-11-09 · criada pelo Guilherme, a US$ 5 por dia · esperava o Pixel no site da lista de espera, que entrou em 09/11. Se a primeira semana mostrar fadiga, entram o "Don't buy yet" (01/11) e os conteúdos novos sobre a comunidade
 - 2026-11-11 · campanha, conjunto, anúncio e públicos renomeados para o padrão novo · só rótulo, sem efeito na entrega
 - 2026-11-16 · IG-29 ("Don't buy yet") e IG-30 ("Nobody becomes an exocad expert overnight") no mesmo conjunto do IG-27, subidos à mão pelo Guilherme, verba mantida em US$ 5 por dia · a base cansou do IG-27: de 09 a 16/11, US$ 35,74 para 7.438 pessoas com frequência de 4,4, e o ThruPlay por dia caiu de 678 para 501 de 10 a 15/11 (uns 26%, conta nossa). O custo segue bom: US$ 0,01 por ThruPlay e CPM de US$ 1,04, contra a mediana de US$ 4,24 de contas parecidas. Conferido na API: posts certos, mesmo botão do IG-27, em análise da Meta. O IG-28 continua fora, esperando o orgânico esgotar
+- 2026-11-23 · campanha pausada pelo MCP, a pedido do Guilherme, e conferida na API · dá lugar à [[leads-quente-lista-de-espera]], que leva a base para a lista de espera. De 19 a 22/11, uns US$ 19 e 2.440 ThruPlays, todos a US$ 0,01 (conta nossa). Na vida toda, US$ 69,39 para 8.670 pessoas, com frequência de 7,6
