@@ -6,6 +6,19 @@ autor: claude
 
 A entrada mais recente fica no topo, uma por sessão de trabalho.
 
+### 2026-11-23 · Campanha de lead publicada e conferida
+- **O que fiz:** o Guilherme publicou a [[leads-quente-lista-de-espera]] no Gerenciador, com IDs novos: campanha `120251146900880554`, conjunto `120251146900900554`, anúncios `120251146900890554` (VID-01) e `120251147030590554` (VID-02). Conferi tudo na API. Antes, subi pelo MCP os 5 vídeos do Drive na biblioteca, de VID-01 a VID-05.
+- **O que achei:** a estrutura e os textos estão certos, mas há desvios:
+  - o conjunto saiu só com EUA
+  - o conjunto não tem data de término
+  - o VID-02 parece usar o vídeo do Ad 1, versão 1, como o VID-01
+  - o botão é "Candidatar-se"
+  - estão ligados o `pac_relaxation` nos dois anúncios e a dublagem automática no VID-02
+  - os parâmetros de URL não aparecem na API
+  - os dois anúncios estão em análise
+- **Decisões:** nenhuma ainda.
+- **Próximo passo:** o Guilherme decide se corrijo pelo MCP (fica em rascunho para ele publicar) ou se corrige no Gerenciador. Depois, confiro de novo.
+
 ### 2026-11-23 · Pasta de vídeos do Drive conferida
 - **O que fiz:** a pedido do Guilherme, abri a pasta do Drive de 14/11 e conferi os 5 vídeos e a fala de cada um. Os links estão em [[2026-11-14-anuncios-gravados-julia]].
 - **O que achei:**

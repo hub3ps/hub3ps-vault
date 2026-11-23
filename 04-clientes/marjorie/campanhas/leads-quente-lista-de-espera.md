@@ -3,8 +3,8 @@ tipo: campanha
 cliente: marjorie
 nome-campanha: Leads | Quente | Lista de espera
 plataforma: meta
-id-campanha: "120251146030670554"
-status: rascunho
+id-campanha: "120251146900880554"
+status: ativa
 inicio: 2026-11-23
 fim: 2026-11-26
 verba-diaria: 5
@@ -18,10 +18,10 @@ autor: claude
 Leva a base aquecida para a lista de espera, de 23 a 26/11/2026, no lugar da [[distribuicao-quente-zero-to-hero]]. Decisão do Guilherme em 23/11: objetivo de lead, otimizando pelo `Lead` do Pixel, com os dois vídeos do Ad 1. Na sexta, 27/11, dia do lançamento, ela já terminou, e entra a campanha do carrinho. Conta `2540479789760330`, valores em USD.
 
 ## Configuração
-Montada pelo MCP em rascunho em 23/11 e validada no rascunho, sem erro.
+Montada pelo MCP em rascunho em 23/11 e publicada pelo Guilherme no Gerenciador no mesmo dia, com IDs novos (o rascunho do MCP era `120251146030670554`). Conferida na API em 23/11: veja os desvios no histórico.
 
 - **Objetivo:** leads (`OUTCOME_LEADS`)
-- **Conjunto:** `Engajou IG 365d, seguidores e compradores | Sem filtro de país | Lead` (`120251146036720554`)
+- **Conjunto:** `Engajou IG 365d, seguidores e compradores | Sem filtro de país | Lead` (`120251146900900554`)
   - US$ 5 por dia no conjunto, sem limite de lance
   - Otimiza pelo `Lead` do Pixel `1775314010396135`, destino site
   - Termina em 26/11, 23h59, no horário do Pacífico (fuso da conta)
@@ -61,8 +61,18 @@ Título:
 Descrição: Opens November 27. Join the waitlist.
 
 ## Criativos no ar
-Nenhum ainda.
+| ID | Anúncio | Desde |
+|---|---|---|
+| VID-01 | `VID-01 \| Vídeo \| Caso travado` (`120251146900890554`) | 23/11/2026, em análise |
+| VID-02 | `VID-02 \| Vídeo \| Especialista à mão` (`120251147030590554`) | 23/11/2026, em análise |
 
 ## Histórico de otimizações
 - 2026-11-23 · campanha e conjunto criados pelo MCP em rascunho, a pedido do Guilherme · substituem a distribuição, pausada no mesmo dia. Primeiro o conjunto saiu com uma lista de 11 países, por erro meu, e foi corrigido no rascunho para sem filtro de país, como a base sempre rodou. Faltam os dois anúncios e a publicação, pelo Guilherme no Gerenciador
 - 2026-11-23 · textos sem a palavra "free", a pedido do Guilherme
+- 2026-11-23 · publicada pelo Guilherme no Gerenciador, conferida na API · está certo: objetivo de lead, US$ 5 por dia, otimização pelo `Lead` do Pixel, os três públicos, Advantage+ de público e expansão desligados, link, link de exibição, título e descrição. Desvios achados:
+  - o conjunto saiu só com EUA, e não sem filtro de país
+  - o conjunto ficou sem data de término, e devia terminar em 26/11, 23h59 (Pacífico)
+  - os dois anúncios parecem usar o mesmo vídeo, o Ad 1 versão 1: mesma duração (24,566 s, a do VID-01; o VID-02 tem 24,766 s) e a mesma miniatura
+  - o botão é "Candidatar-se" (`APPLY_NOW`), e não "Inscreva-se" (`SIGN_UP`)
+  - aprimoramentos ligados: `pac_relaxation` nos dois e `translate_voiceover` (dublagem automática) no VID-02
+  - a API não mostra os parâmetros de URL nem as variações de texto, só a primeira, então isso não foi conferido
