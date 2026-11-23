@@ -64,7 +64,7 @@ Descrição: Opens November 27. Join the waitlist.
 | ID | Anúncio | Desde |
 |---|---|---|
 | VID-01 | `VID-01 \| Vídeo \| Caso travado` (`120251146900890554`) | 23/11/2026, em análise |
-| VID-02 | `VID-02 \| Vídeo \| Especialista à mão` (`120251147030590554`) | 23/11/2026, em análise |
+| VID-02 | `VID-02 \| Vídeo \| Especialista à mão` (`120251148658610554`, recriado na publicação; o antigo era `120251147030590554`) | 23/11/2026, em análise |
 
 ## Histórico de otimizações
 - 2026-11-23 · campanha e conjunto criados pelo MCP em rascunho, a pedido do Guilherme · substituem a distribuição, pausada no mesmo dia. Primeiro o conjunto saiu com uma lista de 11 países, por erro meu, e foi corrigido no rascunho para sem filtro de país, como a base sempre rodou. Faltam os dois anúncios e a publicação, pelo Guilherme no Gerenciador
@@ -81,3 +81,9 @@ Descrição: Opens November 27. Join the waitlist.
   - criativos novos: `1758538798575927` (VID-01, vídeo `5595817547309155`) e `1675093980747985` (VID-02, vídeo `1693163199139239`), com o botão Inscreva-se, os 5 textos, os 5 títulos, a descrição, os parâmetros de URL e todos os aprimoramentos desligados menos Comentários relevantes
   - a troca do vídeo do VID-02 está confirmada pela miniatura: o anúncio publicado usava a mesma do VID-01
   - depois de publicar, os dois anúncios voltam para análise
+- 2026-11-23 · segunda publicação pelo Guilherme, conferida na API · o rascunho do MCP não ficou: os criativos no ar são outros (`2383021325798608` no VID-01 e `1611980256818426` no VID-02), e o VID-02 virou um anúncio novo, `120251148658610554`. Os dois estão em análise
+  - certo agora: cada anúncio com o seu vídeo (VID-01 com 24,566 s e VID-02 com 24,766 s, mesmas miniaturas da biblioteca), US$ 5 por dia, `Lead` do Pixel, os três públicos, expansão desligada, link, link de exibição, título e descrição
+  - ainda errado: o botão segue "Candidatar-se" (`APPLY_NOW`) nos dois; `image_animation` ligado nos dois e `pac_relaxation` no VID-02; o conjunto segue sem data de término
+  - a API não devolve país nenhum no conjunto, nem EUA nem mundo todo. Conferir no Gerenciador
+  - parâmetros de URL e as 5 variações de texto seguem sem conferência pela API, que só mostra a primeira
+

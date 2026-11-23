@@ -6,6 +6,11 @@ autor: claude
 
 A entrada mais recente fica no topo, uma por sessão de trabalho.
 
+### 2026-11-23 · Segunda publicação da campanha de lead conferida
+- **O que fiz:** conferi na API a [[leads-quente-lista-de-espera]] depois que o Guilherme publicou de novo.
+- **O que achei:** o rascunho do MCP não foi o que subiu. O VID-02 está agora com o vídeo certo e virou um anúncio novo (`120251148658610554`). Ainda estão errados o botão "Candidatar-se", os aprimoramentos `image_animation` e `pac_relaxation` e a falta de data de término. A API não mostra país nenhum no conjunto.
+- **Próximo passo:** o Guilherme decide se corrijo de novo pelo MCP ou se ajusta no Gerenciador. Os dois anúncios estão em análise.
+
 ### 2026-11-23 · Desvios da campanha de lead corrigidos em rascunho
 - **O que fiz:** a pedido do Guilherme, corrigi pelo MCP, em rascunho, os desvios da [[leads-quente-lista-de-espera]] e conferi que o rascunho validou sem erro.
   - no conjunto, mundo todo e término em 26/11
