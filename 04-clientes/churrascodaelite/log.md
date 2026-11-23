@@ -24,7 +24,7 @@ Formato:
 - **Ajustes do Guilherme em 23/11:** o pagamento da conta foi ajustado, e a entrega voltou (impressões no conjunto às 13h UTC). A página de vendas e a oferta de 67 € na Hotmart, com o Lucas, foram para 24/11
 - **Planilha (23/11):** 27 linhas, 26 pessoas (uma inscrição repetida, linha 22), todas da campanha: VL-07 16 (1,48 € cada), VL-05 10 (3,06 €). O Pixel contou 21, por causa de quem recusa os cookies. O Guilherme conta 24 pessoas no grupo
 - **WhatsApp da planilha:** 19 das 27 linhas davam `#ERROR!`, porque a LP manda "+351 9..." e a planilha lia como fórmula. Os 27 números foram recuperados da fórmula de cada célula e regravados como texto pelo Chrome, conferidos célula a célula. Na fonte, a LP passou a mandar o WhatsApp com apóstrofo e o `lista-black.gs` ganhou o `comoTexto`, sem commit. LP corrigida publicada na Vercel com o OK do Guilherme (23/11) e conferida no ar. O `.gs` novo só vale depois de reimplantado no Apps Script
-- **Resumo no grupo:** aprovado pelo Guilherme, não enviado. A ponte do WhatsApp derruba a conexão (`localhost:8080`, connection reset)
+- **Resumo no grupo:** aprovado pelo Guilherme e enviado em 23/11, por volta das 10h27 (Brasília), direto pela API da ponte. A ponte estava travada: reiniciada pelo serviço `com.hub3ps.whatsapp-bridge` do launchd, sem QR (a sessão seguia válida). O MCP do WhatsApp desta sessão continua sem alcançar a ponte (connection reset) e precisa ser reconectado no app
 - **Próximo passo:** página de vendas e oferta na Hotmart em 24/11. A data de fim do Homem IG-01 segue sem decisão
 
 ### 2026-11-23 · Grupo de 20 a 23/11, pela rotina
