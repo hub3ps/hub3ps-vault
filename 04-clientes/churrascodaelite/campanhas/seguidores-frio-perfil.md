@@ -57,6 +57,7 @@ Especificação de cada conjunto, para a subida à mão:
 - Anúncio: publicação existente do Instagram @churrasco_da_elite, IG-01 `DdgfPAcqGmT` num conjunto e IG-02 `Dd_WRoXKN5K` no outro, com o botão de visitar o perfil
 
 ## Histórico de otimizações
+- 2026-11-23 · IG-01 e IG-02 de 16/11 pausados. No ar só `Aberto 23-55 | Homem | Portugal | Visita ao perfil | IG-01` (`120250683957360559`, desde 18/11, 7 € por dia, sem data de fim): 27,36 €, 925 visitas e 111 seguidores pelo MCP. Entrega parada de 22/11, 16h, até 23/11, 10h25 UTC (cartão)
 - 2026-11-16 · data de fim em 26/11, 23h59, nos dois conjuntos, pelo MCP (Guilherme pediu)
 - 2026-11-16 · Guilherme publicou os dois conjuntos à mão, com exclusão de quem já segue; conferido na API, anúncios em análise
 - 2026-11-16 · campanha criada em rascunho pelo MCP; conjuntos recusados pelo MCP, ficam com o Guilherme à mão

@@ -6,6 +6,16 @@ autor: claude
 
 A entrada mais recente fica no topo, uma por sessão de trabalho.
 
+### 2026-11-23 · Rodada 5 lida e plano da semana do lançamento
+- **O que fiz:** li na API as duas campanhas de 19 a 23/11, o Pixel de 16 a 23/11 e a página da lista de espera, e cruzei com a estratégia.
+- **O que achei:**
+  - Seguidores: IG-12 a US$ 0,86 por seguidor (24, US$ 20,66) e IG-24 a US$ 0,95 (22, US$ 20,91), empate (conta nossa).
+  - Distribuição: de 19 a 22/11, cerca de US$ 19 e 2.440 ThruPlays, todos a US$ 0,01. O IG-29 leva a maior parte. Na vida toda, 8.670 pessoas e frequência de 7,6.
+  - Pixel: 42 Leads de 16 a 22/11, sem nenhum anúncio para a lista de espera.
+  - O Ad 1 da lista de espera não subiu, a verba segue em aberto. A página `/zero-to-hero` ainda é a lista de espera, sem link de checkout da Circle.
+- **Decisões:** nenhuma. O plano foi levado ao Guilherme.
+- **Próximo passo:** o Guilherme define a verba e aprova subir o lembrete (Ad 1) e o carrinho (Ad 2). A Julia precisa do link de checkout na LP antes de 27/11.
+
 ### 2026-11-20 · Grupo de 19/11, pela rotina
 - **O que fiz:** a rotina WhatsApp diário registrou a única mensagem nova do grupo, de 19/11.
 - **Resultado em:** `fontes/2026-11-20-whatsapp-grupo.md`

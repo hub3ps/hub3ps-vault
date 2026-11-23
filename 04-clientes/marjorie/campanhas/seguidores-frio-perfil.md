@@ -9,7 +9,7 @@ inicio: 2026-11-06
 verba-diaria: 10
 evento-otimizacao: PROFILE_AND_PAGE_ENGAGEMENT
 lp: https://instagram.com/marjoriedentalcad
-atualizado: 2026-11-19
+atualizado: 2026-11-23
 autor: claude
 ---
 # Seguidores | Frio | Perfil
@@ -70,6 +70,13 @@ Rodada 4, de 16 a 19/11/2026, com o dia 19 ainda aberto. Valores da API em 19/11
 |---|---|---|---|---|---|---|---|
 | IG-12 | US$ 17,20 | 1.504 | 91 | US$ 0,19 | 24 | US$ 0,72 | fica |
 | IG-14 | US$ 14,30 | 1.310 | 125 | US$ 0,11 | 12 | US$ 1,19 | sai |
+
+Rodada 5, de 19 a 23/11/2026, com o dia 23 ainda aberto. Valores da API em 23/11. O IG-24 entrou em análise no dia 19. Custo por seguidor é conta nossa.
+
+| ID | Gasto | Impressões | Visitas ao perfil | Custo por visita | Seguidores | Custo por seguidor | Decisão |
+|---|---|---|---|---|---|---|---|
+| IG-12 | US$ 20,66 | 1.706 | 116 | US$ 0,18 | 24 | US$ 0,86 | empate, segue |
+| IG-24 | US$ 20,91 | 939 | 46 | US$ 0,45 | 22 | US$ 0,95 | empate, segue |
 
 ## Histórico de otimizações
 - 2026-11-06 · publicada com dois conjuntos de US$ 5 por dia, IG-03 e IG-06, os dois primeiros da lista da Julia · teste dos 2 primeiros posts, em rodízio a cada 3 dias
