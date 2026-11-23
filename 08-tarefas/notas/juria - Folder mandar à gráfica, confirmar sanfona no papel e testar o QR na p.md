@@ -1,8 +1,9 @@
 ---
 title: "Folder: mandar à gráfica, confirmar sanfona no papel e testar o QR na prova"
-status: fazendo
+status: feito
 cliente: juria
 due: 2026-11-15
+completedDate: 2026-11-17
 tags:
   - task
   - criativo
