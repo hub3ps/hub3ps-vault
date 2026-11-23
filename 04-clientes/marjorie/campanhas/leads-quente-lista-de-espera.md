@@ -76,3 +76,8 @@ Descrição: Opens November 27. Join the waitlist.
   - o botão é "Candidatar-se" (`APPLY_NOW`), e não "Inscreva-se" (`SIGN_UP`)
   - aprimoramentos ligados: `pac_relaxation` nos dois e `translate_voiceover` (dublagem automática) no VID-02
   - a API não mostra os parâmetros de URL nem as variações de texto, só a primeira, então isso não foi conferido
+- 2026-11-23 · desvios corrigidos pelo MCP em rascunho, a pedido do Guilherme, e validados sem erro · fica pendente de publicação pelo Guilherme no Gerenciador
+  - conjunto: mundo todo, menos Taiwan e Singapura, que exigem uma declaração regional que o MCP não preenche; término em 26/11, 23h59 (Pacífico); anunciante e pagador da UE como "Marjorie Dental CAD"
+  - criativos novos: `1758538798575927` (VID-01, vídeo `5595817547309155`) e `1675093980747985` (VID-02, vídeo `1693163199139239`), com o botão Inscreva-se, os 5 textos, os 5 títulos, a descrição, os parâmetros de URL e todos os aprimoramentos desligados menos Comentários relevantes
+  - a troca do vídeo do VID-02 está confirmada pela miniatura: o anúncio publicado usava a mesma do VID-01
+  - depois de publicar, os dois anúncios voltam para análise

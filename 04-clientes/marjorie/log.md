@@ -6,6 +6,15 @@ autor: claude
 
 A entrada mais recente fica no topo, uma por sessão de trabalho.
 
+### 2026-11-23 · Desvios da campanha de lead corrigidos em rascunho
+- **O que fiz:** a pedido do Guilherme, corrigi pelo MCP, em rascunho, os desvios da [[leads-quente-lista-de-espera]] e conferi que o rascunho validou sem erro.
+  - no conjunto, mundo todo e término em 26/11
+  - dois criativos novos, com o vídeo certo em cada anúncio, o botão "Inscreva-se", os parâmetros de URL e os aprimoramentos desligados
+- **O que achei:**
+  - "mundo todo" pediu o anunciante da UE e as declarações de Taiwan e Singapura. Preenchi o anunciante e tirei os dois países, que o MCP não declara.
+  - A miniatura confirmou que o VID-02 publicado usava o vídeo do VID-01.
+- **Próximo passo:** o Guilherme publica o rascunho no Gerenciador, conferindo antes a tela de configuração do criativo e o erro #1815589 (título e descrição dentro do botão). Depois, confiro na API.
+
 ### 2026-11-23 · Campanha de lead publicada e conferida
 - **O que fiz:** o Guilherme publicou a [[leads-quente-lista-de-espera]] no Gerenciador, com IDs novos: campanha `120251146900880554`, conjunto `120251146900900554`, anúncios `120251146900890554` (VID-01) e `120251147030590554` (VID-02). Conferi tudo na API. Antes, subi pelo MCP os 5 vídeos do Drive na biblioteca, de VID-01 a VID-05.
 - **O que achei:** a estrutura e os textos estão certos, mas há desvios:
