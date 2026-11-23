@@ -6,6 +6,13 @@ autor: claude
 
 A entrada mais recente fica no topo, uma por sessão de trabalho.
 
+### 2026-11-23 · Propostas reordenadas pelo impacto direto no resultado
+- **Decisões (Guilherme, 23/11):** o plano de 30 dias de um diagnóstico externo não será aplicado; só revisamos as análises e propostas à luz dele. Não existe telefone dos cadastros em outra base. Os assinantes atuais vieram de indicação e networking da Mobiletec, nenhum de campanha.
+- **O que fiz:** reordenei as propostas: 1 corrigir o erro da tela do escritório, 2 importação automática (deixou de ser último recurso), 3 WhatsApp no cadastro com a Jú, 4 continuar no computador, 5 nicho; depois os apoios (WhatsApp nos e-mails, conversa com quem importou, e-mail de publicações, OAB encontrada) e por último evento de importação, limite do Plus e aviso de limite. Corrigi "traz quem usa" para "traz quem importa" e reescrevi a conclusão de uso. Pauta atualizada com as metas do briefing, os fatos novos e as três categorias.
+- **O que achei:** dos 23 que importaram nos últimos 90 dias, 15 acessaram só 1 ou 2 dias; só os 2 Pro têm uso contínuo. 53 dos 76 que concluíram o cadastro não importaram. Do diagnóstico, ficaram de fora a extensão do teste, a pergunta de qualificação na página, a automação de e-mails e a CAPI, porque já existem ou os dados não sustentam.
+- **Resultado em:** `juria.hub3ps.com`, commit 2fe9965, conferido no ar.
+- **Próximo passo:** reunião de 24/11.
+
 ### 2026-11-23 · Leitura do site novo e dos informativos de segurança
 - **Decisões (Guilherme, 23/11):** o site novo aumentou os escritórios criados e baixou o custo, mas não trouxe mais processos importados. Os informativos de segurança na OAB também não trouxeram.
 - **O que fiz:** concluí o m16 (site novo) como sinal positivo e o m15 (informativos) como não funcionou, e reescrevi a conclusão do resumo. Publicado no commit 75ccd8e, conferido no ar. Pauta de 24/11 e tarefa do teste atualizadas.

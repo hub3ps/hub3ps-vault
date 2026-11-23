@@ -13,8 +13,12 @@ Preparada em 23/11/2026 para as 10:30, confirmada pela Ana no grupo. A fonte é 
 - Meta: R$ 6.343,20 investidos, 105 contas criadas a R$ 60,41 cada. Nos últimos 7 dias, 13 contas a R$ 37,51
 - Escritórios criados: 136. Importaram processos: 24 (18%), 17 deles com 5 ou mais
 - Custo por escritório que importou, na Meta: R$ 423 (era R$ 365 em 04/11). Com 5 ou mais processos: R$ 634 (era R$ 568)
-- Planos pagos: os mesmos 2 Pro de antes. Os 3 Basic são contas de teste. Nenhuma assinatura veio do teste
+- Assinantes: os atuais vieram de indicação e networking da Mobiletec, nenhum de campanha (Guilherme, 23/11). Nenhuma assinatura veio do teste
+- **Contra o combinado no briefing (11/05):** trials, meta de 75 a 90 por trimestre, entregues 132 em 90 dias. Pagantes, expectativa de 9 a 15 por trimestre, 0 vindos do teste
 - Uso: 256 publicações lidas de 29.292 capturadas, 65 intimações revisadas em 5 escritórios, 10 usuários abriram a tela da Jú
+- **Importar não é usar:** dos 23 que importaram nos últimos 90 dias, 15 acessaram só 1 ou 2 dias. Uso contínuo, só nos 2 escritórios Pro, que vieram de networking
+- **Concluir não é importar:** 76 concluíram o cadastro nos últimos 90 dias, e 53 deles passaram pela tela de processos sem importar
+- **Sem canal com o lead:** só 1 de 149 contas tem telefone, e não existe telefone em outra base
 
 ## 1. Segurança no cadastro (m15) e site novo (m16), lidos juntos
 - **Volume subiu:** de 09 a 23/11, 27 escritórios criados. A semana de 16/11 teve 15, a maior desde o início
@@ -28,7 +32,7 @@ Preparada em 23/11/2026 para as 10:30, confirmada pela Ana no grupo. A fonte é 
 ## 2. Onde está a perda agora: escritório e OAB
 - Depois de 09/11, 18 visitas pararam na tela da OAB, todas pelo celular, e 12 saíram em menos de 8 segundos. Em 17 houve erro antes, e em **14 o erro foi nos dados do escritório**
 - Outros erros nesse grupo: senha fora da regra (5 pessoas), código do e-mail (2), cadastro recusado pelo sistema (1), verificação de segurança carregando (1)
-- **Pedido à Mobiletec:** separar o "erro nos dados do escritório" por motivo (tamanho não escolhido, processos não escolhidos, nome curto, falha do servidor). É a proposta "Entender por que metade desiste na tela do escritório", agora prioridade 1 no hub
+- **Pedido à Mobiletec:** separar o "erro nos dados do escritório" por motivo (tamanho não escolhido, processos não escolhidos, nome curto, falha do servidor). É a proposta "Corrigir o erro na tela do escritório", prioridade 1 no hub
 
 ## 3. Mídia
 - **Conta criada (m12):** R$ 1.892,43, 41 escritórios e 4 importaram, todos com 5 ou mais processos, a R$ 473 cada. Marcada como sinal positivo e segue como campanha principal. Ritmo caiu: de 05 a 22/11, 18 escritórios e 1 importação
@@ -40,10 +44,10 @@ Preparada em 23/11/2026 para as 10:30, confirmada pela Ana no grupo. A fonte é 
 - A régua "Conversão" mandou 328 e-mails para 54 pessoas: 72 abertos e 3 cliques
 - E-mail de Black Friday (16 e 17/11): 117 contas em teste receberam, 25 abriram (21%), 1 clique, que levou um lead de setembro à página de planos, e nenhum plano novo
 - **O que funcionou:** o "Cadastro pela metade" trouxe de volta uma lead parada desde 08/11, e o "Hoje é o último dia do seu teste" teve a melhor abertura (8 de 13)
-- **Próximo passo sugerido:** contato pelo WhatsApp (propostas "Convite para conversar no WhatsApp" e "Vincular a Jú no cadastro"), já que o e-mail não gera resposta
+- **Próximo passo sugerido:** contato pelo WhatsApp (propostas "Pedir o WhatsApp no cadastro, com a Jú" e "Convite para conversar no WhatsApp"), já que o e-mail não gera resposta
 
 ## 5. Perguntas para a Mobiletec
-- Os 2 escritórios no plano Pro (um desde 24/08 e outro desde 16/10) estão pagando? Esta pergunta já tinha ficado em aberto na reunião de 06/11
+- Os 53 que concluíram o cadastro sem importar pularam a importação ou a busca pela OAB voltou vazia?
 - O painel mostra 1 conta Enterprise, que não aparece na exportação de contatos. É interna?
 - Prazo para separar o erro da tela do escritório por motivo
 - Os botões de WhatsApp dos e-mails levam a dois números diferentes do WhatsApp do site, (47) 98817-5142. Qual deve ser o número?
@@ -60,22 +64,34 @@ Preparada em 23/11/2026 para as 10:30, confirmada pela Ana no grupo. A fonte é 
 - **Folder:** 100 unidades impressas na Gráfica Gêmeos. A Isadora confirmou em 17/11 que deu tudo certo
 
 ## 7. Propostas, na ordem revista em 23/11
-A ordem segue o maior ganho em escritórios que importam, com o menor esforço e o menor risco de piorar a tela da OAB, onde 6 de cada 10 pararam desde 09/11. Todas seguem fazendo sentido.
+Ordem pelo impacto direto no resultado: escritórios que importam, voltam e pagam.
 
-| # | Proposta | Área | Por quê, com os números de hoje |
+**Impacto direto no resultado**
+
+| # | Proposta | Área | O número que sustenta |
 |---|---|---|---|
-| 1 | Entender por que metade desiste na tela do escritório | Produto | Maior perda de quem já criou a conta: 227 chegaram ao escritório e 143 passaram. 14 das 18 visitas que pararam na OAB depois de 09/11 tinham errado nos dados do escritório. É só separar o erro por motivo |
-| 2 | Convite para continuar no computador | Produto | Importaram 6 de 12 que se cadastraram pelo computador (50%) e 3 de 157 pelo celular (2%). 9 de cada 10 cadastros vêm do celular |
-| 3 | Convite para conversar no WhatsApp | Comercial | O WhatsApp trouxe a única negociação de plano. E-mail não tem resposta. Os links de WhatsApp dos e-mails apontam para outros dois números |
-| 4 | Testes de comunicação por nicho | Marketing | O nicho no Sul tem o menor custo por escritório que importou, R$ 294. Pode usar a verba da campanha de vídeos |
-| 5 | Vincular a Jú no cadastro | Produto | Só 1 de 149 contas tem telefone. Sem isso, a equipe só fala com quem chama primeiro |
-| 6 | Cadastro aceita só OAB encontrada | Produto | 16 dos 45 que concluíram vindos da Meta não mostram sinal de ser advogado. Começar pela exportação, para não endurecer a OAB antes de entender a perda |
-| 7 | E-mail de publicações com botão para importar | Produto | 63 enviados desde 09/11, sem medição. 33 das 48 pessoas que o recebem não têm processos |
-| 8 | Conversa com os escritórios que importaram | Comercial | 24 escritórios, 17 com 5 ou mais processos |
-| 9 | Evento de importação na Meta e no GA4 | Marketing | Mede a ativação por campanha no Gerenciador. Com 2 a 3 importações por semana, ainda não dá volume para otimizar |
-| 10 | Aviso de limite do teste uma vez por faixa | Produto | 50 avisos para 5 dos melhores escritórios até 09/11, depois parou. Confirmar se já mudou |
+| 1 | Corrigir o erro na tela do escritório | Produto | 227 chegam à tela e 143 passam. 14 das 18 visitas que pararam na OAB depois de 09/11 tinham erro aqui |
+| 2 | Importação começa sozinha depois da OAB | Produto | 53 dos 76 que concluíram o cadastro não importaram. Confirmar se pularam ou se a busca voltou vazia |
+| 3 | Pedir o WhatsApp no cadastro, com a Jú | Produto | Não há telefone de nenhum lead. Os assinantes vieram de relação pessoal, e a única negociação veio do WhatsApp |
+| 4 | Convite para continuar no computador | Produto | Desde 06/10, importaram 50% de quem se cadastrou pelo computador (6 de 12) e 2% pelo celular (3 de 157) |
+| 5 | Teste por nicho, com a verba do vídeo | Marketing | Sul com o menor custo por escritório que importou, R$ 294. O vídeo gastou R$ 818 sem nenhum que importou |
+
+**Apoio**
+
+| # | Proposta | Área | Por quê |
+|---|---|---|---|
+| 6 | Botão de WhatsApp nos e-mails, com o número certo | Comercial | Os links dos e-mails levam a outros dois números |
+| 7 | Conversa com quem importou | Comercial | Começa pelos 2 Pro, únicos com uso contínuo, e pelos 10 que acessaram nos últimos 30 dias |
+| 8 | E-mail de publicações com botão para importar | Produto | 33 das 48 pessoas que recebem esse e-mail não têm processos |
+| 9 | Cadastro aceita só OAB encontrada | Produto | 16 dos 45 que concluíram vindos da Meta não mostram sinal de ser advogado. Depende da exportação |
+
+**Por último**
+
+| # | Proposta | Área | Por quê |
+|---|---|---|---|
+| 10 | Evento de importação na Meta e no GA4 | Marketing | Só mede, não muda o resultado |
 | 11 | Rever o limite de clientes do Plus | Comercial | Uma objeção até agora. Pedido do Everton para discutir |
-| 12 | Importação começa sozinha depois da OAB | Produto | Só se as de ativação acima não resolverem |
+| 12 | Aviso de limite do teste | Produto | Parou depois de 09/11. Sai da lista se a Mobiletec confirmar que mudou |
 
 ## Decisões
 (preencher na reunião)
