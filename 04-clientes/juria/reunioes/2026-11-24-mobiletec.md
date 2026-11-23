@@ -75,28 +75,39 @@ Ordem pelo impacto direto no resultado: escritórios que importam, voltam e paga
 
 | # | Proposta | Área | O número que sustenta |
 |---|---|---|---|
-| 1 | Corrigir o erro na tela do escritório | Produto | 227 chegam à tela e 143 passam. 14 das 18 visitas que pararam na OAB depois de 09/11 tinham erro aqui |
-| 2 | Importação começa sozinha depois da OAB | Produto | 53 dos 76 que concluíram o cadastro não importaram. Confirmar se pularam ou se a busca voltou vazia |
-| 3 | Pedir o WhatsApp no cadastro, com a Jú | Produto | Não há telefone de nenhum lead. Os assinantes vieram de relação pessoal, e a única negociação veio do WhatsApp |
-| 4 | Convite para continuar no computador | Produto | Desde 06/10, importaram 50% de quem se cadastrou pelo computador (6 de 12) e 2% pelo celular (3 de 157) |
-| 5 | Teste por nicho, com a verba do vídeo | Marketing | Sul com o menor custo por escritório que importou, R$ 294 (29 escritórios, 6 importaram, de 14/08 a 30/09, em outra época). Precisa de página de nicho: as antigas hoje levam à home geral |
+| 1 | Onboarding mais curto, com importação acompanhada | Produto | Junta a correção da tela do escritório, a importação e o aviso de importação concluída. 227 chegam ao escritório e 143 passam; 53 dos 76 que concluíram não importaram; 15 dos 23 que importaram não voltaram depois do segundo dia |
+| 2 | Testar o Google Search com a verba do vídeo | Marketing | Captura quem já procura sistema jurídico. O vídeo gastou R$ 660,51 em novembro sem nenhum escritório que importou. Conferir antes o volume de busca e o resultado da campanha de pesquisa do mês 1 |
+| 3 | Evento de importação na Meta, no GA4 e no Google Ads | Marketing | Requisito dos dois primeiros: sem ele, não dá para ver quantos escritórios importaram por canal |
+| 4 | Pedir o WhatsApp no cadastro, com a Jú | Produto | Não há telefone de nenhum lead. Os assinantes vieram de relação pessoal, e a única negociação veio do WhatsApp |
+| 5 | Convite para continuar no computador | Produto | Desde 06/10, importaram 50% de quem se cadastrou pelo computador (6 de 12) e 2% pelo celular (3 de 157) |
 
 **Apoio**
 
 | # | Proposta | Área | Por quê |
 |---|---|---|---|
-| 6 | Ajuda pelo WhatsApp dentro do sistema e nos e-mails | Comercial | Botão "Quero configurar com ajuda" que abre o WhatsApp ou a agenda. Não depende de telefone. Os links dos e-mails hoje levam a outros dois números |
-| 7 | Conversa com quem importou | Comercial | Começa pelos 2 Pro, únicos com uso contínuo, e pelos 10 que acessaram nos últimos 30 dias |
-| 8 | E-mail de publicações com botão para importar | Produto | 33 das 48 pessoas que recebem esse e-mail não têm processos |
-| 9 | Cadastro aceita só OAB encontrada | Produto | 16 dos 45 que concluíram vindos da Meta não mostram sinal de ser advogado. Depende da exportação |
+| 6 | Ajuda pelo WhatsApp dentro do sistema e nos e-mails | Comercial | Botão "Quero configurar com ajuda". Não depende de telefone |
+| 7 | Teste por nicho na Meta | Marketing | Sul com R$ 294 por escritório que importou, em outra época. Precisa de página de nicho |
+| 8 | Conversa com quem importou | Comercial | Começa pelos 2 Pro e pelos 10 que acessaram nos últimos 30 dias |
+| 9 | E-mail de publicações com botão para importar | Produto | 33 das 48 pessoas que recebem esse e-mail não têm processos |
+| 10 | Cadastro aceita só OAB encontrada | Produto | 16 dos 45 que concluíram vindos da Meta não mostram sinal de ser advogado |
 
 **Por último**
 
 | # | Proposta | Área | Por quê |
 |---|---|---|---|
-| 10 | Evento de importação na Meta e no GA4 | Marketing | Só mede, não muda o resultado |
 | 11 | Rever o limite de clientes do Plus | Comercial | Uma objeção até agora. Pedido do Everton para discutir |
 | 12 | Aviso de limite do teste | Produto | Parou depois de 09/11. Sai da lista se a Mobiletec confirmar que mudou |
+
+## 8. Onboarding proposto (telas)
+Telas em `juria.hub3ps.com/propostas/onboarding`, ilustrativas, no visual do portal de hoje.
+
+![[2026-11-24-onboarding-proposto.png]]
+
+- **Tela 1, Sobre o seu escritório:** perguntas compactas, tamanho opcional, "Ainda não acompanho processos" separado de "1 a 30"
+- **Tela 2, OAB:** botão "Buscar e importar meus processos", com "Continuar sem importar agora" abaixo. A tela "Vamos trazer seus processos" sai
+- **Tela 3, Importação em andamento:** o sistema mostra que está trabalhando, sem percentual inventado, e avisa por e-mail quando terminar
+- **Tela 4, Meu Dia:** a carteira aparece com a primeira ação, e o acompanhamento de prazos sai do cadastro e vem para cá
+- **Cuidados:** leitura antes e depois, sem A/B; redefinir o evento de fim do cadastro junto com o de importação; medir se menos escritórios ligam o acompanhamento
 
 ## Decisões
 (preencher na reunião)

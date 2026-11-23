@@ -6,10 +6,18 @@ autor: claude
 
 A entrada mais recente fica no topo, uma por sessão de trabalho.
 
+### 2026-11-23 · Onboarding proposto e Google Search no topo das propostas
+- **Decisões (Guilherme, 23/11):** o onboarding mais curto e o teste no Google vão para o topo das propostas e para a reunião de 24/11.
+- **O que fiz:** a proposta 1 virou "Onboarding mais curto, com importação acompanhada", juntando a tela do escritório, a importação e o aviso de importação concluída (a proposta da importação automática saiu). Entrou "Testar o Google Search com a verba do vídeo" em 2º, e o evento de importação subiu para 3º. Montei as telas em `clients/juria/lps/propostas/onboarding/` (Sobre o escritório, OAB que busca e importa, importação em andamento, Meu Dia e o e-mail de aviso) e linkei em Materiais. Pauta com a ordem nova e a imagem das telas.
+- **O que achei:** a conta do Google Ads e a tag existem, e o plano do mês 1 previa Search, mas não há registro de resultado. O print da tela de prazos foi feito dentro do navegador do Instagram. Tirar o acompanhamento do cadastro pode reduzir quem liga a captura de publicações, e o evento de fim do cadastro precisa ser redefinido.
+- **Resultado em:** `juria.hub3ps.com` e `juria.hub3ps.com/propostas/onboarding`, commit a2ceed6, conferido no ar (também leva os ajustes da revisão externa, que estavam sem push).
+- **Próximo passo:** reunião de 24/11.
+
 ### 2026-11-23 · Revisão externa do diagnóstico incorporada
 - **O que fiz:** cruzei a segunda versão de um diagnóstico externo com o hub. No registro: conclusão "Importar não é usar" com a ativação em camadas (importar, primeira atividade, retorno); proposta de WhatsApp virou "Ajuda pelo WhatsApp dentro do sistema e nos e-mails"; nicho com página própria e ressalva de época; os 53 separados em quatro grupos; registro do navegador interno do Instagram e do Facebook. Em Materiais, a legenda do PDF da régua de e-mails passou a dizer "no ar desde 22/10". Pauta com a pergunta "que atividade faz voltar amanhã" e três pedidos de dados.
 - **O que achei:** o painel classifica o navegador interno dos apps como Chrome ou Safari, então hoje não dá para separar. O Sul rodou em outra época e com página de nicho, e as páginas de nicho hoje levam à home geral. Só 8 dos 23 que importaram acessaram em 3 dias ou mais.
-- **Próximo passo:** commit e push do hub com o OK do Guilherme; reunião de 24/11.
+- **Resultado em:** publicado junto com o onboarding proposto, commit a2ceed6.
+- **Próximo passo:** reunião de 24/11.
 
 ### 2026-11-23 · Propostas reordenadas pelo impacto direto no resultado
 - **Decisões (Guilherme, 23/11):** o plano de 30 dias de um diagnóstico externo não será aplicado; só revisamos as análises e propostas à luz dele. Não existe telefone dos cadastros em outra base. Os assinantes atuais vieram de indicação e networking da Mobiletec, nenhum de campanha.
