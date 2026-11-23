@@ -1,8 +1,8 @@
 ---
-title: "Montar o lembrete para a lista de espera (25 e 26/11) e o carrinho na LP (27 a 30/11)"
+title: "Subir a campanha do carrinho aberto (27 a 30/11)"
 status: a-fazer
 cliente: marjorie
-due: 2026-11-25
+due: 2026-11-24
 tags:
   - task
   - trafego-pago
@@ -11,3 +11,10 @@ id: c1f77708-9768-47e1-a911-15645180a100
 ---
 
 23/11: o lembrete foi substituído pela [[leads-quente-lista-de-espera]], de 23 a 26/11. O carrinho sobe na sexta, 27/11, só para público quente, com os 3 vídeos do Ad 2, que já existem no Drive. Depende do link de checkout na LP.
+
+23/11: o Guilherme decidiu subir a campanha do carrinho amanhã, 24/11, programada para começar em 27/11 e terminar em 30/11.
+- Público: só quente (Engajou IG 365d, Seguidores IG e Compradores curso antigo), sem país e sem expansão
+- Anúncios: VID-03 (`1160731756456315`), VID-04 (`1142569055023775`) e VID-05 (`29290951537192198`), já na biblioteca
+- Otimização: visualização da página de destino, pela estratégia
+- Falta: o link de destino do carrinho. Ainda não se sabe se `/zero-to-hero` vira a página de vendas em 27/11 ou se o checkout da Circle tem outro link
+

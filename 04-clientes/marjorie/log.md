@@ -6,6 +6,11 @@ autor: claude
 
 A entrada mais recente fica no topo, uma por sessão de trabalho.
 
+### 2026-11-23 · Campanha de lead aprovada e no ar
+- **O que fiz:** conferi na API o ajuste do Guilherme na [[leads-quente-lista-de-espera]].
+- **O que achei:** término em 27/11, 00h00 (Pacífico), todas as localizações e os dois anúncios aprovados. Seguem o botão "Candidatar-se" nos dois e o `pac_relaxation` no VID-02.
+- **Próximo passo:** montar a campanha do carrinho, de 27 a 30/11, quando tiver o link de destino.
+
 ### 2026-11-23 · Segunda publicação da campanha de lead conferida
 - **O que fiz:** conferi na API a [[leads-quente-lista-de-espera]] depois que o Guilherme publicou de novo.
 - **O que achei:** o rascunho do MCP não foi o que subiu. O VID-02 está agora com o vídeo certo e virou um anúncio novo (`120251148658610554`). Ainda estão errados o botão "Candidatar-se", os aprimoramentos `image_animation` e `pac_relaxation` e a falta de data de término. A API não mostra país nenhum no conjunto.

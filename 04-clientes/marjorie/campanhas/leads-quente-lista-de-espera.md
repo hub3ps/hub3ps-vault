@@ -63,8 +63,8 @@ Descrição: Opens November 27. Join the waitlist.
 ## Criativos no ar
 | ID | Anúncio | Desde |
 |---|---|---|
-| VID-01 | `VID-01 \| Vídeo \| Caso travado` (`120251146900890554`) | 23/11/2026, em análise |
-| VID-02 | `VID-02 \| Vídeo \| Especialista à mão` (`120251148658610554`, recriado na publicação; o antigo era `120251147030590554`) | 23/11/2026, em análise |
+| VID-01 | `VID-01 \| Vídeo \| Caso travado` (`120251146900890554`) | 23/11/2026, aprovado |
+| VID-02 | `VID-02 \| Vídeo \| Especialista à mão` (`120251148658610554`, recriado na publicação; o antigo era `120251147030590554`) | 23/11/2026, aprovado |
 
 ## Histórico de otimizações
 - 2026-11-23 · campanha e conjunto criados pelo MCP em rascunho, a pedido do Guilherme · substituem a distribuição, pausada no mesmo dia. Primeiro o conjunto saiu com uma lista de 11 países, por erro meu, e foi corrigido no rascunho para sem filtro de país, como a base sempre rodou. Faltam os dois anúncios e a publicação, pelo Guilherme no Gerenciador
@@ -86,4 +86,7 @@ Descrição: Opens November 27. Join the waitlist.
   - ainda errado: o botão segue "Candidatar-se" (`APPLY_NOW`) nos dois; `image_animation` ligado nos dois e `pac_relaxation` no VID-02; o conjunto segue sem data de término
   - a API não devolve país nenhum no conjunto, nem EUA nem mundo todo. Conferir no Gerenciador
   - parâmetros de URL e as 5 variações de texto seguem sem conferência pela API, que só mostra a primeira
+- 2026-11-23 · ajuste do Guilherme no Gerenciador, conferido na API · término em 27/11, 00h00 (Pacífico), ou seja, roda até o fim de 26/11; local "Todas as localizações", que a API mostra como conjunto sem país; os dois anúncios aprovados (`ACTIVE`, em preparação para entrega)
+  - o `image_animation` aparece na configuração do criativo pela API, mas o Guilherme confirmou que está desligado no Gerenciador. Num anúncio de vídeo ele não tem efeito
+  - ficaram como estão: o botão "Candidatar-se" (`APPLY_NOW`) nos dois e o `pac_relaxation` no VID-02
 
