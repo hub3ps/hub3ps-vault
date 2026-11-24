@@ -24,7 +24,8 @@ Formato:
 - **O que:** o Claude subiu VL-08 e VL-10 em 1080p na biblioteca da CA01, pela Marketing API, depois que o Guilherme deu ao token acesso de gravação na conta. O Guilherme montou à mão um conjunto e um anúncio para cada vídeo, na campanha da lista, e o Claude conferiu tudo pela API
 - **Resultado em:** [[campanhas/leads-quente-lista-de-espera]], na tabela de IDs e no histórico
 - **Decisões:** 6 € por dia em cada conjunto novo, e a campanha passa a 28 € por dia até 26/11 (Guilherme)
-- **Próximo passo:** corrigir a UTM dos dois anúncios novos (`utm_content=vl-05` para `vl-08` e `vl-10`) e desligar o `pac_relaxation`. As duas correções devolvem o anúncio à análise
+- **Correção:** a UTM dos dois anúncios novos vinha com `utm_content=vl-05`. O Claude trocou os criativos pelo MCP (VL-08 `1710054940638041`, VL-10 `1475215714703215`), e os dois seguem ativos no ar com `vl-08` e `vl-10`. O `pac_relaxation` ficou ligado, por decisão do Guilherme
+- **Próximo passo:** leitura diária até o fim da captação, em 26/11
 
 ### 2026-11-23 · Vídeos e carrossel do Lucas, de 20 a 22/11
 - **O que:** baixados os 3 vídeos (20 e 21/11) e o carrossel de 7 imagens (22/11) do grupo. A ponte do WhatsApp devolvia 403 em toda mídia, porque cortava a autorização do link. Corrigida a função `extractDirectPathFromURL` em `~/ferramentas/whatsapp-mcp/whatsapp-bridge/main.go`, com o binário antigo em `whatsapp-bridge.bak-20261123`. Vídeos transcritos, convertidos de 4K HDR para 1080p e comprimidos abaixo de 10 MB
