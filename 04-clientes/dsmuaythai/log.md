@@ -9,7 +9,8 @@ A entrada mais recente fica no topo, uma por sessão de trabalho.
 ### 2026-11-24 · Feriados bloqueados no Calendly
 - **O que fiz:** com o OK do Guilherme, bloqueei pelo MCP do Calendly, no evento `Muay Thai Trial Classes – $29.99`, o Thanksgiving (26/11) e o recesso de 24/12 a 03/01, conforme o aviso do David de 24/11. Sexta e sábado já ficam fechados toda semana, então 27 e 28/11 não precisaram de bloqueio. Copiei as regras e os bloqueios antigos sem mudança.
 - **O que achei:** conferido na API, não há horário em 26/11 nem de 24/12 a 03/01; 23/12 e 04/01 seguem abertos. Efeito colateral: o evento deixou de seguir a agenda "Working hours" e passou a ter agenda própria, com as mesmas regras. Mudança futura em "Working hours" não chega mais a ele; ajuste de horário passa a ser no evento.
-- **Próximo passo:** o horário especial no Perfil da Empresa do Google é manual; o Guilherme tem acesso pelo Gerenciador de Perfis de empresas.
+- **Google:** o Guilherme cadastrou o horário especial no Perfil da Empresa em 24/11: fechado em 26 e 28/11 e de 24/12 a 03/01, e 27/11 só das 18:00 às 20:30. Conferi pelo print. Estava pendente de revisão do Google.
+- **Próximo passo:** nenhum.
 
 ### 2026-11-16 · IG-03 no ar na campanha de Tráfego
 - **O que fiz:** conferi na API o conjunto e o anúncio que o Guilherme publicou pelo Gerenciador. Atualizei a ficha do Tráfego, a fila de Reels e o kanban.

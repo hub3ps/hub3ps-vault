@@ -1,6 +1,7 @@
 ---
 title: "Horário especial de feriados no perfil do Google: fechado em 26 e 28/11 e de 24/12 a 03/01, 27/11 só às 18h"
-status: a-fazer
+status: feito
+completedDate: 2026-11-24
 cliente: dsmuaythai
 due: 2026-11-25
 tags:
