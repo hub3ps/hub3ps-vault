@@ -16,9 +16,9 @@ contatos: Lucas Oliveira (dono, decide e paga). Grupo do WhatsApp "Churrasco da 
 drive: TODO (Hub3Ps/Clientes/churrascodaelite/)
 painel: TODO (criar na semana de 16/11, Guilherme)
 repositorios: [agencia_marketing/clients/churrascodaelite]
-proxima-reuniao: TODO
+proxima-reuniao: 24/11/2026 à tarde, proposta pelo Guilherme no grupo em 23/11, 20h17, sem confirmação do Lucas até 24/11 de manhã
 lembrete: 2027-02-12 rediscutir setup e 10% (tarefa agendada `churrascodaelite-rediscutir-setup`)
-atualizado: 2026-11-19
+atualizado: 2026-11-24
 autor: claude
 ---
 # Churrasco da Elite

@@ -7,6 +7,7 @@ Uma linha por sessão de trabalho, a mais recente no topo.
 
 Formato: `- AAAA-MM-DD · <slug ou agencia> · <tarefa> · <onde está o resultado>`
 
+- 2026-11-24 · churrascodaelite · WhatsApp diário: 4 mensagens de 23/11 à noite registradas (Lucas pede os próximos passos no grupo, Guilherme propõe reunião em 24/11 à tarde), 1 tarefa nova · `04-clientes/churrascodaelite/fontes/2026-11-24-whatsapp-grupo.md`
 - 2026-11-23 · churrascodaelite · WhatsApp diário: 32 mensagens de 20 a 23/11 registradas (vídeos e carrossel novos do Lucas, pedido de reunião, pagamento travado, conversa sobre 2027), 3 áudios e 10 documentos sem conteúdo · `04-clientes/churrascodaelite/fontes/2026-11-23-whatsapp-grupo.md`
 - 2026-11-20 · hub3ps · Campanha de seguidores do @guimiguelmkt na conta 01 (`5427704790678832`) conferida e registrada, com os nomes no padrão para o Guilherme aplicar (a BM só lê esta conta); a da CONTA 03 marcada como substituída · `04-clientes/hub3ps/guimiguelmkt/campanhas/seguidores-frio-perfil-trafego-conta-01.md`
 - 2026-11-20 · marjorie · WhatsApp diário: 1 mensagem de 19/11 registrada (reel novo da Julia para os anúncios) e tarefa nova para encaixar o reel · `04-clientes/marjorie/fontes/2026-11-20-whatsapp-grupo.md`

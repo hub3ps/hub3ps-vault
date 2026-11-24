@@ -12,6 +12,14 @@ Formato:
 - **Decisões:** 
 - **Próximo passo:** 
 
+### 2026-11-24 · Grupo de 23/11 à noite, pela rotina
+- **O que:** a rotina WhatsApp diário registrou as 4 mensagens de 23/11, 18h24 a 20h17
+- **Resultado em:** `fontes/2026-11-24-whatsapp-grupo.md`
+- **Do Lucas:** "Depois me explica os próximos passo que tenho de fazer no grupo" (23/11, 18h24). Não diz se é o grupo da Black Week ou este
+- **Reunião:** o Guilherme propôs "amanhã no período da tarde", ou seja, 24/11 à tarde (23/11, 20h17). Até a coleta o Lucas não confirmou
+- **Decisões:** nenhuma nova no grupo
+- **Próximo passo:** o Lucas confirmar a reunião de 24/11 à tarde; o Guilherme explicar a ele os próximos passos no grupo, de preferência na reunião
+
 ### 2026-11-23 · Vídeos e carrossel do Lucas, de 20 a 22/11
 - **O que:** baixados os 3 vídeos (20 e 21/11) e o carrossel de 7 imagens (22/11) do grupo. A ponte do WhatsApp devolvia 403 em toda mídia, porque cortava a autorização do link. Corrigida a função `extractDirectPathFromURL` em `~/ferramentas/whatsapp-mcp/whatsapp-bridge/main.go`, com o binário antigo em `whatsapp-bridge.bak-20261123`. Vídeos transcritos, convertidos de 4K HDR para 1080p e comprimidos abaixo de 10 MB
 - **Resultado em:** [[entregas/2026-11-23-videos-do-lucas]] e na pasta do Drive `Criativos · Captação lista Black`, com os tamanhos conferidos byte a byte
