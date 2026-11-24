@@ -6,6 +6,10 @@ autor: claude
 
 A entrada mais recente fica no topo, uma por sessão de trabalho.
 
+### 2026-11-24 · Tela de ativar a Jú no onboarding proposto
+- **Decisões (Guilherme, 24/11):** pedir o WhatsApp logo depois da importação, para ativar a Jú. Quem não importa fica sem o pedido por enquanto. A promessa da tela (só avisos, ou também perguntas sobre os processos) se decide na reunião de hoje. O número é só para a Jú; o comercial usa outro.
+- **O que fiz:** a sequência do onboarding proposto ganhou a tela 4, "Ative a Jú no seu WhatsApp", entre a importação em andamento e o Meu Dia; o e-mail de aviso fica para quem responder "Agora não". A proposta 4 virou "Ativar a Jú no WhatsApp logo depois da importação". Publicado no commit 98abcca, conferido no ar.
+
 ### 2026-11-24 · Telas do onboarding no cartão da proposta
 - **O que fiz:** a proposta 1 (onboarding mais curto) passou a mostrar a imagem das cinco telas propostas, com link para `/propostas/onboarding`, e a linha dela na Visão geral ganhou "Ver as telas". Publicado no commit b70913a, conferido no ar.
 
