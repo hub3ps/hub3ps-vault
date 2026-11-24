@@ -6,6 +6,12 @@ autor: claude
 
 A entrada mais recente fica no topo, uma por sessão de trabalho.
 
+### 2026-11-23 · Hub com visual claro e Visão geral nova
+- **Decisões (Guilherme, 23/11):** redesenhar o hub do zero, num estilo mais limpo e próximo da Apple, com menos informação por tela e um título que só descreve o conteúdo. Deixar a versão anterior guardada para voltar se preciso.
+- **O que fiz:** o hub passou a ter Visão geral, Funil, Testes, Propostas e Materiais. A Visão geral traz as quatro perguntas (atrai, importa, volta, contrata), o funil resumido, a semana, o retorno depois de importar, as 5 primeiras propostas e os testes mais recentes, com o responsável de cada item (Hub3Ps, Mobiletec ou Compartilhado). Nenhum conteúdo saiu: Funil com as três páginas, Testes com conclusões, método e registro, Propostas com as abas por área, Materiais com todos os links. Os endereços antigos seguem valendo. O modelo anterior ficou em `hub/versao-anterior/`, e `gerar-hub.py --versao-anterior` volta a ele. Publicado no commit 1f5ff66, conferido no ar.
+- **O que achei:** os textos da Visão geral (perguntas, frase da semana, retorno) são escritos à mão no bloco `visao` de `mudancas.json` e precisam ser revistos a cada exportação, como as conclusões. Está no runbook do hub.
+- **Próximo passo:** reunião de 24/11. As páginas separadas (`/performance`, `/anuncios`, `/instagram`) seguem no visual antigo e podem ser redesenhadas depois.
+
 ### 2026-11-23 · Onboarding proposto e Google Search no topo das propostas
 - **Decisões (Guilherme, 23/11):** o onboarding mais curto e o teste no Google vão para o topo das propostas e para a reunião de 24/11.
 - **O que fiz:** a proposta 1 virou "Onboarding mais curto, com importação acompanhada", juntando a tela do escritório, a importação e o aviso de importação concluída (a proposta da importação automática saiu). Entrou "Testar o Google Search com a verba do vídeo" em 2º, e o evento de importação subiu para 3º. Montei as telas em `clients/juria/lps/propostas/onboarding/` (Sobre o escritório, OAB que busca e importa, importação em andamento, Meu Dia e o e-mail de aviso) e linkei em Materiais. Pauta com a ordem nova e a imagem das telas.
