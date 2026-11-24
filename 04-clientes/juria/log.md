@@ -6,6 +6,9 @@ autor: claude
 
 A entrada mais recente fica no topo, uma por sessão de trabalho.
 
+### 2026-11-24 · Telas do onboarding no cartão da proposta
+- **O que fiz:** a proposta 1 (onboarding mais curto) passou a mostrar a imagem das cinco telas propostas, com link para `/propostas/onboarding`, e a linha dela na Visão geral ganhou "Ver as telas". Publicado no commit b70913a, conferido no ar.
+
 ### 2026-11-23 · Hub com visual claro e Visão geral nova
 - **Decisões (Guilherme, 23/11):** redesenhar o hub do zero, num estilo mais limpo e próximo da Apple, com menos informação por tela e um título que só descreve o conteúdo. Deixar a versão anterior guardada para voltar se preciso.
 - **O que fiz:** o hub passou a ter Visão geral, Funil, Testes, Propostas e Materiais. A Visão geral traz as quatro perguntas (atrai, importa, volta, contrata), o funil resumido, a semana, o retorno depois de importar, as 5 primeiras propostas e os testes mais recentes, com o responsável de cada item (Hub3Ps, Mobiletec ou Compartilhado). Nenhum conteúdo saiu: Funil com as três páginas, Testes com conclusões, método e registro, Propostas com as abas por área, Materiais com todos os links. Os endereços antigos seguem valendo. O modelo anterior ficou em `hub/versao-anterior/`, e `gerar-hub.py --versao-anterior` volta a ele. Publicado no commit 1f5ff66, conferido no ar.
