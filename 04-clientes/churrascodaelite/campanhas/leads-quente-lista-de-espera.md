@@ -69,6 +69,8 @@ Para entrar aos poucos, no lugar do pior ou em conjunto novo: VL-02 (armazém), 
 
 **Como subir vídeo pela API:** a Meta só aceita link público. Em 18/11, os vídeos e as capas ficaram alguns minutos em `curso.churrascodaelite.pt/_midia/`, no deploy da LP, e saíram depois do upload.
 
+**Na biblioteca da CA01 desde 24/11** (subidos pelo Claude, em 1080p, para o Guilherme testar num conjunto novo): VL-08 `1161052599635665` e VL-10 `1831555067965915`. Subiram pela Marketing API direto, depois que o Guilherme deu acesso de gravação ao token.
+
 ## Riscos
 - VL-07 e VL-05 falam em ganhar 1.500 € por mês. A Meta pode reprovar. Se reprovar, há corte sem a promessa (tempos na análise dos vídeos)
 - Vídeos em 576x1024, compressão do WhatsApp
