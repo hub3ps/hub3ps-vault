@@ -6,6 +6,13 @@ autor: claude
 
 A entrada mais recente fica no topo, uma por sessão de trabalho.
 
+### 2026-11-24 · Conferência das campanhas e calendário da semana
+- **O que fiz:** li na API os números de 23 e 24/11 (24 ainda aberto) das duas campanhas no ar.
+- **O que achei:**
+  - [[leads-quente-lista-de-espera]]: 43 Leads por US$ 7,65 (VID-02 com 27 a US$ 0,18, VID-01 com 16 a US$ 0,18). Frequência de 1,8 a 1,9. Sem benchmark da Meta para o conjunto
+  - [[seguidores-frio-perfil]]: o IG-12 segue melhor na visita ao perfil (US$ 0,15 contra US$ 0,52 do IG-24). O IG-24 caiu 65% no CTR na tendência da Meta. Seguidores por conjunto só aparecem no Gerenciador
+- **Próximo passo:** hoje, ler os seguidores por conjunto no Gerenciador para fechar a rodada 5 (o #31 é o próximo) e subir o carrinho, que depende do link de destino. A campanha de lead termina sozinha em 26/11 e o carrinho roda de 27 a 30/11.
+
 ### 2026-11-23 · Campanha de lead aprovada e no ar
 - **O que fiz:** conferi na API o ajuste do Guilherme na [[leads-quente-lista-de-espera]].
 - **O que achei:** término em 27/11, 00h00 (Pacífico), todas as localizações e os dois anúncios aprovados. Seguem o botão "Candidatar-se" nos dois e o `pac_relaxation` no VID-02.
