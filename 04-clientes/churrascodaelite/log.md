@@ -20,6 +20,12 @@ Formato:
 - **Decisões:** nenhuma nova no grupo
 - **Próximo passo:** o Lucas confirmar a reunião de 24/11 à tarde; o Guilherme explicar a ele os próximos passos no grupo, de preferência na reunião
 
+### 2026-11-24 · VL-08 e VL-10 na biblioteca e no ar
+- **O que:** o Claude subiu VL-08 e VL-10 em 1080p na biblioteca da CA01, pela Marketing API, depois que o Guilherme deu ao token acesso de gravação na conta. O Guilherme montou à mão um conjunto e um anúncio para cada vídeo, na campanha da lista, e o Claude conferiu tudo pela API
+- **Resultado em:** [[campanhas/leads-quente-lista-de-espera]], na tabela de IDs e no histórico
+- **Decisões:** 6 € por dia em cada conjunto novo, e a campanha passa a 28 € por dia até 26/11 (Guilherme)
+- **Próximo passo:** corrigir a UTM dos dois anúncios novos (`utm_content=vl-05` para `vl-08` e `vl-10`) e desligar o `pac_relaxation`. As duas correções devolvem o anúncio à análise
+
 ### 2026-11-23 · Vídeos e carrossel do Lucas, de 20 a 22/11
 - **O que:** baixados os 3 vídeos (20 e 21/11) e o carrossel de 7 imagens (22/11) do grupo. A ponte do WhatsApp devolvia 403 em toda mídia, porque cortava a autorização do link. Corrigida a função `extractDirectPathFromURL` em `~/ferramentas/whatsapp-mcp/whatsapp-bridge/main.go`, com o binário antigo em `whatsapp-bridge.bak-20261123`. Vídeos transcritos, convertidos de 4K HDR para 1080p e comprimidos abaixo de 10 MB
 - **Resultado em:** [[entregas/2026-11-23-videos-do-lucas]] e na pasta do Drive `Criativos · Captação lista Black`, com os tamanhos conferidos byte a byte

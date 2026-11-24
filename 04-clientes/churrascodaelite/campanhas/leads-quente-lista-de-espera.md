@@ -4,13 +4,13 @@ cliente: churrascodaelite
 nome-campanha: Leads | Quente | Lista de espera
 plataforma: meta
 id-campanha: "120250684802260559"
-status: no ar desde 18/11, anúncios em análise
+status: no ar desde 18/11, 4 conjuntos desde 24/11
 inicio: 2026-11-18
 fim: 2026-11-26
-verba-diaria: 16
+verba-diaria: 28
 evento-otimizacao: Lead (Pixel 333549951080063)
 lp: https://curso.churrascodaelite.pt
-atualizado: 2026-11-18
+atualizado: 2026-11-24
 autor: claude
 ---
 # Leads | Quente | Lista de espera
@@ -24,6 +24,10 @@ Montada pelo Claude pelo MCP em rascunho, corrigida e publicada à mão pelo Gui
 |---|---|---|---|---|---|
 | `Engajou IG 365d e seguidores \| Portugal \| Lead \| VL-07` | `120250684808600559` | `VL-07 \| Vídeo \| Cansado da obra` | `120250684833720559` | `1852552182752556` (era `2194781391249059` até a troca do botão) | Candidatar-se (`APPLY_NOW`) |
 | `Engajou IG 365d e seguidores \| Portugal \| Lead \| VL-05` | `120250684809190559` | `VL-05 \| Vídeo \| Profissão lucrativa` | `120250684838900559` | `1004237632735235` | Candidatar-se (`APPLY_NOW`) |
+| `Engajou IG 365d e seguidores \| Portugal \| Lead \| VL-08` | `120250788300100559` | `VL-08 \| Vídeo \| Apaixonado à noite` | `120250788300110559` | `1188137323556329` (vídeo `1161052599635665`) | Candidatar-se (`APPLY_NOW`) |
+| `Engajou IG 365d e seguidores \| Portugal \| Lead \| VL-10` | `120250788325080559` | `VL-10 \| Vídeo \| Chuva em Lisboa` | `120250788325090559` | `4506124256304955` (vídeo `1831555067965915`) | Candidatar-se (`APPLY_NOW`) |
+
+VL-08 e VL-10 entraram em 24/11, por volta das 19h28 UTC, montados à mão pelo Guilherme no Ads Manager. Cada um tem conjunto próprio, a 6 € por dia, com o mesmo público, o fim em 26/11 às 23h59 e as mesmas 5 variações de texto. A verba da campanha passou a 28 € por dia (VL-07 a 10 €; VL-05, VL-08 e VL-10 a 6 €).
 
 Ads Manager: [campanha](https://adsmanager.facebook.com/adsmanager/manage/adsets?act=1295259920836612&selected_campaign_ids=120250684802260559)
 
@@ -77,6 +81,7 @@ Para entrar aos poucos, no lugar do pior ou em conjunto novo: VL-02 (armazém), 
 - O Pixel só tinha o `Lead` do teste de 18/11 antes desta campanha
 
 ## Histórico de otimizações
+- 2026-11-24 · VL-08 e VL-10 no ar, em conjuntos novos a 6 € (Guilherme), conferidos na API: ativos, com público, Pixel, fim, link e expansão iguais aos dos outros. A conferir: a UTM dos dois diz `utm_content=vl-05`, copiada do VL-05, então a planilha vai registrar as inscrições deles como VL-05; e o aprimoramento `pac_relaxation` está ligado, fora da regra, ao lado do `image_animation` e do `standard_enhancements`, que já estavam nos outros
 - 2026-11-23 · verba invertida pelo MCP a pedido do Guilherme: VL-07 de 6 € para 10 € e VL-05 de 10 € para 6 €, conferido no ar. O VL-05 tinha subido em 20/11, quando era o mais barato
 - 2026-11-23 · leitura de 18 a 22/11: 21 leads a 2,58 € (VL-07 12 a 1,97 €, VL-05 9 a 3,40 €). VL-05 está a 10 € por dia e VL-07 a 6 € (mudança de 20/11). Entrega parada de 22/11, 16h, até o pagamento do Lucas em 23/11, 10h25 UTC (cartão)
 - 2026-11-18 · botão do VL-07 trocado para "Candidatar-se" pelo Guilherme; VL-05 aprovado e ativo, VL-07 de novo em análise
