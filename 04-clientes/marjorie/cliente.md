@@ -60,7 +60,7 @@ Fechado em 02/11/2026. Antes, em 19 e 20/10, o acordo era fazer a LP e refazer o
 ## Acessos
 Nunca guarde senha aqui.
 
-- **Meta:** BM `767068190599024` ("Prisma ▵ Dental CAD Studio") e conta de anúncios `2540479789760330` ("ACCOUNT 01"), em USD, com cartão e liberada no MCP. Nenhuma campanha em 04/11. Convite da BM para `guilherme@hub3ps.com`. **Gotchas (12/11):** o MCP pausa e lê, mas recusa criar conjunto com a otimização `PROFILE_AND_PAGE_ENGAGEMENT` da campanha de seguidores (só oferece clique no link), então conjunto novo se duplica à mão no Gerenciador. O token da BM Hub3Ps em `credenciais.local.md` não alcança esta conta, que fica na BM da Marjorie
+- **Meta:** BM `767068190599024` ("Prisma ▵ Dental CAD Studio") e conta de anúncios `2540479789760330` ("ACCOUNT 01"), em USD, com cartão e liberada no MCP. Nenhuma campanha em 04/11. Convite da BM para `guilherme@hub3ps.com`. **Gotchas (12/11):** o MCP pausa e lê. Em 12/11 recusou criar conjunto com a otimização `PROFILE_AND_PAGE_ENGAGEMENT` da campanha de seguidores, mas em 25/11 aceitou, copiando o conjunto com `source_adset_id` e com a Página no `promoted_object` (ainda falta confirmar a publicação). O token da BM Hub3Ps em `credenciais.local.md` não alcança esta conta, que fica na BM da Marjorie
 - **Instagram:** @marjoriedentalcad (`17841401629187998`), Página `313272035194741`. Aparece nas contas de IG da conta de anúncios, mas a Página não aparece vinculada a ela (API, 04/11)
 - **Domínio:** na Hostinger. O site antigo está no Wix, com o Google Workspace comprado pelo Wix
 - **Site e LP novos:** feitos pela Julia e publicados por ela na Vercel. TODO: confirmar onde e com que conta
