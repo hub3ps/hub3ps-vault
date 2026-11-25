@@ -7,6 +7,9 @@ Uma linha por sessão de trabalho, a mais recente no topo.
 
 Formato: `- AAAA-MM-DD · <slug ou agencia> · <tarefa> · <onde está o resultado>`
 
+- 2026-11-25 · marjorie · WhatsApp diário: 7 mensagens de 24/11 registradas (Julia: 446 inscrições na lista, 35 em 23/11 e 18 em 24/11; Guilherme promete resumo dos anúncios e carrinho para hoje), 1 tarefa nova · `04-clientes/marjorie/fontes/2026-11-25-whatsapp-grupo.md`
+- 2026-11-25 · churrascodaelite · WhatsApp diário: 10 mensagens de 24 e 25/11 registradas (reunião de 24/11 sem horário; Lucas disponível para ligação hoje), tarefa da reunião passa ao Guilherme com prazo 25/11 · `04-clientes/churrascodaelite/fontes/2026-11-25-whatsapp-grupo.md`
+- 2026-11-25 · agencia · WhatsApp diário: transcrição de áudio quebrou por incompatibilidade entre faster-whisper 1.2.1 e av 19.0.2 (`metadata_errors`); coleta rodada com ajuste em memória, script sem mudança · `~/ferramentas/whatsapp-mcp/rotina/coletar.py`
 - 2026-11-24 · churrascodaelite · WhatsApp diário: 4 mensagens de 23/11 à noite registradas (Lucas pede os próximos passos no grupo, Guilherme propõe reunião em 24/11 à tarde), 1 tarefa nova · `04-clientes/churrascodaelite/fontes/2026-11-24-whatsapp-grupo.md`
 - 2026-11-23 · churrascodaelite · WhatsApp diário: 32 mensagens de 20 a 23/11 registradas (vídeos e carrossel novos do Lucas, pedido de reunião, pagamento travado, conversa sobre 2027), 3 áudios e 10 documentos sem conteúdo · `04-clientes/churrascodaelite/fontes/2026-11-23-whatsapp-grupo.md`
 - 2026-11-20 · hub3ps · Campanha de seguidores do @guimiguelmkt na conta 01 (`5427704790678832`) conferida e registrada, com os nomes no padrão para o Guilherme aplicar (a BM só lê esta conta); a da CONTA 03 marcada como substituída · `04-clientes/hub3ps/guimiguelmkt/campanhas/seguidores-frio-perfil-trafego-conta-01.md`

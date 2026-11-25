@@ -12,6 +12,13 @@ Formato:
 - **Decisões:** 
 - **Próximo passo:** 
 
+### 2026-11-25 · Grupo de 24 e 25/11, pela rotina
+- **O que:** a rotina WhatsApp diário registrou as 10 mensagens de 24/11, 09h05, a 25/11, 08h23, com um áudio do Lucas transcrito
+- **Resultado em:** `fontes/2026-11-25-whatsapp-grupo.md`
+- **Reunião:** o Guilherme perguntou se o Lucas tinha tempo em 24/11 (09h06). O Lucas disse que sim às 11h55, e o Guilherme perguntou o horário às 12h30, sem resposta no grupo em 24/11. Não há registro de que a conversa aconteceu. Em 25/11, 08h22, o Lucas disse em áudio que está online hoje e que é só ligar a hora que o Guilherme quiser. O Guilherme respondeu "Beleza!!!" às 08h23
+- **Decisões:** nenhuma nova no grupo
+- **Próximo passo:** o Guilherme liga para o Lucas hoje, 25/11. Pauta em aberto: os próximos passos do Lucas no grupo (pedido de 23/11) e a Black, que começa em 27/11
+
 ### 2026-11-24 · Grupo de 23/11 à noite, pela rotina
 - **O que:** a rotina WhatsApp diário registrou as 4 mensagens de 23/11, 18h24 a 20h17
 - **Resultado em:** `fontes/2026-11-24-whatsapp-grupo.md`

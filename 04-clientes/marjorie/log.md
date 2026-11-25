@@ -6,6 +6,15 @@ autor: claude
 
 A entrada mais recente fica no topo, uma por sessão de trabalho.
 
+### 2026-11-25 · Grupo de 24/11, pela rotina
+- **O que fiz:** a rotina WhatsApp diário registrou as 7 mensagens de 24/11, de 16h33 a 20h33.
+- **Resultado em:** `fontes/2026-11-25-whatsapp-grupo.md`
+- **O que achei:**
+  - O Guilherme pediu à Julia o número de leads de ontem e de hoje (24/11, 16h34). A Julia respondeu: 35 em 23/11, 18 em 24/11 até as 17h58, e 446 no total desde o primeiro dia (24/11, 17h58). É a contagem dela, não o número da API.
+  - O Guilherme prometeu para hoje, 25/11, um resumo de todos os anúncios e a organização da abertura do carrinho de sexta, 27/11 (24/11, 19h14). A Julia respondeu "fechouuu" (20h33).
+- **Decisões:** nenhuma nova.
+- **Próximo passo:** hoje, montar o resumo dos anúncios para o Guilherme mandar ao grupo e fechar com as clientes o carrinho de 27/11, que ainda depende do link de destino.
+
 ### 2026-11-24 · Conferência das campanhas e calendário da semana
 - **O que fiz:** li na API os números de 23 e 24/11 (24 ainda aberto) das duas campanhas no ar.
 - **O que achei:**
