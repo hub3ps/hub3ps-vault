@@ -1,7 +1,7 @@
 ---
 tipo: conteudo
 cliente: hub3ps
-atualizado: 2026-11-17
+atualizado: 2026-11-25
 autor: claude
 ---
 # Perfis de referência do @guimiguelmkt
@@ -16,6 +16,7 @@ Os números e os posts foram vistos em 17/11/2026. Para criar, olhe o perfil de 
 | [@pedroaaugustto](https://www.instagram.com/pedroaaugustto/) | Pedro Neri, nutricionista, treino e rotina | 277 mil |
 | [@odevtemplario](https://www.instagram.com/odevtemplario/) | Dev contratado nos EUA, remoto, mora numa chácara | 29,6 mil |
 | [@ssabriel_](https://www.instagram.com/ssabriel_/) | Sabriel, 23 anos, empreendedor e universitário de Computação | 22 mil |
+| [@adalalibera](https://www.instagram.com/adalalibera/) | Lia Dalalibera, agência de design e vendas (entrou em 25/11) | 17,3 mil |
 
 ## O que eles têm em comum
 É isto que se copia:
@@ -52,6 +53,13 @@ Os números e os posts foram vistos em 17/11/2026. Para criar, olhe o perfil de 
 - **Formato:** carrossel com uma palavra ou frase em fonte serifada pequena ("O começo.", "Meu maior medo", "Quanto tempo?")
 - **Estética:** escura, com grão, luz baixa e fotos de caderno, monitor e espelho. É a mais "filme" das quatro
 - **Para o Guilherme:** referência visual de capa e carrossel. A frase curta em serifa sobre foto escura cabe no perfil dele
+
+### @adalalibera · série de opinião sobre um tema só
+Entrou em 25/11/2026, a pedido do Guilherme: "ela pega um único assunto bem específico e cria vários conteúdos de opinião sobre ele".
+- **Série:** 2 a 3 Reels por dia, vários seguidos no mesmo tema. Em 21 e 22/11 foram 3 sobre a CTA "já me segue aí"; em 21/11, 2 sobre mandar só "oi, tudo bem?"
+- **Formato:** selfie, fala solta de conversa ("cara, a cta do..."), legenda da fala grande na tela em minúsculo, uns 50 s. Cenário de casa ou escritório, sem produção
+- **Legenda do post:** a frase da opinião, uma linha ("Um vídeo bom pode anular 20 vídeos ruins.")
+- **Para o Guilherme:** escolher um tema estreito (IA contra gestor, impulsionar post) e gravar 4 ou 5 opiniões de uma vez, para soltar ao longo da semana
 
 ## Como usar
 - **Roteiro e pauta:** procure primeiro um formato daqui (POV, rotina, build in public, progressão) e só depois o assunto
