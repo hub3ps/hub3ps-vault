@@ -4,13 +4,13 @@ cliente: marjorie
 nome-campanha: Leads | Quente | Lista de espera
 plataforma: meta
 id-campanha: "120251146900880554"
-status: ativa
+status: pausada
 inicio: 2026-11-23
-fim: 2026-11-26
+fim: 2026-11-25
 verba-diaria: 5
 evento-otimizacao: LEAD
 lp: https://www.marjoriedentalcad.com/zero-to-hero
-atualizado: 2026-11-23
+atualizado: 2026-11-25
 autor: claude
 ---
 # Leads | Quente | Lista de espera
@@ -89,4 +89,4 @@ Descrição: Opens November 27. Join the waitlist.
 - 2026-11-23 · ajuste do Guilherme no Gerenciador, conferido na API · término em 27/11, 00h00 (Pacífico), ou seja, roda até o fim de 26/11; local "Todas as localizações", que a API mostra como conjunto sem país; os dois anúncios aprovados (`ACTIVE`, em preparação para entrega)
   - o `image_animation` aparece na configuração do criativo pela API, mas o Guilherme confirmou que está desligado no Gerenciador. Num anúncio de vídeo ele não tem efeito
   - ficaram como estão: o botão "Candidatar-se" (`APPLY_NOW`) nos dois e o `pac_relaxation` no VID-02
-
+- 2026-11-25 · campanha pausada pelo MCP, a pedido do Guilherme, um dia antes do término programado · pausa conferida na API (`PAUSED`). Resultado de 23 a 25/11, com o dia 25 ainda aberto: 71 Leads com US$ 12,73, US$ 0,18 por Lead. VID-02 com 45 a US$ 0,17 e VID-01 com 26 a US$ 0,19. Frequência de 2,2 a 2,3
