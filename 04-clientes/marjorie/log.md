@@ -6,9 +6,10 @@ autor: claude
 
 A entrada mais recente fica no topo, uma por sessão de trabalho.
 
-### 2026-11-25 · Conjunto do IG-31 criado pelo MCP, em rascunho
+### 2026-11-25 · Conjunto do IG-20 criado pelo MCP, em rascunho
 - **O que fiz:** a pedido do Guilherme, criei pelo MCP o conjunto e o anúncio do #31 na [[seguidores-frio-perfil]], copiando o conjunto do IG-12. Os dois estão validados sem erro, em rascunho.
 - **O que achei:** o MCP agora aceita criar conjunto com `PROFILE_AND_PAGE_ENGAGEMENT` nesta conta, passando a Página no `promoted_object`. Em 12/11 ele recusava. O anúncio pede o link do perfil do IG, que entrou no rascunho.
+- **Decisões:** vídeo que explica o curso ou a comunidade não entra na captação de seguidores, então o #31 saiu do rascunho e entrou o #20, a Calculadora, com a automação do "Calculator" funcionando (Guilherme).
 - **Próximo passo:** com o ok do Guilherme, publicar pelo MCP, conferir na API e pausar o IG-24.
 
 ### 2026-11-25 · Campanha de lead pausada e resumo dos anúncios para o grupo
