@@ -16,3 +16,5 @@ A Julia mandou no grupo, em 19/11 às 17h09: "Mais um conteúdo pra adicionar no
 - Antes de subir, conferir na API se o post é anunciável (o #18 e o #19 não eram, por causa da música)
 
 23/11: o Guilherme decidiu que vai para a captação de seguidores. Entrou na lista de posts como #31 e é o próximo da fila. Anunciável na API.
+
+25/11: o Guilherme tirou o #31 da captação de seguidores, porque apresenta a comunidade e vídeo do curso não entra nessa campanha. No lugar entrou o #20, a Calculadora (IG-20).

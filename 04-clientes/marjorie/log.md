@@ -6,6 +6,16 @@ autor: claude
 
 A entrada mais recente fica no topo, uma por sessão de trabalho.
 
+### 2026-11-25 · Resumo enviado ao grupo
+- **O que fiz:** com o ok do Guilherme, enviei no grupo "CURSO EXOCAD 🚀🇧🇷" o resumo com os totais de vida dos anúncios: seguidores (IG-12 com 96 a US$ 0,71, IG-24 pausado com 29 a US$ 1,19, IG-20 no ar para teste, campanha com 209 a US$ 0,93) e lista de espera (71 inscrições com US$ 12,74, campanha já desativada), mais o aviso do carrinho de 27/11 na mesma página. O `send_message` do MCP deu "connection reset", e o envio saiu por POST direto na ponte, que confirmou a entrega.
+- **Decisões:** o Guilherme tirou do texto o público "comprou o curso antigo" da lista de espera. O carrinho sobe amanhã, 26/11, programado para 27/11.
+- **Próximo passo:** 26/11, subir a campanha do carrinho. 28/11, revisar a rodada 6 de seguidores (tarefa criada).
+
+### 2026-11-25 · IG-20 publicado e IG-24 pausado
+- **O que fiz:** com o ok do Guilherme, publiquei o IG-20 pelo MCP e pausei o conjunto do IG-24. Conferi tudo na API. Refiz o resumo do grupo com os totais de vida de cada anúncio, a pedido do Guilherme.
+- **O que achei:** a publicação pelo MCP funcionou nesta conta, então conjunto novo da [[seguidores-frio-perfil]] não precisa mais ser duplicado à mão. Totais: IG-12 com 96 seguidores a US$ 0,71, IG-24 com 29 a US$ 1,19, e a campanha com 209 a US$ 0,93. Os dois vídeos da [[leads-quente-lista-de-espera]] também trouxeram 31 seguidores.
+- **Próximo passo:** enviar o resumo no grupo depois do ok do Guilherme e acompanhar a análise do IG-20.
+
 ### 2026-11-25 · Conjunto do IG-20 criado pelo MCP, em rascunho
 - **O que fiz:** a pedido do Guilherme, criei pelo MCP o conjunto e o anúncio do #31 na [[seguidores-frio-perfil]], copiando o conjunto do IG-12. Os dois estão validados sem erro, em rascunho.
 - **O que achei:** o MCP agora aceita criar conjunto com `PROFILE_AND_PAGE_ENGAGEMENT` nesta conta, passando a Página no `promoted_object`. Em 12/11 ele recusava. O anúncio pede o link do perfil do IG, que entrou no rascunho.
