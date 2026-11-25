@@ -11,8 +11,8 @@ A entrada mais recente fica no topo, uma por sessão de trabalho.
 - **O que achei:**
   - Lead, de 23 a 25/11 (dia 25 aberto): 71 Leads com US$ 12,73, US$ 0,18 por Lead. VID-02 com 45 a US$ 0,17 e VID-01 com 26 a US$ 0,19
   - [[seguidores-frio-perfil]], de 19 a 25/11 (dia 25 aberto): IG-12 com 32 seguidores por US$ 33,06 (US$ 1,03 cada) e IG-24 com 29 por US$ 34,57 (US$ 1,19 cada). Custo por seguidor é conta nossa
-- **Decisões:** campanha de lead encerrada em 25/11, um dia antes do previsto (Guilherme).
-- **Próximo passo:** enviar o resumo no grupo depois do ok do Guilherme. Decidir a rodada 5 de seguidores e o link de destino do carrinho de 27/11.
+- **Decisões:** campanha de lead encerrada em 25/11, um dia antes do previsto, e o carrinho de 27/11 leva para a mesma página da lista de espera, `/zero-to-hero` (Guilherme).
+- **Próximo passo:** enviar o resumo no grupo depois do ok do Guilherme, decidir a rodada 5 de seguidores e montar a campanha do carrinho.
 
 ### 2026-11-25 · Grupo de 24/11, pela rotina
 - **O que fiz:** a rotina WhatsApp diário registrou as 7 mensagens de 24/11, de 16h33 a 20h33.

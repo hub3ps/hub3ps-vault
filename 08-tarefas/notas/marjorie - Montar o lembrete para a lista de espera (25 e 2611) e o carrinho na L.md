@@ -18,3 +18,5 @@ id: c1f77708-9768-47e1-a911-15645180a100
 - Otimização: visualização da página de destino, pela estratégia
 - Falta: o link de destino do carrinho. Ainda não se sabe se `/zero-to-hero` vira a página de vendas em 27/11 ou se o checkout da Circle tem outro link
 
+
+- 25/11: link de destino definido pelo Guilherme: a mesma página da lista de espera, `www.marjoriedentalcad.com/zero-to-hero`.
