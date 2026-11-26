@@ -2,7 +2,7 @@
 tipo: processo
 status: rascunho
 versao: v0
-atualizado: 2026-11-12
+atualizado: 2026-11-26
 autor: claude
 ---
 # Editar vídeo falado (Reels do @guimiguelmkt)
@@ -22,6 +22,15 @@ O Claude edita o vídeo bruto gravado no iPhone: corta enrolação, repetição 
 6. **Teste:** `editar.py render projetos/<id> --teste 8`. Olhar os quadros: legenda e selos no lugar, sem cobrir o rosto
 7. **Render:** `editar.py render projetos/<id>`. Leva uns 4 min para 1 min 40 s de vídeo
 8. **Conferir o áudio:** `editar.py conferir projetos/<id>` retranscreve o vídeo pronto. Palavra cortada ou estranha ("mectores", "se defaça") é emenda suja: ajustar o trecho e renderizar de novo
+
+## Legenda no formato do Edits (26/11/2026)
+O formato dos Reels já postados (IG-04, IG-06, IG-07). No `projeto.json`: `"legenda": "progressiva"`; estilo em `legenda_progressiva` do `estilo.json`.
+- Minúscula, sem pontuação e sem borda, com sombra leve. Avenir Next Bold 44, centro em y 1560 de 1920, no peito, longe da boca
+- A frase se monta palavra a palavra, e cada palavra entra direto, branca. O Guilherme recusou a versão em que a palavra entrava apagada e acendia (parecia borrada) e a de letra 52 em y 1450 (grande e perto da boca)
+- **Título no começo** (`"titulo": {"linhas": [...], "ate": 3}`): Avenir Next Bold 66, mesma altura, e a legenda só entra depois dele. Como o do IG-04
+- **Sem corte:** `"corte": {"respiro": 99, "folga_antes": 0.3, "folga_depois": 0.8}` mantém o vídeo inteiro e só tira o silêncio das pontas
+- Vídeo 4K do iPhone é reduzido para 1080 de largura no render
+- Publicar e agendar: [[03-processos/publicar-instagram]]
 
 ## Regras de corte (v0)
 - **Sai:** falso início, frase recomeçada (fica a última versão), repetição da mesma ideia, lista que se alonga sem informação nova, "tá?" no fim de frase, CTA repetido (fica o mais completo)

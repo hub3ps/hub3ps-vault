@@ -7,6 +7,7 @@ Uma linha por sessão de trabalho, a mais recente no topo.
 
 Formato: `- AAAA-MM-DD · <slug ou agencia> · <tarefa> · <onde está o resultado>`
 
+- 2026-11-26 · agencia · Reorganização: organograma do Miro na versão 5 (TaskNotes, sessão por cliente, Drive real, estado das rotinas e do cliente 0); pastas 0, 13, 14 e 15 criadas em `1. CLIENTES ATIVOS` do Drive e o link de cada cliente no `drive:`; caminho do Drive corrigido no CLAUDE.md, no stack e no novo-cliente; documentos pessoais do Downloads movidos para `~/Documents/Pessoal/`, fora do Drive · Miro, `04-clientes/*/cliente.md`, `00-sistema/contexto-reestruturacao.md` seção 8
 - 2026-11-25 · marjorie · WhatsApp diário: 7 mensagens de 24/11 registradas (Julia: 446 inscrições na lista, 35 em 23/11 e 18 em 24/11; Guilherme promete resumo dos anúncios e carrinho para hoje), 1 tarefa nova · `04-clientes/marjorie/fontes/2026-11-25-whatsapp-grupo.md`
 - 2026-11-25 · churrascodaelite · WhatsApp diário: 10 mensagens de 24 e 25/11 registradas (reunião de 24/11 sem horário; Lucas disponível para ligação hoje), tarefa da reunião passa ao Guilherme com prazo 25/11 · `04-clientes/churrascodaelite/fontes/2026-11-25-whatsapp-grupo.md`
 - 2026-11-25 · agencia · WhatsApp diário: transcrição de áudio quebrou por incompatibilidade entre faster-whisper 1.2.1 e av 19.0.2 (`metadata_errors`); coleta rodada com ajuste em memória, script sem mudança · `~/ferramentas/whatsapp-mcp/rotina/coletar.py`

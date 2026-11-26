@@ -202,8 +202,9 @@ Levantado comparando o vault, o `agencia_marketing`, as rotinas e o organograma 
 **Estrutura**
 - Os 8 playbooks seguem com `status: rascunho`. A validação coluna a coluna (passo 4) não começou
 - O `CLAUDE.md` do `agencia_marketing` ainda o chama de cérebro da agência, e as sessões ainda abrem nele, e não no vault
-- Arquivos soltos do Downloads ainda não foram para o Drive
+- Arquivos soltos do Downloads ainda não foram para o Drive. Em 26/11: os pessoais foram para `~/Documents/Pessoal/`; os de cliente e da agência esperam o upload, que é manual pelo Chrome enquanto não houver Drive para desktop no Mac
+- **Drive (26/11):** vale a estrutura que já existia, `Hub3Ps/2. AGÊNCIA DE TRÁFEGO/1. CLIENTES ATIVOS/<N>. <Nome>/`, e não `Hub3Ps/Clientes/<slug>/`. Pastas criadas: 0. Hub3Ps (cliente 0), 13. DS Muay Thai Squad, 14. Marjorie - Prisma Dental CAD e 15. Apex Wellness Club. O JurIA fica em `9. Mobiletec/1. JurIA`
 
-~~**Organograma (Miro, versão 3 de 08/10) desatualizado em:** stack sem o whatsapp-mcp; automações com o resumo como parado e o runbook fora da main; painel do cliente com "atualização diária desde 04/11", que não aconteceu; playbook comercial dizendo "propostas do zero", quando já existe modelo desde 04/11; cliente 0 sem o banco de conteúdo do Instagram~~ Atualizado para a versão 4 em 10/11: blocos F e G e o cabeçalho
+~~**Organograma (Miro, versão 3 de 08/10) desatualizado em:** stack sem o whatsapp-mcp; automações com o resumo como parado e o runbook fora da main; painel do cliente com "atualização diária desde 04/11", que não aconteceu; playbook comercial dizendo "propostas do zero", quando já existe modelo desde 04/11; cliente 0 sem o banco de conteúdo do Instagram~~ Atualizado para a versão 4 em 10/11: blocos F e G e o cabeçalho. Versão 5 em 26/11: TaskNotes no lugar do Kanban, sessão do app por cliente, caminho real do Drive, estado das rotinas, clientes de novembro e cliente 0
 
 **Hub padrão (10/11):** decidido ter uma base só para o hub de todos os clientes, no Método 3Ps e na marca da Hub3Ps. Protótipo em `hubs/base/` do `agencia_marketing`, sem commit. Falta decidir a publicação por cliente, o script de dados e a conferência antes do push. O cliente novo entra nele primeiro, depois o DS e, por último, o JurIA.
