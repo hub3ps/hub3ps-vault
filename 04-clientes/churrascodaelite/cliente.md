@@ -11,19 +11,19 @@ contrato: sem contrato. Acordo nas palavras do Guilherme, em fontes/2026-11-13-a
 vigencia: sem prazo
 valor-mensal: 350
 moeda: EUR
-meta: 12 vendas do curso na Black Friday (27 a 30/11/2026), a 67 € (era 67,90 € em 13/11; Guilherme fixou 67 € em 16/11), com cerca de 450 € de anúncio em novembro. É o empate do Lucas entre fee e mídia (Guilherme, 13/11/2026)
+meta: 12 vendas do curso na Black Friday (27 a 30/11/2026), a 67 € (era 67,90 € em 13/11; Guilherme fixou 67 € em 16/11; o preço da oferta baixou para 49,90 € em 26/11), com cerca de 450 € de anúncio em novembro. É o empate do Lucas entre fee e mídia (Guilherme, 13/11/2026)
 contatos: Lucas Oliveira (dono, decide e paga). Grupo do WhatsApp "Churrasco da Elite - Tráfego" (`120363432140543418@g.us`), criado pelo Guilherme em 10/11, com o número da agência
 drive: TODO (Hub3Ps/Clientes/churrascodaelite/)
 painel: TODO (criar na semana de 16/11, Guilherme)
 repositorios: [agencia_marketing/clients/churrascodaelite]
 proxima-reuniao: 25/11/2026, por ligação, a qualquer hora. A de 24/11 não teve horário fechado no grupo, e o Lucas disse em 25/11, 08h22 (áudio), que está online hoje e que é só ligar
 lembrete: 2027-02-12 rediscutir setup e 10% (tarefa agendada `churrascodaelite-rediscutir-setup`)
-atualizado: 2026-11-25
+atualizado: 2026-11-26
 autor: claude
 ---
 # Churrasco da Elite
 
-> **Estado atual:** Fechamento cumprido em 13/11: meta de 12 vendas na Black Friday a 67 € (preço fixado em 16/11), sem contrato, mês de novembro pago. Escopo ampliado com tracking e criativos. Em 13/11, LP refeita do zero na Vercel e primeiras campanhas na CA02 (EUR), com a lista de espera. Em 16/11: LP aprovada pelo Lucas, cartão dele cadastrado na CA01 e grupo novo da Black criado. A lista de espera vai para esse grupo no WhatsApp, em teste nesta semana; se não for bem, a venda vai direto pela LP (Guilherme). Painel na semana de 16/11. Em 12/02/2027, rediscutir setup e 10%.
+> **Estado atual:** Fechamento cumprido em 13/11: meta de 12 vendas na Black Friday a 67 € (preço fixado em 16/11, baixado para 49,90 € em 26/11), sem contrato, mês de novembro pago. Escopo ampliado com tracking e criativos. Em 13/11, LP refeita do zero na Vercel e primeiras campanhas na CA02 (EUR), com a lista de espera. Em 16/11: LP aprovada pelo Lucas, cartão dele cadastrado na CA01 e grupo novo da Black criado. A lista de espera vai para esse grupo no WhatsApp, em teste nesta semana; se não for bem, a venda vai direto pela LP (Guilherme). Painel na semana de 16/11. Em 12/02/2027, rediscutir setup e 10%.
 
 ## Quem é
 - **Negócio:** eventos e catering de churrasco brasileiro em Portugal (Lisboa, Porto e Algarve), com loja em churrascodaelite.pt. O Lucas está em Portugal há 10 anos (03/11, call de diagnóstico).

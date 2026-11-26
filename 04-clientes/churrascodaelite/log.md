@@ -12,6 +12,12 @@ Formato:
 - **Decisões:** 
 - **Próximo passo:** 
 
+### 2026-11-26 · Preço da Black baixado para 49,90 €
+- **O que:** o Guilherme baixou a oferta de 67 € para 49,90 €. Troquei o preço na lista, no obrigado e na página de vendas (12 menções, mais o valor do `InitiateCheckout`), com espaço fixo entre o número e o "€" para não quebrar no celular. Publicado e conferido no ar: nenhum 67 € sobrou nas três páginas
+- **Resultado em:** https://curso.churrascodaelite.pt, `/black/` e `/obrigado/` (fonte `agencia_marketing/clients/churrascodaelite/lps/lista-black/`)
+- **Decisões:** preço de 49,90 € + IVA (Guilherme, 26/11). Em Portugal, com 23% de IVA, a conta dá 61,38 €, a conferir no checkout. A meta de 12 vendas segue como foi definida, a 67 €, sem revisão registrada
+- **Próximo passo:** o Guilherme ajusta a oferta na Hotmart e manda o link do checkout. Confiro se o link mudou e o valor no checkout
+
 ### 2026-11-26 · Oferta na Hotmart e página de vendas no ar
 - **O que:** o Guilherme configurou a oferta de 67 € na Hotmart (checkout `pay.hotmart.com/E106463685V?off=2tl4n8g6`). Montei a página de vendas a partir da LP da lista aprovada pelo Lucas, com o formulário trocado pelo checkout, as UTMs repassadas (mais `src` e `sck` para o relatório da Hotmart) e o `InitiateCheckout` no clique. Também gerei o logo em 600x600 para a imagem do produto na Hotmart
 - **Resultado em:** https://curso.churrascodaelite.pt/black/ (fonte `agencia_marketing/clients/churrascodaelite/lps/lista-black/black/`), conferida no ar. A lista segue na raiz até o fim da captação. Logo em `marca/logo-hotmart-600.png`
