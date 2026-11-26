@@ -1,7 +1,7 @@
 ---
 tipo: marca
 cliente: churrascodaelite
-atualizado: 2026-11-18
+atualizado: 2026-11-26
 autor: claude
 ---
 # Marca do Churrasco da Elite
@@ -15,6 +15,7 @@ autor: claude
 | `logo-churrascodaelite-arte.png` | Logo das artes do Lucas, PNG transparente, 934x926 | A logo em uso |
 | `perfil-grupo-operacional.png` | Essa logo sobre fundo escuro, 1024x1024, cabe no círculo | Foto do grupo "Churrasco da Elite - Tráfego" |
 | `perfil-grupo-black-week.png` | Arte do Lucas com "BLACK WEEK" no lugar de "BLACK FRYDER", sem os 4 cards, enquadrada no círculo | Foto do grupo da promoção |
+| `logo-hotmart-600.png` | A de `perfil-grupo-operacional.png` reduzida para 600x600, 211 KB | Imagem principal do produto na Hotmart (26/11) |
 | `logo-original-site.png` | A logo do site, 1276x1276, como baixada | Referência |
 
 A vetorização da logo do site foi reprovada pelo Guilherme em 18/11 ("ficou ruim", e era a logo errada) e apagada.
