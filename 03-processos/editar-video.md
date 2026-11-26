@@ -27,7 +27,7 @@ O Claude edita o vídeo bruto gravado no iPhone: corta enrolação, repetição 
 O formato dos Reels já postados (IG-04, IG-06, IG-07). No `projeto.json`: `"legenda": "progressiva"`; estilo em `legenda_progressiva` do `estilo.json`.
 - Minúscula, sem pontuação e sem borda, com sombra leve. Avenir Next Bold 44, centro em y 1560 de 1920, no peito, longe da boca
 - A frase se monta palavra a palavra, e cada palavra entra direto, branca. O Guilherme recusou a versão em que a palavra entrava apagada e acendia (parecia borrada) e a de letra 52 em y 1450 (grande e perto da boca)
-- **Título no começo** (`"titulo": {"linhas": [...], "ate": 3}`): Avenir Next Bold 66, mesma altura, e a legenda só entra depois dele. Como o do IG-04
+- **Título no começo** (`"titulo": {"linhas": [...], "ate": 6}`): caixa branca arredondada **no alto** (y 200), texto preto em Avenir Next Bold 46, por 6 s, igual ao do IG-06. A legenda segue no peito ao mesmo tempo. Título no peito foi recusado em 26/11
 - **Sem corte:** `"corte": {"respiro": 99, "folga_antes": 0.3, "folga_depois": 0.8}` mantém o vídeo inteiro e só tira o silêncio das pontas
 - Vídeo 4K do iPhone é reduzido para 1080 de largura no render
 - Publicar e agendar: [[03-processos/publicar-instagram]]

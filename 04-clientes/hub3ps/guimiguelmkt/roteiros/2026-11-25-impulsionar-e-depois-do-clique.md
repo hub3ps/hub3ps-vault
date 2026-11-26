@@ -11,7 +11,7 @@ Gravados no café em 25/11/2026, da série de opinião do [[roteiros/2026-11-25-
 | Vídeo | Bruto | Pronto | Post |
 |---|---|---|---|
 | Impulsionar post não é errado | `IMG_2137.mov` (44 s) | `~/Downloads/IMG_2137_legendado.mp4` | **agendado para 26/11 às 18h** (contêiner `17968790721236555`, job `com.hub3ps.ig-impulsionar-2611`) |
-| O problema não está no seu anúncio | `IMG_2138.mov` (61 s) | `~/Downloads/IMG_2138_legendado.mp4`, com título nos 3 primeiros segundos | **agendado para 27/11 às 6h** (contêiner `17968791702236555`, job `com.hub3ps.ig-clique-2711`) |
+| O problema não está no seu anúncio | `IMG_2138.mov` (61 s) | `~/Downloads/IMG_2138_legendado.mp4`, com título no alto nos 6 primeiros segundos | **agendado para 27/11 às 6h** (contêiner `17968793169236555`, job `com.hub3ps.ig-clique-2711`; o primeiro contêiner, com o título no peito, foi trocado) |
 
 ## Legendas do post
 **Impulsionar** (aprovada em 26/11):
@@ -29,4 +29,4 @@ Na maioria das vezes, o anúncio não é o problema.
 ```
 
 ## Título no vídeo
-Só no do clique: ele abre com "olha só", sem gancho. O do impulsionar já abre com a frase-gancho na legenda. Título: "O problema não está / no seu anúncio".
+Só no do clique: ele abre com "olha só", sem gancho. O do impulsionar já abre com a frase-gancho na legenda. Título: "O problema não está / no seu anúncio", numa caixa branca no alto, igual ao do IG-06. A primeira versão, no peito, foi recusada pelo Guilherme em 26/11.
