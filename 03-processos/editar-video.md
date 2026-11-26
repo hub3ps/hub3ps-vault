@@ -37,6 +37,7 @@ O formato dos Reels já postados (IG-04, IG-06, IG-07). No `projeto.json`: `"leg
 - **Respiro:** pausa maior que 0,30 s entre palavras sai. Cada emenda leva 0,07 s de folga antes e depois, e nunca passa da borda escolhida
 - **Emenda suja:** se a palavra seguinte nasce de uma hesitação arrastada ("vocêêê faça"), a emenda pega a sílaba. Melhor trocar o trecho por outra versão da frase que comece depois de um silêncio
 - **O Whisper erra o tempo** de palavra curta depois de pausa (ex.: "como" 0,2 s atrasado). Conferir com os silêncios e corrigir em `substituir`
+- **Só tirar respiro, sem legenda** (criativo de anúncio, 26/11/2026): `cortar_respiros.py projetos/<id>`, depois do `transcrever`. Ele corta pelo volume do áudio, só dentro do silêncio de verdade, com 0,06 s de folga. O corte pelo tempo do Whisper comeu a primeira sílaba em 5 de 5 vídeos ("preenche" virou "enche", "clica" virou "fica"). Conferir retranscrevendo a saída: diferença longe de emenda é variação do Whisper ("sua" e "tua"), não corte
 
 ## Regras visuais (v0)
 - **Cor:** a do original. O iPhone grava em HDR (HLG, 10 bits), e o vídeo sai em HLG, 10 bits
