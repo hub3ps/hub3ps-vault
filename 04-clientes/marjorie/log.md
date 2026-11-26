@@ -6,6 +6,12 @@ autor: claude
 
 A entrada mais recente fica no topo, uma por sessão de trabalho.
 
+### 2026-11-26 · Campanha do carrinho aberto em rascunho
+- **O que fiz:** a pedido do Guilherme, montei pelo MCP a [[vendas-quente-carrinho-aberto]]. Ela tem o objetivo de vendas, um conjunto a US$ 5 por dia que otimiza por visualização da página, e os 3 vídeos do Ad 2. Vai de 27 a 30/11 e leva a `/zero-to-hero`. Tudo validado sem erro, em rascunho.
+- **O que achei:** a Meta prendeu sozinha um catálogo na campanha de vendas, e tirei no rascunho. Os textos novos são por cargo e não dizem o preço.
+- **Decisões:** o público é só seguidores e a lista de espera (Guilherme). Por enquanto, só o `Seguidores IG` está no conjunto.
+- **Próximo passo:** o Guilherme cria o público da lista com o arquivo da Julia, e eu ponho no conjunto. Depois, publicar com o ok dele.
+
 ### 2026-11-26 · IG-17 em rascunho, com o IG-20 reprovado
 - **O que fiz:** a pedido do Guilherme, criei pelo MCP o conjunto e o anúncio do #17 na [[seguidores-frio-perfil]], copiando o conjunto do IG-12. Os dois estão validados sem erro, em rascunho, para o Guilherme aprovar e publicar no Gerenciador.
 - **O que achei:** o anúncio do IG-20 está `DISAPPROVED` na API. O Guilherme pediu revisão à Meta por achar a reprovação errada. O conjunto do IG-20 segue ativo, mas sem entregar.
