@@ -25,5 +25,6 @@ O Claude sobe o Reels pela Graph API do Instagram e deixa um job do launchd publ
 6. **Conferir no horário:** o log mostra o link do post. Registrar o link no roteiro
 
 ## Erros já vistos
-- **Upload devolve 400 `ProcessingFailedError`:** o envio para o `rupload` precisa de `Content-Type: application/octet-stream`. Sem isso, o urllib manda como formulário (corrigido no script em 26/11)
+- **Upload devolve 400 `ProcessingFailedError`:** acontece mesmo com o vídeo recebido. Quem decide é o `status_code` do contêiner: `FINISHED` está pronto. O script envia em partes de 8 MB, com `Content-Type: application/octet-stream`, e confere o status depois
+- **Contêiner de teste** sobra sem publicar e expira em 24 h; não precisa apagar
 - **Insights da conta** (`/<ig>/insights`) dão `#10`; os de cada post funcionam
