@@ -43,4 +43,4 @@ No Drive, em `Criativos · Captação lista Black` ([pasta](https://drive.google
 - `8_extra_VL-09_fim-de-evento-inverno.mp4`
 - a subpasta `CR-01 · Carrossel da lista (Lucas, 22/11)` ([pasta](https://drive.google.com/drive/folders/1I23flV6Ujxzpqbnkh6b4uLDOuo1R3hGo)), com as 7 imagens originais
 
-Cópia local em `~/Downloads/churrascodaelite-captacao/2026-11-23/`, com os originais em 4K em `originais-4k/`.
+A cópia local foi para a Lixeira do Mac em 26/11: o Drive é a única fonte (ver [[2026-11-26-videos-do-lucas]]). Os originais em 4K estão na subpasta `Originais 4K (VL-08, VL-09, VL-10)`.

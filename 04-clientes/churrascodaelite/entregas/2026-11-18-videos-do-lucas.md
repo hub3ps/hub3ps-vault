@@ -37,7 +37,7 @@ Depois de ver os cortes, o Guilherme decidiu vídeo a vídeo. Os cortes da prime
 
 A ordem da fila foi minha, não do Guilherme: ele pediu os outros "em sequência para irmos subindo e testando aos poucos".
 
-**Arquivos:** no Drive, em `1. CLIENTES ATIVOS/12. Lucas - Churrasco da Elite/Criativos · Captação lista Black` ([pasta](https://drive.google.com/drive/folders/14Fb4db9XN8lHlemW8V3XoQEtgtlPAKVX)), subidos em 18/11 e conferidos pelo tamanho, byte a byte. Cópia local em `~/Downloads/churrascodaelite-captacao/`, que o Guilherme pode apagar. O número da ordem vai no nome. Os inteiros são cópia do original do WhatsApp, sem reprocessar. O VL-04 foi cortado em 8,18 a 9,64 s e 32,48 a 33,90 s do original (35,8 s no fim) e conferido por retranscrição.
+**Arquivos:** no Drive, em `1. CLIENTES ATIVOS/12. Lucas - Churrasco da Elite/Criativos · Captação lista Black` ([pasta](https://drive.google.com/drive/folders/14Fb4db9XN8lHlemW8V3XoQEtgtlPAKVX)), subidos em 18/11 e conferidos pelo tamanho, byte a byte. A cópia local foi para a Lixeira do Mac em 26/11: o Drive é a única fonte (ver [[2026-11-26-videos-do-lucas]]). O número da ordem vai no nome. Os inteiros são cópia do original do WhatsApp, sem reprocessar. O VL-04 foi cortado em 8,18 a 9,64 s e 32,48 a 33,90 s do original (35,8 s no fim) e conferido por retranscrição.
 
 **Risco que fica:** VL-07, VL-05 e VL-03 sobem com a promessa de ganho (1.500 € e 1.500 € a 2.500 €). Se a Meta reprovar algum, os cortes sem a promessa estão na tabela acima.
 

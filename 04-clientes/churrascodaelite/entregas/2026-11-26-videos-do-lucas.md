@@ -8,7 +8,7 @@ autor: claude
 
 O Lucas mandou três vídeos no grupo em 25/11, às 11h39, 12h06 e 12h12, como documento. Foram baixados em 26/11, com quadros e transcrição (Whisper local), e avaliados para a abertura do carrinho da Black (27 a 30/11) junto com todos os vídeos anteriores.
 
-**Técnico:** 1080x1920, cores normais (sem HDR), prontos para anúncio sem conversão. São grandes demais para subir pelo Chrome (44 a 65 MB, acima do limite de 10 MB), então precisam ser comprimidos antes.
+**Técnico:** 1080x1920, cores normais (sem HDR), prontos para anúncio sem conversão. No Drive estão os originais, sem recompressão (44 a 65 MB).
 
 ## Vídeos
 
@@ -41,4 +41,11 @@ Gravar de dia, em frente à fachada ou num evento, como o VL-12 e o VL-10.
 
 ## Arquivos
 
-Originais em `~/Downloads/churrascodaelite-captacao/2026-11-26/originais-4k/`, com quadros em `quadros/`. Ainda não estão no Drive.
+No Drive, em `Criativos · Captação lista Black` ([pasta](https://drive.google.com/drive/folders/14Fb4db9XN8lHlemW8V3XoQEtgtlPAKVX)), os originais do Lucas, sem recompressão, subidos em 26/11 e conferidos pelo tamanho, byte a byte:
+- `9_venda_VL-12_fachada-maior-catering.MOV`
+- `10_venda_VL-13_cafe-no-escritorio.MOV`
+- `11_extra_VL-11_cafe-no-escritorio-longo.MOV`
+
+Na mesma data, os originais em 4K de VL-08, VL-09 e VL-10 (de [[2026-11-23-videos-do-lucas]]) foram para a subpasta `Originais 4K (VL-08, VL-09, VL-10)` ([pasta](https://drive.google.com/drive/folders/1nOMJEO8UjYS8piSb77CyqQC7hNsIIpF7)), também conferidos.
+
+Com isso, a pasta tem todos os vídeos e o carrossel CR-01 até 26/11. A cópia local em `~/Downloads/churrascodaelite-captacao/` e as cópias da ponte do WhatsApp foram para a Lixeira do Mac em 26/11, a pedido do Guilherme.

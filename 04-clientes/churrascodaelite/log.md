@@ -16,7 +16,8 @@ Formato:
 - **O que:** baixei e transcrevi os três vídeos que o Lucas mandou em 25/11 (VL-11 a VL-13) e revi todos os vídeos até hoje para a abertura do carrinho
 - **Resultado em:** [[entregas/2026-11-26-videos-do-lucas]]
 - **Decisões:** nenhum vídeo é de carrinho aberto. Para a venda servem VL-12, VL-13 e VL-09, com a oferta no texto do anúncio. Sugeri pedir ao Lucas um vídeo de carrinho aberto, com roteiro na entrega, à espera do OK do Guilherme
-- **Próximo passo:** o Guilherme decide se pede o vídeo ao Lucas
+- **Próximo passo:** o Guilherme pede o vídeo ao Lucas (decidido em 26/11)
+- **Drive (26/11):** os originais de VL-11 a VL-13 e os de VL-08 a VL-10 em 4K subiram sem recompressão, conferidos byte a byte. A pasta tem todos os vídeos e o carrossel. As cópias do Mac foram para a Lixeira, a pedido do Guilherme
 
 ### 2026-11-26 · Preço da Black baixado para 49,90 €
 - **O que:** o Guilherme baixou a oferta de 67 € para 49,90 €. Troquei o preço na lista, no obrigado e na página de vendas (12 menções, mais o valor do `InitiateCheckout`), com espaço fixo entre o número e o "€" para não quebrar no celular. Publicado e conferido no ar: nenhum 67 € sobrou nas três páginas
