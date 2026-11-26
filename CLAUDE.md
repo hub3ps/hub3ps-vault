@@ -72,7 +72,7 @@ Resultado: uma entrada no log de operações e as correções feitas.
 - **Código** (LPs, sites, hubs, vídeos): nos repositórios de código, listados em
   [[01-agencia/stack]]. A nota do cliente aponta o repositório.
 - **Arquivos pesados** (fotos, vídeos, PDFs, originais do cliente): no Google
-  Drive, em `Hub3Ps/Clientes/<slug>/`. A nota guarda só o link.
+  Drive, em `Hub3Ps/2. AGÊNCIA DE TRÁFEGO/1. CLIENTES ATIVOS/<N>. <Nome>/`, o link fica no `drive:` do `cliente.md`. A nota guarda só o link.
 - **Senhas, tokens e chaves**: nunca. Nem em nota, nem em log, nem em commit.
 
 ## Regras do repositório

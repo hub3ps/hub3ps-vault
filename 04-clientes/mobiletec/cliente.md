@@ -11,7 +11,7 @@ vigencia: TODO
 valor-mensal: TODO
 meta: TODO
 contatos: Everton (respondeu o briefing do vídeo)
-drive: TODO (Hub3Ps/Clientes/mobiletec/)
+drive: https://drive.google.com/drive/folders/1DJr1KtNdLgmezL_MOoh6skEAdkRJTzo5
 painel:
 repositorios: [hub3ps/agencia_marketing]
 proxima-reuniao: TODO
@@ -88,5 +88,5 @@ Tudo está na branch `claude/loving-archimedes-rp33cv` do `agencia_marketing`. N
 - Log: [[04-clientes/mobiletec/log|log]]
 - Reuniões: `reunioes/`
 - Fontes: `fontes/`
-- Drive: TODO
+- Drive: [9. Mobiletec](https://drive.google.com/drive/folders/1DJr1KtNdLgmezL_MOoh6skEAdkRJTzo5)
 - Site: https://site.mobiletec.hub3ps.com

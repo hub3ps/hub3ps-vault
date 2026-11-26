@@ -11,7 +11,7 @@ vigencia: TODO (avaliação de 2026-04-22 a 2026-07-22, sem registro de renovaç
 valor-mensal: TODO
 meta: "CAC até R$ 500 no plano de entrada e 75 a 90 trials por trimestre (briefing, 11/05/2026)"
 contatos: Saulo (time técnico da Mobiletec), Isadora (comercial e revisão de conteúdo, TODO confirmar papel)
-drive: TODO (Hub3Ps/Clientes/juria/)
+drive: https://drive.google.com/drive/folders/1mbqBO3Ti1WEwhq6iFC_zDNSNNMyfiz5i
 painel: https://juria.hub3ps.com
 repositorios: [hub3ps/agencia_marketing, hub3ps/juria-lps]
 proxima-reuniao: TODO
@@ -146,5 +146,5 @@ Por enquanto o conhecimento fica no repo. A migração para o vault é o próxim
 - Reuniões: `reunioes/`
 - Campanhas: `campanhas/`
 - Fontes: `fontes/`
-- Drive: TODO
+- Drive: [9. Mobiletec/1. JurIA](https://drive.google.com/drive/folders/1mbqBO3Ti1WEwhq6iFC_zDNSNNMyfiz5i)
 - Painel: https://juria.hub3ps.com

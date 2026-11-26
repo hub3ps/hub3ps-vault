@@ -22,8 +22,9 @@ Formato:
 ### 2026-11-26 · Preço da Black baixado para 49,90 €
 - **O que:** o Guilherme baixou a oferta de 67 € para 49,90 €. Troquei o preço na lista, no obrigado e na página de vendas (12 menções, mais o valor do `InitiateCheckout`), com espaço fixo entre o número e o "€" para não quebrar no celular. Publicado e conferido no ar: nenhum 67 € sobrou nas três páginas
 - **Resultado em:** https://curso.churrascodaelite.pt, `/black/` e `/obrigado/` (fonte `agencia_marketing/clients/churrascodaelite/lps/lista-black/`)
-- **Decisões:** preço de 49,90 € + IVA (Guilherme, 26/11). Em Portugal, com 23% de IVA, a conta dá 61,38 €, a conferir no checkout. A meta de 12 vendas segue como foi definida, a 67 €, sem revisão registrada
-- **Próximo passo:** o Guilherme ajusta a oferta na Hotmart e manda o link do checkout. Confiro se o link mudou e o valor no checkout
+- **Decisões:** preço de 49,90 € + IVA (Guilherme, 26/11). Em Portugal, com 23% de IVA, a conta dá 61,38 €, conferido no checkout. A meta de 12 vendas segue como foi definida, a 67 €, sem revisão registrada
+- **Checkout conferido (26/11):** o Guilherme ajustou a oferta na Hotmart e o link continuou o mesmo (`E106463685V?off=2tl4n8g6`). Em Portugal: 49,90 € + 11,48 € de IVA = 61,38 €. No Brasil: R$ 352. As três páginas no ar mostram 49,90 €, sem nenhum 67 €
+- **Próximo passo:** commit da troca de preço no repo, com o OK do Guilherme
 
 ### 2026-11-26 · Oferta na Hotmart e página de vendas no ar
 - **O que:** o Guilherme configurou a oferta de 67 € na Hotmart (checkout `pay.hotmart.com/E106463685V?off=2tl4n8g6`). Montei a página de vendas a partir da LP da lista aprovada pelo Lucas, com o formulário trocado pelo checkout, as UTMs repassadas (mais `src` e `sck` para o relatório da Hotmart) e o `InitiateCheckout` no clique. Também gerei o logo em 600x600 para a imagem do produto na Hotmart

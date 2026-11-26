@@ -12,7 +12,7 @@ vigencia: sem prazo
 valor-mensal: 1500
 meta: marco do lançamento. LP no ar até 20/11, carrinho aberto em 27/11 e preço especial até 30/11 (Guilherme, 04/11/2026)
 contatos: Julia Peixoto (ponte, fez o site e a LP), Marjorie Andrade (expert, dona do cartão). Grupo do WhatsApp com os três desde 04/11, "CURSO EXOCAD 🚀🇧🇷" (`120363265429433143@g.us`), onde o número da agência no whatsapp-mcp também está (09/11)
-drive: TODO (Hub3Ps/Clientes/marjorie/)
+drive: https://drive.google.com/drive/folders/1VFKH5llAkmAU_LyelTFObck_LCfMAZ9r
 painel:
 repositorios: []
 proxima-reuniao: TODO
@@ -76,4 +76,4 @@ Nunca guarde senha aqui.
 - Fontes: [[2026-11-04-whatsapp-julia]] e [[2026-11-02-lp-zero-to-hero]]
 - Estratégia: [[2026-11-04-estrategia-lancamento]]
 - Campanhas: `campanhas/`
-- Drive: TODO
+- Drive: [14. Marjorie - Prisma Dental CAD](https://drive.google.com/drive/folders/1VFKH5llAkmAU_LyelTFObck_LCfMAZ9r)

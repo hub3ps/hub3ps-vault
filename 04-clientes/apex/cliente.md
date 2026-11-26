@@ -11,7 +11,7 @@ vigencia: TODO
 valor-mensal: TODO
 meta: TODO
 contatos: Matheus Goulart (profissional único), Beatriz (equipe de atendimento)
-drive: TODO (Hub3Ps/Clientes/apex/)
+drive: https://drive.google.com/drive/folders/1gnE_W07HullYGpF5WbIzEWPtbagEhJRj
 painel: https://apex.hub3ps.com
 repositorios: [guimiguell/whatsapp-langchain]
 proxima-reuniao: TODO
@@ -86,5 +86,5 @@ Nunca guarde senha aqui. As variáveis ficam no EasyPanel.
 - Tarefas: [[04-clientes/apex/tarefas.base|quadro de tarefas]]
 - Log: [[04-clientes/apex/log|log]]
 - Fontes: `fontes/`
-- Drive: TODO
+- Drive: [15. Apex Wellness Club](https://drive.google.com/drive/folders/1gnE_W07HullYGpF5WbIzEWPtbagEhJRj)
 - Painel: https://apex.hub3ps.com

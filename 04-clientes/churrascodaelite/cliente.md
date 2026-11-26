@@ -13,7 +13,7 @@ valor-mensal: 350
 moeda: EUR
 meta: 12 vendas do curso na Black Friday (27 a 30/11/2026), a 67 € (era 67,90 € em 13/11; Guilherme fixou 67 € em 16/11; o preço da oferta baixou para 49,90 € em 26/11), com cerca de 450 € de anúncio em novembro. É o empate do Lucas entre fee e mídia (Guilherme, 13/11/2026)
 contatos: Lucas Oliveira (dono, decide e paga). Grupo do WhatsApp "Churrasco da Elite - Tráfego" (`120363432140543418@g.us`), criado pelo Guilherme em 10/11, com o número da agência
-drive: TODO (Hub3Ps/Clientes/churrascodaelite/)
+drive: https://drive.google.com/drive/folders/1lmOMi-EbmChls1rr-RmxvFRYDkQpYQq7
 painel: TODO (criar na semana de 16/11, Guilherme)
 repositorios: [agencia_marketing/clients/churrascodaelite]
 proxima-reuniao: 25/11/2026, por ligação, a qualquer hora. A de 24/11 não teve horário fechado no grupo, e o Lucas disse em 25/11, 08h22 (áudio), que está online hoje e que é só ligar
@@ -84,5 +84,5 @@ Nunca guarde senha aqui.
 - Reuniões: `reunioes/`
 - Campanhas: `campanhas/`
 - Fontes: `fontes/`. A conversa do grupo entra pela rotina [[whatsapp-diario|WhatsApp diário]], desde 10/11. Primeira leitura em [[04-clientes/churrascodaelite/fontes/2026-11-13-whatsapp-grupo|2026-11-13-whatsapp-grupo]]
-- Drive: TODO
+- Drive: [12. Lucas - Churrasco da Elite](https://drive.google.com/drive/folders/1lmOMi-EbmChls1rr-RmxvFRYDkQpYQq7)
 - Painel: TODO (tráfego pago no escopo, então o hub sai pelo runbook [[novo-hub]])

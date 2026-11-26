@@ -11,7 +11,7 @@ vigencia: TODO
 valor-mensal: TODO
 meta: TODO
 contatos: David Silva (head coach), designer do site WordPress (DNS), TODO nome do designer
-drive: TODO (Hub3Ps/Clientes/dsmuaythai/)
+drive: https://drive.google.com/drive/folders/1El3Vq6iAPTmuCuG0_APc4k7aqJjOo-0v
 painel: https://dsmuaythai.hub3ps.com
 repositorios: [hub3ps/agencia_marketing]
 proxima-reuniao: TODO
@@ -94,5 +94,5 @@ Nunca guarde senha aqui. O token da BM fica em `credenciais.local.md`, na raiz d
 - Log: [[04-clientes/dsmuaythai/log|log]]
 - Campanhas: `campanhas/`
 - Fontes: `fontes/`
-- Drive: TODO
+- Drive: [13. DS Muay Thai Squad](https://drive.google.com/drive/folders/1El3Vq6iAPTmuCuG0_APc4k7aqJjOo-0v)
 - Painel: https://dsmuaythai.hub3ps.com

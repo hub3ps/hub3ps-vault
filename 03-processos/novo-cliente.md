@@ -45,8 +45,8 @@ Nem todo cliente entra pela porta da frente. O onboarding é um tronco comum, qu
 ## 2. Fechamento
 **Gatilho:** a proposta foi aceita.
 
-1. Contrato assinado e PDF salvo no Drive, em `Hub3Ps/Clientes/<slug>/contrato/`
-2. Pasta do Drive `Hub3Ps/Clientes/<slug>/` criada. O slug é o mesmo em todo lugar: vault, Drive, repositório e campanha
+1. Contrato assinado e PDF salvo no Drive, em `contrato/`, dentro da pasta do cliente
+2. Pasta do Drive criada em `Hub3Ps/2. AGÊNCIA DE TRÁFEGO/1. CLIENTES ATIVOS/<N>. <Nome>/`, com o próximo número livre. O link vai no `drive:` do `cliente.md`. O slug segue igual no vault, no repositório e na campanha; no Drive vale o nome da pasta
 3. Pasta do cliente criada no vault:
    ```
    04-clientes/<slug>/cliente.md   ← de _modelos/cliente

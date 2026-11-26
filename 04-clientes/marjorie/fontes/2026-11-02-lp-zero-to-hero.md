@@ -6,7 +6,7 @@ importado: 2026-11-04
 ---
 # LP exocad: Zero to Hero Circle (texto extraído do PDF)
 
-Fonte original, não se edita. É a LP que a Julia fez no Claude, ainda não publicada em 04/11. O PDF (10,8 MB, convertido para A4) vai para o Drive, em `Hub3Ps/Clientes/marjorie/fontes/`. Aqui fica só o texto.
+Fonte original, não se edita. É a LP que a Julia fez no Claude, ainda não publicada em 04/11. O PDF (10,8 MB, convertido para A4) vai para o Drive, em `14. Marjorie - Prisma Dental CAD/fontes/`. Aqui fica só o texto.
 
 Visual, pelo PDF: fundo preto, laranja como cor de destaque, títulos em caixa alta e condensados, cantos retos. Telas do Circle e do exocad como mockup.
 
