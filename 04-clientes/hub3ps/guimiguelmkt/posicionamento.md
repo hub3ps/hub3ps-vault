@@ -35,6 +35,7 @@ TODO: decidir se o perfil fica com os dois públicos ou escolhe um. A bio hoje f
 **Seguidores e autoridade** (decisão de 11/11/2026). Todo vídeo fecha com um motivo claro para seguir.
 
 ## Tom
+- **Com a cara dele, nada engessado** (pedido de 26/11/2026): o perfil não pode soar sempre profissional demais. Misturar o trabalho com a vida real, deixar imperfeição, humor e opinião
 - Primeira pessoa, pessoal e direto. Conta o que aconteceu, não dá aula
 - Low profile: abre a vida aos poucos ("primeira vez em 8 anos que eu falo sobre isso")
 - Sem jargão de software para o dono de negócio
