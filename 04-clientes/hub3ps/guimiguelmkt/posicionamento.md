@@ -1,7 +1,7 @@
 ---
 tipo: conteudo
 cliente: hub3ps
-atualizado: 2026-11-11
+atualizado: 2026-11-26
 autor: claude
 ---
 # Posicionamento do @guimiguelmkt
@@ -39,7 +39,17 @@ TODO: decidir se o perfil fica com os dois públicos ou escolhe um. A bio hoje f
 - Low profile: abre a vida aos poucos ("primeira vez em 8 anos que eu falo sobre isso")
 - Sem jargão de software para o dono de negócio
 
-## Bio atual (11/11/2026)
+## Bio nova (26/11/2026, escolhida pelo Guilherme)
+A antiga soava "marketeira" para ele. A nova segue o estilo de @pedroaaugustto (profissão simples e chamada seca para o link) e @adalalibera (frases curtas). A linha da chamada vai sem a barra, para se destacar da lista.
+```
+Gestor de tráfego
+| 8 anos rodando anúncio
+| uma operação inteira com IA
+Para projetos e contato 👇
+```
+Sugeridos junto: nome do perfil só "Guilherme Miguel" (ou "Guilherme Miguel | Tráfego") e esconder a categoria "Criador de conteúdo digital". Conferir se o link `guimiguel.site` leva a um contato.
+
+## Bio anterior (11/11/2026)
 > Guilherme Miguel | Tráfego Pago & IA · Criador de conteúdo digital · Gerenciando anúncios há 8 anos · IA e automações para o seu negócio · guimiguel.site
 
 ## Pilares
