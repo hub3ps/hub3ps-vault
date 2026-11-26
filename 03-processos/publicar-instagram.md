@@ -5,7 +5,11 @@ versao: v1
 atualizado: 2026-11-26
 autor: claude
 ---
-# Publicar e agendar Reels no @guimiguelmkt pela API
+# Publicar e agendar Reels no @guimiguelmkt
+
+> **Caminho padrão para programar (26/11/2026): o Business Suite, pelo Claude in Chrome no perfil "Gustavo" do Chrome**, que é o login da Meta com acesso ao @guimiguelmkt (o outro perfil, Guilherme Miguel de Jesus, não vê a Página). Programado ali, aparece no Suite e não depende do Mac acordado. A API (abaixo) fica para publicar na hora.
+>
+> **Como subir o vídeo no Suite:** `split -b 9961472` do mp4 (H.264, convertido com `avconvert`), um `<input type=file>` próprio na página juntando as partes, conferir o SHA-256, interceptar o `click` do input de arquivo, clicar em "Adicionar vídeo" e pôr o `File` no input com `DataTransfer` e os eventos `change` e `input`. Em "Postar em", desmarcar a Página do Facebook (Guilherme) para ir só no Instagram. Em "Compartilhar", "Programar", data e hora (horas e minutos digitados separados)
 
 O Claude sobe o Reels pela Graph API do Instagram e deixa um job do launchd publicar na hora marcada. Criado em 26/11/2026, quando o token do usuário do sistema `hub3ps` ganhou `instagram_content_publish`.
 
