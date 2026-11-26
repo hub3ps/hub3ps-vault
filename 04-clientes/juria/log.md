@@ -6,6 +6,11 @@ autor: claude
 
 A entrada mais recente fica no topo, uma por sessão de trabalho.
 
+### 2026-11-26 · Tracking conferido depois do onboarding novo do Saulo
+- **O que fiz:** li o código publicado do portal, os acionadores do GTM e os eventos que chegam na Meta desde 19/11. Nada mudou no GTM, na Meta nem no repo.
+- **O que achei:** o `Lead` (criação do escritório) segue igual e chegando pelo navegador e pela CAPI. O `onboarding_completed`, que vai à Meta como `CompleteRegistration`, agora dispara quando a pessoa salva o WhatsApp (passo obrigatório para contas criadas a partir de 25/11), e não mais depois das intimações; as intimações foram para o Meu Dia e não geram evento. O portal ganhou o `onboarding_import_started` (com `include_archived`), mas nenhum acionador do GTM o escuta, então a importação não chega ao GA4 nem à Meta. Os passos do `onboarding_step_done` agora são `lawyer`, `portfolio` e `whatsapp`. O `CompleteRegistration` só chega pelo navegador, sem CAPI, e o push não leva `event_id`.
+- **Próximo passo:** com o OK do Guilherme, pôr o `onboarding_import_started` no GTM (GA4 e Meta); pedir ao Saulo o envio da importação pela CAPI com `event_id`; corrigir no hub e no CLAUDE.md o significado de "Cadastro concluído".
+
 ### 2026-11-24 · Tela de ativar a Jú no onboarding proposto
 - **Decisões (Guilherme, 24/11):** pedir o WhatsApp logo depois da importação, para ativar a Jú. Quem não importa fica sem o pedido por enquanto. A promessa da tela (só avisos, ou também perguntas sobre os processos) se decide na reunião de hoje. O número é só para a Jú; o comercial usa outro.
 - **O que fiz:** a sequência do onboarding proposto ganhou a tela 4, "Ative a Jú no seu WhatsApp", entre a importação em andamento e o Meu Dia; o e-mail de aviso fica para quem responder "Agora não". A proposta 4 virou "Ativar a Jú no WhatsApp logo depois da importação". Publicado no commit 98abcca, conferido no ar.
