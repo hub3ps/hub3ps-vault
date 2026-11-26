@@ -1,7 +1,7 @@
 ---
 tipo: conteudo
 cliente: hub3ps
-atualizado: 2026-11-25
+atualizado: 2026-11-26
 autor: claude
 ---
 # Perfis de referência do @guimiguelmkt
@@ -17,6 +17,8 @@ Os números e os posts foram vistos em 17/11/2026. Para criar, olhe o perfil de 
 | [@odevtemplario](https://www.instagram.com/odevtemplario/) | Dev contratado nos EUA, remoto, mora numa chácara | 29,6 mil |
 | [@ssabriel_](https://www.instagram.com/ssabriel_/) | Sabriel, 23 anos, empreendedor e universitário de Computação | 22 mil |
 | [@adalalibera](https://www.instagram.com/adalalibera/) | Lia Dalalibera, agência de design e vendas (entrou em 25/11) | 17,3 mil |
+| [@eusoumarcospaulo](https://www.instagram.com/eusoumarcospaulo/) | Marcos Paulo, empresário (entrou em 26/11, estética) | 1,1 mi |
+| [@eslen.delanogare](https://www.instagram.com/eslen.delanogare/) | Eslen Delanogare, professor de neurociência e sócio de empresas (entrou em 26/11, estética) | 1,9 mi |
 
 ## O que eles têm em comum
 É isto que se copia:
@@ -60,6 +62,28 @@ Entrou em 25/11/2026, a pedido do Guilherme: "ela pega um único assunto bem esp
 - **Formato:** selfie, fala solta de conversa ("cara, a cta do..."), legenda da fala grande na tela em minúsculo, uns 50 s. Cenário de casa ou escritório, sem produção
 - **Legenda do post:** a frase da opinião, uma linha ("Um vídeo bom pode anular 20 vídeos ruins.")
 - **Para o Guilherme:** escolher um tema estreito (IA contra gestor, impulsionar post) e gravar 4 ou 5 opiniões de uma vez, para soltar ao longo da semana
+
+### @eusoumarcospaulo · empresário sem pose de empresário
+Entrou em 26/11/2026 como referência de estética, junto com @pablo_aa e @pedroaaugustto.
+- **Grade:** mistura conquista pessoal (chegada do Ironman fixada), retrato em preto e branco, corte de podcast, selfie na piscina, avião. O trabalho aparece no meio da vida
+- **Corte de opinião:** frase curta e grande em branco na parte de baixo, com **uma palavra em cor** ("A **correria** te distrai", "Presente, mas **ausente**")
+- **Bio de uma frase de crença:** "Oração e trabalho inteligente superam tudo." Nenhuma lista de serviços
+- **Para o Guilherme:** uma frase de crença fixa e o padrão de corte com uma palavra destacada
+
+### @eslen.delanogare · o professor que é pai
+Entrou em 26/11/2026 como referência de estética.
+- **Grade:** fixados são família (filho, viagem, Egito à noite), não conteúdo técnico. Entre eles, selfie no carro, meme e vídeo falando para a câmera
+- **Destaques pessoais:** "Casei ❤️", "Roer unhas", "Celular idoso", viagens. Mostram a pessoa, não o produto
+- **Bio com papel humano:** "👧 Pai" logo depois da promessa profissional
+- **Para o Guilherme:** fixar um post pessoal, e não só técnico, e ter destaques da vida real
+
+## O que deixa o perfil com cara de gente (26/11/2026)
+Pedido do Guilherme: o perfil não pode ser sempre profissional e engessado. O que os quatro perfis de estética (@pablo_aa, @pedroaaugustto, @eusoumarcospaulo, @eslen.delanogare) fazem em comum:
+- **Pelo menos 1 em cada 3 posts é vida:** treino, família, viagem, rotina, conquista pessoal. Sem gancho de venda
+- **Fixados e destaques contam quem é a pessoa**, não o serviço
+- **Foto crua de celular** ao lado de foto bem feita. Nenhum deles tem grade toda no mesmo template
+- **Opinião em vez de aula:** frase curta e direta, às vezes com humor
+- **No Guilherme:** os três fixados viram um de história (o carrossel de 29/10), um de rotina (o vídeo de 19/11) e um de opinião (o melhor da série); destaques como "rotina", "setup", "treino" e "bastidores"
 
 ## Como usar
 - **Roteiro e pauta:** procure primeiro um formato daqui (POV, rotina, build in public, progressão) e só depois o assunto
