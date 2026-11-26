@@ -15,3 +15,5 @@ Pedido do Guilherme em 25/11: lembrar dele em 3 dias para revisar a [[seguidores
 - Ler na API o custo por seguidor de cada um desde 25/11. O melhor fica e o pior sai
 - O próximo da fila é o #17, Ferramentas escondidas do DentalCAD 3.3 (`DV8sOBEjYHg`). Vídeo que explica o curso ou a comunidade não entra
 - O conjunto novo pode ser criado e publicado pelo MCP, copiando o do IG-12 (`source_adset_id`)
+
+26/11: o IG-20 foi reprovado pela Meta e o Guilherme pediu revisão. O IG-17 (Ferramentas escondidas) entrou em rascunho, para o Guilherme publicar. Na revisão, comparar o IG-12 com o que estiver entregando. O próximo da fila agora é o #16 (`DVKEn2njVkr`).

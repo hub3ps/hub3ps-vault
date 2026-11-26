@@ -6,6 +6,12 @@ autor: claude
 
 A entrada mais recente fica no topo, uma por sessão de trabalho.
 
+### 2026-11-26 · IG-17 em rascunho, com o IG-20 reprovado
+- **O que fiz:** a pedido do Guilherme, criei pelo MCP o conjunto e o anúncio do #17 na [[seguidores-frio-perfil]], copiando o conjunto do IG-12. Os dois estão validados sem erro, em rascunho, para o Guilherme aprovar e publicar no Gerenciador.
+- **O que achei:** o anúncio do IG-20 está `DISAPPROVED` na API. O Guilherme pediu revisão à Meta por achar a reprovação errada. O conjunto do IG-20 segue ativo, mas sem entregar.
+- **Depois:** com o ok do Guilherme, publiquei o IG-17 pelo MCP. Conferido na API: conjunto ativo e anúncio em análise.
+- **Próximo passo:** acompanhar a análise do IG-17 e a revisão do IG-20. Se o IG-20 for aprovado, a campanha passa a US$ 15 por dia, com três conjuntos.
+
 ### 2026-11-25 · Resumo enviado ao grupo
 - **O que fiz:** com o ok do Guilherme, enviei no grupo "CURSO EXOCAD 🚀🇧🇷" o resumo com os totais de vida dos anúncios: seguidores (IG-12 com 96 a US$ 0,71, IG-24 pausado com 29 a US$ 1,19, IG-20 no ar para teste, campanha com 209 a US$ 0,93) e lista de espera (71 inscrições com US$ 12,74, campanha já desativada), mais o aviso do carrinho de 27/11 na mesma página. O `send_message` do MCP deu "connection reset", e o envio saiu por POST direto na ponte, que confirmou a entrega.
 - **Decisões:** o Guilherme tirou do texto o público "comprou o curso antigo" da lista de espera. O carrinho sobe amanhã, 26/11, programado para 27/11.

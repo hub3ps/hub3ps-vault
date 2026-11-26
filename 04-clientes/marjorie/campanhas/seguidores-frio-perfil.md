@@ -35,17 +35,19 @@ Conferida na API em 09/11/2026.
 | `Interesse CAD dental \| EUA \| Visita ao perfil \| IG-12` | `120250969998310554` | `IG-12 \| Reels \| Setup em casa` | `120250969998320554` | ativo desde 12/11 |
 | `Interesse CAD dental \| EUA \| Visita ao perfil \| IG-14` | `120251042926820554` | `IG-14 \| Reels \| Modo sobrevivência` | `120251042926830554` | pausado em 19/11 |
 | `Interesse CAD dental \| EUA \| Visita ao perfil \| IG-24` | `120251098026000554` | `IG-24 \| Reels \| Candy Coating` | `120251098025990554` | pausado em 25/11 |
-| `Interesse CAD dental \| EUA \| Visita ao perfil \| IG-20` | `120251186839450554` | `IG-20 \| Reels \| Calculadora` | `120251186840330554` | em análise desde 25/11 |
+| `Interesse CAD dental \| EUA \| Visita ao perfil \| IG-20` | `120251186839450554` | `IG-20 \| Reels \| Calculadora` | `120251186840330554` | reprovado pela Meta, revisão pedida pelo Guilherme em 26/11 |
+| `Interesse CAD dental \| EUA \| Visita ao perfil \| IG-17` | `120251196326530554` | `IG-17 \| Reels \| Ferramentas escondidas` | `120251196329060554` | em análise desde 26/11 |
 
 ## Criativos no ar
 | ID | Anúncio | Desde |
 |---|---|---|
 | IG-12 | `IG-12 \| Reels \| Setup em casa` | 12/11/2026 |
-| IG-20 | `IG-20 \| Reels \| Calculadora` | 25/11/2026, em análise |
+| IG-20 | `IG-20 \| Reels \| Calculadora` | 25/11/2026, reprovado, em revisão |
+| IG-17 | `IG-17 \| Reels \| Ferramentas escondidas` | 26/11/2026, em análise |
 
 Regra (Guilherme, 25/11): na captação de seguidores não entra vídeo que explica o curso ou a comunidade. Por isso o #27 e o #31 ficam fora desta campanha.
 
-Próximo da fila: os 10 das clientes acabaram com o #20. Vêm os posts que a Julia indicou, começando pelo #17 (Ferramentas escondidas do DentalCAD 3.3, `DV8sOBEjYHg`).
+Próximo da fila: o #16 (Estratificação de cerâmica, `DVKEn2njVkr`), depois o #15, o #23 e o #13. O #17 entrou em 26/11.
 
 ## Resultado por rodada
 Rodada 1, de 06 a 09/11/2026. Seguidores pelo campo de seguidores do Instagram da API, valores de 09/11.
@@ -96,3 +98,5 @@ Rodada 5, de 19 a 23/11/2026, com o dia 23 ainda aberto. Valores da API em 23/11
 - 2026-11-25 · conjunto e anúncio do IG-31 criados pelo MCP em rascunho, a pedido do Guilherme · rodada 6, o #31 (Df7Zrz-NOv6, anunciável na API). Conjunto `120251186839450554` copiado do IG-12 (`source_adset_id`), com a mesma configuração: US$ 5 por dia, `PROFILE_AND_PAGE_ENGAGEMENT` para o perfil do IG, Página no `promoted_object`, idade 22 a 55, EUA, posicionamentos, públicos de interesse, exclusão do `Engajou IG 365d`, Advantage+ de público desligado e atribuição de 1 dia no clique. Desta vez o MCP aceitou a otimização, que recusou em 12/11. Anúncio `120251186840330554`, `IG-31 | Reels | Comunidade nova`, com o post orgânico, botão "Ver perfil do Instagram", link do perfil e sem aprimoramentos. A Meta pediu o link, que entrou no rascunho. Os dois validados sem erro, falta publicar. Pela regra da rodada, sai o IG-24 (US$ 1,19 por seguidor contra US$ 1,03 do IG-12, de 19 a 25/11)
 - 2026-11-25 · no rascunho, o #31 trocado pelo #20 (Calculadora, `DZ5ClM2uOvu`), a pedido do Guilherme · o #31 apresenta a comunidade, e vídeo do curso não entra na captação de seguidores. O #20 é o último dos 10 das clientes ainda não testado, e a automação de resposta ao "Calculator" funciona (Guilherme). Conjunto renomeado para `... | IG-20` e anúncio para `IG-20 | Reels | Calculadora`, com o mesmo botão, link e sem aprimoramentos. Sem erro no rascunho, com a validação do anúncio pendente na Meta. Falta publicar
 - 2026-11-25 · IG-20 publicado pelo MCP e IG-24 pausado pelo MCP, com o ok do Guilherme · rodada 5 fechada pelo custo por seguidor na vida toda: US$ 0,71 no IG-12 (96 seguidores com US$ 67,80) contra US$ 1,19 no IG-24 (29 com US$ 34,64). Primeira publicação feita pelo MCP nesta conta. Conferido na API: conjunto do IG-20 ativo com a mesma configuração do IG-12, anúncio em análise (criativo `3001861766840554`, post do #20, botão "Ver perfil do Instagram", sem aprimoramentos) e conjunto do IG-24 pausado. A campanha segue a US$ 10 por dia. Na vida toda, a campanha trouxe 209 seguidores com US$ 194,05 (US$ 0,93 cada)
+- 2026-11-26 · conjunto e anúncio do IG-17 criados pelo MCP em rascunho, a pedido do Guilherme · o IG-20 foi reprovado pela Meta por política, e o Guilherme pediu revisão por achar a reprovação errada. Enquanto isso, entra o #17 ("Ferramentas escondidas do DentalCAD 3.3", `DV8sOBEjYHg`), o primeiro dos posts indicados pela Julia depois dos 10. Conjunto `120251196326530554` copiado do IG-12, com a mesma configuração e US$ 5 por dia. Anúncio `120251196329060554` com o post orgânico, botão "Ver perfil do Instagram", link do perfil e sem aprimoramentos. Os dois validados sem erro
+- 2026-11-26 · IG-17 publicado pelo MCP, com o ok do Guilherme · conferido na API: conjunto ativo, US$ 5 por dia, `PROFILE_AND_PAGE_ENGAGEMENT` para o perfil, e anúncio em análise (criativo `1145636471661626`, post do #17, botão "Ver perfil do Instagram", sem aprimoramentos). Com o IG-20 reprovado, entregam o IG-12 e, depois da análise, o IG-17
