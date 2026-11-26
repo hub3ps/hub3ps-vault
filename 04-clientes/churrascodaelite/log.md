@@ -16,7 +16,7 @@ Formato:
 - **O que:** o Guilherme configurou a oferta de 67 € na Hotmart (checkout `pay.hotmart.com/E106463685V?off=2tl4n8g6`). Montei a página de vendas a partir da LP da lista aprovada pelo Lucas, com o formulário trocado pelo checkout, as UTMs repassadas (mais `src` e `sck` para o relatório da Hotmart) e o `InitiateCheckout` no clique. Também gerei o logo em 600x600 para a imagem do produto na Hotmart
 - **Resultado em:** https://curso.churrascodaelite.pt/black/ (fonte `agencia_marketing/clients/churrascodaelite/lps/lista-black/black/`), conferida no ar. A lista segue na raiz até o fim da captação. Logo em `marca/logo-hotmart-600.png`
 - **Decisões:** no checkout a Hotmart soma o IVA do país (Portugal: 67 € viram 82,41 €). O Guilherme decidiu manter a oferta e mostrar "67 € + IVA" na página
-- **Pendente:** a página ainda diz "renda extra" no título, herdado da LP aprovada. A regra vale para o texto do anúncio, mas a Meta revisa também a página de destino
+- **Português de Portugal:** "renda" (em Portugal, aluguel) virou "rendimento" nas duas páginas, a da lista e a de vendas, a pedido do Guilherme, e foi publicado e conferido no ar. Com isso a expressão "renda extra" saiu também da página de destino dos anúncios. O nome do curso, "Faturando com Churrasco", fica como está na Hotmart
 - **Próximo passo:** campanha de vendas apontando para `/black/` e Pixel da Hotmart no checkout para medir a compra
 
 ### 2026-11-25 · Grupo de 24 e 25/11, pela rotina
