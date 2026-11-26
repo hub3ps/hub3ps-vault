@@ -12,7 +12,7 @@ atualizado: 2026-11-09
 | Vercel | Publicação de LPs, sites e hubs |
 | MCPs da Meta e do GA4 | Dados direto da fonte |
 | n8n e Evolution | Automações e WhatsApp |
-| Google Drive | Arquivos pesados: fotos, vídeos e PDFs, em `Hub3Ps/2. AGÊNCIA DE TRÁFEGO/1. CLIENTES ATIVOS/<N>. <Nome>/`. Cliente inativo vai para `2 CLIENTES INATIVOS/` |
+| Google Drive | Arquivos pesados: fotos, vídeos e PDFs, em `Hub3Ps/2. AGÊNCIA DE TRÁFEGO/1. CLIENTES ATIVOS/<N>. <Nome>/`. Cliente inativo vai para `2 CLIENTES INATIVOS/`. Projetos internos de IA e automação ficam em `3. AGÊNCIA DE IA/Projetos de IA e automação/` |
 | Miro | Só para desenhar estrutura |
 | Supabase | Só dentro dos agentes de IA de clientes |
 | whatsapp-mcp | Claude lê e envia mensagens no WhatsApp por um número só da agência, conectado como aparelho (não oficial, risco de bloqueio do número). Instalado em 09/11/2026 em `~/ferramentas/whatsapp-mcp`: a ponte em Go roda como serviço do macOS (`com.hub3ps.whatsapp-bridge`), que liga com o Mac e se reinicia se cair. A rotina diária está em [[03-processos/whatsapp-diario]], e o QR se refaz a cada 20 dias, mais ou menos. A API local da ponte só aceita o próprio Mac. Toda mensagem enviada passa pelo ok do Guilherme |
