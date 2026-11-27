@@ -52,6 +52,8 @@ anúncio, de rastreamento e de bastidor ficam de fora.
 | 29/09 a 01/10 | Página | LPs com os planos novos e o teste de 7 dias, e botão padronizado em "Começar teste grátis" com o aviso de 7 dias sem cartão |
 | 08/10 | Ativação e conversão | Isadora começa os e-mails do teste à mão, incluindo a recuperação de cadastros incompletos |
 | 28/10 | Ativação | Isadora passa a mandar e-mails pessoais para quem criou o escritório e não importou os processos |
+| 09/11 | Cadastro | Informativos de segurança na criação da conta, na tela da OAB e na janela "Como cuidamos dos seus dados" |
+| 12/11 | Página | Site novo no ar em `www.juria.app.br`, no lugar da página institucional e das páginas de nicho |
 
 **Datas a confirmar:** 21/08 é quando o Saulo disse que começaria a melhorar os
 "Primeiros passos", e não há registro da publicação. Não se sabe desde quando o

@@ -57,8 +57,8 @@ O que o agente faz fica num runbook do vault, `03-processos/agente-da-manha.md`,
 
 ### Etapa 4 · O repo vira só código
 - [x] 4.1 `CLAUDE.md` do `agencia_marketing` passa a apontar para o vault como cérebro
-- [ ] 4.2 A `main` local está 10 commits à frente e 23 atrás da remota: sincronizar
-- [ ] 4.3 Commit do que está pendente (`cortar_respiros.py`, `hubs/`, ajustes do editar-video), com o seu ok
+- [x] 4.2 A `main` local está 10 commits à frente e 23 atrás da remota: sincronizar
+- [x] 4.3 Commit do que está pendente (`cortar_respiros.py`, `hubs/`, ajustes do editar-video), com o seu ok
 - [ ] 4.4 Dar cópia na nuvem ao que só existe no Mac: os 8 ajustes do `~/ferramentas/whatsapp-mcp`, `Desktop/projetos_python`, `Desktop/site-guimiguelmkt` e `credenciais.local.md` (num gerenciador de senhas). `Documents/juria-exportacoes` já tem cópia no Drive desde 26/11
 
 ### Etapa 5 · Arquivos
@@ -81,3 +81,5 @@ O que o agente faz fica num runbook do vault, `03-processos/agente-da-manha.md`,
 - 2.2 (fim): JurIA com 33 notas novas, 3 juntadas e 11 em `_arquivo/juria/`, e 47 ponteiros no repo. DS com 10 notas e ponteiros. Churrasco com o README virado ponteiro. Ficam no repo só o que código lê, os README de pasta de código e `credenciais.local.md`. Todos os ponteiros abrem notas que existem (conferido)
 - 4.1: `CLAUDE.md` e `clients/README.md` do repo dizem que ele é só de código e mandam ler o vault
 - Binários do JurIA (cerca de 170 MB): quase todos são lidos por código (LPs, vídeo, peças em HTML) e ficam no repo. Ao Drive vão só as peças finais, com o ok do Guilherme
+- 4.2 e 4.3: 3 commits (`c1deddb`, `69b3673`, `12718a6`) e push na `main` em 27/11, com os 10 das LPs do Churrasco. Antes do push, os 23 commits do GitHub foram trazidos; o único conflito foi `funil/definicoes.md` do JurIA, que tinha 2 linhas novas no GitHub, levadas para o vault. Os 8 sites no ar foram conferidos antes e depois: mesmo conteúdo. A prévia do `site-mobiletec` a partir da `main` dá erro em todo push desde antes (a produção dele segue a branch), sem efeito no ar
+- **Pontas abertas:** (1) as cópias dos textos na branch da Mobiletec ainda não viraram ponteiro, porque o push na branch republica o site; (2) `clients/dsmuaythai/Reposicionamento IG/` (4 prints, 8 MB) fica fora do commit e vai para o Drive; (3) binários de peça final do JurIA e do Churrasco a escolher para o Drive
