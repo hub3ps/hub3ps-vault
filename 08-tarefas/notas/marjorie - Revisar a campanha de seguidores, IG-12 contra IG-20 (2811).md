@@ -17,3 +17,5 @@ Pedido do Guilherme em 25/11: lembrar dele em 3 dias para revisar a [[seguidores
 - O conjunto novo pode ser criado e publicado pelo MCP, copiando o do IG-12 (`source_adset_id`)
 
 26/11: o IG-20 foi reprovado pela Meta e o Guilherme pediu revisão. O IG-17 (Ferramentas escondidas) entrou em rascunho, para o Guilherme publicar. Na revisão, comparar o IG-12 com o que estiver entregando. O próximo da fila agora é o #16 (`DVKEn2njVkr`).
+
+27/11: o IG-17 foi pausado (US$ 9,30 e 1 seguidor em dois dias) e o #16 (`DVKEn2njVkr`) entrou no lugar, publicado pelo MCP e em análise. Na revisão, comparar o IG-12 com o IG-16. O IG-12 caiu para US$ 2,85 por seguidor em 26 e 27/11 (2 seguidores), conta nossa. O próximo da fila agora é o #15 (3 novidades do DentalCAD 3.3), cuja legenda começa em português, com o convite do CIOSP: conferir o idioma antes de subir.

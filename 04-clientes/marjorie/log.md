@@ -6,6 +6,12 @@ autor: claude
 
 A entrada mais recente fica no topo, uma por sessão de trabalho.
 
+### 2026-11-27 · IG-17 pausado e IG-16 no ar
+- **O que fiz:** a pedido do Guilherme, pausei pelo MCP o conjunto do IG-17 na [[seguidores-frio-perfil]] e subi o #16, o próximo da fila, num conjunto copiado do IG-12 (US$ 5 por dia). Publiquei pelo MCP e conferi na API: conjunto do IG-16 ativo, anúncio em análise, IG-17 pausado e rascunho vazio.
+- **O que achei:** o IG-17 gastou US$ 9,30 em 26 e 27/11 e trouxe 12 visitas ao perfil e 1 seguidor (US$ 9,30 por seguidor, conta nossa). O IG-12, no mesmo período, gastou US$ 5,70 e trouxe 63 visitas e 2 seguidores (US$ 2,85, conta nossa), bem acima dos US$ 0,71 da vida toda. O IG-20 segue reprovado.
+- **Decisões:** sai o IG-17, entra o IG-16 (Guilherme). A legenda do #16 tem trecho em português depois do inglês, como no post orgânico.
+- **Próximo passo:** confirmar a aprovação do IG-16 e ler o IG-12 contra o IG-16 na revisão de 28/11. O próximo da fila é o #15.
+
 ### 2026-11-27 · Grupo de 25 e 26/11, pela rotina
 - **O que:** a rotina WhatsApp diário registrou as mensagens de 25/11, 16h34, a 26/11, 11h37. Dois áudios do Guilherme (25/11, 16h38 e 17h14) ficaram sem transcrição: a ponte gravou cada um com o nome de arquivo do áudio anterior da Julia
 - **Resultado em:** `fontes/2026-11-27-whatsapp-grupo.md`
