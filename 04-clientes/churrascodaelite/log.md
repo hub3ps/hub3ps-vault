@@ -274,3 +274,10 @@ Formato:
 - **Em aberto:** a LP ainda cita IA na dor "Queres crescer rápido" e em "O que ganhas". O título da aula do Lucas aparece cortado na Hotmart ("marketing digital e intr..."), então não dá para confirmar se fala de IA. A descrição do Samuel na equipa ("técnicas de churrasco e gestão de eventos") também difere da aula dele (higiene e HACCP)
 - **Próximo passo:** commit da fonte, com o OK do Guilherme
 - **Decisão (Guilherme, 26/11):** a IA fica na LP, porque o Lucas fala de IA na aula dele. Voltou também à mensagem do grupo, no item da gestão
+
+## 26/11 · Garantia de 15 dias e o curso como aulas gravadas
+- **O que:** o Guilherme corrigiu a garantia, que é de 15 dias, não 7, e explicou que o curso são as aulas gravadas de um workshop presencial. Depois vêm um workshop mais completo e, por último, a mentoria. A LP dizia 7 dias em 5 lugares nas vendas e 3 na lista, e o selo era uma imagem com o "7" desenhado, que virou um selo em texto (HTML e CSS). Publicado e conferido no ar
+- **Mensagem do grupo:** ajustada com 15 dias, "aulas gravadas do nosso workshop presencial" e uma linha sobre ser o primeiro passo, sem detalhar os próximos produtos
+- **Em aberto:** a seção "Mais do que churrasco" e o FAQ do bónus falam de mentoria logo depois do workshop, sem o workshop completo no meio. Não é falso, mas não mostra a escada nova. Não mexi
+- **Próximo passo:** commit da fonte (3 módulos e garantia), com o OK do Guilherme
+- **Commit (26/11):** `c5b750a` na main, sem push

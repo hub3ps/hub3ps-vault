@@ -28,6 +28,7 @@ Montada pelo MCP em 26/11 e publicada no mesmo dia com o ok do Guilherme. Confer
   - De 27/11, 00h00, até 01/12, 00h00, no horário do Pacífico (fuso da conta). Ou seja, roda até o fim de 30/11
   - Público: só `Seguidores IG`. A lista de espera vai num conjunto próprio, quando a Julia mandar o arquivo e o Guilherme criar o público (decisão de 26/11)
   - Sem filtro de país, idade de 18 a 65, Advantage+ de público e expansão desligados, posicionamentos automáticos
+- **Rastreamento:** o clique nos botões da Circle dispara `InitiateCheckout` por regra do configurador de eventos (`1445278821096545` e `1819486695987515`), testado em 26/11. A venda se mede na Circle
 - **Anúncios:** os 3 vídeos do Ad 2 ([[2026-11-14-anuncios-gravados-julia]]), um por cargo, no mesmo conjunto
 
 ## Montagem dos anúncios

@@ -44,6 +44,7 @@ Fechado em 12/11/2026 (Guilherme), num escopo menor que o da proposta, para entr
 - [[tracking]]: Pixel, eventos da LP e da Hotmart, verificação de domínio na BM (13/11)
 - [[criativos-e-audiovisual]]: só os criativos dos anúncios (13/11). O Lucas grava quando precisar, e se ofereceu para o fim de semana de 14 e 15/11
 - **Calendário (da proposta, mantido em 13/11):** aquecimento da base até 26/11, Black Friday de 27 a 30/11, funil contínuo em dezembro e captação para o workshop de 08/02 em janeiro
+- **Produtos (Guilherme, 26/11):** o "Faturando com Churrasco" da Hotmart são as aulas gravadas de um workshop presencial: 3 módulos e 6 aulas, com 15 dias de garantia. Os próximos produtos são, nesta ordem, um workshop mais completo e a mentoria
 - **Nome da promoção:** em Portugal se chama "Black Week" (Lucas, 18/11, grupo). O grupo da promoção passa a esse nome (Guilherme, 18/11)
 - **Público da campanha de seguidores:** só homens desde 18/11. O Guilherme cortou 100% do público feminino depois de o Lucas notar "muita mulher seguindo" (grupo, 18/11, 10h58)
 - **Fora do escopo:** a página do Brasil, Google Ads, a loja e o catering
