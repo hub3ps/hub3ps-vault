@@ -1,4 +1,3 @@
-# Tarefas do cliente churrascodaelite. As notas ficam em 08-tarefas/notas/, com cliente: churrascodaelite.
 filters:
   and:
     - file.hasTag("task")
@@ -7,16 +6,16 @@ filters:
 views:
   - type: tasknotesKanban
     name: Quadro
+    groupBy:
+      property: status
+      direction: ASC
     order:
       - status
       - due
       - file.tags
     sort:
-      - column: tasknotes_manual_order
+      - property: tasknotes_manual_order
         direction: DESC
-    groupBy:
-      property: status
-      direction: ASC
     hideEmptyColumns: false
     pinnedColumns: a-fazer, fazendo, aguardando-cliente, feito
     columnWidth: 280

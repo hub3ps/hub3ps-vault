@@ -6,6 +6,12 @@ autor: claude
 
 A entrada mais recente fica no topo, uma por sessão de trabalho.
 
+### 2026-11-27 · Documentos de texto migrados do repo para o vault
+- **O que fiz:** movi para cá os 10 documentos em texto de `clients/dsmuaythai/` do `agencia_marketing`: briefing, marca, acervo de fotos, histórico da conta Meta até agosto, extração do site, avaliações do Google, análise e estrutura da LP, avaliação do vídeo de depoimentos e o README antigo. Cada um ganhou frontmatter com `origem`, e os links entre eles viraram links do vault. No repo ficou um ponteiro de 2 linhas no lugar de cada um, e o README da pasta passou a descrever só o código.
+- **Resultado em:** [[04-clientes/dsmuaythai/cliente|cliente]], seção "Onde está cada coisa"
+- **O que ficou no repo:** o código (LPs, hub, artes em HTML, `ferramentas/`), os README de `lps/trial-lp/` e `comercial/instagram/stories/`, que descrevem pasta de código, e os binários, que vão para o Drive pela central.
+- **Próximo passo:** as skills de criativo procuram `clients/<slug>/brief.md` e `brand.md` e agora encontram o ponteiro; conferir na próxima vez que rodarem.
+
 ### 2026-11-24 · Feriados bloqueados no Calendly
 - **O que fiz:** com o OK do Guilherme, bloqueei pelo MCP do Calendly, no evento `Muay Thai Trial Classes – $29.99`, o Thanksgiving (26/11) e o recesso de 24/12 a 03/01, conforme o aviso do David de 24/11. Sexta e sábado já ficam fechados toda semana, então 27 e 28/11 não precisaram de bloqueio. Copiei as regras e os bloqueios antigos sem mudança.
 - **O que achei:** conferido na API, não há horário em 26/11 nem de 24/12 a 03/01; 23/12 e 04/01 seguem abertos. Efeito colateral: o evento deixou de seguir a agenda "Working hours" e passou a ter agenda própria, com as mesmas regras. Mudança futura em "Working hours" não chega mais a ele; ajuste de horário passa a ser no evento.

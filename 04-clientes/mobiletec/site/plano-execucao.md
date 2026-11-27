@@ -7,7 +7,7 @@ origem: agencia_marketing, branch claude/loving-archimedes-rp33cv, clients/mobil
 ---
 # Plano de execução · site Mobiletec em Astro
 
-> Mesmo modelo do plano do JurIA (`agencia_marketing/clients/juria/PLANO-execucao-site-astro.md`), na
+> Mesmo modelo do plano do JurIA ([[_arquivo/juria/PLANO-execucao-site-astro]]), na
 > branch `feat/site-astro`. Fases curtas, cada uma com critério de pronto.
 
 ## Decisões já tomadas

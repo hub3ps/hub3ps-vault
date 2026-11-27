@@ -17,7 +17,7 @@ Vídeo segue outro runbook: [[video-juria|video-juria.md]].
 - [ ] Preço, plano e trial só de `clients/juria/comercial/planos-e-creditos.md`
 - [ ] Função e o que cada plano libera, de `comercial/funcionalidades.md`.
       "Todas as funcionalidades" só vale do Plus em diante
-- [ ] Tom: `clients/juria/brand.md`, sem travessão
+- [ ] Tom: [[04-clientes/juria/marca]], sem travessão
 
 ## 2. Montar
 

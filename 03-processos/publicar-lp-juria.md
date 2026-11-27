@@ -106,4 +106,4 @@ Ou pelo MCP do Vercel: `list_deployments` no time `hub3psmarketing`, projeto
 
 Os CTAs seguem um padrão e repassam UTM (`data-forward-utm`). Leia a seção 4 do
 `clients/juria/README.md` antes. Punch-list aberta em
-`clients/juria/source/lps-botoes-pendencias.md`.
+[[_arquivo/juria/source/lps-botoes-pendencias]] (arquivado em 27/11/2026).

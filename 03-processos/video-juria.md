@@ -23,7 +23,7 @@ Confira os fatos que mudam. Vídeo com preço ou prazo velho já aconteceu.
 - [ ] **Planos e trial:** `clients/juria/comercial/planos-e-creditos.md`.
       Não use o `brief.md` para número. Em 19/10/2026: trial de 7 dias, a
       partir de R$ 69 (Solo). "Todas as funcionalidades" só vale do Plus em diante.
-- [ ] **Marca:** `clients/juria/brand.md`, paleta navy + ciano, Inter.
+- [ ] **Marca:** [[04-clientes/juria/marca]], paleta navy + ciano, Inter.
 - [ ] **Eixo:** todo criativo declara um (Categoria, Consolidação ou
       Inteligência), ver `brief.md`.
 

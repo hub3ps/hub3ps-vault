@@ -15,7 +15,7 @@ drive: https://drive.google.com/drive/folders/1mbqBO3Ti1WEwhq6iFC_zDNSNNMyfiz5i
 painel: https://juria.hub3ps.com
 repositorios: [hub3ps/agencia_marketing, hub3ps/juria-lps]
 proxima-reuniao: TODO
-atualizado: 2026-11-12
+atualizado: 2026-11-27
 autor: claude
 ---
 # JurIA
@@ -126,20 +126,31 @@ Nunca guarde senha aqui. O token fica em `credenciais.local.md`, na raiz do `age
 - **Domínios:** `www.juria.app.br` (site, desde 12/11), `portal.juria.app.br` (o app, com cadastro e login), `juria.hub3ps.com` (hub), `funil.juria.hub3ps.com` (painel do funil), `site.juria.hub3ps.com` (prévia do site novo)
 - **Vercel** (time hub3psmarketing): `juria` (hub), `juria-lps` (produção) e `site-novo-juria` (prévia do site, publicada da branch `feat/site-astro`)
 
-## Onde está cada coisa (repo `agencia_marketing`, pasta `clients/juria/`)
-Por enquanto o conhecimento fica no repo. A migração para o vault é o próximo passo, registrado no [[08-tarefas/Quadro.base|quadro de tarefas]].
+## Onde está cada documento
+Desde 27/11/2026 todo texto do JurIA fica aqui no vault; o repo `agencia_marketing` guarda só código e o que um script lê. Cada arquivo migrado deixou no repo um ponteiro de 2 linhas.
 
 | Preciso de | Está em |
 |---|---|
-| Arquitetura, deploy e CTAs | `README.md` |
-| Briefing, persona, dores e objeções | `brief.md` (o original `.docx` está em `source/`) |
-| Preço, plano e funções | `comercial/planos-e-creditos.md` e `comercial/funcionalidades.md` |
-| Registro de otimizações e propostas | `hub/mudancas.json` (aparece no hub) |
-| Definições do funil | `funil/definicoes.md` |
-| Fichas de campanha | `campanhas/`. As ativas também estão em `campanhas/` aqui no vault |
-| Copy dos anúncios | `copies/<campanha>/` |
-| Site novo em Astro | branch `feat/site-astro`, arquivo `clients/juria/ESTADO-site-astro.md` |
-| Runbooks | `docs/processos/atualizar-hub-juria.md` e `publicar-lp-juria.md` |
+| Briefing, persona, dores e objeções | [[04-clientes/juria/brief]] (o original `.docx` está no repo, em `clients/juria/source/`) |
+| Identidade visual e verbal | [[04-clientes/juria/marca]] |
+| Site em Astro: estado, estrutura e brief | [[04-clientes/juria/site/estado]], [[04-clientes/juria/site/estrutura-home]], [[04-clientes/juria/site/estrutura-site]], [[04-clientes/juria/site/brief-migracao]] |
+| Fichas de campanha | `campanhas/` aqui no vault, uma por campanha (`juria-leads-<geo>-<DDMM>`) |
+| Copy dos anúncios | `copies/<campanha>/` aqui no vault |
+| Diretrizes de copy e prompts de criativo | [[04-clientes/juria/criativos/diretrizes-copy-meta-ads]] e `criativos/` |
+| Legendas e roteiros do Instagram | `instagram/` aqui no vault (as peças em HTML ficam no repo, em `clients/juria/creatives/instagram/`) |
+| Persona e roteiros da Helena | `helena/` aqui no vault |
+| Estratégia da régua de e-mails | [[04-clientes/juria/email/estrategia-trial-7-dias]] |
+| Definições do funil | [[04-clientes/juria/funil/definicoes]] |
+| Relatórios, análises e revisões | `relatorios/`, `analises/` e `fontes/` aqui no vault |
+| Reuniões | `reunioes/` aqui no vault |
+| Histórico morto (plano do site, rascunhos das páginas, tracking antigo, pendências das LPs antigas) | `_arquivo/juria/` no vault |
+| Preço, plano e funções | repo, `clients/juria/comercial/planos-e-creditos.md` e `funcionalidades.md`. Ficam lá porque os scripts do site leem |
+| Resumo da régua de e-mails | repo, `clients/juria/email/funil-trial-7-dias-resumo.md`. O gerador do PDF lê |
+| Arquitetura, deploy e CTAs | repo, `clients/juria/README.md` |
+| Painel do funil | repo, `clients/juria/funil/` (gerado por `ferramentas/gerar-funil.py`) |
+| Registro de otimizações e propostas | repo, `clients/juria/hub/mudancas.json` (aparece no hub) |
+| Código do site | repo, `juria-site-astro/` |
+| Runbooks | `03-processos/` aqui no vault; `docs/processos/atualizar-hub-juria.md` segue no repo porque a rotina da nuvem lê |
 
 ## Links
 - Tarefas: [[04-clientes/juria/tarefas.base|quadro de tarefas]]

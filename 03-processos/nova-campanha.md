@@ -50,7 +50,7 @@ A ficha tem que ter:
 4. **Segmentação**, explícita (aberto? interesses? quais?)
 5. **Histórico**: toda mudança posterior, com data e motivo
 
-Modelo pronto: `clients/juria/campanhas/br-institucional-2708.md`.
+Modelo pronto: [[04-clientes/juria/campanhas/juria-leads-br-2708]].
 
 ## Depois de publicar
 
