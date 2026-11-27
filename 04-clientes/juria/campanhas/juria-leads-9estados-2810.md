@@ -4,19 +4,20 @@ cliente: juria
 nome-campanha: juria-leads-9estados-2810
 plataforma: meta
 id-campanha: "120249694436600208"
-status: ativa
+status: pausada
+pausada: 2026-11-23
 inicio: 2026-10-29
 verba-diaria: 27
 evento-otimizacao: COMPLETE_REGISTRATION
 lp: https://www.juria.app.br
-atualizado: 2026-11-04
+atualizado: 2026-11-27
 autor: claude
 ---
 # juria-leads-9estados-2810
 
 Nome no Meta: **JurIA - Leads - 9 Estados - Institucional - Concluir inscrição**. A ficha completa está no repo, em `clients/juria/campanhas/9estados-videos-2810.md`.
 
-> ⚠️ **O teste está travado** (API, 04/11/2026): o conjunto da música está pausado, e só o da locução roda. Do jeito que está, não dá para comparar música com locução.
+> **Pausada em 23/11/2026** (API, conferido em 27/11). Só a campanha de Lead (`1310`) segue no ar. Antes disso, desde 02/11, só o conjunto da locução rodava, porque o da música estava pausado.
 
 ## Configuração
 Conferida na API em 04/11/2026.

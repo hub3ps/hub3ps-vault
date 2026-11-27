@@ -20,7 +20,7 @@ autor: claude
 ---
 # JurIA
 
-> **Estado atual:** duas campanhas Meta no ar (API, 04/11/2026): a de Lead, a R$ 42/dia, avaliada em 13/11, e a de vídeos, em que só o conjunto da locução roda porque o da música está pausado. O gargalo é a ativação: só 19% dos escritórios importam processos e não houve nenhuma assinatura até 29/10. O site novo em Astro está no ar em `www.juria.app.br` desde 12/11, no lugar das LPs antigas. As três frentes combinadas em 06/11 miram mais escritórios importando processos e leads melhores.
+> **Estado atual:** uma campanha Meta no ar (API, 27/11/2026), a de Lead (`juria-leads-9estados-1310`), otimizando pelo `Lead`, que é a criação do escritório. A de vídeos (`2810`) foi pausada em 23/11. O gargalo é a ativação: só 19% dos escritórios importam processos e não houve nenhuma assinatura até 29/10. O site novo em Astro está no ar em `www.juria.app.br` desde 12/11, no lugar das LPs antigas. As três frentes combinadas em 06/11 miram mais escritórios importando processos e leads melhores.
 
 Mesma empresa do cliente [[04-clientes/mobiletec/cliente|Mobiletec]], que tem pasta própria. Decisão do Guilherme em 04/11/2026.
 
@@ -104,6 +104,7 @@ Consolidado em 06/11/2026 a partir do log, do `brief.md`, das fichas de campanha
 | 06/11/2026 | Reunião com a Mobiletec: informativos de segurança no cadastro, site novo em produção e pessoa para gravar conteúdo | [[2026-11-06-mobiletec]] |
 | 09/11/2026 | Informativos de segurança no ar no cadastro, em teste até 23/11 | [[2026-11-09-whatsapp-saulo-seguranca]] |
 | 12/11/2026 | Site novo em Astro no ar em `www.juria.app.br`, no lugar das LPs antigas | log |
+| 23/11/2026 | Campanha de vídeos (`2810`) pausada; só a de Lead segue no ar | Meta (API) |
 
 ## Depende do cliente
 Pedidos abertos com a Mobiletec, conforme o registro do hub (`clients/juria/hub/mudancas.json`, de 29 e 30/10/2026):
