@@ -77,6 +77,12 @@ Entrou em 26/11/2026 como referência de estética.
 - **Bio com papel humano:** "👧 Pai" logo depois da promessa profissional
 - **Para o Guilherme:** fixar um post pessoal, e não só técnico, e ter destaques da vida real
 
+## Cuidado: as referências já são grandes (26/11/2026)
+Decisão do Guilherme: não vamos mapear perfis virais. O conteúdo nasce aqui e se ajusta pela análise semanal do próprio perfil. E as referências se leem com uma ressalva: elas já têm audiência (de 17 mil a 1,9 milhão), o @guimiguelmkt tem 146.
+- **Post de vida sem gancho** funciona para quem já é seguido pela pessoa. Num perfil pequeno, quem vê é gente nova: o post de vida precisa de uma frase na tela que diga quem é você ou por que importa
+- **Copiar o formato, não o resultado.** Um corte que dá 1 milhão de views lá pode dar 300 aqui, e isso não quer dizer que o formato falhou
+- **A proporção de atração pesa mais aqui** (50%, ver [[fontes/2026-11-26-tiktok-leticia-vaz-grade-de-conteudo|grade]]), justamente porque a audiência ainda é pequena
+
 ## O que deixa o perfil com cara de gente (26/11/2026)
 Pedido do Guilherme: o perfil não pode ser sempre profissional e engessado. O que os quatro perfis de estética (@pablo_aa, @pedroaaugustto, @eusoumarcospaulo, @eslen.delanogare) fazem em comum:
 - **Pelo menos 1 em cada 3 posts é vida:** treino, família, viagem, rotina, conquista pessoal. Sem gancho de venda

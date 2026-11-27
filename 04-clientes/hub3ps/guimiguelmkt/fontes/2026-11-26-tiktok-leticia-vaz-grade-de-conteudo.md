@@ -38,3 +38,20 @@ Vídeo do TikTok mandado pelo Guilherme em 26/11/2026: [tiktok.com/@leticiavazlv
 **Conversão aqui não é vender curso:** é levar ao contato da bio ("Para projetos e contato 👇"). O produto para gestor (ebook ou aula, ver [[04-clientes/hub3ps/conteudo/serie-whatsapp-na-rotina|série do WhatsApp]]) ainda não existe.
 
 **O CTA "responde QUERO que eu te mando no direct"** do vídeo dela só serve com entrega automática de DM (decisão de 17/11: sem automação, não usar).
+
+## Conteúdo para viralizar (26/11/2026)
+Pedido do Guilherme: além da grade, tentar peças que possam viralizar. Elas ocupam o espaço de **atração** e seguem cinco regras:
+- **Público largo:** fala com quem anuncia ou tem negócio, não só com gestor. Sem jargão (CPA, ROAS, pixel)
+- **Gancho em 1 segundo**, escrito na tela: contradição, polêmica com o inimigo em comum, ou "você já..."
+- **Curto:** 15 a 35 segundos. Um ponto só, sem introdução
+- **Feito para compartilhar:** a pessoa manda para alguém ("manda para o seu sócio", humor de gestor, situação de cliente)
+- **Termina sem fechar tudo**, para gerar comentário (pergunta ou opinião que divide)
+
+Sinal de viral na análise semanal: **compartilhamentos e envios** acima da média, mais do que curtidas.
+
+Ideias iniciais, todas com coisas reais da operação:
+1. **POV de humor:** "o cliente no 2º dia de campanha perguntando cadê as vendas"
+2. **Polêmica:** "o que o seu gestor de tráfego não te conta" (relatório de alcance, impulsionar, culpa do anúncio)
+3. **Identificação em lista rápida:** "coisas que o dono de negócio acha que é marketing"
+4. **Contradição com número real:** campanha barata que vendeu mais que a cara (só com caso e número verdadeiros e com o ok do cliente)
+5. **Cultura:** assunto do momento puxado para anúncio e IA (GTA 6, Black Friday, novidade da Meta)
