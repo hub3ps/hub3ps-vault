@@ -28,7 +28,7 @@ Pasta do Instagram pessoal do Guilherme. Criada em 11/11/2026, a pedido dele.
 | 11/11 | [[roteiros/2026-11-11-fim-do-gestor-de-trafego\|O fim do gestor de tráfego]] | gestor de tráfego | gravado em 11/11, corte sugerido na nota, falta editar e postar |
 | 11/11 | [[roteiros/2026-11-11-claude-meta-ads-contexto\|Não conecte o Claude no seu Meta Ads sem fazer isso antes]] | gestor de tráfego | publicado em 12/11 (IG-06), impulsionado desde 13/11 |
 | 17/11 | [[roteiros/2026-11-17-agente-whatsapp-tarefas\|Agente de IA que acompanha os grupos de WhatsApp]] | gestor de tráfego | publicado em 17/11 (IG-07), impulsionado no mesmo dia |
-| 27/11 | [[roteiros/2026-11-27-tres-para-gravar\|Três para gravar: gestor que não conta, demissão, IA antes das 9h]] | dono de negócio e gestor | para gravar em 27/11 |
+| 27/11 | [[roteiros/2026-11-27-tres-para-gravar\|Série: trabalhar sozinho com IA (4 vídeos)]] | gestor e dono de negócio | para gravar em 27/11 |
 | 19/11 | [[roteiros/2026-11-19-rotina-de-casa\|Rotina de um gestor de tráfego que trabalha sozinho com IA]] | gestor de tráfego | gravado em 19/11, falta o texto no vídeo e postar |
 | 11/11 | [[roteiros/2026-11-11-gta-6-4-coisas\|4 coisas que vou fazer quando lançar o GTA 6]] | gestor de tráfego e geral | rascunho para aprovação, postar em 18 ou 19/11 |
 | TODO | roteiro 2 | dono de negócio | depois de gravar e publicar o roteiro 1 (decisão de 11/11) |
