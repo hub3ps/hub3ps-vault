@@ -13,7 +13,8 @@ Pasta do Instagram pessoal do Guilherme. Criada em 11/11/2026, a pedido dele.
 | Nota | O que tem |
 |---|---|
 | [[posicionamento]] | público, objetivo, promessa, tom e bio |
-| [[referencias]] | os 4 perfis de referência de estética e conteúdo. **Consultar em todo pedido de conteúdo** |
+| [[referencias]] | os perfis de referência de estética e conteúdo. **Consultar em todo pedido de conteúdo** |
+| [[ganchos]] | as 8 estruturas de gancho e o formato de vídeo falado com pouca edição. **Consultar antes de todo vídeo** |
 | [[diagnostico-2026-11-11]] | os 5 primeiros posts, números e o que funcionou |
 | `roteiros/` | um roteiro por vídeo, em tópicos, com data no nome, e a avaliação da gravação |
 | `campanhas/` | uma ficha por campanha paga do perfil, com os IDs e a lista de posts `IG-NN` |
@@ -34,7 +35,7 @@ Pasta do Instagram pessoal do Guilherme. Criada em 11/11/2026, a pedido dele.
 | TODO | roteiro 2 | dono de negócio | depois de gravar e publicar o roteiro 1 (decisão de 11/11) |
 
 ## Como fazemos roteiro
-- Antes de tudo, abrir as [[referencias]] e partir de um formato delas
+- Antes de tudo, abrir as [[referencias]] e o [[ganchos|banco de ganchos]], e partir de um formato delas
 - O Guilherme manda um vídeo de referência e o que pensa em falar
 - O roteiro adapta a estrutura da referência à realidade da Hub3Ps e ao jeito dele de falar
 - Sai **em tópicos**, nunca em fala corrida para ler: ele grava falando, olhando os tópicos
