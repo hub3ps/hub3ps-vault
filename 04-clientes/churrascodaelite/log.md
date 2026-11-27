@@ -273,3 +273,4 @@ Formato:
 - **Corrigido e publicado** na lista e na página de vendas: grade de 3 módulos, "3 módulos e 6 aulas" nos números e no preço, "6 aulas" nos passos, e o FAQ do equipamento passou a "Preciso de ter tudo montado para começar?". Conferido no ar. A mensagem do grupo foi ajustada igual, sem IA e sem "sem equipamento"
 - **Em aberto:** a LP ainda cita IA na dor "Queres crescer rápido" e em "O que ganhas". O título da aula do Lucas aparece cortado na Hotmart ("marketing digital e intr..."), então não dá para confirmar se fala de IA. A descrição do Samuel na equipa ("técnicas de churrasco e gestão de eventos") também difere da aula dele (higiene e HACCP)
 - **Próximo passo:** commit da fonte, com o OK do Guilherme
+- **Decisão (Guilherme, 26/11):** a IA fica na LP, porque o Lucas fala de IA na aula dele. Voltou também à mensagem do grupo, no item da gestão

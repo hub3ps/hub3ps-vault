@@ -18,7 +18,7 @@ Como prometido, quem está no grupo sabe primeiro: o workshop *Faturando com Chu
 O que levas:
 ✅ 3 módulos e 6 aulas, do básico ao profissional
 ✅ Técnicas de churrasco para eventos, raças e cortes de carne
-✅ Gestão, planeamento, logística e marketing digital para começares do zero
+✅ Gestão, planeamento, logística, marketing digital e IA para começares do zero
 ✅ Higiene e HACCP para trabalhares como profissional
 ✅ Aula final de mentoria com o Lucas
 ✅ Acesso imediato, vês quando e onde quiseres
