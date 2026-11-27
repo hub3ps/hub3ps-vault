@@ -80,9 +80,12 @@ Nunca guarde senha aqui. O token da BM fica em `credenciais.local.md`, na raiz d
 
 | Preciso de | Está em |
 |---|---|
-| Briefing em 12 blocos | `brief.md` |
-| Identidade visual | `brand.md` |
-| Histórico da conta Meta até agosto | `campanhas/historico-meta-ate-2026-08.md` |
+| Briefing em 12 blocos | [[04-clientes/dsmuaythai/briefing|briefing]] (vault, desde 27/11) |
+| Identidade visual e acervo de fotos | [[04-clientes/dsmuaythai/marca/marca|marca]] e [[04-clientes/dsmuaythai/marca/acervo-de-fotos|acervo-de-fotos]] (vault) |
+| Histórico da conta Meta até agosto | [[04-clientes/dsmuaythai/campanhas/historico-meta-ate-2026-08|historico-meta-ate-2026-08]] (vault) |
+| Análise e estrutura da LP, avaliação do vídeo | `entregas/2026-09-01-*` (vault) |
+| Site antigo e avaliações do Google | `fontes/2026-09-01-*` (vault) |
+| README antigo do repo | [[04-clientes/dsmuaythai/historico-readme-do-repo|historico-readme-do-repo]] (vault) |
 | LP: fonte e versão PT de aprovação | `lps/trial-lp/` |
 | Página da bio | `lps/bio/` |
 | Artes do Instagram e simulador do perfil | `comercial/instagram/` e `hub/simulador/` |

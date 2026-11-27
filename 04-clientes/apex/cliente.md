@@ -80,7 +80,8 @@ Nunca guarde senha aqui. As variáveis ficam no EasyPanel.
 | Roteiro de testes do go-live | `docs/cliente-apex/roteiro-de-testes.md` |
 | Plano por fases | `docs/PLANO-IMPLEMENTACAO.md` |
 | Decisões (ADRs) | `docs/decisions/` |
-| Briefing original de julho e FAQ de 47 itens | `clients/apex/` no `agencia_marketing` |
+| Briefing original de julho | [[04-clientes/apex/fontes/2026-07-27-briefing\|fontes/2026-07-27-briefing]] (migrado do `agencia_marketing` em 27/11/2026) |
+| FAQ de 47 itens (`base_conhecimento_studio_apex.xlsx`) | Drive, pasta 15. Apex Wellness Club (TODO: subir) |
 
 ## Links
 - Tarefas: [[04-clientes/apex/tarefas.base|quadro de tarefas]]

@@ -18,10 +18,18 @@ atualizado: 2026-11-09
 | whatsapp-mcp | Claude lê e envia mensagens no WhatsApp por um número só da agência, conectado como aparelho (não oficial, risco de bloqueio do número). Instalado em 09/11/2026 em `~/ferramentas/whatsapp-mcp`: a ponte em Go roda como serviço do macOS (`com.hub3ps.whatsapp-bridge`), que liga com o Mac e se reinicia se cair. A rotina diária está em [[03-processos/whatsapp-diario]], e o QR se refaz a cada 20 dias, mais ou menos. A API local da ponte só aceita o próprio Mac. Toda mensagem enviada passa pelo ok do Guilherme |
 | Composio | Publica no Instagram (feed, carrossel, Reels e Stories) por conta conectada. Em 04/11/2026 só a @guimiguelmkt está conectada; cada cliente precisa conectar a própria conta, que deve ser profissional. Toda publicação passa pelo ok do Guilherme |
 
-## Onde os arquivos vivem
-- No Mac: cópia de trabalho do vault
-- No GitHub: cópia online, sempre acessível ao Claude na nuvem e às rotinas
+## Onde cada coisa vive (Guilherme, 27/11/2026)
+| Lugar | O que guarda |
+|---|---|
+| Obsidian (vault) | Toda a organização e todo documento em texto, de todos os clientes e projetos: cliente, escopo, playbooks, processos, tarefas, histórico, propostas, briefs |
+| GitHub | Código, um repositório por projeto. Também guarda a cópia online do vault, que o Obsidian Git envia sozinho a cada 5 minutos |
+| Google Drive | Arquivos de cliente e da agência: vídeos, imagens, logos, PDFs |
+| Vercel | Só publica sites, LPs e hubs, a partir do GitHub |
+
+**Nada importante fica só no Mac.** O Mac é a cópia de trabalho: o Obsidian edita ali, e os scripts e a ponte do WhatsApp rodam ali. Toda coisa de valor tem cópia no GitHub ou no Drive. As exceções são as credenciais, que vão para um gerenciador de senhas e nunca para o GitHub, e os documentos pessoais em `~/Documents/Pessoal/`.
+
 - No celular: Obsidian Sync, opcional
+- O Claude na nuvem e as rotinas leem o vault pelo GitHub
 
 ## Plugins do Obsidian
 - **Obsidian Git**: commit, pull e push automáticos
@@ -34,4 +42,5 @@ atualizado: 2026-11-09
 |---|---|
 | `hub3ps/agencia_marketing` | Hubs internos dos clientes (a reorganizar como repositório só de código) |
 | `hub3ps/juria-lps` | LPs públicas do JurIA |
-| `guimiguell/whatsapp-langchain` | Agente de WhatsApp e painel do Apex, em `apex.hub3ps.com`. Fica numa conta pessoal, fora da organização hub3ps |
+| `hub3ps/agente-whatsapp-hub3ps` | Agente de WhatsApp e painel do Apex, em `apex.hub3ps.com`. Clone local em `~/Desktop/whatsapp-langchain` (antes ficava em `guimiguell/whatsapp-langchain`, conta pessoal) |
+| `hub3ps/radar-criadores` | Radar de criadores, clone em `~/Desktop/radar-criadores` |

@@ -71,16 +71,17 @@ Nunca guarde senha aqui.
 - **Materiais da Mobiletec:** os zips "Design Kits - Mobiletec" e "AFV", com logos, telas e cores dos 5 produtos. Hoje estão no Downloads do Mac e vão para o Drive
 
 ## Onde está cada coisa
-Tudo está na branch `claude/loving-archimedes-rp33cv` do `agencia_marketing`. Nada disso está na main.
+Os textos vieram para o vault em 27/11/2026. O código segue na branch `claude/loving-archimedes-rp33cv` do `agencia_marketing`, que é a produção do site na Vercel. As cópias dos textos na branch viram ponteiro no próximo push, com o ok do Guilherme.
 
 | Preciso de | Está em |
 |---|---|
-| Brief e o que falta perguntar | `clients/mobiletec/brief.md` |
-| Direção visual e paleta | `clients/mobiletec/brand.md` |
-| Onde o site parou | `clients/mobiletec/ESTADO-site-astro.md` |
-| Código do site | `mobiletec-site-astro/` |
-| Vídeo: briefing, respostas e entregas | `clients/mobiletec/video/README.md` e `video/entregas/` |
-| Projeto Remotion do vídeo | `clients/mobiletec/video/_video/` |
+| Visão geral do trabalho | [[04-clientes/mobiletec/visao-geral\|visao-geral]] |
+| Brief e o que falta perguntar | [[04-clientes/mobiletec/brief\|brief]] |
+| Direção visual e paleta | [[04-clientes/mobiletec/marca\|marca]] |
+| Onde o site parou | [[04-clientes/mobiletec/site/estado\|site/estado]] e [[04-clientes/mobiletec/site/plano-execucao\|site/plano-execucao]] |
+| Vídeo: briefing, respostas e entregas | [[04-clientes/mobiletec/video/video-institucional\|video/video-institucional]] |
+| Código do site | `mobiletec-site-astro/`, na branch |
+| Projeto Remotion do vídeo | `clients/mobiletec/video/_video/`, na branch |
 | Briefing do vídeo respondido | Google Docs no Drive do Guilherme: "Vídeo institucional Mobiletec - Briefing para confirmar" |
 
 ## Links
