@@ -263,3 +263,7 @@ Formato:
 - **Resultado em:** [[04-clientes/churrascodaelite/cliente|cliente]], [[05-comercial/propostas/churrascodaelite-2026-11|proposta]], [[00-sistema/whatsapp-grupos]] e a tarefa agendada `churrascodaelite-rediscutir-setup` (12/02/2027, 9h)
 - **Decisões:** escopo em tráfego pago, estratégia como apoio pontual e ajustes na LP do curso. 350 € por mês, sem setup e sem os 10% nos 3 primeiros meses (Guilherme, 12/11/2026). O grupo entra na rotina desde 10/11, data em que foi criado, para a primeira leitura pegar a conversa inteira
 - **Próximo passo:** o Guilherme define a meta, o contrato e a data de início do mês 1, e pede os acessos da BM e da conta de anúncios
+
+## 26/11 · Mensagem de carrinho aberto para o grupo
+- **O que:** a pedido do Guilherme, mensagem de abertura da Black para o grupo da promoção, para 27/11, em [[entregas/2026-11-27-mensagem-carrinho-aberto]]. Link com UTM do grupo, que chega à Hotmart como `src=whatsapp`
+- **Próximo passo:** Guilherme revisa e manda (ou passa ao Lucas) a 27/11
