@@ -16,12 +16,12 @@ drive: https://drive.google.com/drive/folders/1VFKH5llAkmAU_LyelTFObck_LCfMAZ9r
 painel:
 repositorios: []
 proxima-reuniao: TODO
-atualizado: 2026-11-25
+atualizado: 2026-11-27
 autor: claude
 ---
 # Marjorie Andrade
 
-> **Estado atual:** fechado em 02/11 por WhatsApp, sem proposta nem contrato. O lançamento é em 27/11, com lista de espera no ar e preço especial até 30/11. Duas campanhas Meta no ar: [[seguidores-frio-perfil]] (seguidores, público frio dos EUA, desde 06/11) e [[distribuicao-quente-zero-to-hero]] (vídeo do curso para a base, criada em 09/11). Na rodada 1 de seguidores, o IG-06 ficou e o IG-03 saiu (09/11). Na rodada 2, o IG-06 ficou de novo e o IG-07 saiu; o IG-12 entrou em 12/11. Na rodada 3, o IG-12 ficou e o IG-06 saiu (16/11); o IG-14 entrou no mesmo dia, contra o IG-12. Na rodada 4, o IG-12 ficou de novo e o IG-14 saiu (19/11). Na rodada 5, o IG-12 ficou de novo e o IG-24 saiu (25/11); o IG-20, da calculadora, entrou no mesmo dia, criado e publicado pelo MCP. A distribuição foi pausada em 23/11 e deu lugar à [[leads-quente-lista-de-espera]], que rodou de 23 a 25/11 e foi pausada pelo Guilherme um dia antes do previsto, com 71 Leads a US$ 0,18. O carrinho de 27 a 30/11 é só para público quente. O perfil foi de 14.035 seguidores em 02/11 para 15.764 em 09/11 (Julia, no grupo). Em 16/11, a lista de espera estava com 347 inscrições, e a expectativa das clientes é de 10 a 20 assinantes (Julia, no grupo). Em 24/11, a lista estava com 446 inscrições desde o primeiro dia, 35 delas em 23/11 e 18 em 24/11 até as 17h58 (Julia, no grupo).
+> **Estado atual:** fechado em 02/11 por WhatsApp, sem proposta nem contrato. O lançamento é em 27/11, com lista de espera no ar e preço especial até 30/11. Duas campanhas Meta no ar: [[seguidores-frio-perfil]] (seguidores, público frio dos EUA, desde 06/11) e [[distribuicao-quente-zero-to-hero]] (vídeo do curso para a base, criada em 09/11). Na rodada 1 de seguidores, o IG-06 ficou e o IG-03 saiu (09/11). Na rodada 2, o IG-06 ficou de novo e o IG-07 saiu; o IG-12 entrou em 12/11. Na rodada 3, o IG-12 ficou e o IG-06 saiu (16/11); o IG-14 entrou no mesmo dia, contra o IG-12. Na rodada 4, o IG-12 ficou de novo e o IG-14 saiu (19/11). Na rodada 5, o IG-12 ficou de novo e o IG-24 saiu (25/11); o IG-20, da calculadora, entrou no mesmo dia, criado e publicado pelo MCP. A distribuição foi pausada em 23/11 e deu lugar à [[leads-quente-lista-de-espera]], que rodou de 23 a 25/11 e foi pausada pelo Guilherme um dia antes do previsto, com 71 Leads a US$ 0,18. O carrinho de 27 a 30/11 é só para público quente. O perfil foi de 14.035 seguidores em 02/11 para 15.764 em 09/11 (Julia, no grupo). Em 16/11, a lista de espera estava com 347 inscrições, e a expectativa das clientes é de 10 a 20 assinantes (Julia, no grupo). Em 24/11, a lista estava com 446 inscrições desde o primeiro dia, 35 delas em 23/11 e 18 em 24/11 até as 17h58 (Julia, no grupo). As vendas para a lista abriram por e-mail em 25/11, com o preço promocional até 30/11, e o link do carrinho é a LP (Julia, 25/11). Em 26/11, a Julia contou um segundo comprador da comunidade, no anual, e baixou a expectativa para 5 pessoas neste início. Desde 26/11 o carrinho roda só para seguidores e lista de espera, e o público que engajou com o perfil fica sempre excluído (Guilherme, no grupo).
 
 ## Quem é
 - **Negócio:** Marjorie é designer de CAD odontológico, técnica, educadora e KOL do exocad. Desenha em tempo integral desde 2020. O primeiro curso, "Mastering exocad" (2023), teve alunos em mais de 65 países.
@@ -44,7 +44,7 @@ Fechado em 02/11/2026. Antes, em 19 e 20/10, o acordo era fazer a LP e refazer o
 |---|---|---|---|
 | geral | Sem proposta e sem contrato. O acordo vale pela conversa do WhatsApp | Cliente de relação próxima, fechado por mensagem | 02/11/2026 |
 | geral | Briefing assíncrono, por WhatsApp, sem kickoff | Preferência da Julia: "por mensagem é bom que resolvemos rapidinho" | 02/11/2026 |
-| geral | Fee em dólar, valor a definir. Por ora vale R$ 1.500 | Pedido da Julia; o Guilherme ainda não fixou o valor | 02/11/2026 |
+| geral | Fee em dólar, valor a definir. Por ora vale R$ 1.500. Invoice em USD para a empresa da Marjorie de fora, enviado em 01/12 (Guilherme e Marjorie, grupo, 25/11) | Pedido da Julia; o Guilherme ainda não fixou o valor | 02/11/2026 |
 | tráfego pago | Conta de anúncios em USD, com cartão da empresa dos EUA | Evita os 12% de imposto das contas brasileiras | 03/11/2026 |
 | LP e site | O site e a LP foram feitos pela Julia (Claude Design, Claude Code, GitHub e Vercel). Aqui só revisamos | A Julia fez antes de passarmos a trabalhar no projeto | 25/10/2026 |
 | criativos | A copy e os anúncios são em inglês | Público nos EUA e na Europa | 02/11/2026 |

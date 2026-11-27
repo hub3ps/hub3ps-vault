@@ -1,6 +1,7 @@
 ---
 title: "Subir a campanha do carrinho aberto (27 a 30/11)"
-status: a-fazer
+status: feito
+completedDate: 2026-11-26
 cliente: marjorie
 due: 2026-11-26
 tags:
@@ -23,3 +24,4 @@ id: c1f77708-9768-47e1-a911-15645180a100
 - 25/11: a campanha de lead foi pausada em 25/11. O Guilherme decidiu subir o carrinho amanhã, 26/11, programado para começar na sexta, 27/11. Agora o MCP cria e publica conjunto e anúncio nesta conta.
 - 26/11: campanha, conjunto e os 3 anúncios montados pelo MCP em rascunho, validados sem erro. Ficha em [[vendas-quente-carrinho-aberto]]. Público decidido pelo Guilherme: só seguidores e lista de espera. Falta o público da lista (arquivo da Julia, o Guilherme cria) e a publicação.
 - 26/11: publicado só para seguidores, com o ok do Guilherme, a US$ 10 por dia, de 27 a 30/11. Anúncios em análise. A lista de espera vira um conjunto próprio quando a Julia mandar o arquivo.
+- 27/11: concluída em 26/11, com a publicação para seguidores. O conjunto da lista segue em [[marjorie - Arquivo da lista de espera para o conjunto do carrinho]]. Pelo grupo, a Julia confirmou em 25/11 que o link é o da LP. Fonte: [[04-clientes/marjorie/fontes/2026-11-27-whatsapp-grupo|2026-11-27-whatsapp-grupo]].

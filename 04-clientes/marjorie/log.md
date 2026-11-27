@@ -6,6 +6,21 @@ autor: claude
 
 A entrada mais recente fica no topo, uma por sessão de trabalho.
 
+### 2026-11-27 · Grupo de 25 e 26/11, pela rotina
+- **O que:** a rotina WhatsApp diário registrou as mensagens de 25/11, 16h34, a 26/11, 11h37. Dois áudios do Guilherme (25/11, 16h38 e 17h14) ficaram sem transcrição: a ponte gravou cada um com o nome de arquivo do áudio anterior da Julia
+- **Resultado em:** `fontes/2026-11-27-whatsapp-grupo.md`
+- **E-mails da Julia (áudio, 25/11, 16h34):** na quarta da semana passada ela avisou a lista de espera que as vendas abririam antes. Em 25/11 mandou o e-mail que abre as vendas com o preço promocional, até 30/11. Em 27/11 manda outro, com prova social, e em 30/11 o último, de último dia
+- **Link do carrinho:** a Julia prefere a LP ao checkout direto, porque na LP ela troca o link do checkout quando a promoção acabar e o anúncio pode seguir no ar. "O link vai ser o mesmo então" (Julia, 25/11, 17h50). Bate com o destino da [[vendas-quente-carrinho-aberto]], `/zero-to-hero`
+- **Vendas:** o Guilherme respondeu um vídeo da Julia com "Primeira de muitas" (25/11, 19h36). Em 26/11, 10h09, a Julia contou um segundo comprador da comunidade, no plano anual. A expectativa delas agora é de 5 pessoas neste início, por ser um produto caro (Julia, 26/11)
+- **Invoice:** a Marjorie perguntou quando sai o invoice e se pode ser em USD, pela empresa dela de fora (25/11, 20h25). O Guilherme respondeu que envia em 01/12 e que pode ser em USD
+- **Calculadora:** a automação segue ligada, e qualquer post com o comentário "Calculator" manda (Julia, 25/11, 20h54). Para o Guilherme, é o próximo vídeo da lista de conteúdos
+- **Público:** a Julia viu muita gente da Índia e do Paquistão na lista de espera, desqualificada, e pediu o carrinho focado em EUA, Canadá, Reino Unido, Austrália e Nova Zelândia (26/11, 09h34). O Guilherme respondeu que as campanhas rodam só nos EUA e que o público ruim deve vir de quem engajou com o perfil. Nos seguidores novos quase não há indianos (Julia, 09h51)
+- **Planejamento:** a Julia sugeriu dezembro para captação e janeiro para venda. O Guilherme disse que janeiro e fevereiro são os melhores meses para infoproduto, com o funil captar seguidores, qualificar com conteúdo e vender direto ou por lista de espera (uma turma por mês)
+- **Arquivo da lista:** o Guilherme pediu (26/11, 11h11), e a Julia respondeu "Consigo, já te mando" (11h37). Não chegou no grupo até a coleta
+- **Decisões:** o link do carrinho é a LP (Julia, com o Guilherme, 25/11). O carrinho roda só para seguidores e lista de espera (Guilherme, com o "acho uma boa" da Julia, 26/11). Excluir sempre o público que engajou e manter só os seguidores (Guilherme, 26/11, 09h50). Invoice em USD em 01/12 (Guilherme e Marjorie, 25/11)
+- **Em aberto:** o conjunto do carrinho, publicado em 26/11, está sem filtro de país, e o pedido de país da Julia não teve resposta direta no grupo
+- **Próximo passo:** com o arquivo da Julia, o público e o conjunto da lista no carrinho. O Guilherme decide o filtro de país. Invoice em 01/12
+
 ### 2026-11-26 · Carrinho aberto publicado, só para seguidores
 - **O que fiz:** com o ok do Guilherme, renomeei o conjunto para `Seguidores | Sem filtro de país | Visualização da página` e publiquei a [[vendas-quente-carrinho-aberto]] pelo MCP. Conferido na API: conjunto ativo, US$ 10 por dia, de 27/11 a 30/11, só com o `Seguidores IG`, e os 3 anúncios em análise.
 - **O que achei:** a verba estava em US$ 10 no rascunho, mudada pelo Guilherme no Gerenciador. A troca do `utm_term` para `seguidores` não pegou na publicação, e ficou `seguidores-e-lista-de-espera`. Na página, o Pixel carrega e só dispara `PageView`. Os dois botões de compra (trimestral e anual) levam ao mesmo link da Circle, e o clique só gera o `SubscribedButtonClick` automático da Meta. Não há `InitiateCheckout` no código.

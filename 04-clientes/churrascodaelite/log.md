@@ -12,6 +12,17 @@ Formato:
 - **Decisões:** 
 - **Próximo passo:** 
 
+### 2026-11-27 · Grupo de 25 a 27/11, pela rotina
+- **O que:** a rotina WhatsApp diário registrou as mensagens de 25/11, 11h39, a 27/11, 08h13. Os três vídeos de 25/11 são os VL-11 a VL-13, já tratados em [[entregas/2026-11-26-videos-do-lucas]]
+- **Resultado em:** `fontes/2026-11-27-whatsapp-grupo.md`
+- **Preço:** a baixa para 49,90 € foi sugestão do Lucas (26/11, 15h16): "acho q essa galera vai achar caro", e com o imposto "vai pra 62". O Guilherme aceitou e às 15h28 disse que ajustou a página e o checkout. Ele também disse que o preço mais alto fica para o workshop presencial (15h20)
+- **Hotmart:** o Lucas colou no grupo o e-mail e a senha de acesso à Hotmart (26/11, 07h37) e passou um código de verificação a pedido do Guilherme (09h44). Os três ficaram fora da fonte. A senha segue exposta no histórico do grupo
+- **Vídeos de vagas abertas:** o Guilherme pediu ao Lucas uns 4 vídeos de vagas abertas, mencionando a Black (26/11, 15h34). O Lucas perguntou se é só falar que vão abrir as vagas da Black (16h14), e o Guilherme confirmou em 27/11, 08h12
+- **Mensagem do grupo VIP:** o Guilherme escreveu em 27/11, 08h12, "mandamos a mensagem no grupo hoje ao meio dia", com o link, e colou o texto às 08h13 (49,90 € + IVA até 30/11, link de `/black/` com `utm_source=whatsapp`, `utm_medium=grupo_vip`, `utm_campaign=black_week`). Não foi dito quem envia
+- **Outros:** o Guilherme mandou em 25/11, 12h48, o link do Instagram @jccdesign_remodelacoes, sem contexto no grupo. Não há registro no grupo de que a ligação de 25/11 aconteceu
+- **Decisões:** preço de 49,90 € + IVA, sugerido pelo Lucas e aceito pelo Guilherme (26/11)
+- **Próximo passo:** mensagem de abertura no grupo VIP hoje, 27/11, ao meio-dia. O Lucas grava os 4 vídeos de vagas abertas
+
 ### 2026-11-26 · Vídeos de 25/11 e o carrinho aberto
 - **O que:** baixei e transcrevi os três vídeos que o Lucas mandou em 25/11 (VL-11 a VL-13) e revi todos os vídeos até hoje para a abertura do carrinho
 - **Resultado em:** [[entregas/2026-11-26-videos-do-lucas]]
