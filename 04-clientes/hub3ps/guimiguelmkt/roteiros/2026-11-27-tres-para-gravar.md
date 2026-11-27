@@ -27,7 +27,7 @@ Formato pedido pelo Guilherme em 26/11/2026: **abrir a câmera e falar**, como o
 - **Fecha com:** "e você, deixaria?"
 
 ## 2. Por que eu não contrato equipe
-- **Gancho (estrutura 8):** "Ninguém me convence de que contratar equipe é o único jeito de crescer como gestor de tráfego."
+- **Gancho (ajustado em 27/11, do @othiago.barreto):** abre com "Você pode não concordar com isso..." e emenda "todo mundo me pergunta quando eu vou contratar gente. Não vou."
 - **Texto na tela:** "eu **NÃO** vou contratar ninguém..."
 - **Imagem no alto:** foto da mesa em casa, só ele e o computador
 - **Abre com:** "Todo mundo me pergunta quando eu vou contratar gente. Não vou."
@@ -35,11 +35,9 @@ Formato pedido pelo Guilherme em 26/11/2026: **abrir a câmera e falar**, como o
 - Prefiro poucos clientes, bem atendidos, e o operacional na IA
 - Não é contra equipe: é o modelo que funciona para mim hoje
 
-## 3. O que eu faço com o tempo que sobra
-- **Gancho (estrutura 1):** "Você não deveria usar a IA para trabalhar mais. Deveria usar para ter tempo."
-- **Texto na tela:** "a IA **NÃO** me deu mais trabalho..."
-- **Imagem no alto:** cena do treino ou do café (do vídeo de rotina de 19/11)
-- **Abre com:** "A IA não me deu mais trabalho. Me deu tempo."
-- Treino, café passado com calma, almoço em casa (as cenas do vídeo de rotina de 19/11)
-- Mais tempo para pensar na estratégia do cliente, que é o que ele paga
-- Gravar em casa ou na academia, não no computador
+## 3. O que eu faço com o tempo que sobra (vira reels de 7 segundos)
+Ajustado em 27/11 para o formato do @afonsomolina ([[ganchos]]): **não precisa falar**.
+- **Gravar:** 7 segundos de uma cena real, sem fala: treino, café coado ou almoço em casa
+- **Texto na tela:** "o que eu faço com o tempo que a IA me devolve"
+- **Música** de fundo no Edits
+- **A lista vai na legenda**, escrita pelo Guilherme com o que ele faz de verdade (treino, café com calma, mais tempo para pensar na estratégia do cliente...)
