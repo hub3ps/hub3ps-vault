@@ -292,3 +292,6 @@ Formato:
 - **Em aberto:** a seção "Mais do que churrasco" e o FAQ do bónus falam de mentoria logo depois do workshop, sem o workshop completo no meio. Não é falso, mas não mostra a escada nova. Não mexi
 - **Próximo passo:** commit da fonte (3 módulos e garantia), com o OK do Guilherme
 - **Commit (26/11):** `c5b750a` na main, sem push
+
+## 27/11 · Vendas da Black na Hotmart
+- **O que:** a pedido do Guilherme, conferi a conta da Hotmart do Lucas (Chrome, perfil do Gustavo, já logada como Lucas Oliveira) às 17h51. Zero transações de 28/10 a 27/11, com todos os status marcados (aprovada, completa, aguardando pagamento, iniciada, cancelada etc.), e zero em recuperação de vendas
