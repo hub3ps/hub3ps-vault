@@ -23,6 +23,15 @@ O Claude edita o vídeo bruto gravado no iPhone: corta enrolação, repetição 
 7. **Render:** `editar.py render projetos/<id>`. Leva uns 4 min para 1 min 40 s de vídeo
 8. **Conferir o áudio:** `editar.py conferir projetos/<id>` retranscreve o vídeo pronto. Palavra cortada ou estranha ("mectores", "se defaça") é emenda suja: ajustar o trecho e renderizar de novo
 
+## Editar no app Edits (27/11/2026)
+Decisão do Guilherme: **a edição dos vídeos dele passa a ser feita no Edits** (app da Meta no Mac), que tem servidor MCP local (Ajustes > Automação). O Claude fala com ele por `~/ferramentas/edits/edits.py`, direto por HTTP, com o token salvo pela configuração do Claude Code (`claude mcp add ... edits`).
+- **Mídia só entra a partir de `~/Movies`** (sandbox do app). Cortar antes com `avconvert --preset Preset1920x1080 --start X --duration Y` para H.264 1080p, em `~/Movies/edits-takes/`
+- Fluxo: `newProject`, `addMedia` por take (entram em sequência), `addText` com `style`, `selectById` + `selectTool {"tool":"textPresets"}` antes de `applyTextPreset`, `setTextPosition`, `setTextStyle` (`size`, `boxWidth`). Conferir com `frameSheet` (devolve a imagem)
+- **Título no Edits:** preset "Super serious" (branco em negrito, sem caixa), tamanho 36, `boxWidth` 1.2, y 0.15
+- **Música:** a biblioteca do app tem ferramentas (`browseMusicCategories`, `addSongToComposition`); escolher com o Guilherme
+- **Modelos prontos:** o servidor não expõe os modelos/templates do app; só presets de texto, legenda, filtros, transições, efeitos e LUTs
+- Exportar: ferramenta `export`, e acompanhar com `exportStatus`
+
 ## Legenda no formato do Edits (26/11/2026)
 O formato dos Reels já postados (IG-04, IG-06, IG-07). No `projeto.json`: `"legenda": "progressiva"`; estilo em `legenda_progressiva` do `estilo.json`.
 - Minúscula, sem pontuação e sem borda, com sombra leve. Avenir Next Bold 44, centro em y 1560 de 1920, no peito, longe da boca
