@@ -18,6 +18,7 @@ Pasta do Instagram pessoal do Guilherme. Criada em 11/11/2026, a pedido dele.
 | [[diagnostico-2026-11-11]] | os 5 primeiros posts, números e o que funcionou |
 | `roteiros/` | um roteiro por vídeo, em tópicos, com data no nome, e a avaliação da gravação |
 | `campanhas/` | uma ficha por campanha paga do perfil, com os IDs e a lista de posts `IG-NN` |
+| Google Fotos | álbum **"Takes para conteúdo"** na conta gmdbra10 (perfil Guilherme do Chrome), criado em 27/11/2026: vídeos de treino, viagem, praia e café para reaproveitar. Vídeo com outra pessoa (criança, amigos) só com autorização dela. Sem camisa, não (pedido de 27/11) |
 | `fontes/` | transcrições das gravações brutas, que não se editam, e referências de conteúdo transcritas ([[fontes/2026-11-26-reel-julio-pacheco-marca-pessoal\|estrutura de marca pessoal]], [[fontes/2026-11-26-tiktok-leticia-vaz-grade-de-conteudo\|grade de conteúdo]]) |
 
 **Banco de pautas:** os bastidores da operação que viram conteúdo ficam em [[04-clientes/hub3ps/conteudo/README|conteudo]]. Pauta nasce lá, roteiro mora aqui.

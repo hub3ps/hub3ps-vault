@@ -41,3 +41,18 @@ Ajustado em 27/11 para o formato do @afonsomolina ([[ganchos]]): **não precisa 
 - **Texto na tela:** "o que eu faço com o tempo que a IA me devolve"
 - **Música** de fundo no Edits
 - **A lista vai na legenda**, escrita pelo Guilherme com o que ele faz de verdade (treino, café com calma, mais tempo para pensar na estratégia do cliente...)
+
+**Montado em 27/11** pelo Claude, em `~/Downloads/video3-tempo-que-sobra.mp4` (8 s, sem música; a música entra no Instagram ou no Edits na hora de postar). Takes do álbum "Takes para conteúdo" do Google Fotos (conta gmdbra10): calçando o tênis, remada na academia (11/11), almoço em casa, quadriciclo na trilha (12/04) e a mesa em pé, 1,6 s cada. Título no alto em caixa branca, igual ao do IG-06. O take saindo do mar sem camisa foi recusado; o do cachorro também saiu (sem camisa).
+
+Rascunho de legenda, para o Guilherme ajustar com o que ele faz de verdade:
+```
+O que eu faço com o tempo que a IA me devolve:
+
+1. Treino
+2. Almoço em casa, sem pressa
+3. Café coado com calma
+4. Um passeio de vez em quando
+5. Mais tempo para pensar na estratégia de cada cliente
+
+#inteligenciaartificial #rotina #produtividade #trafegopago
+```
