@@ -45,8 +45,8 @@ O que o agente faz fica num runbook do vault, `03-processos/agente-da-manha.md`,
 - [ ] 1.7 Trocar o token do webhook no n8n: ele está escrito no texto da rotina desde 13/10
 
 ### Etapa 2 · Conhecimento do repo para o vault
-- [~] 2.1 Os 12 runbooks que ainda estão só em `docs/processos/`: atualizar-hub-juria, atualizar-hub-dsmuaythai, canais-ga4-juria, configurar-ga4-juria, nova-campanha, nova-referencia, novo-criativo, post-instagram-juria, publicar-lp-dsmuaythai, publicar-lp-juria, publicar-site-juria e video-juria. Migrar é mover e deixar ponteiro ([[fonte-unica-vault]])
-- [ ] 2.2 JurIA: brief, brand, comercial, funil, e-mail e Helena, que só existem em `clients/juria/`
+- [x] 2.1 Os 12 runbooks que ainda estão só em `docs/processos/`: atualizar-hub-juria, atualizar-hub-dsmuaythai, canais-ga4-juria, configurar-ga4-juria, nova-campanha, nova-referencia, novo-criativo, post-instagram-juria, publicar-lp-dsmuaythai, publicar-lp-juria, publicar-site-juria e video-juria. Migrar é mover e deixar ponteiro ([[fonte-unica-vault]])
+- [x] 2.2 JurIA: brief, brand, comercial, funil, e-mail e Helena, que só existem em `clients/juria/`
 - [x] 2.3 Usivic e Liliane: nota no vault (hoje só aparecem citadas)
 - [ ] 2.4 Skills e biblioteca de referências: ficam no repo, porque o Claude Code as carrega de lá. Entra um índice delas no vault
 
@@ -56,7 +56,7 @@ O que o agente faz fica num runbook do vault, `03-processos/agente-da-manha.md`,
 - [ ] 3.3 `claude/focused-brahmagupta-fhfuqd` (3): runbook das rotinas, que entra na 1.2
 
 ### Etapa 4 · O repo vira só código
-- [ ] 4.1 `CLAUDE.md` do `agencia_marketing` passa a apontar para o vault como cérebro
+- [x] 4.1 `CLAUDE.md` do `agencia_marketing` passa a apontar para o vault como cérebro
 - [ ] 4.2 A `main` local está 10 commits à frente e 23 atrás da remota: sincronizar
 - [ ] 4.3 Commit do que está pendente (`cortar_respiros.py`, `hubs/`, ajustes do editar-video), com o seu ok
 - [ ] 4.4 Dar cópia na nuvem ao que só existe no Mac: os 8 ajustes do `~/ferramentas/whatsapp-mcp`, `Desktop/projetos_python`, `Desktop/site-guimiguelmkt` e `credenciais.local.md` (num gerenciador de senhas). `Documents/juria-exportacoes` já tem cópia no Drive desde 26/11
@@ -78,3 +78,6 @@ O que o agente faz fica num runbook do vault, `03-processos/agente-da-manha.md`,
 - 3.1: textos da Mobiletec copiados da branch para `04-clientes/mobiletec/`. Falta o ponteiro na branch, que exige push (a branch é a produção do site)
 - 3.2: Liliane feita. 3.3 entra na 1.2
 - Nada commitado no `agencia_marketing`
+- 2.2 (fim): JurIA com 33 notas novas, 3 juntadas e 11 em `_arquivo/juria/`, e 47 ponteiros no repo. DS com 10 notas e ponteiros. Churrasco com o README virado ponteiro. Ficam no repo só o que código lê, os README de pasta de código e `credenciais.local.md`. Todos os ponteiros abrem notas que existem (conferido)
+- 4.1: `CLAUDE.md` e `clients/README.md` do repo dizem que ele é só de código e mandam ler o vault
+- Binários do JurIA (cerca de 170 MB): quase todos são lidos por código (LPs, vídeo, peças em HTML) e ficam no repo. Ao Drive vão só as peças finais, com o ok do Guilherme
