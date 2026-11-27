@@ -12,27 +12,22 @@ Formato pedido pelo Guilherme em 26/11/2026: **abrir a câmera e falar**, como o
 
 **Tema:** como eu toco tudo sozinho, com IA.
 
-## 1. O que a IA faz por mim antes das 9h
-- **Abre com:** "Eu atendo vários clientes sozinho, sem equipe. Isso aqui é o que acontece toda manhã."
-- A IA lê os grupos de WhatsApp dos clientes e me entrega o que importa
-- Puxa os números das campanhas e mostra o que mudou
-- Quem decide sou eu. A IA só me poupa as horas de abrir tudo
-- **Gravar mostrando a tela** do resumo, sem nome nem número de cliente
+**Ficaram 3 (26/11):** o vídeo da rotina das 9h espera as rotinas ficarem como o Guilherme quer, e a dica de assunto em alta (aprimoramentos do Advantage+, ou 5 hashtags) foi recusada. Os 3 desta série saem na semana de 30/11, junto com outros 3 que ele já gravou.
 
-## 2. O que eu nunca deixo a IA fazer
+## 1. O que eu nunca deixo a IA fazer
 - **Abre com:** "Tem coisa que eu não deixo a IA fazer de jeito nenhum."
 - Decidir a otimização da campanha: ela traz os dados, a decisão é minha
 - Falar com o cliente no meu lugar: ela rascunha, eu leio e mando
 - Inventar número ou promessa
 - **Fecha com:** "e você, deixaria?"
 
-## 3. Por que eu não contrato equipe
+## 2. Por que eu não contrato equipe
 - **Abre com:** "Todo mundo me pergunta quando eu vou contratar gente. Não vou."
 - Equipe pede mais cliente para pagar a folha, e aí a qualidade cai
 - Prefiro poucos clientes, bem atendidos, e o operacional na IA
 - Não é contra equipe: é o modelo que funciona para mim hoje
 
-## 4. O que eu faço com o tempo que sobra
+## 3. O que eu faço com o tempo que sobra
 - **Abre com:** "A IA não me deu mais trabalho. Me deu tempo."
 - Treino, café passado com calma, almoço em casa (as cenas do vídeo de rotina de 19/11)
 - Mais tempo para pensar na estratégia do cliente, que é o que ele paga
