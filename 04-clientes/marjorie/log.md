@@ -21,6 +21,12 @@ A entrada mais recente fica no topo, uma por sessão de trabalho.
 - **Em aberto:** o conjunto do carrinho, publicado em 26/11, está sem filtro de país, e o pedido de país da Julia não teve resposta direta no grupo
 - **Próximo passo:** com o arquivo da Julia, o público e o conjunto da lista no carrinho. O Guilherme decide o filtro de país. Invoice em 01/12
 
+### 2026-11-27 · Lista de espera no conjunto do carrinho
+- **O que fiz:** a pedido do Guilherme, baixei o CSV que a Julia mandou no grupo e criei o público `Lista de espera Zero to Hero` (`120251217646720554`). Subi os 483 contatos pela Marketing API, com e-mail, nome, sobrenome e país criptografados: 483 recebidos, 0 inválidos. Pus no conjunto do [[vendas-quente-carrinho-aberto]] os três públicos (seguidores, lista e compradores do curso antigo), renomeei o conjunto e publiquei pelo MCP.
+- **O que achei:** o arquivo tem 443 contatos da lista de espera (`zth-waitlist`) e 40 de outras fontes do site (calculadora, curso, contato). Entraram todos, porque a Julia disse que eram 483. O público novo ainda calcula o tamanho. O conjunto voltou para análise depois da edição, e os anúncios já tinham entregado US$ 1,10 hoje.
+- **Decisões:** os três públicos no mesmo conjunto (Guilherme), no lugar do conjunto próprio para a lista. A piada da Marjorie de apagar países da lista não foi aplicada.
+- **Próximo passo:** conferir a aprovação do conjunto e a entrega de hoje.
+
 ### 2026-11-26 · Carrinho aberto publicado, só para seguidores
 - **O que fiz:** com o ok do Guilherme, renomeei o conjunto para `Seguidores | Sem filtro de país | Visualização da página` e publiquei a [[vendas-quente-carrinho-aberto]] pelo MCP. Conferido na API: conjunto ativo, US$ 10 por dia, de 27/11 a 30/11, só com o `Seguidores IG`, e os 3 anúncios em análise.
 - **O que achei:** a verba estava em US$ 10 no rascunho, mudada pelo Guilherme no Gerenciador. A troca do `utm_term` para `seguidores` não pegou na publicação, e ficou `seguidores-e-lista-de-espera`. Na página, o Pixel carrega e só dispara `PageView`. Os dois botões de compra (trimestral e anual) levam ao mesmo link da Circle, e o clique só gera o `SubscribedButtonClick` automático da Meta. Não há `InitiateCheckout` no código.
