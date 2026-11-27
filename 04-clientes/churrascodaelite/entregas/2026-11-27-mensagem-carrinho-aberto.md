@@ -6,7 +6,7 @@ autor: claude
 ---
 # Mensagem de carrinho aberto no grupo Black Week (27/11)
 
-Pedida pelo Guilherme em 26/11, para sair no grupo da promoção na abertura da Black, a 27/11. Português de Portugal, por "tu", com o texto tirado da página de vendas (`curso.churrascodaelite.pt/black/`). Ainda não enviada.
+Pedida pelo Guilherme em 26/11, para sair no grupo da promoção na abertura da Black, a 27/11. Português de Portugal, por "tu", com o texto tirado da página de vendas (`curso.churrascodaelite.pt/black/`) e o conteúdo conferido na área de membros da Hotmart (prints do Guilherme, 26/11): 3 módulos e 6 aulas. Ainda não enviada.
 
 O link leva UTM do grupo. A página repassa a `utm_source` como `src` para a Hotmart, então as vendas do grupo aparecem separadas no relatório.
 
@@ -16,10 +16,11 @@ O link leva UTM do grupo. A página repassa a `utm_source` como `src` para a Hot
 Como prometido, quem está no grupo sabe primeiro: o workshop *Faturando com Churrasco* passou de ~97 €~ para *49,90 € + IVA*.
 
 O que levas:
-✅ 8 módulos, dos cortes de carne ao preço do teu evento
-✅ Começas do zero, mesmo sem equipamento
-✅ Como divulgar e conseguir os primeiros clientes
-✅ IA para crescer mais rápido
+✅ 3 módulos e 6 aulas, do básico ao profissional
+✅ Técnicas de churrasco para eventos, raças e cortes de carne
+✅ Gestão, planeamento, logística e marketing digital para começares do zero
+✅ Higiene e HACCP para trabalhares como profissional
+✅ Aula final de mentoria com o Lucas
 ✅ Acesso imediato, vês quando e onde quiseres
 ✅ 7 dias de garantia
 

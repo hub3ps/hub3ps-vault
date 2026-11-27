@@ -267,3 +267,9 @@ Formato:
 ## 26/11 · Mensagem de carrinho aberto para o grupo
 - **O que:** a pedido do Guilherme, mensagem de abertura da Black para o grupo da promoção, para 27/11, em [[entregas/2026-11-27-mensagem-carrinho-aberto]]. Link com UTM do grupo, que chega à Hotmart como `src=whatsapp`
 - **Próximo passo:** Guilherme revisa e manda (ou passa ao Lucas) a 27/11
+
+## 26/11 · O curso tem 3 módulos, não 8
+- **O que:** pelos prints da área de membros da Hotmart (Guilherme), o curso tem 3 módulos e 6 aulas: Abertura (apresentação dos parceiros), Churrasco na prática (técnicas para eventos; Lucas com começar do zero, gestão, planeamento, logística e marketing digital; Hélio com raças, idade, alimentação e cortes; Samuel com higiene, HACCP e planeamento) e Mentoria do Lucas (aula final). A LP vinha da página do Framer e dizia 8 módulos
+- **Corrigido e publicado** na lista e na página de vendas: grade de 3 módulos, "3 módulos e 6 aulas" nos números e no preço, "6 aulas" nos passos, e o FAQ do equipamento passou a "Preciso de ter tudo montado para começar?". Conferido no ar. A mensagem do grupo foi ajustada igual, sem IA e sem "sem equipamento"
+- **Em aberto:** a LP ainda cita IA na dor "Queres crescer rápido" e em "O que ganhas". O título da aula do Lucas aparece cortado na Hotmart ("marketing digital e intr..."), então não dá para confirmar se fala de IA. A descrição do Samuel na equipa ("técnicas de churrasco e gestão de eventos") também difere da aula dele (higiene e HACCP)
+- **Próximo passo:** commit da fonte, com o OK do Guilherme
